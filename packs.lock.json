@@ -2,13 +2,13 @@
   "en-A1-greetings": {
     "version": 2,
     "hash": "5c062dca5a457491b6b42850980d913db87e92aae85a3a8444f730f3e11b8203",
-    "sha256": "1a2b02a3ac089c610fe4d5c6d706f9ecccf9c2d3632f020f1ae1c4d69f8c9505",
+    "sha256": "84b00af7e62e556ea68b7e05c2c404018f07a94e60d517d97a0340e6c0a80e46",
     "size": 9744
   },
   "en-A2-travel": {
     "version": 2,
     "hash": "a24f455cfc5ffef119a161f485861524e2e0f6e1259e66089aadc1b4d10edd81",
-    "sha256": "7bb0b7f4ace4f2174e81dd728834511bef29be6d37df53f848c60e6b074fcecc",
+    "sha256": "9539ae26c7ace53697fdb760427bd5a34b2f70de4cc947200968985d9626c39e",
     "size": 10341
   },
   "en-ipa": {
