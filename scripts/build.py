@@ -109,10 +109,25 @@ def build_zip(meta, version, data, shared):
     return hashlib.sha256(raw).hexdigest(), len(raw)
 
 
+def record(zip_path):
+    """Called by release.sh after uploading: the lock must describe the exact bytes on GitHub."""
+    lock = load_json(LOCK)
+    pack_id, _, version = zip_path.stem.rpartition("-v")
+    entry = lock.get(pack_id)
+    if entry is None or entry["version"] != int(version):
+        return print(f"{zip_path.name}: not the current version in packs.lock.json, lock unchanged")
+    raw = zip_path.read_bytes()
+    entry.update(sha256=hashlib.sha256(raw).hexdigest(), size=len(raw))
+    dump_json(lock, LOCK)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--all", action="store_true", help="rebuild every pack into dist/")
+    ap.add_argument("--record", metavar="ZIP", help="store sha256 and size of a released zip in the lock, then stop")
     args = ap.parse_args()
+    if args.record:
+        return record(Path(args.record))
 
     config = load_json(CONFIG)
     lock = load_json(LOCK) if LOCK.exists() else {}
