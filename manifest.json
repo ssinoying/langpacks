@@ -12,7 +12,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 6918,
-      "sha256": "006a3e5b05d2271a8d63355def8290a55ad79d98a42424f64da7591d0f0c7f23",
+      "sha256": "b2b4234b6641e81c605243edcab975dad5957df77f01ae0265df12b5a8ce909a",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-greetings-v1/de-A1-greetings-v1.zip"
     },
@@ -82,7 +82,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 6534,
-      "sha256": "fa99cce12566999d2004bb0d4e0c214557974611ec570e3f6947face0e8168c6",
+      "sha256": "ab8ee66673be9cd1e63117bc3b53e13d1fe027e8fbd8b927f942e559815c3993",
       "requires": [
         "ja-kana"
       ],
@@ -122,7 +122,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 6450,
-      "sha256": "2eeaf7ad8b709df9b85084aac4ef44ab87e555b48cbf1abc20582e0a039fab8a",
+      "sha256": "44a1c263419e1ce7901414ed630f9fe6e6de317e5b9aef4baab3ecc241881083",
       "requires": [
         "ko-hangul"
       ],
@@ -149,8 +149,8 @@
       "title": "Chào hỏi và giới thiệu",
       "version": 1,
       "minAppSchema": 1,
-      "size": 6965,
-      "sha256": "8195f05660588aeee5ffa1187d7c96b9e554c5c947924ec83610c88dabe28a4c",
+      "size": 6964,
+      "sha256": "11d9c62bad999fe9422dce14a0d08b4b443dc7ffc0a92cd3e461d1e90119e584",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-greetings-v1/zh-hans-HSK1-greetings-v1.zip"
     },
@@ -176,7 +176,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 6975,
-      "sha256": "5451311f6198cb04158997e1e3152163f7ff75791e26629a9c853c65865d9f35",
+      "sha256": "daf19d38d33cd323c608cc603430ba55b56bc523f042ee84a7f2e8d1b93323f6",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-greetings-v1/zh-hant-HSK1-greetings-v1.zip"
     }
