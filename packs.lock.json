@@ -16,5 +16,11 @@
     "hash": "d679543a7a3335bee9c2c6428c589f2379795b1b48334cf86fada62341c612c2",
     "sha256": "b1f105ef4ec57f731e712edd44db273556bff917a2e9be0dbe208ffde6fda8eb",
     "size": 13462
+  },
+  "en-placement": {
+    "version": 1,
+    "hash": "94d4ebc30b2f8d4001e80fd9db36155d9c55a346b163254e348c6c1c89f35a7f",
+    "sha256": "2857bb134483a5f2ce7d82b5f7e716bcd3bc04af8424991c667fc497c09485f0",
+    "size": 3606
   }
 }

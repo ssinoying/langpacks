@@ -1,0 +1,320 @@
+[
+  {
+    "id": "en:exercise:79984bc77b45d43f",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "She ___ a teacher.",
+    "choices": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "answers": [
+      "is"
+    ],
+    "explanationVi": "Đi với she dùng is."
+  },
+  {
+    "id": "en:exercise:c1e493c32cff9a59",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "Chọn từ đúng: \"cảm ơn\" = ___",
+    "choices": [
+      "thank you",
+      "sorry",
+      "hello",
+      "please"
+    ],
+    "answers": [
+      "thank you"
+    ]
+  },
+  {
+    "id": "en:exercise:be49fd8da90d4d54",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "___ are you from?",
+    "choices": [
+      "Where",
+      "What",
+      "Who",
+      "When"
+    ],
+    "answers": [
+      "Where"
+    ],
+    "explanationVi": "Hỏi nơi chốn dùng Where."
+  },
+  {
+    "id": "en:exercise:3eb2d5641cb470d4",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A2",
+    "prompt": "I ___ to London last year.",
+    "choices": [
+      "went",
+      "go",
+      "have gone",
+      "going"
+    ],
+    "answers": [
+      "went"
+    ],
+    "explanationVi": "Có last year nên dùng quá khứ đơn."
+  },
+  {
+    "id": "en:exercise:3e3a5a6582592e97",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A2",
+    "prompt": "This book is ___ than that one.",
+    "choices": [
+      "more interesting",
+      "interestinger",
+      "most interesting",
+      "as interesting"
+    ],
+    "answers": [
+      "more interesting"
+    ],
+    "explanationVi": "Tính từ dài: more + tính từ + than."
+  },
+  {
+    "id": "en:exercise:b921f3426a82d9da",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A2",
+    "prompt": "You need a ___ to travel to another country.",
+    "choices": [
+      "passport",
+      "ticket office",
+      "luggage",
+      "map"
+    ],
+    "answers": [
+      "passport"
+    ]
+  },
+  {
+    "id": "en:exercise:e5b863ad3043cbc6",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "B1",
+    "prompt": "If it ___ tomorrow, we will stay at home.",
+    "choices": [
+      "rains",
+      "will rain",
+      "rained",
+      "would rain"
+    ],
+    "answers": [
+      "rains"
+    ],
+    "explanationVi": "Câu điều kiện loại 1: If + hiện tại đơn, will + động từ."
+  },
+  {
+    "id": "en:exercise:5c36b0996efa8f22",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "B1",
+    "prompt": "I have lived here ___ 2015.",
+    "choices": [
+      "since",
+      "for",
+      "from",
+      "during"
+    ],
+    "answers": [
+      "since"
+    ],
+    "explanationVi": "since + mốc thời gian, for + khoảng thời gian."
+  },
+  {
+    "id": "en:exercise:bf2711e1086e1deb",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "B1",
+    "prompt": "The meeting was ___ because the manager was ill.",
+    "choices": [
+      "cancelled",
+      "cancelling",
+      "canceled out",
+      "cancel"
+    ],
+    "answers": [
+      "cancelled"
+    ]
+  },
+  {
+    "id": "en:exercise:2e817d36bf77bde6",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "B2",
+    "prompt": "By the time we arrived, the film ___.",
+    "choices": [
+      "had already started",
+      "already started",
+      "has already started",
+      "was already starting"
+    ],
+    "answers": [
+      "had already started"
+    ],
+    "explanationVi": "Việc xảy ra trước một mốc quá khứ: quá khứ hoàn thành."
+  },
+  {
+    "id": "en:exercise:16bb41f7e59a9d13",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "B2",
+    "prompt": "I wish I ___ more time to travel.",
+    "choices": [
+      "had",
+      "have",
+      "will have",
+      "would have"
+    ],
+    "answers": [
+      "had"
+    ],
+    "explanationVi": "wish + quá khứ đơn cho điều trái với hiện tại."
+  },
+  {
+    "id": "en:exercise:993f7013aa448818",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "B2",
+    "prompt": "The new policy had a significant ___ on small businesses.",
+    "choices": [
+      "impact",
+      "affect",
+      "result to",
+      "influence to"
+    ],
+    "answers": [
+      "impact"
+    ]
+  },
+  {
+    "id": "en:exercise:e17190a63e99efb9",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "C1",
+    "prompt": "Not only ___ late, but he also forgot the documents.",
+    "choices": [
+      "was he",
+      "he was",
+      "he is",
+      "is he being"
+    ],
+    "answers": [
+      "was he"
+    ],
+    "explanationVi": "Not only đứng đầu câu thì đảo trợ động từ lên trước chủ ngữ."
+  },
+  {
+    "id": "en:exercise:d53805fb6ee7d210",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "C1",
+    "prompt": "___ the bad weather, the event went ahead as planned.",
+    "choices": [
+      "Despite",
+      "Although",
+      "However",
+      "Even"
+    ],
+    "answers": [
+      "Despite"
+    ],
+    "explanationVi": "Despite + danh từ; although + mệnh đề."
+  },
+  {
+    "id": "en:exercise:e313dbabc85bad34",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "C1",
+    "prompt": "Her argument was so ___ that nobody could disagree.",
+    "choices": [
+      "compelling",
+      "compulsive",
+      "compelled",
+      "complying"
+    ],
+    "answers": [
+      "compelling"
+    ]
+  },
+  {
+    "id": "en:exercise:40d106e97334444e",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "C2",
+    "prompt": "Had I known about the problem, I ___ something.",
+    "choices": [
+      "would have done",
+      "would do",
+      "will have done",
+      "had done"
+    ],
+    "answers": [
+      "would have done"
+    ],
+    "explanationVi": "Đảo ngữ của câu điều kiện loại 3: Had + S + V3, would have + V3."
+  },
+  {
+    "id": "en:exercise:a9cac786af967475",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "C2",
+    "prompt": "His speech was full of ___ remarks that offended many listeners.",
+    "choices": [
+      "disparaging",
+      "dispassionate",
+      "disparate",
+      "dispensable"
+    ],
+    "answers": [
+      "disparaging"
+    ]
+  },
+  {
+    "id": "en:exercise:cce8f07f864d0ec0",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "C2",
+    "prompt": "Little ___ that the decision would change everything.",
+    "choices": [
+      "did they realise",
+      "they realised",
+      "they did realise",
+      "realised they"
+    ],
+    "answers": [
+      "did they realise"
+    ],
+    "explanationVi": "Little đứng đầu câu mang nghĩa phủ định nên đảo ngữ."
+  }
+]

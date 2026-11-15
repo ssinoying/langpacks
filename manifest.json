@@ -45,6 +45,18 @@
       "sha256": "b1f105ef4ec57f731e712edd44db273556bff917a2e9be0dbe208ffde6fda8eb",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/en-ipa-v1/en-ipa-v1.zip"
+    },
+    {
+      "id": "en-placement",
+      "lang": "en",
+      "topic": "placement",
+      "title": "Bài kiểm tra xếp lớp tiếng Anh",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 3606,
+      "sha256": "2857bb134483a5f2ce7d82b5f7e716bcd3bc04af8424991c667fc497c09485f0",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-placement-v1/en-placement-v1.zip"
     }
   ]
 }
