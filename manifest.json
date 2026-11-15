@@ -66,7 +66,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 116309,
-      "sha256": "329667c2728c2fafa4acf1ba77114217b9ac31233302a59928638965479c5509",
+      "sha256": "23b786d95aafe502057514499c2b4810d2898f80fc5c691258587d12825f9df5",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/ja-kana-v1/ja-kana-v1.zip"
     },
@@ -78,7 +78,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 84002,
-      "sha256": "8da85da252dd829bd2a5c9f0a16acb02b7a6de87830effbd7d27ede550112847",
+      "sha256": "443fea0cb8c95b10b3851a2c2275a1941fbd7459888ec1b88022d7282925dc9d",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/ja-kanji-strokes-v1/ja-kanji-strokes-v1.zip"
     },
@@ -90,7 +90,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 15124,
-      "sha256": "f6b28fb656047ebfc2556363ec466e782a5ec9d8c6907f4c810b80eef551336b",
+      "sha256": "b256a650316b8fc7c1a9997f0f13fe292771e18e34d627874946d0eda995ef3a",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/ko-hangul-v1/ko-hangul-v1.zip"
     },
@@ -102,7 +102,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 89114,
-      "sha256": "e49d127a6210232b4b3c5ed8b83d091cdbdd2770c87def9ab1f335f5b04fd7a6",
+      "sha256": "efc0a90c76acb4c2010d21450106ad684d8a1764144d442f4618cd21b94a622b",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-strokes-v1/zh-hans-strokes-v1.zip"
     }
