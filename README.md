@@ -31,6 +31,12 @@ python3 -m unittest discover scripts
 rồi commit và push `manifest.json`. GitHub Actions (`.github/workflows/langpacks.yml`) chạy test, validate, build
 cho mọi push và PR, và release khi push lên `main`.
 
+Gói nét chữ và bảng chữ cái (ja-kana, ko-hangul, ja-kanji-strokes, zh-hans-strokes):
+
+```bash
+python3 scripts/import_strokes.py
+```
+
 Lấy IPA từ Wiktionary mà không lưu file 3,4 GB xuống đĩa:
 
 ```bash
@@ -45,5 +51,9 @@ curl -sL https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jso
   Foreign Studies, qua [Open Language Profiles](https://github.com/openlanguageprofiles/olp-en-cefrj). Dùng miễn phí,
   có trích dẫn.
 - Octanove Vocabulary Profile C1/C2 1.0, Octanove Labs, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Nét chữ kana, kanji, hán tự giản thể từ [AnimCJK](https://github.com/parsimonhi/animCJK) (dựa trên Make Me a Hanzi,
+  Arphic Public License và LGPL). Nét 40 chữ cái Hangul do dự án tự dựng (`scripts/import_strokes.py`).
+- Âm Hán Việt, âm Nhật, pinyin từ [Unihan](https://www.unicode.org/charts/unihan.html) (Unicode License); vài chữ
+  Unihan thiếu âm Hán Việt được bổ sung tay trong `import_strokes.py`.
 - Phát âm IPA từ [Wiktionary](https://en.wiktionary.org/) qua [kaikki.org](https://kaikki.org/) (wiktextract),
   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

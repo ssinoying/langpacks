@@ -1,0 +1,522 @@
+[
+  {
+    "id": "ko:character:8bd5a562fa99fed1",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㄱ",
+    "reading": "g/k",
+    "explanationVi": "Phụ âm. Giống \"g\" đầu âm tiết, cuối âm tiết đọc như \"c\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:6e254ceff7991eb3",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㄴ",
+    "reading": "n",
+    "explanationVi": "Phụ âm. Như \"n\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:26dd3bd8689da740",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㄷ",
+    "reading": "d/t",
+    "explanationVi": "Phụ âm. Giữa \"đ\" và \"t\"; cuối âm tiết đọc như \"t\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:988924ac9143869e",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㄹ",
+    "reading": "r/l",
+    "explanationVi": "Phụ âm. Đầu âm tiết gần \"r\" nhẹ, cuối âm tiết là \"l\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:338c9949371d8a8f",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅁ",
+    "reading": "m",
+    "explanationVi": "Phụ âm. Như \"m\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:2919525d52037a30",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅂ",
+    "reading": "b/p",
+    "explanationVi": "Phụ âm. Giữa \"b\" và \"p\"; cuối âm tiết đọc như \"p\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:dd4ed87e2ebc48b8",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅅ",
+    "reading": "s",
+    "explanationVi": "Phụ âm. Như \"x\"; trước ㅣ đọc gần \"s\" giọng Nam.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:69741b62bfab88b6",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅇ",
+    "reading": "ng",
+    "explanationVi": "Phụ âm. Đầu âm tiết câm, cuối âm tiết đọc \"ng\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:de4b3dffb21fa86c",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅈ",
+    "reading": "j",
+    "explanationVi": "Phụ âm. Giữa \"ch\" và \"gi\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:454a0c2df0ea7bc4",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅊ",
+    "reading": "ch",
+    "explanationVi": "Phụ âm. \"ch\" bật hơi mạnh.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:8a638bfd57772894",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅋ",
+    "reading": "k",
+    "explanationVi": "Phụ âm. \"kh\" bật hơi.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:427d6bf067be731a",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅌ",
+    "reading": "t",
+    "explanationVi": "Phụ âm. \"th\" bật hơi.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:c57303638ee08af3",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅍ",
+    "reading": "p",
+    "explanationVi": "Phụ âm. \"ph\" nhưng bật hơi bằng môi, không phải \"f\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:cd7ccc18378b38a1",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅎ",
+    "reading": "h",
+    "explanationVi": "Phụ âm. Như \"h\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:5ef419c509d19753",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㄲ",
+    "reading": "kk",
+    "explanationVi": "Phụ âm. \"c\" căng, không bật hơi.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:40a92852c9d83df6",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㄸ",
+    "reading": "tt",
+    "explanationVi": "Phụ âm. \"t\" căng, không bật hơi.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:eccccb558454454d",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅃ",
+    "reading": "pp",
+    "explanationVi": "Phụ âm. \"p\" căng, không bật hơi.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:1f7056b9af101803",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅆ",
+    "reading": "ss",
+    "explanationVi": "Phụ âm. \"x\" căng, mạnh.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:ba6abe7bfb05b27c",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅉ",
+    "reading": "jj",
+    "explanationVi": "Phụ âm. \"ch\" căng, không bật hơi.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:ddfc54c6cf90edd4",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅏ",
+    "reading": "a",
+    "explanationVi": "Nguyên âm. Như \"a\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:1acd7d5722fc07fc",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅑ",
+    "reading": "ya",
+    "explanationVi": "Nguyên âm. Như \"ia\" đọc nhanh.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:f5cf3942c505bfe5",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅓ",
+    "reading": "eo",
+    "explanationVi": "Nguyên âm. Giữa \"ơ\" và \"o\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:fc3620e41a818d40",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅕ",
+    "reading": "yeo",
+    "explanationVi": "Nguyên âm. \"i\" + ㅓ.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:6ef1e6fe36b8e32d",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅗ",
+    "reading": "o",
+    "explanationVi": "Nguyên âm. Như \"ô\", tròn môi.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:c891df40378fb870",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅛ",
+    "reading": "yo",
+    "explanationVi": "Nguyên âm. \"i\" + ㅗ.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:1346558a41b420db",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅜ",
+    "reading": "u",
+    "explanationVi": "Nguyên âm. Như \"u\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:58f2e7e4528a1fd4",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅠ",
+    "reading": "yu",
+    "explanationVi": "Nguyên âm. \"i\" + ㅜ.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:e2e9f7fd9de8b66c",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅡ",
+    "reading": "eu",
+    "explanationVi": "Nguyên âm. Như \"ư\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:c22d4c4286252ba1",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅣ",
+    "reading": "i",
+    "explanationVi": "Nguyên âm. Như \"i\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:d217a23ff49c6160",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅐ",
+    "reading": "ae",
+    "explanationVi": "Nguyên âm. Như \"e\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:916bf729097c129d",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅒ",
+    "reading": "yae",
+    "explanationVi": "Nguyên âm. \"i\" + \"e\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:248e9c08751ee7d6",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅔ",
+    "reading": "e",
+    "explanationVi": "Nguyên âm. Như \"ê\"; nay đọc giống ㅐ.",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:6c3151304502ecd6",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅖ",
+    "reading": "ye",
+    "explanationVi": "Nguyên âm. \"i\" + \"ê\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:cdbf8e0e9ca25c29",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅘ",
+    "reading": "wa",
+    "explanationVi": "Nguyên âm. Như \"oa\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:6c756da0bc3dde3a",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅙ",
+    "reading": "wae",
+    "explanationVi": "Nguyên âm. Như \"oe\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:b6b4b41ca287e022",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅚ",
+    "reading": "oe",
+    "explanationVi": "Nguyên âm. Nay đọc như \"uê\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:d84809444d6246fd",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅝ",
+    "reading": "wo",
+    "explanationVi": "Nguyên âm. Như \"uơ\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:8823670a8b810bea",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅞ",
+    "reading": "we",
+    "explanationVi": "Nguyên âm. Như \"uê\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:1464f15105155aa0",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅟ",
+    "reading": "wi",
+    "explanationVi": "Nguyên âm. Như \"uy\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  },
+  {
+    "id": "ko:character:10c655ac968329f0",
+    "lang": "ko",
+    "kind": "character",
+    "text": "ㅢ",
+    "reading": "ui",
+    "explanationVi": "Nguyên âm. Như \"ưi\".",
+    "level": "TOPIK1",
+    "topics": [
+      "alphabet",
+      "hangul"
+    ]
+  }
+]

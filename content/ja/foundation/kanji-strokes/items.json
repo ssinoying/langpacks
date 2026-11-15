@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "ja:character:0f092cb98b0fd6fe",
+    "lang": "ja",
+    "kind": "character",
+    "text": "一",
+    "reading": "イチ イツ ひと ひとつ",
+    "meaningVi": "một",
+    "explanationVi": "Âm Hán Việt: nhất.",
+    "hanViet": "nhất",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:df4999502086b0b0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "七",
+    "reading": "シチ シツ なな ななつ なの",
+    "meaningVi": "bảy",
+    "explanationVi": "Âm Hán Việt: thất.",
+    "hanViet": "thất",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:c3ce57736a3313d5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "三",
+    "reading": "サン シン み みつ みっつ",
+    "meaningVi": "ba",
+    "explanationVi": "Âm Hán Việt: tam.",
+    "hanViet": "tam",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:7351631bd90330a3",
+    "lang": "ja",
+    "kind": "character",
+    "text": "上",
+    "reading": "ジョウ ショウ うえ うわ かみ あげる あがる のぼる のぼせる のぼす たっとぶ たてまつる ほとり",
+    "meaningVi": "trên",
+    "explanationVi": "Âm Hán Việt: thượng.",
+    "hanViet": "thượng",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:a234331b576d385e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "下",
+    "reading": "カ ゲ ア した しも もと さげる さがる くだる くだす くださる おろす おりる",
+    "meaningVi": "dưới",
+    "explanationVi": "Âm Hán Việt: hạ.",
+    "hanViet": "hạ",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:aef38322fd7a3be4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "中",
+    "reading": "チュウ チュ なか あたる あてる うち",
+    "meaningVi": "giữa, trong",
+    "explanationVi": "Âm Hán Việt: trung.",
+    "hanViet": "trung",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:9eb79a49f605ba31",
+    "lang": "ja",
+    "kind": "character",
+    "text": "九",
+    "reading": "キュウ ク グ ここの ここのつ",
+    "meaningVi": "chín",
+    "explanationVi": "Âm Hán Việt: cửu.",
+    "hanViet": "cửu",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:6a6e5bac16a0a60d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "二",
+    "reading": "ニ ジ ふた ふたつ ふたたび",
+    "meaningVi": "hai",
+    "explanationVi": "Âm Hán Việt: nhì.",
+    "hanViet": "nhì",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:1989b1d79c1c155a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "五",
+    "reading": "ゴ いつ いつつ",
+    "meaningVi": "năm",
+    "explanationVi": "Âm Hán Việt: ngũ.",
+    "hanViet": "ngũ",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:28aaa856af003fcf",
+    "lang": "ja",
+    "kind": "character",
+    "text": "人",
+    "reading": "ジン ニン ひと",
+    "meaningVi": "người",
+    "explanationVi": "Âm Hán Việt: nhân.",
+    "hanViet": "nhân",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:60e8883521e98fe9",
+    "lang": "ja",
+    "kind": "character",
+    "text": "休",
+    "reading": "キュウ ク やすむ やすまる やすめる",
+    "meaningVi": "nghỉ",
+    "explanationVi": "Âm Hán Việt: hưu.",
+    "hanViet": "hưu",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:19a53538a2bec213",
+    "lang": "ja",
+    "kind": "character",
+    "text": "先",
+    "reading": "セン さき さきんずる まず",
+    "meaningVi": "trước",
+    "explanationVi": "Âm Hán Việt: tiên.",
+    "hanViet": "tiên",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:3fba4a6f08f7d9e1",
+    "lang": "ja",
+    "kind": "character",
+    "text": "入",
+    "reading": "ニュウ ジュウ ジュ いる いれる はいる しお",
+    "meaningVi": "vào",
+    "explanationVi": "Âm Hán Việt: nhập.",
+    "hanViet": "nhập",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:04c32cb327ec3803",
+    "lang": "ja",
+    "kind": "character",
+    "text": "八",
+    "reading": "ハチ ハツ ハイ ハ や やつ やっつ よう",
+    "meaningVi": "tám",
+    "explanationVi": "Âm Hán Việt: bát.",
+    "hanViet": "bát",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:46ae2bd926cef049",
+    "lang": "ja",
+    "kind": "character",
+    "text": "六",
+    "reading": "ロク リク リュウ む むつ むっつ むい",
+    "meaningVi": "sáu",
+    "explanationVi": "Âm Hán Việt: lục.",
+    "hanViet": "lục",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:bc66fb918d4544a8",
+    "lang": "ja",
+    "kind": "character",
+    "text": "円",
+    "reading": "エン まるい まる まどか",
+    "meaningVi": "tròn; yên (tiền Nhật)",
+    "explanationVi": "Âm Hán Việt: viên.",
+    "hanViet": "viên",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:6fe0a87429c8cbd0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "出",
+    "reading": "シュツ スイ シュチ でる だす",
+    "meaningVi": "ra",
+    "explanationVi": "Âm Hán Việt: xuất.",
+    "hanViet": "xuất",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:88e57761a3287b3c",
+    "lang": "ja",
+    "kind": "character",
+    "text": "力",
+    "reading": "リョク リキ ちから つとめる りきむ",
+    "meaningVi": "sức",
+    "explanationVi": "Âm Hán Việt: lực.",
+    "hanViet": "lực",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:87978901d5379285",
+    "lang": "ja",
+    "kind": "character",
+    "text": "十",
+    "reading": "ジュウ ジッ シュウ シン とお と",
+    "meaningVi": "mười",
+    "explanationVi": "Âm Hán Việt: thập.",
+    "hanViet": "thập",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:aba62babd683e368",
+    "lang": "ja",
+    "kind": "character",
+    "text": "千",
+    "reading": "セン ち",
+    "meaningVi": "nghìn",
+    "explanationVi": "Âm Hán Việt: thiên.",
+    "hanViet": "thiên",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:ea375f7e19dfcda6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "口",
+    "reading": "コウ ク くち",
+    "meaningVi": "miệng",
+    "explanationVi": "Âm Hán Việt: khẩu.",
+    "hanViet": "khẩu",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:56d636043bf4c28d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "右",
+    "reading": "ウ ユウ みぎ たすける",
+    "meaningVi": "phải",
+    "explanationVi": "Âm Hán Việt: hữu.",
+    "hanViet": "hữu",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:140aa353a810dce5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "名",
+    "reading": "メイ ミョウ ベイ な なづける なのる",
+    "meaningVi": "tên",
+    "explanationVi": "Âm Hán Việt: danh.",
+    "hanViet": "danh",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:63caa64007606b3c",
+    "lang": "ja",
+    "kind": "character",
+    "text": "四",
+    "reading": "シ シツ シチ よ よつ よっつ よん",
+    "meaningVi": "bốn",
+    "explanationVi": "Âm Hán Việt: tứ.",
+    "hanViet": "tứ",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:d7563be52bf55050",
+    "lang": "ja",
+    "kind": "character",
+    "text": "土",
+    "reading": "ド ト カ ケ ツ ズ タ テ つち",
+    "meaningVi": "đất",
+    "explanationVi": "Âm Hán Việt: thổ.",
+    "hanViet": "thổ",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:9fdf27d659320b5a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "夕",
+    "reading": "セキ ジャク ゆう ゆうべ",
+    "meaningVi": "chiều tối",
+    "explanationVi": "Âm Hán Việt: tịch.",
+    "hanViet": "tịch",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:72b2921318c765b4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "大",
+    "reading": "ダイ タイ タ ダ おお おおきい おおいに はなはだ",
+    "meaningVi": "to, lớn",
+    "explanationVi": "Âm Hán Việt: đại.",
+    "hanViet": "đại",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:7c63ad1628d27d94",
+    "lang": "ja",
+    "kind": "character",
+    "text": "天",
+    "reading": "テン デン あめ あま そら",
+    "meaningVi": "trời",
+    "explanationVi": "Âm Hán Việt: thiên.",
+    "hanViet": "thiên",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:5ac65a8b6156525b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "女",
+    "reading": "ジョ ニョ ニョウ おんな め むすめ なんじ めあわせる",
+    "meaningVi": "phụ nữ",
+    "explanationVi": "Âm Hán Việt: nữa.",
+    "hanViet": "nữa",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:a74712168fdd5e39",
+    "lang": "ja",
+    "kind": "character",
+    "text": "子",
+    "reading": "シ ス ジ こ ね",
+    "meaningVi": "con, đứa trẻ",
+    "explanationVi": "Âm Hán Việt: tí.",
+    "hanViet": "tí",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:a1ce20b4d3f0d665",
+    "lang": "ja",
+    "kind": "character",
+    "text": "字",
+    "reading": "ジ シ あざ あざな やしなう",
+    "meaningVi": "chữ",
+    "explanationVi": "Âm Hán Việt: tự.",
+    "hanViet": "tự",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:5c7b3c3703c7dce1",
+    "lang": "ja",
+    "kind": "character",
+    "text": "学",
+    "reading": "ガク カク コウ キョウ まなぶ おしえる",
+    "meaningVi": "học",
+    "explanationVi": "Âm Hán Việt: học.",
+    "hanViet": "học",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:a7bb42cfd7b7fa3a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "小",
+    "reading": "ショウ ちいさい こ お すくない さ",
+    "meaningVi": "nhỏ",
+    "explanationVi": "Âm Hán Việt: tiểu.",
+    "hanViet": "tiểu",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:8637886cfc31f364",
+    "lang": "ja",
+    "kind": "character",
+    "text": "山",
+    "reading": "サン セン やま",
+    "meaningVi": "núi",
+    "explanationVi": "Âm Hán Việt: sơn.",
+    "hanViet": "sơn",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:e21a7f195765788a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "川",
+    "reading": "セン かわ",
+    "meaningVi": "sông",
+    "explanationVi": "Âm Hán Việt: xuyên.",
+    "hanViet": "xuyên",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:64b1abd327c9cb9f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "左",
+    "reading": "サ ひだり たすける",
+    "meaningVi": "trái",
+    "explanationVi": "Âm Hán Việt: tả.",
+    "hanViet": "tả",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:4f076adcd229697e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "年",
+    "reading": "ネン デン デイ ニョウ とし みのり よわい",
+    "meaningVi": "năm (thời gian)",
+    "explanationVi": "Âm Hán Việt: nên.",
+    "hanViet": "nên",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:7e1901e7f5bd57a8",
+    "lang": "ja",
+    "kind": "character",
+    "text": "手",
+    "reading": "シュ シュウ て た",
+    "meaningVi": "tay",
+    "explanationVi": "Âm Hán Việt: thủ.",
+    "hanViet": "thủ",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:1a7c4c0a84a82705",
+    "lang": "ja",
+    "kind": "character",
+    "text": "文",
+    "reading": "ブン モン ビン ミン ふみ あや かざる",
+    "meaningVi": "văn, chữ viết",
+    "explanationVi": "Âm Hán Việt: văn.",
+    "hanViet": "văn",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:ff1296c1b1d77eae",
+    "lang": "ja",
+    "kind": "character",
+    "text": "日",
+    "reading": "ニチ ジツ ジョク ニキ ひ か ひび",
+    "meaningVi": "mặt trời, ngày",
+    "explanationVi": "Âm Hán Việt: nhật.",
+    "hanViet": "nhật",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:356a406e018353c9",
+    "lang": "ja",
+    "kind": "character",
+    "text": "早",
+    "reading": "ソウ サッ サ はやい はやまる はやめる つとに さ",
+    "meaningVi": "sớm",
+    "explanationVi": "Âm Hán Việt: tảo.",
+    "hanViet": "tảo",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:0eda641a570348c5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "月",
+    "reading": "ゲツ ガツ ガチ つき",
+    "meaningVi": "mặt trăng, tháng",
+    "explanationVi": "Âm Hán Việt: nguyệt.",
+    "hanViet": "nguyệt",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:d61826fcc9034184",
+    "lang": "ja",
+    "kind": "character",
+    "text": "木",
+    "reading": "ボク モク き こ",
+    "meaningVi": "cây, gỗ",
+    "explanationVi": "Âm Hán Việt: mộc.",
+    "hanViet": "mộc",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:c640239e921b217c",
+    "lang": "ja",
+    "kind": "character",
+    "text": "本",
+    "reading": "ホン もと",
+    "meaningVi": "sách, gốc",
+    "explanationVi": "Âm Hán Việt: bản.",
+    "hanViet": "bản",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:bc6dfa7fd7f03c0e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "村",
+    "reading": "ソン むら",
+    "meaningVi": "làng",
+    "explanationVi": "Âm Hán Việt: thôn.",
+    "hanViet": "thôn",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:034cc7a2b2c943da",
+    "lang": "ja",
+    "kind": "character",
+    "text": "林",
+    "reading": "リン はやし",
+    "meaningVi": "rừng",
+    "explanationVi": "Âm Hán Việt: lâm.",
+    "hanViet": "lâm",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:e2740724acea244b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "校",
+    "reading": "コウ キョウ ギョウ くらべる",
+    "meaningVi": "trường học",
+    "explanationVi": "Âm Hán Việt: chò.",
+    "hanViet": "chò",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:afb8486809745ec4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "森",
+    "reading": "シン もり",
+    "meaningVi": "rừng rậm",
+    "explanationVi": "Âm Hán Việt: chùm.",
+    "hanViet": "chùm",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:bba514f7b52925a6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "正",
+    "reading": "セイ ショウ ただしい ただす まさ ただ まさに かみ たとい",
+    "meaningVi": "đúng, chính",
+    "explanationVi": "Âm Hán Việt: chính.",
+    "hanViet": "chính",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:f19e5aaae4a47d79",
+    "lang": "ja",
+    "kind": "character",
+    "text": "気",
+    "reading": "キ ケ き",
+    "meaningVi": "khí, tinh thần",
+    "explanationVi": "Âm Hán Việt: khí.",
+    "hanViet": "khí",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:22601df8e86967d9",
+    "lang": "ja",
+    "kind": "character",
+    "text": "水",
+    "reading": "スイ みず かわ",
+    "meaningVi": "nước",
+    "explanationVi": "Âm Hán Việt: thuỷ.",
+    "hanViet": "thuỷ",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:64b8884510833def",
+    "lang": "ja",
+    "kind": "character",
+    "text": "火",
+    "reading": "カ コ ひ ほ やく",
+    "meaningVi": "lửa",
+    "explanationVi": "Âm Hán Việt: hoả.",
+    "hanViet": "hoả",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:8285cd8d37cf022a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "犬",
+    "reading": "ケン いぬ",
+    "meaningVi": "chó",
+    "explanationVi": "Âm Hán Việt: khuyển.",
+    "hanViet": "khuyển",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:f37973080c025c5a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "玉",
+    "reading": "ギョク ゴク たま",
+    "meaningVi": "ngọc, viên tròn",
+    "explanationVi": "Âm Hán Việt: ngọc.",
+    "hanViet": "ngọc",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:56db6d01f117127f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "王",
+    "reading": "オウ きみ",
+    "meaningVi": "vua",
+    "explanationVi": "Âm Hán Việt: vương.",
+    "hanViet": "vương",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:b0ac1f69f7e2d66f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "生",
+    "reading": "セイ ショウ ソウ いきる いかす いける うまれる うむ おう はえる はやす き なま うぶ",
+    "meaningVi": "sinh, sống",
+    "explanationVi": "Âm Hán Việt: sinh.",
+    "hanViet": "sinh",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:15edb56ed050fd9b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "田",
+    "reading": "デン テン チン ジン た",
+    "meaningVi": "ruộng",
+    "explanationVi": "Âm Hán Việt: điền.",
+    "hanViet": "điền",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:01d84d5e2d7e32bb",
+    "lang": "ja",
+    "kind": "character",
+    "text": "男",
+    "reading": "ダン ナン おとこ",
+    "meaningVi": "đàn ông",
+    "explanationVi": "Âm Hán Việt: nam.",
+    "hanViet": "nam",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:ceaec2516e0b69a0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "町",
+    "reading": "チョウ テイ ジョウ トウ テン まち",
+    "meaningVi": "thị trấn",
+    "explanationVi": "Âm Hán Việt: đinh.",
+    "hanViet": "đinh",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:c18577e96a94b02c",
+    "lang": "ja",
+    "kind": "character",
+    "text": "白",
+    "reading": "ハク ビャク ベ ハ ヒャク シ ジ しろ しら しろい しらげる しらむ もうす",
+    "meaningVi": "trắng",
+    "explanationVi": "Âm Hán Việt: bạch.",
+    "hanViet": "bạch",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:4e7d9efb8be3bd7d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "百",
+    "reading": "ヒャク ハク バク ミャク もも",
+    "meaningVi": "trăm",
+    "explanationVi": "Âm Hán Việt: bá.",
+    "hanViet": "bá",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:4b6109b0b4a80aad",
+    "lang": "ja",
+    "kind": "character",
+    "text": "目",
+    "reading": "モク ボク め ま さかん",
+    "meaningVi": "mắt",
+    "explanationVi": "Âm Hán Việt: mục.",
+    "hanViet": "mục",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:7334fd7a5db8063b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "石",
+    "reading": "セキ シャク コク ジャク タン いし",
+    "meaningVi": "đá",
+    "explanationVi": "Âm Hán Việt: thạch.",
+    "hanViet": "thạch",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:5a991cd58f9fdf00",
+    "lang": "ja",
+    "kind": "character",
+    "text": "空",
+    "reading": "クウ コウ ク そら あく あける から むなしい すく",
+    "meaningVi": "bầu trời, trống rỗng",
+    "explanationVi": "Âm Hán Việt: không.",
+    "hanViet": "không",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:9eae0f5ee8ca52ed",
+    "lang": "ja",
+    "kind": "character",
+    "text": "立",
+    "reading": "リツ リュウ イ リットル たつ たてる たちどころ",
+    "meaningVi": "đứng",
+    "explanationVi": "Âm Hán Việt: lập.",
+    "hanViet": "lập",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:9b3b47468e87e932",
+    "lang": "ja",
+    "kind": "character",
+    "text": "竹",
+    "reading": "チク たけ",
+    "meaningVi": "tre",
+    "explanationVi": "Âm Hán Việt: trúc.",
+    "hanViet": "trúc",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:69987fe0c6a7953b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "糸",
+    "reading": "シ ベキ ミャク いと",
+    "meaningVi": "sợi chỉ",
+    "explanationVi": "Âm Hán Việt: mịch.",
+    "hanViet": "mịch",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:b8f3534c511668da",
+    "lang": "ja",
+    "kind": "character",
+    "text": "耳",
+    "reading": "ジ ニ ジョウ ニョウ みみ のみ",
+    "meaningVi": "tai",
+    "explanationVi": "Âm Hán Việt: nhĩ.",
+    "hanViet": "nhĩ",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:8c6295b1dccc7700",
+    "lang": "ja",
+    "kind": "character",
+    "text": "花",
+    "reading": "カ はな",
+    "meaningVi": "hoa",
+    "explanationVi": "Âm Hán Việt: hoa.",
+    "hanViet": "hoa",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:ceed917be3de2acb",
+    "lang": "ja",
+    "kind": "character",
+    "text": "草",
+    "reading": "ソウ くさ",
+    "meaningVi": "cỏ",
+    "explanationVi": "Âm Hán Việt: thảo.",
+    "hanViet": "thảo",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:52911f13ff8f011d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "虫",
+    "reading": "チュウ ジュ キ むし",
+    "meaningVi": "côn trùng",
+    "explanationVi": "Âm Hán Việt: trùng.",
+    "hanViet": "trùng",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:7cbdffb11240f264",
+    "lang": "ja",
+    "kind": "character",
+    "text": "見",
+    "reading": "ケン ゲン カン みる みえる みせる あらわれる まみえる",
+    "meaningVi": "nhìn, thấy",
+    "explanationVi": "Âm Hán Việt: kiến.",
+    "hanViet": "kiến",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:5ffa59572105940d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "貝",
+    "reading": "バイ ハイ かい",
+    "meaningVi": "vỏ sò",
+    "explanationVi": "Âm Hán Việt: buổi.",
+    "hanViet": "buổi",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:3eb4a4c47a9e27c5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "赤",
+    "reading": "セキ シャク あか あかい あからむ あからめる",
+    "meaningVi": "đỏ",
+    "explanationVi": "Âm Hán Việt: xích.",
+    "hanViet": "xích",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:7616d530fa18a7f4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "足",
+    "reading": "ソク ショク シュ スウ あし たりる たる たす",
+    "meaningVi": "chân",
+    "explanationVi": "Âm Hán Việt: túc.",
+    "hanViet": "túc",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:814e7e17da99cfd7",
+    "lang": "ja",
+    "kind": "character",
+    "text": "車",
+    "reading": "シャ キョ コ くるま",
+    "meaningVi": "xe",
+    "explanationVi": "Âm Hán Việt: xa.",
+    "hanViet": "xa",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:1dd5742b4967bbad",
+    "lang": "ja",
+    "kind": "character",
+    "text": "金",
+    "reading": "キン コン ゴン かね かな",
+    "meaningVi": "vàng, tiền",
+    "explanationVi": "Âm Hán Việt: kim.",
+    "hanViet": "kim",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:f99e880ef8694589",
+    "lang": "ja",
+    "kind": "character",
+    "text": "雨",
+    "reading": "ウ あめ あま",
+    "meaningVi": "mưa",
+    "explanationVi": "Âm Hán Việt: vũ.",
+    "hanViet": "vũ",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:f09834256ad8e5a5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "青",
+    "reading": "セイ ショウ チン あお あおい",
+    "meaningVi": "xanh",
+    "explanationVi": "Âm Hán Việt: thanh.",
+    "hanViet": "thanh",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "ja:character:c5b752776ba54a45",
+    "lang": "ja",
+    "kind": "character",
+    "text": "音",
+    "reading": "オン イン おと ね",
+    "meaningVi": "âm thanh",
+    "explanationVi": "Âm Hán Việt: âm.",
+    "hanViet": "âm",
+    "level": "N5",
+    "topics": [
+      "strokes"
+    ]
+  }
+]

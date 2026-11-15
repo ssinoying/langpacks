@@ -57,6 +57,54 @@
       "sha256": "dde5763116fcc0c2cdd798609995b209cb7f12da6be85ac7879daa556d0c2478",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/en-placement-v1/en-placement-v1.zip"
+    },
+    {
+      "id": "ja-kana",
+      "lang": "ja",
+      "topic": "kana",
+      "title": "Hiragana và katakana",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 116309,
+      "sha256": "329667c2728c2fafa4acf1ba77114217b9ac31233302a59928638965479c5509",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-kana-v1/ja-kana-v1.zip"
+    },
+    {
+      "id": "ja-kanji-strokes",
+      "lang": "ja",
+      "topic": "strokes",
+      "title": "Kanji lớp 1: thứ tự nét",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 84002,
+      "sha256": "8da85da252dd829bd2a5c9f0a16acb02b7a6de87830effbd7d27ede550112847",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-kanji-strokes-v1/ja-kanji-strokes-v1.zip"
+    },
+    {
+      "id": "ko-hangul",
+      "lang": "ko",
+      "topic": "hangul",
+      "title": "Bảng chữ cái Hangul",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 15124,
+      "sha256": "f6b28fb656047ebfc2556363ec466e782a5ec9d8c6907f4c810b80eef551336b",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-hangul-v1/ko-hangul-v1.zip"
+    },
+    {
+      "id": "zh-hans-strokes",
+      "lang": "zh-hans",
+      "topic": "strokes",
+      "title": "Hán tự cơ bản: thứ tự nét",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 89114,
+      "sha256": "e49d127a6210232b4b3c5ed8b83d091cdbdd2770c87def9ab1f335f5b04fd7a6",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-strokes-v1/zh-hans-strokes-v1.zip"
     }
   ]
 }

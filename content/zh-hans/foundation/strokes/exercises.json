@@ -1,0 +1,3187 @@
+[
+  {
+    "id": "zh-hans:exercise:5f1397107da8f961",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "一",
+    "answers": [
+      "一"
+    ],
+    "itemIds": [
+      "zh-hans:character:94c8c3a70bcb65b1"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c7fc0f65be816080",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 一 nghĩa là gì?",
+    "choices": [
+      "ba",
+      "bảy",
+      "một",
+      "vạn, mười nghìn"
+    ],
+    "answers": [
+      "một"
+    ],
+    "explanationVi": "Hán Việt: nhất.",
+    "itemIds": [
+      "zh-hans:character:94c8c3a70bcb65b1"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:0b779428fcc4f004",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "七",
+    "answers": [
+      "七"
+    ],
+    "itemIds": [
+      "zh-hans:character:583d3a5320f2820a"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:5f9c40ac4120a5d1",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 七 nghĩa là gì?",
+    "choices": [
+      "ba",
+      "bảy",
+      "một",
+      "vạn, mười nghìn"
+    ],
+    "answers": [
+      "bảy"
+    ],
+    "explanationVi": "Hán Việt: thất.",
+    "itemIds": [
+      "zh-hans:character:583d3a5320f2820a"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:e2eced7226609189",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "万",
+    "answers": [
+      "万"
+    ],
+    "itemIds": [
+      "zh-hans:character:512a019ddc7813de"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c6bb414f0fdc0dc8",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 万 nghĩa là gì?",
+    "choices": [
+      "ba",
+      "bảy",
+      "trên",
+      "vạn, mười nghìn"
+    ],
+    "answers": [
+      "vạn, mười nghìn"
+    ],
+    "explanationVi": "Hán Việt: vạn.",
+    "itemIds": [
+      "zh-hans:character:512a019ddc7813de"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:fd2fa07f122f6739",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "三",
+    "answers": [
+      "三"
+    ],
+    "itemIds": [
+      "zh-hans:character:e69f8108b820f37d"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:f8c8fd13b7684d82",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 三 nghĩa là gì?",
+    "choices": [
+      "ba",
+      "dưới",
+      "trên",
+      "vạn, mười nghìn"
+    ],
+    "answers": [
+      "ba"
+    ],
+    "explanationVi": "Hán Việt: tam.",
+    "itemIds": [
+      "zh-hans:character:e69f8108b820f37d"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b75353685154eb49",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "上",
+    "answers": [
+      "上"
+    ],
+    "itemIds": [
+      "zh-hans:character:f437d59f875ab877"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:0d6fb3b133d964df",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 上 nghĩa là gì?",
+    "choices": [
+      "ba",
+      "dưới",
+      "không",
+      "trên"
+    ],
+    "answers": [
+      "trên"
+    ],
+    "explanationVi": "Hán Việt: thượng.",
+    "itemIds": [
+      "zh-hans:character:f437d59f875ab877"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:80bf86e5f1662be7",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "下",
+    "answers": [
+      "下"
+    ],
+    "itemIds": [
+      "zh-hans:character:a21410046c1f3ed1"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c1da08f9e0ba95f4",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 下 nghĩa là gì?",
+    "choices": [
+      "dưới",
+      "không",
+      "trên",
+      "đông"
+    ],
+    "answers": [
+      "dưới"
+    ],
+    "explanationVi": "Hán Việt: hạ.",
+    "itemIds": [
+      "zh-hans:character:a21410046c1f3ed1"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2e4b3c0946dcba26",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "不",
+    "answers": [
+      "不"
+    ],
+    "itemIds": [
+      "zh-hans:character:468a899420f67a3f"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:e9ce3e5a827b04d1",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 不 nghĩa là gì?",
+    "choices": [
+      "cái (lượng từ)",
+      "dưới",
+      "không",
+      "đông"
+    ],
+    "answers": [
+      "không"
+    ],
+    "explanationVi": "Hán Việt: bất.",
+    "itemIds": [
+      "zh-hans:character:468a899420f67a3f"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:d0f0d4227fe1c9c3",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "东",
+    "answers": [
+      "东"
+    ],
+    "itemIds": [
+      "zh-hans:character:1ece9d81e1172a39"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:112b9169d1c3f24e",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 东 nghĩa là gì?",
+    "choices": [
+      "cái (lượng từ)",
+      "giữa, trong",
+      "không",
+      "đông"
+    ],
+    "answers": [
+      "đông"
+    ],
+    "explanationVi": "Hán Việt: đang.",
+    "itemIds": [
+      "zh-hans:character:1ece9d81e1172a39"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:993ee7d72191f0c7",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "个",
+    "answers": [
+      "个"
+    ],
+    "itemIds": [
+      "zh-hans:character:85646bd7c97ce0a8"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:980da3184e90a762",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 个 nghĩa là gì?",
+    "choices": [
+      "chín",
+      "cái (lượng từ)",
+      "giữa, trong",
+      "đông"
+    ],
+    "answers": [
+      "cái (lượng từ)"
+    ],
+    "explanationVi": "Hán Việt: cá.",
+    "itemIds": [
+      "zh-hans:character:85646bd7c97ce0a8"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:7ff67a681108566f",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "中",
+    "answers": [
+      "中"
+    ],
+    "itemIds": [
+      "zh-hans:character:dfafc8061e98a402"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c897070ae4144bed",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 中 nghĩa là gì?",
+    "choices": [
+      "chín",
+      "cái (lượng từ)",
+      "cũng",
+      "giữa, trong"
+    ],
+    "answers": [
+      "giữa, trong"
+    ],
+    "explanationVi": "Hán Việt: trung.",
+    "itemIds": [
+      "zh-hans:character:dfafc8061e98a402"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:76d824be585c91a0",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "九",
+    "answers": [
+      "九"
+    ],
+    "itemIds": [
+      "zh-hans:character:376335c7c6a36dbc"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:ff338965f720fa87",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 九 nghĩa là gì?",
+    "choices": [
+      "chín",
+      "cũng",
+      "giữa, trong",
+      "sách"
+    ],
+    "answers": [
+      "chín"
+    ],
+    "explanationVi": "Hán Việt: cửu.",
+    "itemIds": [
+      "zh-hans:character:376335c7c6a36dbc"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:3b4f85656010704a",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "也",
+    "answers": [
+      "也"
+    ],
+    "itemIds": [
+      "zh-hans:character:fb643302a96ea4fe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:307e10d8421a0acc",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 也 nghĩa là gì?",
+    "choices": [
+      "chín",
+      "cũng",
+      "rồi (trợ từ chỉ việc đã xong)",
+      "sách"
+    ],
+    "answers": [
+      "cũng"
+    ],
+    "explanationVi": "Hán Việt: dã.",
+    "itemIds": [
+      "zh-hans:character:fb643302a96ea4fe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:57309f8be3faf907",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "书",
+    "answers": [
+      "书"
+    ],
+    "itemIds": [
+      "zh-hans:character:0d7bb2630fb3d755"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:bf8723aad97cd590",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 书 nghĩa là gì?",
+    "choices": [
+      "cũng",
+      "hai",
+      "rồi (trợ từ chỉ việc đã xong)",
+      "sách"
+    ],
+    "answers": [
+      "sách"
+    ],
+    "explanationVi": "Hán Việt: thư.",
+    "itemIds": [
+      "zh-hans:character:0d7bb2630fb3d755"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b0d8a2af939c5b11",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "了",
+    "answers": [
+      "了"
+    ],
+    "itemIds": [
+      "zh-hans:character:3bd0c7484308f9ca"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:71067177987a88b3",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 了 nghĩa là gì?",
+    "choices": [
+      "hai",
+      "năm",
+      "rồi (trợ từ chỉ việc đã xong)",
+      "sách"
+    ],
+    "answers": [
+      "rồi (trợ từ chỉ việc đã xong)"
+    ],
+    "explanationVi": "Hán Việt: liễu.",
+    "itemIds": [
+      "zh-hans:character:3bd0c7484308f9ca"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2c93c0e4605a514a",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "二",
+    "answers": [
+      "二"
+    ],
+    "itemIds": [
+      "zh-hans:character:0130ef80a0f210b2"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:692fa7c612a929a5",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 二 nghĩa là gì?",
+    "choices": [
+      "hai",
+      "người",
+      "năm",
+      "rồi (trợ từ chỉ việc đã xong)"
+    ],
+    "answers": [
+      "hai"
+    ],
+    "explanationVi": "Hán Việt: nhì.",
+    "itemIds": [
+      "zh-hans:character:0130ef80a0f210b2"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:4cf25ea622fc8afb",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "五",
+    "answers": [
+      "五"
+    ],
+    "itemIds": [
+      "zh-hans:character:9615b0de41519b42"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:37aba88d951b16c8",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 五 nghĩa là gì?",
+    "choices": [
+      "hai",
+      "nay",
+      "người",
+      "năm"
+    ],
+    "answers": [
+      "năm"
+    ],
+    "explanationVi": "Hán Việt: ngũ.",
+    "itemIds": [
+      "zh-hans:character:9615b0de41519b42"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:9ba81dbd64851f32",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "人",
+    "answers": [
+      "人"
+    ],
+    "itemIds": [
+      "zh-hans:character:34fac66310cda5fe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:61c59f9ca32c22b7",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 人 nghĩa là gì?",
+    "choices": [
+      "anh ấy",
+      "nay",
+      "người",
+      "năm"
+    ],
+    "answers": [
+      "người"
+    ],
+    "explanationVi": "Hán Việt: nhân.",
+    "itemIds": [
+      "zh-hans:character:34fac66310cda5fe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:f0160e765a19b518",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "今",
+    "answers": [
+      "今"
+    ],
+    "itemIds": [
+      "zh-hans:character:5614de300ce3aae8"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:5993c978935a334f",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 今 nghĩa là gì?",
+    "choices": [
+      "anh ấy",
+      "các (hậu tố số nhiều)",
+      "nay",
+      "người"
+    ],
+    "answers": [
+      "nay"
+    ],
+    "explanationVi": "Hán Việt: kim.",
+    "itemIds": [
+      "zh-hans:character:5614de300ce3aae8"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:15cbba0738084d5a",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "他",
+    "answers": [
+      "他"
+    ],
+    "itemIds": [
+      "zh-hans:character:fba94ac94d9e83f3"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:4b5fac21a3c52ebd",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 他 nghĩa là gì?",
+    "choices": [
+      "anh ấy",
+      "bạn",
+      "các (hậu tố số nhiều)",
+      "nay"
+    ],
+    "answers": [
+      "anh ấy"
+    ],
+    "explanationVi": "Hán Việt: tha.",
+    "itemIds": [
+      "zh-hans:character:fba94ac94d9e83f3"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2231433465a7488f",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "们",
+    "answers": [
+      "们"
+    ],
+    "itemIds": [
+      "zh-hans:character:a67244fdc23cf2c1"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2a266dbe4cb3ad54",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 们 nghĩa là gì?",
+    "choices": [
+      "anh ấy",
+      "bạn",
+      "các (hậu tố số nhiều)",
+      "vào"
+    ],
+    "answers": [
+      "các (hậu tố số nhiều)"
+    ],
+    "explanationVi": "Hán Việt: món.",
+    "itemIds": [
+      "zh-hans:character:a67244fdc23cf2c1"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:da3adce5e63048dd",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "你",
+    "answers": [
+      "你"
+    ],
+    "itemIds": [
+      "zh-hans:character:ea2b12470064b5d2"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:ec7e729a960fc711",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 你 nghĩa là gì?",
+    "choices": [
+      "bạn",
+      "các (hậu tố số nhiều)",
+      "tám",
+      "vào"
+    ],
+    "answers": [
+      "bạn"
+    ],
+    "explanationVi": "Hán Việt: nể.",
+    "itemIds": [
+      "zh-hans:character:ea2b12470064b5d2"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:032d34ca072a2dc1",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "入",
+    "answers": [
+      "入"
+    ],
+    "itemIds": [
+      "zh-hans:character:7c1f667f36499e08"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:db78e982b2484aad",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 入 nghĩa là gì?",
+    "choices": [
+      "bạn",
+      "sáu",
+      "tám",
+      "vào"
+    ],
+    "answers": [
+      "vào"
+    ],
+    "explanationVi": "Hán Việt: nhập.",
+    "itemIds": [
+      "zh-hans:character:7c1f667f36499e08"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:3aef9fc39a6d3ec1",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "八",
+    "answers": [
+      "八"
+    ],
+    "itemIds": [
+      "zh-hans:character:dbcfa92f4a64f2b2"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:9dddbb0df0ff340d",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 八 nghĩa là gì?",
+    "choices": [
+      "ra",
+      "sáu",
+      "tám",
+      "vào"
+    ],
+    "answers": [
+      "tám"
+    ],
+    "explanationVi": "Hán Việt: bát.",
+    "itemIds": [
+      "zh-hans:character:dbcfa92f4a64f2b2"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:03a9e42bfb730602",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "六",
+    "answers": [
+      "六"
+    ],
+    "itemIds": [
+      "zh-hans:character:f079fa3186e22108"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:07b53361a05f3864",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 六 nghĩa là gì?",
+    "choices": [
+      "ra",
+      "sáu",
+      "sức",
+      "tám"
+    ],
+    "answers": [
+      "sáu"
+    ],
+    "explanationVi": "Hán Việt: lục.",
+    "itemIds": [
+      "zh-hans:character:f079fa3186e22108"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:98e27918101e4172",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "出",
+    "answers": [
+      "出"
+    ],
+    "itemIds": [
+      "zh-hans:character:a411659f35d9bf86"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:f8645a0720f3ee4d",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 出 nghĩa là gì?",
+    "choices": [
+      "bắc",
+      "ra",
+      "sáu",
+      "sức"
+    ],
+    "answers": [
+      "ra"
+    ],
+    "explanationVi": "Hán Việt: xuất.",
+    "itemIds": [
+      "zh-hans:character:a411659f35d9bf86"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2b3530d2e23aa13b",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "力",
+    "answers": [
+      "力"
+    ],
+    "itemIds": [
+      "zh-hans:character:78ed37d1d0033564"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2163a0c238ef2183",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 力 nghĩa là gì?",
+    "choices": [
+      "bắc",
+      "mười",
+      "ra",
+      "sức"
+    ],
+    "answers": [
+      "sức"
+    ],
+    "explanationVi": "Hán Việt: lực.",
+    "itemIds": [
+      "zh-hans:character:78ed37d1d0033564"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:4ad87cc1565a7060",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "北",
+    "answers": [
+      "北"
+    ],
+    "itemIds": [
+      "zh-hans:character:4a91455d8b3f218c"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:4369a317f417fd9a",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 北 nghĩa là gì?",
+    "choices": [
+      "bắc",
+      "mười",
+      "nghìn",
+      "sức"
+    ],
+    "answers": [
+      "bắc"
+    ],
+    "explanationVi": "Hán Việt: bắc.",
+    "itemIds": [
+      "zh-hans:character:4a91455d8b3f218c"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:174e7f3473072efb",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "十",
+    "answers": [
+      "十"
+    ],
+    "itemIds": [
+      "zh-hans:character:7596c2fe46fc45d6"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:45a68defe0e1aba1",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 十 nghĩa là gì?",
+    "choices": [
+      "bắc",
+      "mười",
+      "nghìn",
+      "trưa"
+    ],
+    "answers": [
+      "mười"
+    ],
+    "explanationVi": "Hán Việt: thập.",
+    "itemIds": [
+      "zh-hans:character:7596c2fe46fc45d6"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:854eb9982e16bbb1",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "千",
+    "answers": [
+      "千"
+    ],
+    "itemIds": [
+      "zh-hans:character:ebc2da8e16b17a99"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:bc03dec742f7a230",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 千 nghĩa là gì?",
+    "choices": [
+      "mười",
+      "nam",
+      "nghìn",
+      "trưa"
+    ],
+    "answers": [
+      "nghìn"
+    ],
+    "explanationVi": "Hán Việt: thiên.",
+    "itemIds": [
+      "zh-hans:character:ebc2da8e16b17a99"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:66d074fae7d9b62e",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "午",
+    "answers": [
+      "午"
+    ],
+    "itemIds": [
+      "zh-hans:character:255112b714efd407"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:280837e7c8bb2a66",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 午 nghĩa là gì?",
+    "choices": [
+      "nam",
+      "nghìn",
+      "trưa",
+      "đi"
+    ],
+    "answers": [
+      "trưa"
+    ],
+    "explanationVi": "Hán Việt: ngọ.",
+    "itemIds": [
+      "zh-hans:character:255112b714efd407"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:0c4eccf54ac1c64c",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "南",
+    "answers": [
+      "南"
+    ],
+    "itemIds": [
+      "zh-hans:character:29b0449e4d1a51cb"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:e736c90ee80d8534",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 南 nghĩa là gì?",
+    "choices": [
+      "miệng",
+      "nam",
+      "trưa",
+      "đi"
+    ],
+    "answers": [
+      "nam"
+    ],
+    "explanationVi": "Hán Việt: nam.",
+    "itemIds": [
+      "zh-hans:character:29b0449e4d1a51cb"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:ebc3866567bbb2c5",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "去",
+    "answers": [
+      "去"
+    ],
+    "itemIds": [
+      "zh-hans:character:d26312554371c826"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:8a73556f57692f1d",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 去 nghĩa là gì?",
+    "choices": [
+      "miệng",
+      "nam",
+      "phải",
+      "đi"
+    ],
+    "answers": [
+      "đi"
+    ],
+    "explanationVi": "Hán Việt: khứ.",
+    "itemIds": [
+      "zh-hans:character:d26312554371c826"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:1951e6bef25d07e4",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "口",
+    "answers": [
+      "口"
+    ],
+    "itemIds": [
+      "zh-hans:character:9bd5e979cd953def"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c46050e90421d7b8",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 口 nghĩa là gì?",
+    "choices": [
+      "miệng",
+      "phải",
+      "và",
+      "đi"
+    ],
+    "answers": [
+      "miệng"
+    ],
+    "explanationVi": "Hán Việt: khẩu.",
+    "itemIds": [
+      "zh-hans:character:9bd5e979cd953def"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:893c48224b333eff",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "右",
+    "answers": [
+      "右"
+    ],
+    "itemIds": [
+      "zh-hans:character:dbf9b32cb97eb957"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:4ce76b93e0eac8b1",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 右 nghĩa là gì?",
+    "choices": [
+      "bốn",
+      "miệng",
+      "phải",
+      "và"
+    ],
+    "answers": [
+      "phải"
+    ],
+    "explanationVi": "Hán Việt: hữu.",
+    "itemIds": [
+      "zh-hans:character:dbf9b32cb97eb957"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:079b404d63cfb94f",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "和",
+    "answers": [
+      "和"
+    ],
+    "itemIds": [
+      "zh-hans:character:71480c7d56243311"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:98021391668fe988",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 和 nghĩa là gì?",
+    "choices": [
+      "bốn",
+      "nước, quốc gia",
+      "phải",
+      "và"
+    ],
+    "answers": [
+      "và"
+    ],
+    "explanationVi": "Hán Việt: hoà.",
+    "itemIds": [
+      "zh-hans:character:71480c7d56243311"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:80232b1e85cc3fbf",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "四",
+    "answers": [
+      "四"
+    ],
+    "itemIds": [
+      "zh-hans:character:24709ba97c678e5c"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:5a431d146d96e01f",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 四 nghĩa là gì?",
+    "choices": [
+      "bốn",
+      "nước, quốc gia",
+      "và",
+      "đất"
+    ],
+    "answers": [
+      "bốn"
+    ],
+    "explanationVi": "Hán Việt: tứ.",
+    "itemIds": [
+      "zh-hans:character:24709ba97c678e5c"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:26a3ebd6ee3edee4",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "国",
+    "answers": [
+      "国"
+    ],
+    "itemIds": [
+      "zh-hans:character:5ca5cfd81bade060"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:1bb4b215bab7058b",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 国 nghĩa là gì?",
+    "choices": [
+      "bốn",
+      "nước, quốc gia",
+      "đất",
+      "ở, tại"
+    ],
+    "answers": [
+      "nước, quốc gia"
+    ],
+    "explanationVi": "Hán Việt: quốc.",
+    "itemIds": [
+      "zh-hans:character:5ca5cfd81bade060"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:933f39f110139e01",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "土",
+    "answers": [
+      "土"
+    ],
+    "itemIds": [
+      "zh-hans:character:90e91b222e016435"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:6e0a1f9e9fe01c00",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 土 nghĩa là gì?",
+    "choices": [
+      "nhiều",
+      "nước, quốc gia",
+      "đất",
+      "ở, tại"
+    ],
+    "answers": [
+      "đất"
+    ],
+    "explanationVi": "Hán Việt: thổ.",
+    "itemIds": [
+      "zh-hans:character:90e91b222e016435"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:a0e0cacd59c87ca7",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "在",
+    "answers": [
+      "在"
+    ],
+    "itemIds": [
+      "zh-hans:character:3da7e23aa7b2e201"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:99c0780f7cf9048d",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 在 nghĩa là gì?",
+    "choices": [
+      "nhiều",
+      "to, lớn",
+      "đất",
+      "ở, tại"
+    ],
+    "answers": [
+      "ở, tại"
+    ],
+    "explanationVi": "Hán Việt: tại.",
+    "itemIds": [
+      "zh-hans:character:3da7e23aa7b2e201"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b9eebb8665e19fca",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "多",
+    "answers": [
+      "多"
+    ],
+    "itemIds": [
+      "zh-hans:character:ba7d15cda703b11d"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:bdf17401cf685183",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 多 nghĩa là gì?",
+    "choices": [
+      "nhiều",
+      "to, lớn",
+      "trời",
+      "ở, tại"
+    ],
+    "answers": [
+      "nhiều"
+    ],
+    "explanationVi": "Hán Việt: đa.",
+    "itemIds": [
+      "zh-hans:character:ba7d15cda703b11d"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b8eb4999a5ffc51c",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "大",
+    "answers": [
+      "大"
+    ],
+    "itemIds": [
+      "zh-hans:character:329324e98768b54c"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:52899105409d5c46",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 大 nghĩa là gì?",
+    "choices": [
+      "nhiều",
+      "phụ nữ",
+      "to, lớn",
+      "trời"
+    ],
+    "answers": [
+      "to, lớn"
+    ],
+    "explanationVi": "Hán Việt: đại.",
+    "itemIds": [
+      "zh-hans:character:329324e98768b54c"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:85d49f468b7a6aa3",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "天",
+    "answers": [
+      "天"
+    ],
+    "itemIds": [
+      "zh-hans:character:86a1ce48003ce419"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:31204e81939db37e",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 天 nghĩa là gì?",
+    "choices": [
+      "cô ấy",
+      "phụ nữ",
+      "to, lớn",
+      "trời"
+    ],
+    "answers": [
+      "trời"
+    ],
+    "explanationVi": "Hán Việt: thiên.",
+    "itemIds": [
+      "zh-hans:character:86a1ce48003ce419"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:61fa20e437d062bd",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "女",
+    "answers": [
+      "女"
+    ],
+    "itemIds": [
+      "zh-hans:character:32002c865362c76b"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:036386d07e27d8bb",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 女 nghĩa là gì?",
+    "choices": [
+      "cô ấy",
+      "phụ nữ",
+      "trời",
+      "tốt, hay"
+    ],
+    "answers": [
+      "phụ nữ"
+    ],
+    "explanationVi": "Hán Việt: nữa.",
+    "itemIds": [
+      "zh-hans:character:32002c865362c76b"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:089a070868ee8a79",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "她",
+    "answers": [
+      "她"
+    ],
+    "itemIds": [
+      "zh-hans:character:099b2b7adf9cd166"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:0a8eea8d1e063d5c",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 她 nghĩa là gì?",
+    "choices": [
+      "con, đứa trẻ",
+      "cô ấy",
+      "phụ nữ",
+      "tốt, hay"
+    ],
+    "answers": [
+      "cô ấy"
+    ],
+    "explanationVi": "Hán Việt: tha.",
+    "itemIds": [
+      "zh-hans:character:099b2b7adf9cd166"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:3f80b4c808e0b22b",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "好",
+    "answers": [
+      "好"
+    ],
+    "itemIds": [
+      "zh-hans:character:3683f39b6eae2ffe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:05c8ef30ad559af9",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 好 nghĩa là gì?",
+    "choices": [
+      "chữ",
+      "con, đứa trẻ",
+      "cô ấy",
+      "tốt, hay"
+    ],
+    "answers": [
+      "tốt, hay"
+    ],
+    "explanationVi": "Hán Việt: háo.",
+    "itemIds": [
+      "zh-hans:character:3683f39b6eae2ffe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:87bb88579a0097bb",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "子",
+    "answers": [
+      "子"
+    ],
+    "itemIds": [
+      "zh-hans:character:26b2c4ed69af2b03"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2962fe84227592a5",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 子 nghĩa là gì?",
+    "choices": [
+      "chữ",
+      "con, đứa trẻ",
+      "học",
+      "tốt, hay"
+    ],
+    "answers": [
+      "con, đứa trẻ"
+    ],
+    "explanationVi": "Hán Việt: tí.",
+    "itemIds": [
+      "zh-hans:character:26b2c4ed69af2b03"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:732cc7660a19cd0d",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "字",
+    "answers": [
+      "字"
+    ],
+    "itemIds": [
+      "zh-hans:character:15632c6e5cd58974"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:7d3a22b56794b1b4",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 字 nghĩa là gì?",
+    "choices": [
+      "chữ",
+      "con, đứa trẻ",
+      "học",
+      "nhà"
+    ],
+    "answers": [
+      "chữ"
+    ],
+    "explanationVi": "Hán Việt: tự.",
+    "itemIds": [
+      "zh-hans:character:15632c6e5cd58974"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b573c6e6d2376a08",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "学",
+    "answers": [
+      "学"
+    ],
+    "itemIds": [
+      "zh-hans:character:ee49ae37852a3135"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:7d47ccad460c1f67",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 学 nghĩa là gì?",
+    "choices": [
+      "chữ",
+      "học",
+      "nhà",
+      "nhỏ"
+    ],
+    "answers": [
+      "học"
+    ],
+    "explanationVi": "Hán Việt: học.",
+    "itemIds": [
+      "zh-hans:character:ee49ae37852a3135"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:e0a781677ba6a02f",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "家",
+    "answers": [
+      "家"
+    ],
+    "itemIds": [
+      "zh-hans:character:70da0a1dc78ed0ea"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:7f0a067885b726d7",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 家 nghĩa là gì?",
+    "choices": [
+      "học",
+      "nhà",
+      "nhỏ",
+      "ít"
+    ],
+    "answers": [
+      "nhà"
+    ],
+    "explanationVi": "Hán Việt: gia.",
+    "itemIds": [
+      "zh-hans:character:70da0a1dc78ed0ea"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:58fde87bd69d1720",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "小",
+    "answers": [
+      "小"
+    ],
+    "itemIds": [
+      "zh-hans:character:0af229d472be022b"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:dbc1f91acd591ba4",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 小 nghĩa là gì?",
+    "choices": [
+      "nhà",
+      "nhỏ",
+      "núi",
+      "ít"
+    ],
+    "answers": [
+      "nhỏ"
+    ],
+    "explanationVi": "Hán Việt: tiểu.",
+    "itemIds": [
+      "zh-hans:character:0af229d472be022b"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b827cc63ec2fae16",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "少",
+    "answers": [
+      "少"
+    ],
+    "itemIds": [
+      "zh-hans:character:4b7aee76de65f0b9"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:26680a9cc99e09f0",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 少 nghĩa là gì?",
+    "choices": [
+      "làm, công việc",
+      "nhỏ",
+      "núi",
+      "ít"
+    ],
+    "answers": [
+      "ít"
+    ],
+    "explanationVi": "Hán Việt: thiểu.",
+    "itemIds": [
+      "zh-hans:character:4b7aee76de65f0b9"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:df2be9f2a9399407",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "山",
+    "answers": [
+      "山"
+    ],
+    "itemIds": [
+      "zh-hans:character:6abe2b70f341b0af"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:48ee127801e57153",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 山 nghĩa là gì?",
+    "choices": [
+      "làm, công việc",
+      "núi",
+      "trái",
+      "ít"
+    ],
+    "answers": [
+      "núi"
+    ],
+    "explanationVi": "Hán Việt: sơn.",
+    "itemIds": [
+      "zh-hans:character:6abe2b70f341b0af"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:17a56f1022949741",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "工",
+    "answers": [
+      "工"
+    ],
+    "itemIds": [
+      "zh-hans:character:4e7de80899d01de6"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:af7d968a2f14402d",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 工 nghĩa là gì?",
+    "choices": [
+      "làm, công việc",
+      "núi",
+      "năm (thời gian)",
+      "trái"
+    ],
+    "answers": [
+      "làm, công việc"
+    ],
+    "explanationVi": "Hán Việt: công.",
+    "itemIds": [
+      "zh-hans:character:4e7de80899d01de6"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:9a96fb234cfeca71",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "左",
+    "answers": [
+      "左"
+    ],
+    "itemIds": [
+      "zh-hans:character:77de50d4328f396d"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:8bd6044c48df6144",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 左 nghĩa là gì?",
+    "choices": [
+      "làm, công việc",
+      "mở",
+      "năm (thời gian)",
+      "trái"
+    ],
+    "answers": [
+      "trái"
+    ],
+    "explanationVi": "Hán Việt: tả.",
+    "itemIds": [
+      "zh-hans:character:77de50d4328f396d"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:96a94c3a232984be",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "年",
+    "answers": [
+      "年"
+    ],
+    "itemIds": [
+      "zh-hans:character:2720fef749788002"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:9c7e1a38b35eeb22",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 年 nghĩa là gì?",
+    "choices": [
+      "mở",
+      "năm (thời gian)",
+      "tim, lòng",
+      "trái"
+    ],
+    "answers": [
+      "năm (thời gian)"
+    ],
+    "explanationVi": "Hán Việt: nên.",
+    "itemIds": [
+      "zh-hans:character:2720fef749788002"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:66b42847b4cfa9b2",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "开",
+    "answers": [
+      "开"
+    ],
+    "itemIds": [
+      "zh-hans:character:a641e4d1fb6e5aed"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:5ba00e3de25f3d20",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 开 nghĩa là gì?",
+    "choices": [
+      "mở",
+      "năm (thời gian)",
+      "tim, lòng",
+      "tôi"
+    ],
+    "answers": [
+      "mở"
+    ],
+    "explanationVi": "Hán Việt: khai.",
+    "itemIds": [
+      "zh-hans:character:a641e4d1fb6e5aed"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:424d60efa6a47a81",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "心",
+    "answers": [
+      "心"
+    ],
+    "itemIds": [
+      "zh-hans:character:0964fef870fa61ce"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:90120525c28e9622",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 心 nghĩa là gì?",
+    "choices": [
+      "mở",
+      "tay",
+      "tim, lòng",
+      "tôi"
+    ],
+    "answers": [
+      "tim, lòng"
+    ],
+    "explanationVi": "Hán Việt: tâm.",
+    "itemIds": [
+      "zh-hans:character:0964fef870fa61ce"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:a6dfd31d7f77374e",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "我",
+    "answers": [
+      "我"
+    ],
+    "itemIds": [
+      "zh-hans:character:df6a6c765a004878"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2b13c3596f596878",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 我 nghĩa là gì?",
+    "choices": [
+      "tay",
+      "tim, lòng",
+      "tôi",
+      "văn, chữ viết"
+    ],
+    "answers": [
+      "tôi"
+    ],
+    "explanationVi": "Hán Việt: ngã.",
+    "itemIds": [
+      "zh-hans:character:df6a6c765a004878"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:1d5ffc0bc4639ee5",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "手",
+    "answers": [
+      "手"
+    ],
+    "itemIds": [
+      "zh-hans:character:b8ba4994f5261abe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:be1100b126f04355",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 手 nghĩa là gì?",
+    "choices": [
+      "mặt trời, ngày",
+      "tay",
+      "tôi",
+      "văn, chữ viết"
+    ],
+    "answers": [
+      "tay"
+    ],
+    "explanationVi": "Hán Việt: thủ.",
+    "itemIds": [
+      "zh-hans:character:b8ba4994f5261abe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:efdedf956d11218a",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "文",
+    "answers": [
+      "文"
+    ],
+    "itemIds": [
+      "zh-hans:character:4d4450c1b0ac8cb8"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2da4bd407cc48a8c",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 文 nghĩa là gì?",
+    "choices": [
+      "mặt trời, ngày",
+      "sớm",
+      "tay",
+      "văn, chữ viết"
+    ],
+    "answers": [
+      "văn, chữ viết"
+    ],
+    "explanationVi": "Hán Việt: văn.",
+    "itemIds": [
+      "zh-hans:character:4d4450c1b0ac8cb8"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2219e6a92cf24d9c",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "日",
+    "answers": [
+      "日"
+    ],
+    "itemIds": [
+      "zh-hans:character:273c2e3daae7c158"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c01fd4068fb3df4f",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 日 nghĩa là gì?",
+    "choices": [
+      "mặt trời, ngày",
+      "sáng, rõ",
+      "sớm",
+      "văn, chữ viết"
+    ],
+    "answers": [
+      "mặt trời, ngày"
+    ],
+    "explanationVi": "Hán Việt: nhật.",
+    "itemIds": [
+      "zh-hans:character:273c2e3daae7c158"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b0d6d44d59a203f4",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "早",
+    "answers": [
+      "早"
+    ],
+    "itemIds": [
+      "zh-hans:character:8b1e60b1416fa5b7"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c5748e3e185c5129",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 早 nghĩa là gì?",
+    "choices": [
+      "là",
+      "mặt trời, ngày",
+      "sáng, rõ",
+      "sớm"
+    ],
+    "answers": [
+      "sớm"
+    ],
+    "explanationVi": "Hán Việt: tảo.",
+    "itemIds": [
+      "zh-hans:character:8b1e60b1416fa5b7"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:56edc1d11be0f952",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "明",
+    "answers": [
+      "明"
+    ],
+    "itemIds": [
+      "zh-hans:character:aace907b0dc72ac4"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b704a81a6b9237ca",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 明 nghĩa là gì?",
+    "choices": [
+      "là",
+      "sáng, rõ",
+      "sớm",
+      "tối, muộn"
+    ],
+    "answers": [
+      "sáng, rõ"
+    ],
+    "explanationVi": "Hán Việt: minh.",
+    "itemIds": [
+      "zh-hans:character:aace907b0dc72ac4"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:aa288ceb676a2d10",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "是",
+    "answers": [
+      "是"
+    ],
+    "itemIds": [
+      "zh-hans:character:abce481fa08930b0"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:3060b13979e5bab9",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 是 nghĩa là gì?",
+    "choices": [
+      "là",
+      "mặt trăng, tháng",
+      "sáng, rõ",
+      "tối, muộn"
+    ],
+    "answers": [
+      "là"
+    ],
+    "explanationVi": "Hán Việt: thị.",
+    "itemIds": [
+      "zh-hans:character:abce481fa08930b0"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c34e0ef1b41a14db",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "晚",
+    "answers": [
+      "晚"
+    ],
+    "itemIds": [
+      "zh-hans:character:a4c001468fd594d2"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b194981b30df051f",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 晚 nghĩa là gì?",
+    "choices": [
+      "có",
+      "là",
+      "mặt trăng, tháng",
+      "tối, muộn"
+    ],
+    "answers": [
+      "tối, muộn"
+    ],
+    "explanationVi": "Hán Việt: vãn.",
+    "itemIds": [
+      "zh-hans:character:a4c001468fd594d2"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:3994391ab39d57e4",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "月",
+    "answers": [
+      "月"
+    ],
+    "itemIds": [
+      "zh-hans:character:6877b2ba7ffa9ca3"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c49741c6aa28b9c0",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 月 nghĩa là gì?",
+    "choices": [
+      "cây, gỗ",
+      "có",
+      "mặt trăng, tháng",
+      "tối, muộn"
+    ],
+    "answers": [
+      "mặt trăng, tháng"
+    ],
+    "explanationVi": "Hán Việt: nguyệt.",
+    "itemIds": [
+      "zh-hans:character:6877b2ba7ffa9ca3"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c2ec42961303a749",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "有",
+    "answers": [
+      "有"
+    ],
+    "itemIds": [
+      "zh-hans:character:135c2b494ff333b3"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:288894b0c86b4321",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 有 nghĩa là gì?",
+    "choices": [
+      "cây, gỗ",
+      "có",
+      "mặt trăng, tháng",
+      "đến"
+    ],
+    "answers": [
+      "có"
+    ],
+    "explanationVi": "Hán Việt: hữu.",
+    "itemIds": [
+      "zh-hans:character:135c2b494ff333b3"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:d41c934b9165a05f",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "木",
+    "answers": [
+      "木"
+    ],
+    "itemIds": [
+      "zh-hans:character:752d748054b875cb"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:079b468cbec02eaa",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 木 nghĩa là gì?",
+    "choices": [
+      "cây, gỗ",
+      "có",
+      "nước",
+      "đến"
+    ],
+    "answers": [
+      "cây, gỗ"
+    ],
+    "explanationVi": "Hán Việt: mộc.",
+    "itemIds": [
+      "zh-hans:character:752d748054b875cb"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:f10830b5bc0d4d26",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "来",
+    "answers": [
+      "来"
+    ],
+    "itemIds": [
+      "zh-hans:character:fed10d186fdcaad4"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:277f05ce8ad9a2e1",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 来 nghĩa là gì?",
+    "choices": [
+      "cây, gỗ",
+      "lửa",
+      "nước",
+      "đến"
+    ],
+    "answers": [
+      "đến"
+    ],
+    "explanationVi": "Hán Việt: lai.",
+    "itemIds": [
+      "zh-hans:character:fed10d186fdcaad4"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:21ca4fa27f0c8c4f",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "水",
+    "answers": [
+      "水"
+    ],
+    "itemIds": [
+      "zh-hans:character:4d2fcad8d4221a06"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:89afbefc6de5febf",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 水 nghĩa là gì?",
+    "choices": [
+      "bò",
+      "lửa",
+      "nước",
+      "đến"
+    ],
+    "answers": [
+      "nước"
+    ],
+    "explanationVi": "Hán Việt: thuỷ.",
+    "itemIds": [
+      "zh-hans:character:4d2fcad8d4221a06"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:cb308e968efb42d8",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "火",
+    "answers": [
+      "火"
+    ],
+    "itemIds": [
+      "zh-hans:character:337da3342d02e08b"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:044b225569a50665",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 火 nghĩa là gì?",
+    "choices": [
+      "bò",
+      "lửa",
+      "nước",
+      "vua"
+    ],
+    "answers": [
+      "lửa"
+    ],
+    "explanationVi": "Hán Việt: hoả.",
+    "itemIds": [
+      "zh-hans:character:337da3342d02e08b"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:edcab94519ce8e87",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "牛",
+    "answers": [
+      "牛"
+    ],
+    "itemIds": [
+      "zh-hans:character:299632ff5c6d2e09"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:10d6bab3690ab7ba",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 牛 nghĩa là gì?",
+    "choices": [
+      "bò",
+      "lửa",
+      "sinh, sống",
+      "vua"
+    ],
+    "answers": [
+      "bò"
+    ],
+    "explanationVi": "Hán Việt: ngưu.",
+    "itemIds": [
+      "zh-hans:character:299632ff5c6d2e09"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:29017bf86f04449d",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "王",
+    "answers": [
+      "王"
+    ],
+    "itemIds": [
+      "zh-hans:character:682cf69e960bcd2a"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:03066271c7b33825",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 王 nghĩa là gì?",
+    "choices": [
+      "bò",
+      "ruộng",
+      "sinh, sống",
+      "vua"
+    ],
+    "answers": [
+      "vua"
+    ],
+    "explanationVi": "Hán Việt: vương.",
+    "itemIds": [
+      "zh-hans:character:682cf69e960bcd2a"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:ab2ea82806024b79",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "生",
+    "answers": [
+      "生"
+    ],
+    "itemIds": [
+      "zh-hans:character:deb53201739af0fa"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:ec74f65f03b60886",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 生 nghĩa là gì?",
+    "choices": [
+      "ruộng",
+      "sinh, sống",
+      "trắng",
+      "vua"
+    ],
+    "answers": [
+      "sinh, sống"
+    ],
+    "explanationVi": "Hán Việt: sinh.",
+    "itemIds": [
+      "zh-hans:character:deb53201739af0fa"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:ab7ed0077c6f3f7d",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "田",
+    "answers": [
+      "田"
+    ],
+    "itemIds": [
+      "zh-hans:character:ff1d271ef9cbca43"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:87685822f59f1673",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 田 nghĩa là gì?",
+    "choices": [
+      "ruộng",
+      "sinh, sống",
+      "trăm",
+      "trắng"
+    ],
+    "answers": [
+      "ruộng"
+    ],
+    "explanationVi": "Hán Việt: điền.",
+    "itemIds": [
+      "zh-hans:character:ff1d271ef9cbca43"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:6c7814d677572fa3",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "白",
+    "answers": [
+      "白"
+    ],
+    "itemIds": [
+      "zh-hans:character:d4de457c76d04332"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:33331a6fa4eff8cc",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 白 nghĩa là gì?",
+    "choices": [
+      "của (trợ từ)",
+      "ruộng",
+      "trăm",
+      "trắng"
+    ],
+    "answers": [
+      "trắng"
+    ],
+    "explanationVi": "Hán Việt: bạch.",
+    "itemIds": [
+      "zh-hans:character:d4de457c76d04332"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:8cf837b4035020fa",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "百",
+    "answers": [
+      "百"
+    ],
+    "itemIds": [
+      "zh-hans:character:ca4b0863bfc4419d"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:7ee54cc4e1c5f2ca",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 百 nghĩa là gì?",
+    "choices": [
+      "của (trợ từ)",
+      "mắt",
+      "trăm",
+      "trắng"
+    ],
+    "answers": [
+      "trăm"
+    ],
+    "explanationVi": "Hán Việt: bá.",
+    "itemIds": [
+      "zh-hans:character:ca4b0863bfc4419d"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:308e23926a1a7e99",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "的",
+    "answers": [
+      "的"
+    ],
+    "itemIds": [
+      "zh-hans:character:f732b4cf0d1059d7"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:1540cd5017651563",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 的 nghĩa là gì?",
+    "choices": [
+      "của (trợ từ)",
+      "mắt",
+      "trăm",
+      "đứng"
+    ],
+    "answers": [
+      "của (trợ từ)"
+    ],
+    "explanationVi": "Hán Việt: đích.",
+    "itemIds": [
+      "zh-hans:character:f732b4cf0d1059d7"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:85292cd2ae0b3e81",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "目",
+    "answers": [
+      "目"
+    ],
+    "itemIds": [
+      "zh-hans:character:2f0eb55154b86a17"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:540cef7018d366a4",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 目 nghĩa là gì?",
+    "choices": [
+      "của (trợ từ)",
+      "gạo",
+      "mắt",
+      "đứng"
+    ],
+    "answers": [
+      "mắt"
+    ],
+    "explanationVi": "Hán Việt: mục.",
+    "itemIds": [
+      "zh-hans:character:2f0eb55154b86a17"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:a8b345a7e6485f4f",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "立",
+    "answers": [
+      "立"
+    ],
+    "itemIds": [
+      "zh-hans:character:34088804de6dab04"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2baed5dd0ef5d89e",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 立 nghĩa là gì?",
+    "choices": [
+      "gạo",
+      "mắt",
+      "tai",
+      "đứng"
+    ],
+    "answers": [
+      "đứng"
+    ],
+    "explanationVi": "Hán Việt: lập.",
+    "itemIds": [
+      "zh-hans:character:34088804de6dab04"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:595cd2b7aa65e94a",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "米",
+    "answers": [
+      "米"
+    ],
+    "itemIds": [
+      "zh-hans:character:6dbcf68b18c186fe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:75eed20c2e3c6086",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 米 nghĩa là gì?",
+    "choices": [
+      "gạo",
+      "tai",
+      "tây",
+      "đứng"
+    ],
+    "answers": [
+      "gạo"
+    ],
+    "explanationVi": "Hán Việt: mễ.",
+    "itemIds": [
+      "zh-hans:character:6dbcf68b18c186fe"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c951807ce0aa3de9",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "耳",
+    "answers": [
+      "耳"
+    ],
+    "itemIds": [
+      "zh-hans:character:1f556f92886bb5fb"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:582611f7fcaf82ad",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 耳 nghĩa là gì?",
+    "choices": [
+      "chân",
+      "gạo",
+      "tai",
+      "tây"
+    ],
+    "answers": [
+      "tai"
+    ],
+    "explanationVi": "Hán Việt: nhĩ.",
+    "itemIds": [
+      "zh-hans:character:1f556f92886bb5fb"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:44d7e559ca812ec0",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "西",
+    "answers": [
+      "西"
+    ],
+    "itemIds": [
+      "zh-hans:character:5d6b9c54a252915e"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:4cf653cbf1790236",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 西 nghĩa là gì?",
+    "choices": [
+      "chân",
+      "tai",
+      "tây",
+      "xe"
+    ],
+    "answers": [
+      "tây"
+    ],
+    "explanationVi": "Hán Việt: tây.",
+    "itemIds": [
+      "zh-hans:character:5d6b9c54a252915e"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:e874ed47ede81f25",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "足",
+    "answers": [
+      "足"
+    ],
+    "itemIds": [
+      "zh-hans:character:e40ebff5bf526cc8"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b6fa965e078cf5c3",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 足 nghĩa là gì?",
+    "choices": [
+      "chân",
+      "này",
+      "tây",
+      "xe"
+    ],
+    "answers": [
+      "chân"
+    ],
+    "explanationVi": "Hán Việt: túc.",
+    "itemIds": [
+      "zh-hans:character:e40ebff5bf526cc8"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:3b901820299fd874",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "车",
+    "answers": [
+      "车"
+    ],
+    "itemIds": [
+      "zh-hans:character:26709abcc7ad6a3c"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:5179f7fbb7573568",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 车 nghĩa là gì?",
+    "choices": [
+      "chân",
+      "kia, đó",
+      "này",
+      "xe"
+    ],
+    "answers": [
+      "xe"
+    ],
+    "explanationVi": "Hán Việt: xa.",
+    "itemIds": [
+      "zh-hans:character:26709abcc7ad6a3c"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:457f0000d6f98ca2",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "这",
+    "answers": [
+      "这"
+    ],
+    "itemIds": [
+      "zh-hans:character:1d14232f21ea51c9"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:1dc126d55871d3c8",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 这 nghĩa là gì?",
+    "choices": [
+      "cửa",
+      "kia, đó",
+      "này",
+      "xe"
+    ],
+    "answers": [
+      "này"
+    ],
+    "explanationVi": "Hán Việt: giá.",
+    "itemIds": [
+      "zh-hans:character:1d14232f21ea51c9"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:6c45b923b6dd8372",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "那",
+    "answers": [
+      "那"
+    ],
+    "itemIds": [
+      "zh-hans:character:2a534da9c56db60b"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:754ea251240a3fbf",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 那 nghĩa là gì?",
+    "choices": [
+      "cửa",
+      "kia, đó",
+      "ngựa",
+      "này"
+    ],
+    "answers": [
+      "kia, đó"
+    ],
+    "explanationVi": "Hán Việt: na.",
+    "itemIds": [
+      "zh-hans:character:2a534da9c56db60b"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:219433d49e4df214",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "门",
+    "answers": [
+      "门"
+    ],
+    "itemIds": [
+      "zh-hans:character:8bc28097c5b425ee"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:aa84262dab1222b9",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 门 nghĩa là gì?",
+    "choices": [
+      "cá",
+      "cửa",
+      "kia, đó",
+      "ngựa"
+    ],
+    "answers": [
+      "cửa"
+    ],
+    "explanationVi": "Hán Việt: môn.",
+    "itemIds": [
+      "zh-hans:character:8bc28097c5b425ee"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:0175509ef728ab95",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "马",
+    "answers": [
+      "马"
+    ],
+    "itemIds": [
+      "zh-hans:character:300042e293990526"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:a7b725386e712db8",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 马 nghĩa là gì?",
+    "choices": [
+      "chim",
+      "cá",
+      "cửa",
+      "ngựa"
+    ],
+    "answers": [
+      "ngựa"
+    ],
+    "explanationVi": "Hán Việt: mã.",
+    "itemIds": [
+      "zh-hans:character:300042e293990526"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:fdc72652076e6c05",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "鱼",
+    "answers": [
+      "鱼"
+    ],
+    "itemIds": [
+      "zh-hans:character:a1d65c32d2cfcb17"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:0e29745baa18585e",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 鱼 nghĩa là gì?",
+    "choices": [
+      "chim",
+      "cá",
+      "cửa",
+      "ngựa"
+    ],
+    "answers": [
+      "cá"
+    ],
+    "explanationVi": "Hán Việt: ngư.",
+    "itemIds": [
+      "zh-hans:character:a1d65c32d2cfcb17"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:342ec7231f495d67",
+    "lang": "zh-hans",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "HSK1",
+    "prompt": "鸟",
+    "answers": [
+      "鸟"
+    ],
+    "itemIds": [
+      "zh-hans:character:a8807af24c8403a8"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:45b75e48c72a0634",
+    "lang": "zh-hans",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "Chữ 鸟 nghĩa là gì?",
+    "choices": [
+      "chim",
+      "cá",
+      "cửa",
+      "ngựa"
+    ],
+    "answers": [
+      "chim"
+    ],
+    "explanationVi": "Hán Việt: điểu.",
+    "itemIds": [
+      "zh-hans:character:a8807af24c8403a8"
+    ]
+  }
+]

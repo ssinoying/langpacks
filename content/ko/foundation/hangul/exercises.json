@@ -1,0 +1,2181 @@
+[
+  {
+    "id": "ko:exercise:1df91653f62cd9b4",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㄱ",
+    "answers": [
+      "ㄱ"
+    ],
+    "itemIds": [
+      "ko:character:8bd5a562fa99fed1"
+    ]
+  },
+  {
+    "id": "ko:exercise:fedd782eb3146b10",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㄱ đọc là gì?",
+    "choices": [
+      "d/t",
+      "g/k",
+      "n",
+      "r/l"
+    ],
+    "answers": [
+      "g/k"
+    ],
+    "itemIds": [
+      "ko:character:8bd5a562fa99fed1"
+    ]
+  },
+  {
+    "id": "ko:exercise:5659763a36601201",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "가",
+    "choices": [
+      "ㄱ",
+      "ㄴ",
+      "ㄷ",
+      "ㄹ"
+    ],
+    "answers": [
+      "ㄱ"
+    ],
+    "explanationVi": "가 = ㄱ + ㅏ",
+    "itemIds": [
+      "ko:character:8bd5a562fa99fed1"
+    ]
+  },
+  {
+    "id": "ko:exercise:f576c1129f8e2e33",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㄴ",
+    "answers": [
+      "ㄴ"
+    ],
+    "itemIds": [
+      "ko:character:6e254ceff7991eb3"
+    ]
+  },
+  {
+    "id": "ko:exercise:96b4c9905f767599",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㄴ đọc là gì?",
+    "choices": [
+      "d/t",
+      "g/k",
+      "n",
+      "r/l"
+    ],
+    "answers": [
+      "n"
+    ],
+    "itemIds": [
+      "ko:character:6e254ceff7991eb3"
+    ]
+  },
+  {
+    "id": "ko:exercise:ba67fb00a8ec405c",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "나",
+    "choices": [
+      "ㄱ",
+      "ㄴ",
+      "ㄷ",
+      "ㄹ"
+    ],
+    "answers": [
+      "ㄴ"
+    ],
+    "explanationVi": "나 = ㄴ + ㅏ",
+    "itemIds": [
+      "ko:character:6e254ceff7991eb3"
+    ]
+  },
+  {
+    "id": "ko:exercise:f037d34d50fa09e6",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㄷ",
+    "answers": [
+      "ㄷ"
+    ],
+    "itemIds": [
+      "ko:character:26dd3bd8689da740"
+    ]
+  },
+  {
+    "id": "ko:exercise:8abd55e95b7369a5",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㄷ đọc là gì?",
+    "choices": [
+      "d/t",
+      "m",
+      "n",
+      "r/l"
+    ],
+    "answers": [
+      "d/t"
+    ],
+    "itemIds": [
+      "ko:character:26dd3bd8689da740"
+    ]
+  },
+  {
+    "id": "ko:exercise:69572d338ce9c36c",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "다",
+    "choices": [
+      "ㄴ",
+      "ㄷ",
+      "ㄹ",
+      "ㅁ"
+    ],
+    "answers": [
+      "ㄷ"
+    ],
+    "explanationVi": "다 = ㄷ + ㅏ",
+    "itemIds": [
+      "ko:character:26dd3bd8689da740"
+    ]
+  },
+  {
+    "id": "ko:exercise:efa6d11e83a69979",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㄹ",
+    "answers": [
+      "ㄹ"
+    ],
+    "itemIds": [
+      "ko:character:988924ac9143869e"
+    ]
+  },
+  {
+    "id": "ko:exercise:8a1af98ec7d72d3c",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㄹ đọc là gì?",
+    "choices": [
+      "b/p",
+      "d/t",
+      "m",
+      "r/l"
+    ],
+    "answers": [
+      "r/l"
+    ],
+    "itemIds": [
+      "ko:character:988924ac9143869e"
+    ]
+  },
+  {
+    "id": "ko:exercise:534e131a1e4e52a4",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "라",
+    "choices": [
+      "ㄷ",
+      "ㄹ",
+      "ㅁ",
+      "ㅂ"
+    ],
+    "answers": [
+      "ㄹ"
+    ],
+    "explanationVi": "라 = ㄹ + ㅏ",
+    "itemIds": [
+      "ko:character:988924ac9143869e"
+    ]
+  },
+  {
+    "id": "ko:exercise:1b0509d547991145",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅁ",
+    "answers": [
+      "ㅁ"
+    ],
+    "itemIds": [
+      "ko:character:338c9949371d8a8f"
+    ]
+  },
+  {
+    "id": "ko:exercise:5820112d7ee4b763",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅁ đọc là gì?",
+    "choices": [
+      "b/p",
+      "m",
+      "r/l",
+      "s"
+    ],
+    "answers": [
+      "m"
+    ],
+    "itemIds": [
+      "ko:character:338c9949371d8a8f"
+    ]
+  },
+  {
+    "id": "ko:exercise:aa8bc01d904cbad0",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "마",
+    "choices": [
+      "ㄹ",
+      "ㅁ",
+      "ㅂ",
+      "ㅅ"
+    ],
+    "answers": [
+      "ㅁ"
+    ],
+    "explanationVi": "마 = ㅁ + ㅏ",
+    "itemIds": [
+      "ko:character:338c9949371d8a8f"
+    ]
+  },
+  {
+    "id": "ko:exercise:e6503c8032e6e555",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅂ",
+    "answers": [
+      "ㅂ"
+    ],
+    "itemIds": [
+      "ko:character:2919525d52037a30"
+    ]
+  },
+  {
+    "id": "ko:exercise:72ca3875c16b20b3",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅂ đọc là gì?",
+    "choices": [
+      "b/p",
+      "m",
+      "ng",
+      "s"
+    ],
+    "answers": [
+      "b/p"
+    ],
+    "itemIds": [
+      "ko:character:2919525d52037a30"
+    ]
+  },
+  {
+    "id": "ko:exercise:a1b393f2a8d0db04",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "바",
+    "choices": [
+      "ㅁ",
+      "ㅂ",
+      "ㅅ",
+      "ㅇ"
+    ],
+    "answers": [
+      "ㅂ"
+    ],
+    "explanationVi": "바 = ㅂ + ㅏ",
+    "itemIds": [
+      "ko:character:2919525d52037a30"
+    ]
+  },
+  {
+    "id": "ko:exercise:dac75ffec42d40ce",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅅ",
+    "answers": [
+      "ㅅ"
+    ],
+    "itemIds": [
+      "ko:character:dd4ed87e2ebc48b8"
+    ]
+  },
+  {
+    "id": "ko:exercise:63c0fde2ca15107e",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅅ đọc là gì?",
+    "choices": [
+      "b/p",
+      "j",
+      "ng",
+      "s"
+    ],
+    "answers": [
+      "s"
+    ],
+    "itemIds": [
+      "ko:character:dd4ed87e2ebc48b8"
+    ]
+  },
+  {
+    "id": "ko:exercise:893a0ef16bf558c4",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "사",
+    "choices": [
+      "ㅂ",
+      "ㅅ",
+      "ㅇ",
+      "ㅈ"
+    ],
+    "answers": [
+      "ㅅ"
+    ],
+    "explanationVi": "사 = ㅅ + ㅏ",
+    "itemIds": [
+      "ko:character:dd4ed87e2ebc48b8"
+    ]
+  },
+  {
+    "id": "ko:exercise:4bb71ee354029961",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅇ",
+    "answers": [
+      "ㅇ"
+    ],
+    "itemIds": [
+      "ko:character:69741b62bfab88b6"
+    ]
+  },
+  {
+    "id": "ko:exercise:aacff85662c92df3",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅇ đọc là gì?",
+    "choices": [
+      "ch",
+      "j",
+      "ng",
+      "s"
+    ],
+    "answers": [
+      "ng"
+    ],
+    "itemIds": [
+      "ko:character:69741b62bfab88b6"
+    ]
+  },
+  {
+    "id": "ko:exercise:b0f073aedd5bed30",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅈ",
+    "answers": [
+      "ㅈ"
+    ],
+    "itemIds": [
+      "ko:character:de4b3dffb21fa86c"
+    ]
+  },
+  {
+    "id": "ko:exercise:86b29ea69dfde575",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅈ đọc là gì?",
+    "choices": [
+      "ch",
+      "j",
+      "k",
+      "ng"
+    ],
+    "answers": [
+      "j"
+    ],
+    "itemIds": [
+      "ko:character:de4b3dffb21fa86c"
+    ]
+  },
+  {
+    "id": "ko:exercise:b9ea33c90b4966a3",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "자",
+    "choices": [
+      "ㅇ",
+      "ㅈ",
+      "ㅊ",
+      "ㅋ"
+    ],
+    "answers": [
+      "ㅈ"
+    ],
+    "explanationVi": "자 = ㅈ + ㅏ",
+    "itemIds": [
+      "ko:character:de4b3dffb21fa86c"
+    ]
+  },
+  {
+    "id": "ko:exercise:1593b5b7f5238415",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅊ",
+    "answers": [
+      "ㅊ"
+    ],
+    "itemIds": [
+      "ko:character:454a0c2df0ea7bc4"
+    ]
+  },
+  {
+    "id": "ko:exercise:1877ef18b1e54e31",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅊ đọc là gì?",
+    "choices": [
+      "ch",
+      "j",
+      "k",
+      "t"
+    ],
+    "answers": [
+      "ch"
+    ],
+    "itemIds": [
+      "ko:character:454a0c2df0ea7bc4"
+    ]
+  },
+  {
+    "id": "ko:exercise:d806f601177f88f3",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "차",
+    "choices": [
+      "ㅈ",
+      "ㅊ",
+      "ㅋ",
+      "ㅌ"
+    ],
+    "answers": [
+      "ㅊ"
+    ],
+    "explanationVi": "차 = ㅊ + ㅏ",
+    "itemIds": [
+      "ko:character:454a0c2df0ea7bc4"
+    ]
+  },
+  {
+    "id": "ko:exercise:e75765e410551ed0",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅋ",
+    "answers": [
+      "ㅋ"
+    ],
+    "itemIds": [
+      "ko:character:8a638bfd57772894"
+    ]
+  },
+  {
+    "id": "ko:exercise:546e241798df3e6d",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅋ đọc là gì?",
+    "choices": [
+      "ch",
+      "k",
+      "p",
+      "t"
+    ],
+    "answers": [
+      "k"
+    ],
+    "itemIds": [
+      "ko:character:8a638bfd57772894"
+    ]
+  },
+  {
+    "id": "ko:exercise:67a5b1eb6075093e",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "카",
+    "choices": [
+      "ㅊ",
+      "ㅋ",
+      "ㅌ",
+      "ㅍ"
+    ],
+    "answers": [
+      "ㅋ"
+    ],
+    "explanationVi": "카 = ㅋ + ㅏ",
+    "itemIds": [
+      "ko:character:8a638bfd57772894"
+    ]
+  },
+  {
+    "id": "ko:exercise:71416d09a0906734",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅌ",
+    "answers": [
+      "ㅌ"
+    ],
+    "itemIds": [
+      "ko:character:427d6bf067be731a"
+    ]
+  },
+  {
+    "id": "ko:exercise:4772bbc4e9b1628a",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅌ đọc là gì?",
+    "choices": [
+      "h",
+      "k",
+      "p",
+      "t"
+    ],
+    "answers": [
+      "t"
+    ],
+    "itemIds": [
+      "ko:character:427d6bf067be731a"
+    ]
+  },
+  {
+    "id": "ko:exercise:acafb2f9a9e07b49",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "타",
+    "choices": [
+      "ㅋ",
+      "ㅌ",
+      "ㅍ",
+      "ㅎ"
+    ],
+    "answers": [
+      "ㅌ"
+    ],
+    "explanationVi": "타 = ㅌ + ㅏ",
+    "itemIds": [
+      "ko:character:427d6bf067be731a"
+    ]
+  },
+  {
+    "id": "ko:exercise:212a4b49cd71c2da",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅍ",
+    "answers": [
+      "ㅍ"
+    ],
+    "itemIds": [
+      "ko:character:c57303638ee08af3"
+    ]
+  },
+  {
+    "id": "ko:exercise:d595cf49665e4d0b",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅍ đọc là gì?",
+    "choices": [
+      "h",
+      "kk",
+      "p",
+      "t"
+    ],
+    "answers": [
+      "p"
+    ],
+    "itemIds": [
+      "ko:character:c57303638ee08af3"
+    ]
+  },
+  {
+    "id": "ko:exercise:6f74f275539d15f0",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "파",
+    "choices": [
+      "ㄲ",
+      "ㅌ",
+      "ㅍ",
+      "ㅎ"
+    ],
+    "answers": [
+      "ㅍ"
+    ],
+    "explanationVi": "파 = ㅍ + ㅏ",
+    "itemIds": [
+      "ko:character:c57303638ee08af3"
+    ]
+  },
+  {
+    "id": "ko:exercise:4f2d2954b41f0b53",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅎ",
+    "answers": [
+      "ㅎ"
+    ],
+    "itemIds": [
+      "ko:character:cd7ccc18378b38a1"
+    ]
+  },
+  {
+    "id": "ko:exercise:8a10a5cce17d9a96",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅎ đọc là gì?",
+    "choices": [
+      "h",
+      "kk",
+      "p",
+      "tt"
+    ],
+    "answers": [
+      "h"
+    ],
+    "itemIds": [
+      "ko:character:cd7ccc18378b38a1"
+    ]
+  },
+  {
+    "id": "ko:exercise:e21281ec9112e014",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "하",
+    "choices": [
+      "ㄲ",
+      "ㄸ",
+      "ㅍ",
+      "ㅎ"
+    ],
+    "answers": [
+      "ㅎ"
+    ],
+    "explanationVi": "하 = ㅎ + ㅏ",
+    "itemIds": [
+      "ko:character:cd7ccc18378b38a1"
+    ]
+  },
+  {
+    "id": "ko:exercise:35658cb6257a763a",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㄲ",
+    "answers": [
+      "ㄲ"
+    ],
+    "itemIds": [
+      "ko:character:5ef419c509d19753"
+    ]
+  },
+  {
+    "id": "ko:exercise:0493e6233d69de2c",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㄲ đọc là gì?",
+    "choices": [
+      "h",
+      "kk",
+      "pp",
+      "tt"
+    ],
+    "answers": [
+      "kk"
+    ],
+    "itemIds": [
+      "ko:character:5ef419c509d19753"
+    ]
+  },
+  {
+    "id": "ko:exercise:1bef7aea7e10505a",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "까",
+    "choices": [
+      "ㄲ",
+      "ㄸ",
+      "ㅃ",
+      "ㅎ"
+    ],
+    "answers": [
+      "ㄲ"
+    ],
+    "explanationVi": "까 = ㄲ + ㅏ",
+    "itemIds": [
+      "ko:character:5ef419c509d19753"
+    ]
+  },
+  {
+    "id": "ko:exercise:80d2da280fcc7c6f",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㄸ",
+    "answers": [
+      "ㄸ"
+    ],
+    "itemIds": [
+      "ko:character:40a92852c9d83df6"
+    ]
+  },
+  {
+    "id": "ko:exercise:d2d96dbf718fb511",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㄸ đọc là gì?",
+    "choices": [
+      "kk",
+      "pp",
+      "ss",
+      "tt"
+    ],
+    "answers": [
+      "tt"
+    ],
+    "itemIds": [
+      "ko:character:40a92852c9d83df6"
+    ]
+  },
+  {
+    "id": "ko:exercise:41aad1bca9e229be",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "따",
+    "choices": [
+      "ㄲ",
+      "ㄸ",
+      "ㅃ",
+      "ㅆ"
+    ],
+    "answers": [
+      "ㄸ"
+    ],
+    "explanationVi": "따 = ㄸ + ㅏ",
+    "itemIds": [
+      "ko:character:40a92852c9d83df6"
+    ]
+  },
+  {
+    "id": "ko:exercise:098c6a7f32d2bc3b",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅃ",
+    "answers": [
+      "ㅃ"
+    ],
+    "itemIds": [
+      "ko:character:eccccb558454454d"
+    ]
+  },
+  {
+    "id": "ko:exercise:d5f0f0dfe1e3545d",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅃ đọc là gì?",
+    "choices": [
+      "jj",
+      "pp",
+      "ss",
+      "tt"
+    ],
+    "answers": [
+      "pp"
+    ],
+    "itemIds": [
+      "ko:character:eccccb558454454d"
+    ]
+  },
+  {
+    "id": "ko:exercise:d9f4aa520712250a",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "빠",
+    "choices": [
+      "ㄸ",
+      "ㅃ",
+      "ㅆ",
+      "ㅉ"
+    ],
+    "answers": [
+      "ㅃ"
+    ],
+    "explanationVi": "빠 = ㅃ + ㅏ",
+    "itemIds": [
+      "ko:character:eccccb558454454d"
+    ]
+  },
+  {
+    "id": "ko:exercise:ea7799ecfe85ea4a",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅆ",
+    "answers": [
+      "ㅆ"
+    ],
+    "itemIds": [
+      "ko:character:1f7056b9af101803"
+    ]
+  },
+  {
+    "id": "ko:exercise:ef60ef85b6d6703b",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅆ đọc là gì?",
+    "choices": [
+      "a",
+      "jj",
+      "pp",
+      "ss"
+    ],
+    "answers": [
+      "ss"
+    ],
+    "itemIds": [
+      "ko:character:1f7056b9af101803"
+    ]
+  },
+  {
+    "id": "ko:exercise:e21c45cccd009ea9",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "싸",
+    "choices": [
+      "ㄸ",
+      "ㅃ",
+      "ㅆ",
+      "ㅉ"
+    ],
+    "answers": [
+      "ㅆ"
+    ],
+    "explanationVi": "싸 = ㅆ + ㅏ",
+    "itemIds": [
+      "ko:character:1f7056b9af101803"
+    ]
+  },
+  {
+    "id": "ko:exercise:05f6f3d186b2fed7",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅉ",
+    "answers": [
+      "ㅉ"
+    ],
+    "itemIds": [
+      "ko:character:ba6abe7bfb05b27c"
+    ]
+  },
+  {
+    "id": "ko:exercise:5cfd8a3781d678ee",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅉ đọc là gì?",
+    "choices": [
+      "a",
+      "jj",
+      "ss",
+      "ya"
+    ],
+    "answers": [
+      "jj"
+    ],
+    "itemIds": [
+      "ko:character:ba6abe7bfb05b27c"
+    ]
+  },
+  {
+    "id": "ko:exercise:f8cb6cf78944e2a6",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "짜",
+    "choices": [
+      "ㄸ",
+      "ㅃ",
+      "ㅆ",
+      "ㅉ"
+    ],
+    "answers": [
+      "ㅉ"
+    ],
+    "explanationVi": "짜 = ㅉ + ㅏ",
+    "itemIds": [
+      "ko:character:ba6abe7bfb05b27c"
+    ]
+  },
+  {
+    "id": "ko:exercise:1e27761f67948e2c",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅏ",
+    "answers": [
+      "ㅏ"
+    ],
+    "itemIds": [
+      "ko:character:ddfc54c6cf90edd4"
+    ]
+  },
+  {
+    "id": "ko:exercise:524ebfe6b93320af",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅏ đọc là gì?",
+    "choices": [
+      "a",
+      "eo",
+      "jj",
+      "ya"
+    ],
+    "answers": [
+      "a"
+    ],
+    "itemIds": [
+      "ko:character:ddfc54c6cf90edd4"
+    ]
+  },
+  {
+    "id": "ko:exercise:52c7432420421582",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "아",
+    "choices": [
+      "ㅏ",
+      "ㅑ",
+      "ㅓ",
+      "ㅕ"
+    ],
+    "answers": [
+      "ㅏ"
+    ],
+    "explanationVi": "아 = ㅇ (câm) + ㅏ",
+    "itemIds": [
+      "ko:character:ddfc54c6cf90edd4"
+    ]
+  },
+  {
+    "id": "ko:exercise:92eea1b904747be7",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅑ",
+    "answers": [
+      "ㅑ"
+    ],
+    "itemIds": [
+      "ko:character:1acd7d5722fc07fc"
+    ]
+  },
+  {
+    "id": "ko:exercise:17e81c589e0d89de",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅑ đọc là gì?",
+    "choices": [
+      "a",
+      "eo",
+      "ya",
+      "yeo"
+    ],
+    "answers": [
+      "ya"
+    ],
+    "itemIds": [
+      "ko:character:1acd7d5722fc07fc"
+    ]
+  },
+  {
+    "id": "ko:exercise:847c8c8834f63d08",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "야",
+    "choices": [
+      "ㅏ",
+      "ㅑ",
+      "ㅓ",
+      "ㅕ"
+    ],
+    "answers": [
+      "ㅑ"
+    ],
+    "explanationVi": "야 = ㅇ (câm) + ㅑ",
+    "itemIds": [
+      "ko:character:1acd7d5722fc07fc"
+    ]
+  },
+  {
+    "id": "ko:exercise:57914eafae93c3dc",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅓ",
+    "answers": [
+      "ㅓ"
+    ],
+    "itemIds": [
+      "ko:character:f5cf3942c505bfe5"
+    ]
+  },
+  {
+    "id": "ko:exercise:77c2d53f6d175560",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅓ đọc là gì?",
+    "choices": [
+      "eo",
+      "o",
+      "ya",
+      "yeo"
+    ],
+    "answers": [
+      "eo"
+    ],
+    "itemIds": [
+      "ko:character:f5cf3942c505bfe5"
+    ]
+  },
+  {
+    "id": "ko:exercise:7ad621898cd5df24",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "어",
+    "choices": [
+      "ㅑ",
+      "ㅓ",
+      "ㅕ",
+      "ㅗ"
+    ],
+    "answers": [
+      "ㅓ"
+    ],
+    "explanationVi": "어 = ㅇ (câm) + ㅓ",
+    "itemIds": [
+      "ko:character:f5cf3942c505bfe5"
+    ]
+  },
+  {
+    "id": "ko:exercise:c1e628598fc6b02e",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅕ",
+    "answers": [
+      "ㅕ"
+    ],
+    "itemIds": [
+      "ko:character:fc3620e41a818d40"
+    ]
+  },
+  {
+    "id": "ko:exercise:5b506c5feb0aa14e",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅕ đọc là gì?",
+    "choices": [
+      "eo",
+      "o",
+      "yeo",
+      "yo"
+    ],
+    "answers": [
+      "yeo"
+    ],
+    "itemIds": [
+      "ko:character:fc3620e41a818d40"
+    ]
+  },
+  {
+    "id": "ko:exercise:b37e1d330964d9c3",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "여",
+    "choices": [
+      "ㅓ",
+      "ㅕ",
+      "ㅗ",
+      "ㅛ"
+    ],
+    "answers": [
+      "ㅕ"
+    ],
+    "explanationVi": "여 = ㅇ (câm) + ㅕ",
+    "itemIds": [
+      "ko:character:fc3620e41a818d40"
+    ]
+  },
+  {
+    "id": "ko:exercise:23957add1fa4329c",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅗ",
+    "answers": [
+      "ㅗ"
+    ],
+    "itemIds": [
+      "ko:character:6ef1e6fe36b8e32d"
+    ]
+  },
+  {
+    "id": "ko:exercise:26729e2b8018cb6a",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅗ đọc là gì?",
+    "choices": [
+      "o",
+      "u",
+      "yeo",
+      "yo"
+    ],
+    "answers": [
+      "o"
+    ],
+    "itemIds": [
+      "ko:character:6ef1e6fe36b8e32d"
+    ]
+  },
+  {
+    "id": "ko:exercise:ea7ecfc97b05fefa",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "오",
+    "choices": [
+      "ㅕ",
+      "ㅗ",
+      "ㅛ",
+      "ㅜ"
+    ],
+    "answers": [
+      "ㅗ"
+    ],
+    "explanationVi": "오 = ㅇ (câm) + ㅗ",
+    "itemIds": [
+      "ko:character:6ef1e6fe36b8e32d"
+    ]
+  },
+  {
+    "id": "ko:exercise:dbbc18025a626638",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅛ",
+    "answers": [
+      "ㅛ"
+    ],
+    "itemIds": [
+      "ko:character:c891df40378fb870"
+    ]
+  },
+  {
+    "id": "ko:exercise:cf6256d0e6659235",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅛ đọc là gì?",
+    "choices": [
+      "o",
+      "u",
+      "yo",
+      "yu"
+    ],
+    "answers": [
+      "yo"
+    ],
+    "itemIds": [
+      "ko:character:c891df40378fb870"
+    ]
+  },
+  {
+    "id": "ko:exercise:9b1ebd0c351584ce",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "요",
+    "choices": [
+      "ㅗ",
+      "ㅛ",
+      "ㅜ",
+      "ㅠ"
+    ],
+    "answers": [
+      "ㅛ"
+    ],
+    "explanationVi": "요 = ㅇ (câm) + ㅛ",
+    "itemIds": [
+      "ko:character:c891df40378fb870"
+    ]
+  },
+  {
+    "id": "ko:exercise:114dab549905c613",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅜ",
+    "answers": [
+      "ㅜ"
+    ],
+    "itemIds": [
+      "ko:character:1346558a41b420db"
+    ]
+  },
+  {
+    "id": "ko:exercise:ece30f65ea32e0e1",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅜ đọc là gì?",
+    "choices": [
+      "eu",
+      "u",
+      "yo",
+      "yu"
+    ],
+    "answers": [
+      "u"
+    ],
+    "itemIds": [
+      "ko:character:1346558a41b420db"
+    ]
+  },
+  {
+    "id": "ko:exercise:8dd041cf0f13c47d",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "우",
+    "choices": [
+      "ㅛ",
+      "ㅜ",
+      "ㅠ",
+      "ㅡ"
+    ],
+    "answers": [
+      "ㅜ"
+    ],
+    "explanationVi": "우 = ㅇ (câm) + ㅜ",
+    "itemIds": [
+      "ko:character:1346558a41b420db"
+    ]
+  },
+  {
+    "id": "ko:exercise:bd2f43fb9f66b613",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅠ",
+    "answers": [
+      "ㅠ"
+    ],
+    "itemIds": [
+      "ko:character:58f2e7e4528a1fd4"
+    ]
+  },
+  {
+    "id": "ko:exercise:947724932045646f",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅠ đọc là gì?",
+    "choices": [
+      "eu",
+      "i",
+      "u",
+      "yu"
+    ],
+    "answers": [
+      "yu"
+    ],
+    "itemIds": [
+      "ko:character:58f2e7e4528a1fd4"
+    ]
+  },
+  {
+    "id": "ko:exercise:e98017c95c67846c",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "유",
+    "choices": [
+      "ㅜ",
+      "ㅠ",
+      "ㅡ",
+      "ㅣ"
+    ],
+    "answers": [
+      "ㅠ"
+    ],
+    "explanationVi": "유 = ㅇ (câm) + ㅠ",
+    "itemIds": [
+      "ko:character:58f2e7e4528a1fd4"
+    ]
+  },
+  {
+    "id": "ko:exercise:3042d65eb5e99746",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅡ",
+    "answers": [
+      "ㅡ"
+    ],
+    "itemIds": [
+      "ko:character:e2e9f7fd9de8b66c"
+    ]
+  },
+  {
+    "id": "ko:exercise:af574202690a8acc",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅡ đọc là gì?",
+    "choices": [
+      "ae",
+      "eu",
+      "i",
+      "yu"
+    ],
+    "answers": [
+      "eu"
+    ],
+    "itemIds": [
+      "ko:character:e2e9f7fd9de8b66c"
+    ]
+  },
+  {
+    "id": "ko:exercise:f620754c59978d02",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "으",
+    "choices": [
+      "ㅐ",
+      "ㅠ",
+      "ㅡ",
+      "ㅣ"
+    ],
+    "answers": [
+      "ㅡ"
+    ],
+    "explanationVi": "으 = ㅇ (câm) + ㅡ",
+    "itemIds": [
+      "ko:character:e2e9f7fd9de8b66c"
+    ]
+  },
+  {
+    "id": "ko:exercise:3ff4c7c2ad165751",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅣ",
+    "answers": [
+      "ㅣ"
+    ],
+    "itemIds": [
+      "ko:character:c22d4c4286252ba1"
+    ]
+  },
+  {
+    "id": "ko:exercise:303ab413499d92c2",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅣ đọc là gì?",
+    "choices": [
+      "ae",
+      "eu",
+      "i",
+      "yae"
+    ],
+    "answers": [
+      "i"
+    ],
+    "itemIds": [
+      "ko:character:c22d4c4286252ba1"
+    ]
+  },
+  {
+    "id": "ko:exercise:1cdd40abedd62730",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "이",
+    "choices": [
+      "ㅐ",
+      "ㅒ",
+      "ㅡ",
+      "ㅣ"
+    ],
+    "answers": [
+      "ㅣ"
+    ],
+    "explanationVi": "이 = ㅇ (câm) + ㅣ",
+    "itemIds": [
+      "ko:character:c22d4c4286252ba1"
+    ]
+  },
+  {
+    "id": "ko:exercise:d8a1b12ca679c52f",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅐ",
+    "answers": [
+      "ㅐ"
+    ],
+    "itemIds": [
+      "ko:character:d217a23ff49c6160"
+    ]
+  },
+  {
+    "id": "ko:exercise:cc1f0a2403c55181",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅐ đọc là gì?",
+    "choices": [
+      "ae",
+      "e",
+      "i",
+      "yae"
+    ],
+    "answers": [
+      "ae"
+    ],
+    "itemIds": [
+      "ko:character:d217a23ff49c6160"
+    ]
+  },
+  {
+    "id": "ko:exercise:01c012828f34769f",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "애",
+    "choices": [
+      "ㅐ",
+      "ㅒ",
+      "ㅔ",
+      "ㅣ"
+    ],
+    "answers": [
+      "ㅐ"
+    ],
+    "explanationVi": "애 = ㅇ (câm) + ㅐ",
+    "itemIds": [
+      "ko:character:d217a23ff49c6160"
+    ]
+  },
+  {
+    "id": "ko:exercise:a2151523bd39f095",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅒ",
+    "answers": [
+      "ㅒ"
+    ],
+    "itemIds": [
+      "ko:character:916bf729097c129d"
+    ]
+  },
+  {
+    "id": "ko:exercise:868969ed8cdcacd0",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅒ đọc là gì?",
+    "choices": [
+      "ae",
+      "e",
+      "yae",
+      "ye"
+    ],
+    "answers": [
+      "yae"
+    ],
+    "itemIds": [
+      "ko:character:916bf729097c129d"
+    ]
+  },
+  {
+    "id": "ko:exercise:67960101ffee6865",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "얘",
+    "choices": [
+      "ㅐ",
+      "ㅒ",
+      "ㅔ",
+      "ㅖ"
+    ],
+    "answers": [
+      "ㅒ"
+    ],
+    "explanationVi": "얘 = ㅇ (câm) + ㅒ",
+    "itemIds": [
+      "ko:character:916bf729097c129d"
+    ]
+  },
+  {
+    "id": "ko:exercise:11f968f729c59dbb",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅔ",
+    "answers": [
+      "ㅔ"
+    ],
+    "itemIds": [
+      "ko:character:248e9c08751ee7d6"
+    ]
+  },
+  {
+    "id": "ko:exercise:aec7380a72b7bd1f",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅔ đọc là gì?",
+    "choices": [
+      "e",
+      "wa",
+      "yae",
+      "ye"
+    ],
+    "answers": [
+      "e"
+    ],
+    "itemIds": [
+      "ko:character:248e9c08751ee7d6"
+    ]
+  },
+  {
+    "id": "ko:exercise:f92a223e723a8b31",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "에",
+    "choices": [
+      "ㅒ",
+      "ㅔ",
+      "ㅖ",
+      "ㅘ"
+    ],
+    "answers": [
+      "ㅔ"
+    ],
+    "explanationVi": "에 = ㅇ (câm) + ㅔ",
+    "itemIds": [
+      "ko:character:248e9c08751ee7d6"
+    ]
+  },
+  {
+    "id": "ko:exercise:56ecd4c4f7e026fe",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅖ",
+    "answers": [
+      "ㅖ"
+    ],
+    "itemIds": [
+      "ko:character:6c3151304502ecd6"
+    ]
+  },
+  {
+    "id": "ko:exercise:9496a000e8335f7e",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅖ đọc là gì?",
+    "choices": [
+      "e",
+      "wa",
+      "wae",
+      "ye"
+    ],
+    "answers": [
+      "ye"
+    ],
+    "itemIds": [
+      "ko:character:6c3151304502ecd6"
+    ]
+  },
+  {
+    "id": "ko:exercise:81ff88c079a40738",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "예",
+    "choices": [
+      "ㅔ",
+      "ㅖ",
+      "ㅘ",
+      "ㅙ"
+    ],
+    "answers": [
+      "ㅖ"
+    ],
+    "explanationVi": "예 = ㅇ (câm) + ㅖ",
+    "itemIds": [
+      "ko:character:6c3151304502ecd6"
+    ]
+  },
+  {
+    "id": "ko:exercise:da17a6d92c69d73c",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅘ",
+    "answers": [
+      "ㅘ"
+    ],
+    "itemIds": [
+      "ko:character:cdbf8e0e9ca25c29"
+    ]
+  },
+  {
+    "id": "ko:exercise:d87d8d899411b6d0",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅘ đọc là gì?",
+    "choices": [
+      "oe",
+      "wa",
+      "wae",
+      "ye"
+    ],
+    "answers": [
+      "wa"
+    ],
+    "itemIds": [
+      "ko:character:cdbf8e0e9ca25c29"
+    ]
+  },
+  {
+    "id": "ko:exercise:c05a490a41c10f5a",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "와",
+    "choices": [
+      "ㅖ",
+      "ㅘ",
+      "ㅙ",
+      "ㅚ"
+    ],
+    "answers": [
+      "ㅘ"
+    ],
+    "explanationVi": "와 = ㅇ (câm) + ㅘ",
+    "itemIds": [
+      "ko:character:cdbf8e0e9ca25c29"
+    ]
+  },
+  {
+    "id": "ko:exercise:e8c439ab2c14fb5a",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅙ",
+    "answers": [
+      "ㅙ"
+    ],
+    "itemIds": [
+      "ko:character:6c756da0bc3dde3a"
+    ]
+  },
+  {
+    "id": "ko:exercise:e69fd9fd174691a3",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅙ đọc là gì?",
+    "choices": [
+      "oe",
+      "wa",
+      "wae",
+      "wo"
+    ],
+    "answers": [
+      "wae"
+    ],
+    "itemIds": [
+      "ko:character:6c756da0bc3dde3a"
+    ]
+  },
+  {
+    "id": "ko:exercise:365a2947cd1cb613",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "왜",
+    "choices": [
+      "ㅘ",
+      "ㅙ",
+      "ㅚ",
+      "ㅝ"
+    ],
+    "answers": [
+      "ㅙ"
+    ],
+    "explanationVi": "왜 = ㅇ (câm) + ㅙ",
+    "itemIds": [
+      "ko:character:6c756da0bc3dde3a"
+    ]
+  },
+  {
+    "id": "ko:exercise:da75b7422f31644e",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅚ",
+    "answers": [
+      "ㅚ"
+    ],
+    "itemIds": [
+      "ko:character:b6b4b41ca287e022"
+    ]
+  },
+  {
+    "id": "ko:exercise:4cbf052f6ea06345",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅚ đọc là gì?",
+    "choices": [
+      "oe",
+      "wae",
+      "we",
+      "wo"
+    ],
+    "answers": [
+      "oe"
+    ],
+    "itemIds": [
+      "ko:character:b6b4b41ca287e022"
+    ]
+  },
+  {
+    "id": "ko:exercise:91052fed376cad1c",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "외",
+    "choices": [
+      "ㅙ",
+      "ㅚ",
+      "ㅝ",
+      "ㅞ"
+    ],
+    "answers": [
+      "ㅚ"
+    ],
+    "explanationVi": "외 = ㅇ (câm) + ㅚ",
+    "itemIds": [
+      "ko:character:b6b4b41ca287e022"
+    ]
+  },
+  {
+    "id": "ko:exercise:504f26a56dd6ac36",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅝ",
+    "answers": [
+      "ㅝ"
+    ],
+    "itemIds": [
+      "ko:character:d84809444d6246fd"
+    ]
+  },
+  {
+    "id": "ko:exercise:29ebc3b6168f0eff",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅝ đọc là gì?",
+    "choices": [
+      "oe",
+      "we",
+      "wi",
+      "wo"
+    ],
+    "answers": [
+      "wo"
+    ],
+    "itemIds": [
+      "ko:character:d84809444d6246fd"
+    ]
+  },
+  {
+    "id": "ko:exercise:532e73d6e1c943fb",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "워",
+    "choices": [
+      "ㅚ",
+      "ㅝ",
+      "ㅞ",
+      "ㅟ"
+    ],
+    "answers": [
+      "ㅝ"
+    ],
+    "explanationVi": "워 = ㅇ (câm) + ㅝ",
+    "itemIds": [
+      "ko:character:d84809444d6246fd"
+    ]
+  },
+  {
+    "id": "ko:exercise:100c48c3a3bb77f2",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅞ",
+    "answers": [
+      "ㅞ"
+    ],
+    "itemIds": [
+      "ko:character:8823670a8b810bea"
+    ]
+  },
+  {
+    "id": "ko:exercise:b525deafad644305",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅞ đọc là gì?",
+    "choices": [
+      "ui",
+      "we",
+      "wi",
+      "wo"
+    ],
+    "answers": [
+      "we"
+    ],
+    "itemIds": [
+      "ko:character:8823670a8b810bea"
+    ]
+  },
+  {
+    "id": "ko:exercise:75aed95eec6b4b28",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "웨",
+    "choices": [
+      "ㅝ",
+      "ㅞ",
+      "ㅟ",
+      "ㅢ"
+    ],
+    "answers": [
+      "ㅞ"
+    ],
+    "explanationVi": "웨 = ㅇ (câm) + ㅞ",
+    "itemIds": [
+      "ko:character:8823670a8b810bea"
+    ]
+  },
+  {
+    "id": "ko:exercise:645e8e460ad1f37f",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅟ",
+    "answers": [
+      "ㅟ"
+    ],
+    "itemIds": [
+      "ko:character:1464f15105155aa0"
+    ]
+  },
+  {
+    "id": "ko:exercise:a19acf9409062720",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅟ đọc là gì?",
+    "choices": [
+      "ui",
+      "we",
+      "wi",
+      "wo"
+    ],
+    "answers": [
+      "wi"
+    ],
+    "itemIds": [
+      "ko:character:1464f15105155aa0"
+    ]
+  },
+  {
+    "id": "ko:exercise:95c067fb70e4f8e3",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "위",
+    "choices": [
+      "ㅝ",
+      "ㅞ",
+      "ㅟ",
+      "ㅢ"
+    ],
+    "answers": [
+      "ㅟ"
+    ],
+    "explanationVi": "위 = ㅇ (câm) + ㅟ",
+    "itemIds": [
+      "ko:character:1464f15105155aa0"
+    ]
+  },
+  {
+    "id": "ko:exercise:0fb4ab8e8d6f687e",
+    "lang": "ko",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "TOPIK1",
+    "prompt": "ㅢ",
+    "answers": [
+      "ㅢ"
+    ],
+    "itemIds": [
+      "ko:character:10c655ac968329f0"
+    ]
+  },
+  {
+    "id": "ko:exercise:d325264627521e47",
+    "lang": "ko",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "Chữ ㅢ đọc là gì?",
+    "choices": [
+      "ui",
+      "we",
+      "wi",
+      "wo"
+    ],
+    "answers": [
+      "ui"
+    ],
+    "itemIds": [
+      "ko:character:10c655ac968329f0"
+    ]
+  },
+  {
+    "id": "ko:exercise:a582ed2aa9be5542",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "TOPIK1",
+    "prompt": "의",
+    "choices": [
+      "ㅝ",
+      "ㅞ",
+      "ㅟ",
+      "ㅢ"
+    ],
+    "answers": [
+      "ㅢ"
+    ],
+    "explanationVi": "의 = ㅇ (câm) + ㅢ",
+    "itemIds": [
+      "ko:character:10c655ac968329f0"
+    ]
+  }
+]

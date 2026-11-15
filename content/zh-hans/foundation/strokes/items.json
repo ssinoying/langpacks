@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "zh-hans:character:94c8c3a70bcb65b1",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "一",
+    "reading": "yī",
+    "meaningVi": "một",
+    "explanationVi": "Âm Hán Việt: nhất.",
+    "hanViet": "nhất",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:583d3a5320f2820a",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "七",
+    "reading": "qī",
+    "meaningVi": "bảy",
+    "explanationVi": "Âm Hán Việt: thất.",
+    "hanViet": "thất",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:512a019ddc7813de",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "万",
+    "reading": "wàn mò",
+    "meaningVi": "vạn, mười nghìn",
+    "explanationVi": "Âm Hán Việt: vạn.",
+    "hanViet": "vạn",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:e69f8108b820f37d",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "三",
+    "reading": "sān",
+    "meaningVi": "ba",
+    "explanationVi": "Âm Hán Việt: tam.",
+    "hanViet": "tam",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:f437d59f875ab877",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "上",
+    "reading": "shàng",
+    "meaningVi": "trên",
+    "explanationVi": "Âm Hán Việt: thượng.",
+    "hanViet": "thượng",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:a21410046c1f3ed1",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "下",
+    "reading": "xià",
+    "meaningVi": "dưới",
+    "explanationVi": "Âm Hán Việt: hạ.",
+    "hanViet": "hạ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:468a899420f67a3f",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "不",
+    "reading": "bù",
+    "meaningVi": "không",
+    "explanationVi": "Âm Hán Việt: bất.",
+    "hanViet": "bất",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:1ece9d81e1172a39",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "东",
+    "reading": "dōng",
+    "meaningVi": "đông",
+    "explanationVi": "Âm Hán Việt: đang.",
+    "hanViet": "đang",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:85646bd7c97ce0a8",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "个",
+    "reading": "gè",
+    "meaningVi": "cái (lượng từ)",
+    "explanationVi": "Âm Hán Việt: cá.",
+    "hanViet": "cá",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:dfafc8061e98a402",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "中",
+    "reading": "zhōng",
+    "meaningVi": "giữa, trong",
+    "explanationVi": "Âm Hán Việt: trung.",
+    "hanViet": "trung",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:376335c7c6a36dbc",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "九",
+    "reading": "jiǔ",
+    "meaningVi": "chín",
+    "explanationVi": "Âm Hán Việt: cửu.",
+    "hanViet": "cửu",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:fb643302a96ea4fe",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "也",
+    "reading": "yě",
+    "meaningVi": "cũng",
+    "explanationVi": "Âm Hán Việt: dã.",
+    "hanViet": "dã",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:0d7bb2630fb3d755",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "书",
+    "reading": "shū",
+    "meaningVi": "sách",
+    "explanationVi": "Âm Hán Việt: thư.",
+    "hanViet": "thư",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:3bd0c7484308f9ca",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "了",
+    "reading": "le",
+    "meaningVi": "rồi (trợ từ chỉ việc đã xong)",
+    "explanationVi": "Âm Hán Việt: liễu.",
+    "hanViet": "liễu",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:0130ef80a0f210b2",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "二",
+    "reading": "èr",
+    "meaningVi": "hai",
+    "explanationVi": "Âm Hán Việt: nhì.",
+    "hanViet": "nhì",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:9615b0de41519b42",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "五",
+    "reading": "wǔ",
+    "meaningVi": "năm",
+    "explanationVi": "Âm Hán Việt: ngũ.",
+    "hanViet": "ngũ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:34fac66310cda5fe",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "人",
+    "reading": "rén",
+    "meaningVi": "người",
+    "explanationVi": "Âm Hán Việt: nhân.",
+    "hanViet": "nhân",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:5614de300ce3aae8",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "今",
+    "reading": "jīn",
+    "meaningVi": "nay",
+    "explanationVi": "Âm Hán Việt: kim.",
+    "hanViet": "kim",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:fba94ac94d9e83f3",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "他",
+    "reading": "tā",
+    "meaningVi": "anh ấy",
+    "explanationVi": "Âm Hán Việt: tha.",
+    "hanViet": "tha",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:a67244fdc23cf2c1",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "们",
+    "reading": "men",
+    "meaningVi": "các (hậu tố số nhiều)",
+    "explanationVi": "Âm Hán Việt: món.",
+    "hanViet": "món",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:ea2b12470064b5d2",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "你",
+    "reading": "nǐ",
+    "meaningVi": "bạn",
+    "explanationVi": "Âm Hán Việt: nể.",
+    "hanViet": "nể",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:7c1f667f36499e08",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "入",
+    "reading": "rù",
+    "meaningVi": "vào",
+    "explanationVi": "Âm Hán Việt: nhập.",
+    "hanViet": "nhập",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:dbcfa92f4a64f2b2",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "八",
+    "reading": "bā",
+    "meaningVi": "tám",
+    "explanationVi": "Âm Hán Việt: bát.",
+    "hanViet": "bát",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:f079fa3186e22108",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "六",
+    "reading": "liù",
+    "meaningVi": "sáu",
+    "explanationVi": "Âm Hán Việt: lục.",
+    "hanViet": "lục",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:a411659f35d9bf86",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "出",
+    "reading": "chū",
+    "meaningVi": "ra",
+    "explanationVi": "Âm Hán Việt: xuất.",
+    "hanViet": "xuất",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:78ed37d1d0033564",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "力",
+    "reading": "lì",
+    "meaningVi": "sức",
+    "explanationVi": "Âm Hán Việt: lực.",
+    "hanViet": "lực",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:4a91455d8b3f218c",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "北",
+    "reading": "běi",
+    "meaningVi": "bắc",
+    "explanationVi": "Âm Hán Việt: bắc.",
+    "hanViet": "bắc",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:7596c2fe46fc45d6",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "十",
+    "reading": "shí",
+    "meaningVi": "mười",
+    "explanationVi": "Âm Hán Việt: thập.",
+    "hanViet": "thập",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:ebc2da8e16b17a99",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "千",
+    "reading": "qiān",
+    "meaningVi": "nghìn",
+    "explanationVi": "Âm Hán Việt: thiên.",
+    "hanViet": "thiên",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:255112b714efd407",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "午",
+    "reading": "wǔ",
+    "meaningVi": "trưa",
+    "explanationVi": "Âm Hán Việt: ngọ.",
+    "hanViet": "ngọ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:29b0449e4d1a51cb",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "南",
+    "reading": "nán",
+    "meaningVi": "nam",
+    "explanationVi": "Âm Hán Việt: nam.",
+    "hanViet": "nam",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:d26312554371c826",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "去",
+    "reading": "qù",
+    "meaningVi": "đi",
+    "explanationVi": "Âm Hán Việt: khứ.",
+    "hanViet": "khứ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:9bd5e979cd953def",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "口",
+    "reading": "kǒu",
+    "meaningVi": "miệng",
+    "explanationVi": "Âm Hán Việt: khẩu.",
+    "hanViet": "khẩu",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:dbf9b32cb97eb957",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "右",
+    "reading": "yòu",
+    "meaningVi": "phải",
+    "explanationVi": "Âm Hán Việt: hữu.",
+    "hanViet": "hữu",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:71480c7d56243311",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "和",
+    "reading": "hé",
+    "meaningVi": "và",
+    "explanationVi": "Âm Hán Việt: hoà.",
+    "hanViet": "hoà",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:24709ba97c678e5c",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "四",
+    "reading": "sì",
+    "meaningVi": "bốn",
+    "explanationVi": "Âm Hán Việt: tứ.",
+    "hanViet": "tứ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:5ca5cfd81bade060",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "国",
+    "reading": "guó",
+    "meaningVi": "nước, quốc gia",
+    "explanationVi": "Âm Hán Việt: quốc.",
+    "hanViet": "quốc",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:90e91b222e016435",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "土",
+    "reading": "tǔ",
+    "meaningVi": "đất",
+    "explanationVi": "Âm Hán Việt: thổ.",
+    "hanViet": "thổ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:3da7e23aa7b2e201",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "在",
+    "reading": "zài",
+    "meaningVi": "ở, tại",
+    "explanationVi": "Âm Hán Việt: tại.",
+    "hanViet": "tại",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:ba7d15cda703b11d",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "多",
+    "reading": "duō",
+    "meaningVi": "nhiều",
+    "explanationVi": "Âm Hán Việt: đa.",
+    "hanViet": "đa",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:329324e98768b54c",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "大",
+    "reading": "dà",
+    "meaningVi": "to, lớn",
+    "explanationVi": "Âm Hán Việt: đại.",
+    "hanViet": "đại",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:86a1ce48003ce419",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "天",
+    "reading": "tiān",
+    "meaningVi": "trời",
+    "explanationVi": "Âm Hán Việt: thiên.",
+    "hanViet": "thiên",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:32002c865362c76b",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "女",
+    "reading": "nǚ",
+    "meaningVi": "phụ nữ",
+    "explanationVi": "Âm Hán Việt: nữa.",
+    "hanViet": "nữa",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:099b2b7adf9cd166",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "她",
+    "reading": "tā",
+    "meaningVi": "cô ấy",
+    "explanationVi": "Âm Hán Việt: tha.",
+    "hanViet": "tha",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:3683f39b6eae2ffe",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "好",
+    "reading": "hǎo",
+    "meaningVi": "tốt, hay",
+    "explanationVi": "Âm Hán Việt: háo.",
+    "hanViet": "háo",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:26b2c4ed69af2b03",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "子",
+    "reading": "zǐ",
+    "meaningVi": "con, đứa trẻ",
+    "explanationVi": "Âm Hán Việt: tí.",
+    "hanViet": "tí",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:15632c6e5cd58974",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "字",
+    "reading": "zì",
+    "meaningVi": "chữ",
+    "explanationVi": "Âm Hán Việt: tự.",
+    "hanViet": "tự",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:ee49ae37852a3135",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "学",
+    "reading": "xué",
+    "meaningVi": "học",
+    "explanationVi": "Âm Hán Việt: học.",
+    "hanViet": "học",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:70da0a1dc78ed0ea",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "家",
+    "reading": "jiā",
+    "meaningVi": "nhà",
+    "explanationVi": "Âm Hán Việt: gia.",
+    "hanViet": "gia",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:0af229d472be022b",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "小",
+    "reading": "xiǎo",
+    "meaningVi": "nhỏ",
+    "explanationVi": "Âm Hán Việt: tiểu.",
+    "hanViet": "tiểu",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:4b7aee76de65f0b9",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "少",
+    "reading": "shǎo",
+    "meaningVi": "ít",
+    "explanationVi": "Âm Hán Việt: thiểu.",
+    "hanViet": "thiểu",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:6abe2b70f341b0af",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "山",
+    "reading": "shān",
+    "meaningVi": "núi",
+    "explanationVi": "Âm Hán Việt: sơn.",
+    "hanViet": "sơn",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:4e7de80899d01de6",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "工",
+    "reading": "gōng",
+    "meaningVi": "làm, công việc",
+    "explanationVi": "Âm Hán Việt: công.",
+    "hanViet": "công",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:77de50d4328f396d",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "左",
+    "reading": "zuǒ",
+    "meaningVi": "trái",
+    "explanationVi": "Âm Hán Việt: tả.",
+    "hanViet": "tả",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:2720fef749788002",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "年",
+    "reading": "nián",
+    "meaningVi": "năm (thời gian)",
+    "explanationVi": "Âm Hán Việt: nên.",
+    "hanViet": "nên",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:a641e4d1fb6e5aed",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "开",
+    "reading": "kāi",
+    "meaningVi": "mở",
+    "explanationVi": "Âm Hán Việt: khai.",
+    "hanViet": "khai",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:0964fef870fa61ce",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "心",
+    "reading": "xīn",
+    "meaningVi": "tim, lòng",
+    "explanationVi": "Âm Hán Việt: tâm.",
+    "hanViet": "tâm",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:df6a6c765a004878",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "我",
+    "reading": "wǒ",
+    "meaningVi": "tôi",
+    "explanationVi": "Âm Hán Việt: ngã.",
+    "hanViet": "ngã",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:b8ba4994f5261abe",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "手",
+    "reading": "shǒu",
+    "meaningVi": "tay",
+    "explanationVi": "Âm Hán Việt: thủ.",
+    "hanViet": "thủ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:4d4450c1b0ac8cb8",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "文",
+    "reading": "wén",
+    "meaningVi": "văn, chữ viết",
+    "explanationVi": "Âm Hán Việt: văn.",
+    "hanViet": "văn",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:273c2e3daae7c158",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "日",
+    "reading": "rì",
+    "meaningVi": "mặt trời, ngày",
+    "explanationVi": "Âm Hán Việt: nhật.",
+    "hanViet": "nhật",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:8b1e60b1416fa5b7",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "早",
+    "reading": "zǎo",
+    "meaningVi": "sớm",
+    "explanationVi": "Âm Hán Việt: tảo.",
+    "hanViet": "tảo",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:aace907b0dc72ac4",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "明",
+    "reading": "míng",
+    "meaningVi": "sáng, rõ",
+    "explanationVi": "Âm Hán Việt: minh.",
+    "hanViet": "minh",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:abce481fa08930b0",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "是",
+    "reading": "shì",
+    "meaningVi": "là",
+    "explanationVi": "Âm Hán Việt: thị.",
+    "hanViet": "thị",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:a4c001468fd594d2",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "晚",
+    "reading": "wǎn",
+    "meaningVi": "tối, muộn",
+    "explanationVi": "Âm Hán Việt: vãn.",
+    "hanViet": "vãn",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:6877b2ba7ffa9ca3",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "月",
+    "reading": "yuè",
+    "meaningVi": "mặt trăng, tháng",
+    "explanationVi": "Âm Hán Việt: nguyệt.",
+    "hanViet": "nguyệt",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:135c2b494ff333b3",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "有",
+    "reading": "yǒu",
+    "meaningVi": "có",
+    "explanationVi": "Âm Hán Việt: hữu.",
+    "hanViet": "hữu",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:752d748054b875cb",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "木",
+    "reading": "mù",
+    "meaningVi": "cây, gỗ",
+    "explanationVi": "Âm Hán Việt: mộc.",
+    "hanViet": "mộc",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:fed10d186fdcaad4",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "来",
+    "reading": "lái",
+    "meaningVi": "đến",
+    "explanationVi": "Âm Hán Việt: lai.",
+    "hanViet": "lai",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:4d2fcad8d4221a06",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "水",
+    "reading": "shuǐ",
+    "meaningVi": "nước",
+    "explanationVi": "Âm Hán Việt: thuỷ.",
+    "hanViet": "thuỷ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:337da3342d02e08b",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "火",
+    "reading": "huǒ",
+    "meaningVi": "lửa",
+    "explanationVi": "Âm Hán Việt: hoả.",
+    "hanViet": "hoả",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:299632ff5c6d2e09",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "牛",
+    "reading": "niú",
+    "meaningVi": "bò",
+    "explanationVi": "Âm Hán Việt: ngưu.",
+    "hanViet": "ngưu",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:682cf69e960bcd2a",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "王",
+    "reading": "wáng",
+    "meaningVi": "vua",
+    "explanationVi": "Âm Hán Việt: vương.",
+    "hanViet": "vương",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:deb53201739af0fa",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "生",
+    "reading": "shēng",
+    "meaningVi": "sinh, sống",
+    "explanationVi": "Âm Hán Việt: sinh.",
+    "hanViet": "sinh",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:ff1d271ef9cbca43",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "田",
+    "reading": "tián",
+    "meaningVi": "ruộng",
+    "explanationVi": "Âm Hán Việt: điền.",
+    "hanViet": "điền",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:d4de457c76d04332",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "白",
+    "reading": "bái",
+    "meaningVi": "trắng",
+    "explanationVi": "Âm Hán Việt: bạch.",
+    "hanViet": "bạch",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:ca4b0863bfc4419d",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "百",
+    "reading": "bǎi",
+    "meaningVi": "trăm",
+    "explanationVi": "Âm Hán Việt: bá.",
+    "hanViet": "bá",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:f732b4cf0d1059d7",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "的",
+    "reading": "de",
+    "meaningVi": "của (trợ từ)",
+    "explanationVi": "Âm Hán Việt: đích.",
+    "hanViet": "đích",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:2f0eb55154b86a17",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "目",
+    "reading": "mù",
+    "meaningVi": "mắt",
+    "explanationVi": "Âm Hán Việt: mục.",
+    "hanViet": "mục",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:34088804de6dab04",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "立",
+    "reading": "lì",
+    "meaningVi": "đứng",
+    "explanationVi": "Âm Hán Việt: lập.",
+    "hanViet": "lập",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:6dbcf68b18c186fe",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "米",
+    "reading": "mǐ",
+    "meaningVi": "gạo",
+    "explanationVi": "Âm Hán Việt: mễ.",
+    "hanViet": "mễ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:1f556f92886bb5fb",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "耳",
+    "reading": "ěr",
+    "meaningVi": "tai",
+    "explanationVi": "Âm Hán Việt: nhĩ.",
+    "hanViet": "nhĩ",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:5d6b9c54a252915e",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "西",
+    "reading": "xī",
+    "meaningVi": "tây",
+    "explanationVi": "Âm Hán Việt: tây.",
+    "hanViet": "tây",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:e40ebff5bf526cc8",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "足",
+    "reading": "zú",
+    "meaningVi": "chân",
+    "explanationVi": "Âm Hán Việt: túc.",
+    "hanViet": "túc",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:26709abcc7ad6a3c",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "车",
+    "reading": "chē",
+    "meaningVi": "xe",
+    "explanationVi": "Âm Hán Việt: xa.",
+    "hanViet": "xa",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:1d14232f21ea51c9",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "这",
+    "reading": "zhè",
+    "meaningVi": "này",
+    "explanationVi": "Âm Hán Việt: giá.",
+    "hanViet": "giá",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:2a534da9c56db60b",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "那",
+    "reading": "nà",
+    "meaningVi": "kia, đó",
+    "explanationVi": "Âm Hán Việt: na.",
+    "hanViet": "na",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:8bc28097c5b425ee",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "门",
+    "reading": "mén",
+    "meaningVi": "cửa",
+    "explanationVi": "Âm Hán Việt: môn.",
+    "hanViet": "môn",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:300042e293990526",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "马",
+    "reading": "mǎ",
+    "meaningVi": "ngựa",
+    "explanationVi": "Âm Hán Việt: mã.",
+    "hanViet": "mã",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:a1d65c32d2cfcb17",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "鱼",
+    "reading": "yú",
+    "meaningVi": "cá",
+    "explanationVi": "Âm Hán Việt: ngư.",
+    "hanViet": "ngư",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  },
+  {
+    "id": "zh-hans:character:a8807af24c8403a8",
+    "lang": "zh-hans",
+    "kind": "character",
+    "text": "鸟",
+    "reading": "niǎo",
+    "meaningVi": "chim",
+    "explanationVi": "Âm Hán Việt: điểu.",
+    "hanViet": "điểu",
+    "level": "HSK1",
+    "topics": [
+      "strokes"
+    ]
+  }
+]

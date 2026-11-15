@@ -1,0 +1,2303 @@
+[
+  {
+    "id": "ja:character:af6ad4df2f96336e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぁ",
+    "reading": "a nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"a nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:374a748c31432a9b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "あ",
+    "reading": "a",
+    "explanationVi": "Chữ hiragana, đọc là \"a\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:de467c50a8c8791b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぃ",
+    "reading": "i nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"i nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:3eb98906f2bf3ef5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "い",
+    "reading": "i",
+    "explanationVi": "Chữ hiragana, đọc là \"i\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:13fc4c1dd7388526",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぅ",
+    "reading": "u nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"u nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:37fc5c9faefac634",
+    "lang": "ja",
+    "kind": "character",
+    "text": "う",
+    "reading": "u",
+    "explanationVi": "Chữ hiragana, đọc là \"u\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:b1f4a25045f558de",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぇ",
+    "reading": "e nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"e nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:8142e28fc7640317",
+    "lang": "ja",
+    "kind": "character",
+    "text": "え",
+    "reading": "e",
+    "explanationVi": "Chữ hiragana, đọc là \"e\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:4b9bb21bd600f4d9",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぉ",
+    "reading": "o nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"o nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:7bf045a5370e87ad",
+    "lang": "ja",
+    "kind": "character",
+    "text": "お",
+    "reading": "o",
+    "explanationVi": "Chữ hiragana, đọc là \"o\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:ec364062e66a8494",
+    "lang": "ja",
+    "kind": "character",
+    "text": "か",
+    "reading": "ka",
+    "explanationVi": "Chữ hiragana, đọc là \"ka\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:6a89012f052cacca",
+    "lang": "ja",
+    "kind": "character",
+    "text": "が",
+    "reading": "ga",
+    "explanationVi": "Chữ hiragana, đọc là \"ga\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:8ffa29db7ffc22a8",
+    "lang": "ja",
+    "kind": "character",
+    "text": "き",
+    "reading": "ki",
+    "explanationVi": "Chữ hiragana, đọc là \"ki\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:31774b5805c6bac4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぎ",
+    "reading": "gi",
+    "explanationVi": "Chữ hiragana, đọc là \"gi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:6f426df0d9481652",
+    "lang": "ja",
+    "kind": "character",
+    "text": "く",
+    "reading": "ku",
+    "explanationVi": "Chữ hiragana, đọc là \"ku\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:99723491d08bc417",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぐ",
+    "reading": "gu",
+    "explanationVi": "Chữ hiragana, đọc là \"gu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:ba7afe559a5ecba1",
+    "lang": "ja",
+    "kind": "character",
+    "text": "け",
+    "reading": "ke",
+    "explanationVi": "Chữ hiragana, đọc là \"ke\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:ce5c15fbd07726d7",
+    "lang": "ja",
+    "kind": "character",
+    "text": "げ",
+    "reading": "ge",
+    "explanationVi": "Chữ hiragana, đọc là \"ge\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:75df8207175c0df6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "こ",
+    "reading": "ko",
+    "explanationVi": "Chữ hiragana, đọc là \"ko\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:42c41a97f5758603",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ご",
+    "reading": "go",
+    "explanationVi": "Chữ hiragana, đọc là \"go\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:8776c4aa0fcebce4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "さ",
+    "reading": "sa",
+    "explanationVi": "Chữ hiragana, đọc là \"sa\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:1eb9d100662041cb",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ざ",
+    "reading": "za",
+    "explanationVi": "Chữ hiragana, đọc là \"za\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:6f3d459526ca48f1",
+    "lang": "ja",
+    "kind": "character",
+    "text": "し",
+    "reading": "shi",
+    "explanationVi": "Chữ hiragana, đọc là \"shi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:821d4d08ed848a33",
+    "lang": "ja",
+    "kind": "character",
+    "text": "じ",
+    "reading": "ji",
+    "explanationVi": "Chữ hiragana, đọc là \"ji\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:e29c8aa9db2f100b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "す",
+    "reading": "su",
+    "explanationVi": "Chữ hiragana, đọc là \"su\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:e4e63b7cb2fa14b1",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ず",
+    "reading": "zu",
+    "explanationVi": "Chữ hiragana, đọc là \"zu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:c216af3a23eab689",
+    "lang": "ja",
+    "kind": "character",
+    "text": "せ",
+    "reading": "se",
+    "explanationVi": "Chữ hiragana, đọc là \"se\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:47a3b5a8b38b81e4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぜ",
+    "reading": "ze",
+    "explanationVi": "Chữ hiragana, đọc là \"ze\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:96c944324f4c067a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "そ",
+    "reading": "so",
+    "explanationVi": "Chữ hiragana, đọc là \"so\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:2dbd6a6d90054170",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぞ",
+    "reading": "zo",
+    "explanationVi": "Chữ hiragana, đọc là \"zo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:0ea218da0b6a1ab9",
+    "lang": "ja",
+    "kind": "character",
+    "text": "た",
+    "reading": "ta",
+    "explanationVi": "Chữ hiragana, đọc là \"ta\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:f4c5dae0d4a015e6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "だ",
+    "reading": "da",
+    "explanationVi": "Chữ hiragana, đọc là \"da\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:b87ebf0f7b4dc749",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ち",
+    "reading": "chi",
+    "explanationVi": "Chữ hiragana, đọc là \"chi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:12fcd5f6732ab88e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぢ",
+    "reading": "ji",
+    "explanationVi": "Chữ hiragana, đọc là \"ji\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:8455127930f2dd1f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "っ",
+    "reading": "tsu nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"tsu nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:73702671711aa18e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "つ",
+    "reading": "tsu",
+    "explanationVi": "Chữ hiragana, đọc là \"tsu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:b770f0888882af91",
+    "lang": "ja",
+    "kind": "character",
+    "text": "づ",
+    "reading": "zu",
+    "explanationVi": "Chữ hiragana, đọc là \"zu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:18bac83f5ef4a35a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "て",
+    "reading": "te",
+    "explanationVi": "Chữ hiragana, đọc là \"te\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:38cafc026fe157a5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "で",
+    "reading": "de",
+    "explanationVi": "Chữ hiragana, đọc là \"de\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:fca278e21d549544",
+    "lang": "ja",
+    "kind": "character",
+    "text": "と",
+    "reading": "to",
+    "explanationVi": "Chữ hiragana, đọc là \"to\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:9ccb839afb7a4cc8",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ど",
+    "reading": "do",
+    "explanationVi": "Chữ hiragana, đọc là \"do\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:c9ac5f1d808d03c8",
+    "lang": "ja",
+    "kind": "character",
+    "text": "な",
+    "reading": "na",
+    "explanationVi": "Chữ hiragana, đọc là \"na\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:6ea4bc09d284e827",
+    "lang": "ja",
+    "kind": "character",
+    "text": "に",
+    "reading": "ni",
+    "explanationVi": "Chữ hiragana, đọc là \"ni\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:449a488c5a02530d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぬ",
+    "reading": "nu",
+    "explanationVi": "Chữ hiragana, đọc là \"nu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:dfbfe3ffb4402b80",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ね",
+    "reading": "ne",
+    "explanationVi": "Chữ hiragana, đọc là \"ne\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:c125bbdf4f613ac0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "の",
+    "reading": "no",
+    "explanationVi": "Chữ hiragana, đọc là \"no\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:e8b7779c10a6179e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "は",
+    "reading": "ha",
+    "explanationVi": "Chữ hiragana, đọc là \"ha\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:21e99b0f24bbe89e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ば",
+    "reading": "ba",
+    "explanationVi": "Chữ hiragana, đọc là \"ba\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:fa3fba656c558c48",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぱ",
+    "reading": "pa",
+    "explanationVi": "Chữ hiragana, đọc là \"pa\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:933f6bf63ccd9aa4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ひ",
+    "reading": "hi",
+    "explanationVi": "Chữ hiragana, đọc là \"hi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:d9798455356ee714",
+    "lang": "ja",
+    "kind": "character",
+    "text": "び",
+    "reading": "bi",
+    "explanationVi": "Chữ hiragana, đọc là \"bi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:012aafa7ce3b371a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぴ",
+    "reading": "pi",
+    "explanationVi": "Chữ hiragana, đọc là \"pi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:e397487935dc87bc",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ふ",
+    "reading": "fu",
+    "explanationVi": "Chữ hiragana, đọc là \"fu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:2446e1fe9066b0a9",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぶ",
+    "reading": "bu",
+    "explanationVi": "Chữ hiragana, đọc là \"bu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:ed7177edda0e0e90",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぷ",
+    "reading": "pu",
+    "explanationVi": "Chữ hiragana, đọc là \"pu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:88d4242ebc8fb513",
+    "lang": "ja",
+    "kind": "character",
+    "text": "へ",
+    "reading": "he",
+    "explanationVi": "Chữ hiragana, đọc là \"he\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:c0e1c119db6725f5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "べ",
+    "reading": "be",
+    "explanationVi": "Chữ hiragana, đọc là \"be\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:12dcbc15681885a7",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぺ",
+    "reading": "pe",
+    "explanationVi": "Chữ hiragana, đọc là \"pe\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:f901f36a53c3dfe4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ほ",
+    "reading": "ho",
+    "explanationVi": "Chữ hiragana, đọc là \"ho\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:61e77dc4f2474b2a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぼ",
+    "reading": "bo",
+    "explanationVi": "Chữ hiragana, đọc là \"bo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:1824075606995edf",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ぽ",
+    "reading": "po",
+    "explanationVi": "Chữ hiragana, đọc là \"po\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:85739e2a84936a44",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ま",
+    "reading": "ma",
+    "explanationVi": "Chữ hiragana, đọc là \"ma\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:5f1f0e95c1e142ba",
+    "lang": "ja",
+    "kind": "character",
+    "text": "み",
+    "reading": "mi",
+    "explanationVi": "Chữ hiragana, đọc là \"mi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:8f998c7ac76b0de8",
+    "lang": "ja",
+    "kind": "character",
+    "text": "む",
+    "reading": "mu",
+    "explanationVi": "Chữ hiragana, đọc là \"mu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:3458ea72a9336ab6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "め",
+    "reading": "me",
+    "explanationVi": "Chữ hiragana, đọc là \"me\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:721667f88863974d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "も",
+    "reading": "mo",
+    "explanationVi": "Chữ hiragana, đọc là \"mo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:ef2c1b0f8d2de290",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゃ",
+    "reading": "ya nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"ya nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:dc17adb3905450f2",
+    "lang": "ja",
+    "kind": "character",
+    "text": "や",
+    "reading": "ya",
+    "explanationVi": "Chữ hiragana, đọc là \"ya\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:27673134fcb6793f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゅ",
+    "reading": "yu nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"yu nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:722336c1d199d0d9",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゆ",
+    "reading": "yu",
+    "explanationVi": "Chữ hiragana, đọc là \"yu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:c262d1abf5e25013",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ょ",
+    "reading": "yo nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"yo nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:e49eb2a09f499c71",
+    "lang": "ja",
+    "kind": "character",
+    "text": "よ",
+    "reading": "yo",
+    "explanationVi": "Chữ hiragana, đọc là \"yo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:d1d5e9c3f65c7452",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ら",
+    "reading": "ra",
+    "explanationVi": "Chữ hiragana, đọc là \"ra\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:f6eeb2b6eafbb6c0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "り",
+    "reading": "ri",
+    "explanationVi": "Chữ hiragana, đọc là \"ri\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:99be6317956d92f0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "る",
+    "reading": "ru",
+    "explanationVi": "Chữ hiragana, đọc là \"ru\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:f10526de98fc19ea",
+    "lang": "ja",
+    "kind": "character",
+    "text": "れ",
+    "reading": "re",
+    "explanationVi": "Chữ hiragana, đọc là \"re\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:a11b3bfb39a05879",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ろ",
+    "reading": "ro",
+    "explanationVi": "Chữ hiragana, đọc là \"ro\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:fa67242010699409",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゎ",
+    "reading": "wa nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"wa nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:32330590e726458e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "わ",
+    "reading": "wa",
+    "explanationVi": "Chữ hiragana, đọc là \"wa\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:59eea5d8de857776",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゐ",
+    "reading": "wi",
+    "explanationVi": "Chữ hiragana, đọc là \"wi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:e4a0d73973a210aa",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゑ",
+    "reading": "we",
+    "explanationVi": "Chữ hiragana, đọc là \"we\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:82d7bdc2e771e7f2",
+    "lang": "ja",
+    "kind": "character",
+    "text": "を",
+    "reading": "wo",
+    "explanationVi": "Chữ hiragana, đọc là \"wo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:ac0ac84c8b0d6be6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ん",
+    "reading": "n",
+    "explanationVi": "Chữ hiragana, đọc là \"n\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:a217a034371d623a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゔ",
+    "reading": "vu",
+    "explanationVi": "Chữ hiragana, đọc là \"vu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:f2b88a17f09b2bdd",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゕ",
+    "reading": "ka nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"ka nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:30161edb52af2764",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゖ",
+    "reading": "ke nhỏ",
+    "explanationVi": "Chữ hiragana, đọc là \"ke nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  },
+  {
+    "id": "ja:character:972a6f6348608c13",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ァ",
+    "reading": "a nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"a nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:5982f22f5dd8ae20",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ア",
+    "reading": "a",
+    "explanationVi": "Chữ katakana, đọc là \"a\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:b705f3fc74cd59e0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ィ",
+    "reading": "i nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"i nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:b7da50e6bd367b32",
+    "lang": "ja",
+    "kind": "character",
+    "text": "イ",
+    "reading": "i",
+    "explanationVi": "Chữ katakana, đọc là \"i\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:93156928e8c5118f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゥ",
+    "reading": "u nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"u nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:9a77be96e657f54b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ウ",
+    "reading": "u",
+    "explanationVi": "Chữ katakana, đọc là \"u\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:52ae5f6214207aa6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ェ",
+    "reading": "e nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"e nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:da6527388325fef5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "エ",
+    "reading": "e",
+    "explanationVi": "Chữ katakana, đọc là \"e\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:ffd217d2abea80af",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ォ",
+    "reading": "o nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"o nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:50078dbaa307ec98",
+    "lang": "ja",
+    "kind": "character",
+    "text": "オ",
+    "reading": "o",
+    "explanationVi": "Chữ katakana, đọc là \"o\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:0f3aeacdfc6545ec",
+    "lang": "ja",
+    "kind": "character",
+    "text": "カ",
+    "reading": "ka",
+    "explanationVi": "Chữ katakana, đọc là \"ka\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:f661780b6681484c",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ガ",
+    "reading": "ga",
+    "explanationVi": "Chữ katakana, đọc là \"ga\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:d5e6df10a6bf743f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "キ",
+    "reading": "ki",
+    "explanationVi": "Chữ katakana, đọc là \"ki\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:e97bad72301e2571",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ギ",
+    "reading": "gi",
+    "explanationVi": "Chữ katakana, đọc là \"gi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:c1ea156307b969b0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ク",
+    "reading": "ku",
+    "explanationVi": "Chữ katakana, đọc là \"ku\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:6e31b90cc69d2576",
+    "lang": "ja",
+    "kind": "character",
+    "text": "グ",
+    "reading": "gu",
+    "explanationVi": "Chữ katakana, đọc là \"gu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:622fdf3e2c584f9f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ケ",
+    "reading": "ke",
+    "explanationVi": "Chữ katakana, đọc là \"ke\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:1b25272710252d93",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゲ",
+    "reading": "ge",
+    "explanationVi": "Chữ katakana, đọc là \"ge\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:98fd5ed146189adf",
+    "lang": "ja",
+    "kind": "character",
+    "text": "コ",
+    "reading": "ko",
+    "explanationVi": "Chữ katakana, đọc là \"ko\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:a8fc02226a9478bc",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゴ",
+    "reading": "go",
+    "explanationVi": "Chữ katakana, đọc là \"go\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:bd99c12140a327bc",
+    "lang": "ja",
+    "kind": "character",
+    "text": "サ",
+    "reading": "sa",
+    "explanationVi": "Chữ katakana, đọc là \"sa\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:48774c552cdf29a1",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ザ",
+    "reading": "za",
+    "explanationVi": "Chữ katakana, đọc là \"za\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:4d251a7a45beadff",
+    "lang": "ja",
+    "kind": "character",
+    "text": "シ",
+    "reading": "shi",
+    "explanationVi": "Chữ katakana, đọc là \"shi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:beaecdc9ac38d9db",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ジ",
+    "reading": "ji",
+    "explanationVi": "Chữ katakana, đọc là \"ji\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:01e6e71911ee32dc",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ス",
+    "reading": "su",
+    "explanationVi": "Chữ katakana, đọc là \"su\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:526423239d06815e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ズ",
+    "reading": "zu",
+    "explanationVi": "Chữ katakana, đọc là \"zu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:1d6d5f797ba84da4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "セ",
+    "reading": "se",
+    "explanationVi": "Chữ katakana, đọc là \"se\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:00af947c227fd159",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゼ",
+    "reading": "ze",
+    "explanationVi": "Chữ katakana, đọc là \"ze\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:515ee28e941f4a36",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ソ",
+    "reading": "so",
+    "explanationVi": "Chữ katakana, đọc là \"so\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:f7d37547fb72e1e9",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ゾ",
+    "reading": "zo",
+    "explanationVi": "Chữ katakana, đọc là \"zo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:986a4fdd039a49cb",
+    "lang": "ja",
+    "kind": "character",
+    "text": "タ",
+    "reading": "ta",
+    "explanationVi": "Chữ katakana, đọc là \"ta\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:40f3325103158add",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ダ",
+    "reading": "da",
+    "explanationVi": "Chữ katakana, đọc là \"da\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:375a54f253695ca5",
+    "lang": "ja",
+    "kind": "character",
+    "text": "チ",
+    "reading": "chi",
+    "explanationVi": "Chữ katakana, đọc là \"chi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:0565594e6d6f01ae",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヂ",
+    "reading": "ji",
+    "explanationVi": "Chữ katakana, đọc là \"ji\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:8cf763204720063a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ッ",
+    "reading": "tsu nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"tsu nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:2199b4acf2b9638f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ツ",
+    "reading": "tsu",
+    "explanationVi": "Chữ katakana, đọc là \"tsu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:f436c9bdaf07a60a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヅ",
+    "reading": "zu",
+    "explanationVi": "Chữ katakana, đọc là \"zu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:1a52efa1ee108f8d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "テ",
+    "reading": "te",
+    "explanationVi": "Chữ katakana, đọc là \"te\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:b8d0a65c70e9e37d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "デ",
+    "reading": "de",
+    "explanationVi": "Chữ katakana, đọc là \"de\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:f02d7fd30a4999fe",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ト",
+    "reading": "to",
+    "explanationVi": "Chữ katakana, đọc là \"to\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:ab206c36906c59e0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ド",
+    "reading": "do",
+    "explanationVi": "Chữ katakana, đọc là \"do\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:dbd732945553088e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ナ",
+    "reading": "na",
+    "explanationVi": "Chữ katakana, đọc là \"na\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:e5357521c9f146d4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ニ",
+    "reading": "ni",
+    "explanationVi": "Chữ katakana, đọc là \"ni\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:e943eb23a00ef222",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヌ",
+    "reading": "nu",
+    "explanationVi": "Chữ katakana, đọc là \"nu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:f2326d1f1372f2b3",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ネ",
+    "reading": "ne",
+    "explanationVi": "Chữ katakana, đọc là \"ne\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:0fc531b0de627833",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ノ",
+    "reading": "no",
+    "explanationVi": "Chữ katakana, đọc là \"no\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:7fa4747a5edd5326",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ハ",
+    "reading": "ha",
+    "explanationVi": "Chữ katakana, đọc là \"ha\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:8d64993e87b83194",
+    "lang": "ja",
+    "kind": "character",
+    "text": "バ",
+    "reading": "ba",
+    "explanationVi": "Chữ katakana, đọc là \"ba\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:8a67014b1b35067f",
+    "lang": "ja",
+    "kind": "character",
+    "text": "パ",
+    "reading": "pa",
+    "explanationVi": "Chữ katakana, đọc là \"pa\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:360845b85f662262",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヒ",
+    "reading": "hi",
+    "explanationVi": "Chữ katakana, đọc là \"hi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:9bea41136b52abf2",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ビ",
+    "reading": "bi",
+    "explanationVi": "Chữ katakana, đọc là \"bi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:c41be1718f9988ef",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ピ",
+    "reading": "pi",
+    "explanationVi": "Chữ katakana, đọc là \"pi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:d3c7ef9e7442fdfa",
+    "lang": "ja",
+    "kind": "character",
+    "text": "フ",
+    "reading": "fu",
+    "explanationVi": "Chữ katakana, đọc là \"fu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:59a9cda9beb02eb7",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ブ",
+    "reading": "bu",
+    "explanationVi": "Chữ katakana, đọc là \"bu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:b1e28240bdb00594",
+    "lang": "ja",
+    "kind": "character",
+    "text": "プ",
+    "reading": "pu",
+    "explanationVi": "Chữ katakana, đọc là \"pu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:bd38833f268be2d0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヘ",
+    "reading": "he",
+    "explanationVi": "Chữ katakana, đọc là \"he\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:a686fb822f2e0a96",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ベ",
+    "reading": "be",
+    "explanationVi": "Chữ katakana, đọc là \"be\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:526ceaf698105193",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ペ",
+    "reading": "pe",
+    "explanationVi": "Chữ katakana, đọc là \"pe\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:352c8d9c53d292f4",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ホ",
+    "reading": "ho",
+    "explanationVi": "Chữ katakana, đọc là \"ho\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:1500f77aeed1c666",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ボ",
+    "reading": "bo",
+    "explanationVi": "Chữ katakana, đọc là \"bo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:052a1b56d2c982f7",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ポ",
+    "reading": "po",
+    "explanationVi": "Chữ katakana, đọc là \"po\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:6cb2f39f3d6aacf2",
+    "lang": "ja",
+    "kind": "character",
+    "text": "マ",
+    "reading": "ma",
+    "explanationVi": "Chữ katakana, đọc là \"ma\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:4064b676757233c6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ミ",
+    "reading": "mi",
+    "explanationVi": "Chữ katakana, đọc là \"mi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:c1adc67ea6f46013",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ム",
+    "reading": "mu",
+    "explanationVi": "Chữ katakana, đọc là \"mu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:393e129213ffc5f0",
+    "lang": "ja",
+    "kind": "character",
+    "text": "メ",
+    "reading": "me",
+    "explanationVi": "Chữ katakana, đọc là \"me\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:5f46cd67f95777d6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "モ",
+    "reading": "mo",
+    "explanationVi": "Chữ katakana, đọc là \"mo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:fb6c87bf4be60ef1",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ャ",
+    "reading": "ya nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"ya nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:a4ace46500cd6303",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヤ",
+    "reading": "ya",
+    "explanationVi": "Chữ katakana, đọc là \"ya\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:2f712baa025b148d",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ュ",
+    "reading": "yu nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"yu nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:e3a1fc95970e67a1",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ユ",
+    "reading": "yu",
+    "explanationVi": "Chữ katakana, đọc là \"yu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:0ffc239b0ff66ca7",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ョ",
+    "reading": "yo nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"yo nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:b141d6301601bf6e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヨ",
+    "reading": "yo",
+    "explanationVi": "Chữ katakana, đọc là \"yo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:9744cd49ee85d5d8",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ラ",
+    "reading": "ra",
+    "explanationVi": "Chữ katakana, đọc là \"ra\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:f8d557863e17d23b",
+    "lang": "ja",
+    "kind": "character",
+    "text": "リ",
+    "reading": "ri",
+    "explanationVi": "Chữ katakana, đọc là \"ri\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:d18fe274430edd08",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ル",
+    "reading": "ru",
+    "explanationVi": "Chữ katakana, đọc là \"ru\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:1375bc9ad9b88054",
+    "lang": "ja",
+    "kind": "character",
+    "text": "レ",
+    "reading": "re",
+    "explanationVi": "Chữ katakana, đọc là \"re\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:d5f9a45766a93d33",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ロ",
+    "reading": "ro",
+    "explanationVi": "Chữ katakana, đọc là \"ro\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:451a01f76a871c6a",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヮ",
+    "reading": "wa nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"wa nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:9a5847fa4bf02956",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ワ",
+    "reading": "wa",
+    "explanationVi": "Chữ katakana, đọc là \"wa\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:2e04356060426787",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヰ",
+    "reading": "wi",
+    "explanationVi": "Chữ katakana, đọc là \"wi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:6c485f557b7aad0e",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヱ",
+    "reading": "we",
+    "explanationVi": "Chữ katakana, đọc là \"we\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:07b3cddee4c0c929",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヲ",
+    "reading": "wo",
+    "explanationVi": "Chữ katakana, đọc là \"wo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:9de8f54c397948da",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ン",
+    "reading": "n",
+    "explanationVi": "Chữ katakana, đọc là \"n\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:f6c8520e0ab11d30",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヴ",
+    "reading": "vu",
+    "explanationVi": "Chữ katakana, đọc là \"vu\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:b03dd2b35bc7299c",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヵ",
+    "reading": "ka nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"ka nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:a4f32db071309ce2",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヶ",
+    "reading": "ke nhỏ",
+    "explanationVi": "Chữ katakana, đọc là \"ke nhỏ\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:0e5a5434d0216257",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヷ",
+    "reading": "va",
+    "explanationVi": "Chữ katakana, đọc là \"va\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:7152bad49e98e9f6",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヸ",
+    "reading": "vi",
+    "explanationVi": "Chữ katakana, đọc là \"vi\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:a9cb376fceff8dde",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヹ",
+    "reading": "ve",
+    "explanationVi": "Chữ katakana, đọc là \"ve\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:48c2a8ba65cb9d38",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ヺ",
+    "reading": "vo",
+    "explanationVi": "Chữ katakana, đọc là \"vo\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "katakana"
+    ]
+  },
+  {
+    "id": "ja:character:3f759dbe7fe2c738",
+    "lang": "ja",
+    "kind": "character",
+    "text": "ー",
+    "reading": "kéo dài nguyên âm",
+    "explanationVi": "Chữ hiragana, đọc là \"kéo dài nguyên âm\".",
+    "level": "N5",
+    "topics": [
+      "alphabet",
+      "hiragana"
+    ]
+  }
+]

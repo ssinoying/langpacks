@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "ja:exercise:bd37c64771a547dd",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "一",
+    "answers": [
+      "一"
+    ],
+    "itemIds": [
+      "ja:character:0f092cb98b0fd6fe"
+    ]
+  },
+  {
+    "id": "ja:exercise:dbd075e59bfc606b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 一 nghĩa là gì?",
+    "choices": [
+      "ba",
+      "bảy",
+      "một",
+      "trên"
+    ],
+    "answers": [
+      "một"
+    ],
+    "explanationVi": "Hán Việt: nhất.",
+    "itemIds": [
+      "ja:character:0f092cb98b0fd6fe"
+    ]
+  },
+  {
+    "id": "ja:exercise:d6f651e53d1fa19f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "七",
+    "answers": [
+      "七"
+    ],
+    "itemIds": [
+      "ja:character:df4999502086b0b0"
+    ]
+  },
+  {
+    "id": "ja:exercise:99a2476e6e5460d2",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 七 nghĩa là gì?",
+    "choices": [
+      "ba",
+      "bảy",
+      "một",
+      "trên"
+    ],
+    "answers": [
+      "bảy"
+    ],
+    "explanationVi": "Hán Việt: thất.",
+    "itemIds": [
+      "ja:character:df4999502086b0b0"
+    ]
+  },
+  {
+    "id": "ja:exercise:2bb9d1b0ccf63b17",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "三",
+    "answers": [
+      "三"
+    ],
+    "itemIds": [
+      "ja:character:c3ce57736a3313d5"
+    ]
+  },
+  {
+    "id": "ja:exercise:5cf422961fc5da52",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 三 nghĩa là gì?",
+    "choices": [
+      "ba",
+      "bảy",
+      "dưới",
+      "trên"
+    ],
+    "answers": [
+      "ba"
+    ],
+    "explanationVi": "Hán Việt: tam.",
+    "itemIds": [
+      "ja:character:c3ce57736a3313d5"
+    ]
+  },
+  {
+    "id": "ja:exercise:e8e6099273fae6fe",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "上",
+    "answers": [
+      "上"
+    ],
+    "itemIds": [
+      "ja:character:7351631bd90330a3"
+    ]
+  },
+  {
+    "id": "ja:exercise:6df75b1b2a759e68",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 上 nghĩa là gì?",
+    "choices": [
+      "ba",
+      "dưới",
+      "giữa, trong",
+      "trên"
+    ],
+    "answers": [
+      "trên"
+    ],
+    "explanationVi": "Hán Việt: thượng.",
+    "itemIds": [
+      "ja:character:7351631bd90330a3"
+    ]
+  },
+  {
+    "id": "ja:exercise:9bf072cdc29452ec",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "下",
+    "answers": [
+      "下"
+    ],
+    "itemIds": [
+      "ja:character:a234331b576d385e"
+    ]
+  },
+  {
+    "id": "ja:exercise:7f84087b00501822",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 下 nghĩa là gì?",
+    "choices": [
+      "chín",
+      "dưới",
+      "giữa, trong",
+      "trên"
+    ],
+    "answers": [
+      "dưới"
+    ],
+    "explanationVi": "Hán Việt: hạ.",
+    "itemIds": [
+      "ja:character:a234331b576d385e"
+    ]
+  },
+  {
+    "id": "ja:exercise:c9713729d36eff26",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "中",
+    "answers": [
+      "中"
+    ],
+    "itemIds": [
+      "ja:character:aef38322fd7a3be4"
+    ]
+  },
+  {
+    "id": "ja:exercise:cc64f28651df8012",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 中 nghĩa là gì?",
+    "choices": [
+      "chín",
+      "dưới",
+      "giữa, trong",
+      "hai"
+    ],
+    "answers": [
+      "giữa, trong"
+    ],
+    "explanationVi": "Hán Việt: trung.",
+    "itemIds": [
+      "ja:character:aef38322fd7a3be4"
+    ]
+  },
+  {
+    "id": "ja:exercise:c8b4d922d6c3d7e4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "九",
+    "answers": [
+      "九"
+    ],
+    "itemIds": [
+      "ja:character:9eb79a49f605ba31"
+    ]
+  },
+  {
+    "id": "ja:exercise:bffd5b949876bb1e",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 九 nghĩa là gì?",
+    "choices": [
+      "chín",
+      "giữa, trong",
+      "hai",
+      "năm"
+    ],
+    "answers": [
+      "chín"
+    ],
+    "explanationVi": "Hán Việt: cửu.",
+    "itemIds": [
+      "ja:character:9eb79a49f605ba31"
+    ]
+  },
+  {
+    "id": "ja:exercise:116b69a05099bd7b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "二",
+    "answers": [
+      "二"
+    ],
+    "itemIds": [
+      "ja:character:6a6e5bac16a0a60d"
+    ]
+  },
+  {
+    "id": "ja:exercise:dc01c237caade9bf",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 二 nghĩa là gì?",
+    "choices": [
+      "chín",
+      "hai",
+      "người",
+      "năm"
+    ],
+    "answers": [
+      "hai"
+    ],
+    "explanationVi": "Hán Việt: nhì.",
+    "itemIds": [
+      "ja:character:6a6e5bac16a0a60d"
+    ]
+  },
+  {
+    "id": "ja:exercise:389fcb34544a35fd",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "五",
+    "answers": [
+      "五"
+    ],
+    "itemIds": [
+      "ja:character:1989b1d79c1c155a"
+    ]
+  },
+  {
+    "id": "ja:exercise:597934e7546bcd1d",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 五 nghĩa là gì?",
+    "choices": [
+      "hai",
+      "nghỉ",
+      "người",
+      "năm"
+    ],
+    "answers": [
+      "năm"
+    ],
+    "explanationVi": "Hán Việt: ngũ.",
+    "itemIds": [
+      "ja:character:1989b1d79c1c155a"
+    ]
+  },
+  {
+    "id": "ja:exercise:b93519f1c5fb4dc4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "人",
+    "answers": [
+      "人"
+    ],
+    "itemIds": [
+      "ja:character:28aaa856af003fcf"
+    ]
+  },
+  {
+    "id": "ja:exercise:01d759f272a0b92e",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 人 nghĩa là gì?",
+    "choices": [
+      "nghỉ",
+      "người",
+      "năm",
+      "trước"
+    ],
+    "answers": [
+      "người"
+    ],
+    "explanationVi": "Hán Việt: nhân.",
+    "itemIds": [
+      "ja:character:28aaa856af003fcf"
+    ]
+  },
+  {
+    "id": "ja:exercise:83055f850c0d551d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "休",
+    "answers": [
+      "休"
+    ],
+    "itemIds": [
+      "ja:character:60e8883521e98fe9"
+    ]
+  },
+  {
+    "id": "ja:exercise:87bf3010a7ec3ef4",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 休 nghĩa là gì?",
+    "choices": [
+      "nghỉ",
+      "người",
+      "trước",
+      "vào"
+    ],
+    "answers": [
+      "nghỉ"
+    ],
+    "explanationVi": "Hán Việt: hưu.",
+    "itemIds": [
+      "ja:character:60e8883521e98fe9"
+    ]
+  },
+  {
+    "id": "ja:exercise:57958ee19ec63ef5",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "先",
+    "answers": [
+      "先"
+    ],
+    "itemIds": [
+      "ja:character:19a53538a2bec213"
+    ]
+  },
+  {
+    "id": "ja:exercise:a2e8e327ec0da298",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 先 nghĩa là gì?",
+    "choices": [
+      "nghỉ",
+      "trước",
+      "tám",
+      "vào"
+    ],
+    "answers": [
+      "trước"
+    ],
+    "explanationVi": "Hán Việt: tiên.",
+    "itemIds": [
+      "ja:character:19a53538a2bec213"
+    ]
+  },
+  {
+    "id": "ja:exercise:d98d43657712621c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "入",
+    "answers": [
+      "入"
+    ],
+    "itemIds": [
+      "ja:character:3fba4a6f08f7d9e1"
+    ]
+  },
+  {
+    "id": "ja:exercise:d8132e899147fa42",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 入 nghĩa là gì?",
+    "choices": [
+      "sáu",
+      "trước",
+      "tám",
+      "vào"
+    ],
+    "answers": [
+      "vào"
+    ],
+    "explanationVi": "Hán Việt: nhập.",
+    "itemIds": [
+      "ja:character:3fba4a6f08f7d9e1"
+    ]
+  },
+  {
+    "id": "ja:exercise:222dcf21ce571f60",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "八",
+    "answers": [
+      "八"
+    ],
+    "itemIds": [
+      "ja:character:04c32cb327ec3803"
+    ]
+  },
+  {
+    "id": "ja:exercise:d1f0b45e18028434",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 八 nghĩa là gì?",
+    "choices": [
+      "sáu",
+      "tròn; yên (tiền Nhật)",
+      "tám",
+      "vào"
+    ],
+    "answers": [
+      "tám"
+    ],
+    "explanationVi": "Hán Việt: bát.",
+    "itemIds": [
+      "ja:character:04c32cb327ec3803"
+    ]
+  },
+  {
+    "id": "ja:exercise:8d80b85c511d8a20",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "六",
+    "answers": [
+      "六"
+    ],
+    "itemIds": [
+      "ja:character:46ae2bd926cef049"
+    ]
+  },
+  {
+    "id": "ja:exercise:eb6071d54e6c20a4",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 六 nghĩa là gì?",
+    "choices": [
+      "ra",
+      "sáu",
+      "tròn; yên (tiền Nhật)",
+      "tám"
+    ],
+    "answers": [
+      "sáu"
+    ],
+    "explanationVi": "Hán Việt: lục.",
+    "itemIds": [
+      "ja:character:46ae2bd926cef049"
+    ]
+  },
+  {
+    "id": "ja:exercise:ef73615c85c4b590",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "円",
+    "answers": [
+      "円"
+    ],
+    "itemIds": [
+      "ja:character:bc66fb918d4544a8"
+    ]
+  },
+  {
+    "id": "ja:exercise:fda7a45a120f8ed3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 円 nghĩa là gì?",
+    "choices": [
+      "ra",
+      "sáu",
+      "sức",
+      "tròn; yên (tiền Nhật)"
+    ],
+    "answers": [
+      "tròn; yên (tiền Nhật)"
+    ],
+    "explanationVi": "Hán Việt: viên.",
+    "itemIds": [
+      "ja:character:bc66fb918d4544a8"
+    ]
+  },
+  {
+    "id": "ja:exercise:88b8c74f865c7be4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "出",
+    "answers": [
+      "出"
+    ],
+    "itemIds": [
+      "ja:character:6fe0a87429c8cbd0"
+    ]
+  },
+  {
+    "id": "ja:exercise:25654cabf8fa8272",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 出 nghĩa là gì?",
+    "choices": [
+      "mười",
+      "ra",
+      "sức",
+      "tròn; yên (tiền Nhật)"
+    ],
+    "answers": [
+      "ra"
+    ],
+    "explanationVi": "Hán Việt: xuất.",
+    "itemIds": [
+      "ja:character:6fe0a87429c8cbd0"
+    ]
+  },
+  {
+    "id": "ja:exercise:80c0877d73304704",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "力",
+    "answers": [
+      "力"
+    ],
+    "itemIds": [
+      "ja:character:88e57761a3287b3c"
+    ]
+  },
+  {
+    "id": "ja:exercise:e31fe4b6353edf30",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 力 nghĩa là gì?",
+    "choices": [
+      "mười",
+      "nghìn",
+      "ra",
+      "sức"
+    ],
+    "answers": [
+      "sức"
+    ],
+    "explanationVi": "Hán Việt: lực.",
+    "itemIds": [
+      "ja:character:88e57761a3287b3c"
+    ]
+  },
+  {
+    "id": "ja:exercise:4ea97f1662c7c2f7",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "十",
+    "answers": [
+      "十"
+    ],
+    "itemIds": [
+      "ja:character:87978901d5379285"
+    ]
+  },
+  {
+    "id": "ja:exercise:f1acdd7732843faf",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 十 nghĩa là gì?",
+    "choices": [
+      "miệng",
+      "mười",
+      "nghìn",
+      "sức"
+    ],
+    "answers": [
+      "mười"
+    ],
+    "explanationVi": "Hán Việt: thập.",
+    "itemIds": [
+      "ja:character:87978901d5379285"
+    ]
+  },
+  {
+    "id": "ja:exercise:15df76598a768dd4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "千",
+    "answers": [
+      "千"
+    ],
+    "itemIds": [
+      "ja:character:aba62babd683e368"
+    ]
+  },
+  {
+    "id": "ja:exercise:87922c36b3f865bc",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 千 nghĩa là gì?",
+    "choices": [
+      "miệng",
+      "mười",
+      "nghìn",
+      "phải"
+    ],
+    "answers": [
+      "nghìn"
+    ],
+    "explanationVi": "Hán Việt: thiên.",
+    "itemIds": [
+      "ja:character:aba62babd683e368"
+    ]
+  },
+  {
+    "id": "ja:exercise:50b3467bfc541b48",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "口",
+    "answers": [
+      "口"
+    ],
+    "itemIds": [
+      "ja:character:ea375f7e19dfcda6"
+    ]
+  },
+  {
+    "id": "ja:exercise:bdeea7b3a289fbc8",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 口 nghĩa là gì?",
+    "choices": [
+      "miệng",
+      "nghìn",
+      "phải",
+      "tên"
+    ],
+    "answers": [
+      "miệng"
+    ],
+    "explanationVi": "Hán Việt: khẩu.",
+    "itemIds": [
+      "ja:character:ea375f7e19dfcda6"
+    ]
+  },
+  {
+    "id": "ja:exercise:c037e5c7d75d1181",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "右",
+    "answers": [
+      "右"
+    ],
+    "itemIds": [
+      "ja:character:56d636043bf4c28d"
+    ]
+  },
+  {
+    "id": "ja:exercise:7eea6f9478519790",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 右 nghĩa là gì?",
+    "choices": [
+      "bốn",
+      "miệng",
+      "phải",
+      "tên"
+    ],
+    "answers": [
+      "phải"
+    ],
+    "explanationVi": "Hán Việt: hữu.",
+    "itemIds": [
+      "ja:character:56d636043bf4c28d"
+    ]
+  },
+  {
+    "id": "ja:exercise:dd518c8e5b02da4c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "名",
+    "answers": [
+      "名"
+    ],
+    "itemIds": [
+      "ja:character:140aa353a810dce5"
+    ]
+  },
+  {
+    "id": "ja:exercise:129a2bfad84250c5",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 名 nghĩa là gì?",
+    "choices": [
+      "bốn",
+      "phải",
+      "tên",
+      "đất"
+    ],
+    "answers": [
+      "tên"
+    ],
+    "explanationVi": "Hán Việt: danh.",
+    "itemIds": [
+      "ja:character:140aa353a810dce5"
+    ]
+  },
+  {
+    "id": "ja:exercise:5de0af5088c46c25",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "四",
+    "answers": [
+      "四"
+    ],
+    "itemIds": [
+      "ja:character:63caa64007606b3c"
+    ]
+  },
+  {
+    "id": "ja:exercise:0b585e32c727ad8d",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 四 nghĩa là gì?",
+    "choices": [
+      "bốn",
+      "chiều tối",
+      "tên",
+      "đất"
+    ],
+    "answers": [
+      "bốn"
+    ],
+    "explanationVi": "Hán Việt: tứ.",
+    "itemIds": [
+      "ja:character:63caa64007606b3c"
+    ]
+  },
+  {
+    "id": "ja:exercise:f6851340fcf1e5b5",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "土",
+    "answers": [
+      "土"
+    ],
+    "itemIds": [
+      "ja:character:d7563be52bf55050"
+    ]
+  },
+  {
+    "id": "ja:exercise:fff7e1b95dc44a1f",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 土 nghĩa là gì?",
+    "choices": [
+      "bốn",
+      "chiều tối",
+      "to, lớn",
+      "đất"
+    ],
+    "answers": [
+      "đất"
+    ],
+    "explanationVi": "Hán Việt: thổ.",
+    "itemIds": [
+      "ja:character:d7563be52bf55050"
+    ]
+  },
+  {
+    "id": "ja:exercise:b987e5d7c07ca74f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "夕",
+    "answers": [
+      "夕"
+    ],
+    "itemIds": [
+      "ja:character:9fdf27d659320b5a"
+    ]
+  },
+  {
+    "id": "ja:exercise:01cb6695775dc606",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 夕 nghĩa là gì?",
+    "choices": [
+      "chiều tối",
+      "to, lớn",
+      "trời",
+      "đất"
+    ],
+    "answers": [
+      "chiều tối"
+    ],
+    "explanationVi": "Hán Việt: tịch.",
+    "itemIds": [
+      "ja:character:9fdf27d659320b5a"
+    ]
+  },
+  {
+    "id": "ja:exercise:ecb0b0f640c0745b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "大",
+    "answers": [
+      "大"
+    ],
+    "itemIds": [
+      "ja:character:72b2921318c765b4"
+    ]
+  },
+  {
+    "id": "ja:exercise:90460cb194ff09be",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 大 nghĩa là gì?",
+    "choices": [
+      "chiều tối",
+      "phụ nữ",
+      "to, lớn",
+      "trời"
+    ],
+    "answers": [
+      "to, lớn"
+    ],
+    "explanationVi": "Hán Việt: đại.",
+    "itemIds": [
+      "ja:character:72b2921318c765b4"
+    ]
+  },
+  {
+    "id": "ja:exercise:9f31ec0ee2facfe5",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "天",
+    "answers": [
+      "天"
+    ],
+    "itemIds": [
+      "ja:character:7c63ad1628d27d94"
+    ]
+  },
+  {
+    "id": "ja:exercise:a41a218a89e5275e",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 天 nghĩa là gì?",
+    "choices": [
+      "con, đứa trẻ",
+      "phụ nữ",
+      "to, lớn",
+      "trời"
+    ],
+    "answers": [
+      "trời"
+    ],
+    "explanationVi": "Hán Việt: thiên.",
+    "itemIds": [
+      "ja:character:7c63ad1628d27d94"
+    ]
+  },
+  {
+    "id": "ja:exercise:6aa6c655dbe21ff9",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "女",
+    "answers": [
+      "女"
+    ],
+    "itemIds": [
+      "ja:character:5ac65a8b6156525b"
+    ]
+  },
+  {
+    "id": "ja:exercise:3d31532a05966148",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 女 nghĩa là gì?",
+    "choices": [
+      "chữ",
+      "con, đứa trẻ",
+      "phụ nữ",
+      "trời"
+    ],
+    "answers": [
+      "phụ nữ"
+    ],
+    "explanationVi": "Hán Việt: nữa.",
+    "itemIds": [
+      "ja:character:5ac65a8b6156525b"
+    ]
+  },
+  {
+    "id": "ja:exercise:c8d5859d44df753c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "子",
+    "answers": [
+      "子"
+    ],
+    "itemIds": [
+      "ja:character:a74712168fdd5e39"
+    ]
+  },
+  {
+    "id": "ja:exercise:850a36c7c0a28aa4",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 子 nghĩa là gì?",
+    "choices": [
+      "chữ",
+      "con, đứa trẻ",
+      "học",
+      "phụ nữ"
+    ],
+    "answers": [
+      "con, đứa trẻ"
+    ],
+    "explanationVi": "Hán Việt: tí.",
+    "itemIds": [
+      "ja:character:a74712168fdd5e39"
+    ]
+  },
+  {
+    "id": "ja:exercise:d28c2b0677cf50d1",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "字",
+    "answers": [
+      "字"
+    ],
+    "itemIds": [
+      "ja:character:a1ce20b4d3f0d665"
+    ]
+  },
+  {
+    "id": "ja:exercise:0ec06d586d71fd30",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 字 nghĩa là gì?",
+    "choices": [
+      "chữ",
+      "con, đứa trẻ",
+      "học",
+      "nhỏ"
+    ],
+    "answers": [
+      "chữ"
+    ],
+    "explanationVi": "Hán Việt: tự.",
+    "itemIds": [
+      "ja:character:a1ce20b4d3f0d665"
+    ]
+  },
+  {
+    "id": "ja:exercise:9d0b75d1e136c9ee",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "学",
+    "answers": [
+      "学"
+    ],
+    "itemIds": [
+      "ja:character:5c7b3c3703c7dce1"
+    ]
+  },
+  {
+    "id": "ja:exercise:3c776b3bcb91aee7",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 学 nghĩa là gì?",
+    "choices": [
+      "chữ",
+      "học",
+      "nhỏ",
+      "núi"
+    ],
+    "answers": [
+      "học"
+    ],
+    "explanationVi": "Hán Việt: học.",
+    "itemIds": [
+      "ja:character:5c7b3c3703c7dce1"
+    ]
+  },
+  {
+    "id": "ja:exercise:de513f8f8d4ae439",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "小",
+    "answers": [
+      "小"
+    ],
+    "itemIds": [
+      "ja:character:a7bb42cfd7b7fa3a"
+    ]
+  },
+  {
+    "id": "ja:exercise:6958de819ab9b30b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 小 nghĩa là gì?",
+    "choices": [
+      "học",
+      "nhỏ",
+      "núi",
+      "sông"
+    ],
+    "answers": [
+      "nhỏ"
+    ],
+    "explanationVi": "Hán Việt: tiểu.",
+    "itemIds": [
+      "ja:character:a7bb42cfd7b7fa3a"
+    ]
+  },
+  {
+    "id": "ja:exercise:fd0f45592394ab9d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "山",
+    "answers": [
+      "山"
+    ],
+    "itemIds": [
+      "ja:character:8637886cfc31f364"
+    ]
+  },
+  {
+    "id": "ja:exercise:a319d6509f35f85a",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 山 nghĩa là gì?",
+    "choices": [
+      "nhỏ",
+      "núi",
+      "sông",
+      "trái"
+    ],
+    "answers": [
+      "núi"
+    ],
+    "explanationVi": "Hán Việt: sơn.",
+    "itemIds": [
+      "ja:character:8637886cfc31f364"
+    ]
+  },
+  {
+    "id": "ja:exercise:3659da28ef9575a3",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "川",
+    "answers": [
+      "川"
+    ],
+    "itemIds": [
+      "ja:character:e21a7f195765788a"
+    ]
+  },
+  {
+    "id": "ja:exercise:41e307376d59f9d9",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 川 nghĩa là gì?",
+    "choices": [
+      "núi",
+      "năm (thời gian)",
+      "sông",
+      "trái"
+    ],
+    "answers": [
+      "sông"
+    ],
+    "explanationVi": "Hán Việt: xuyên.",
+    "itemIds": [
+      "ja:character:e21a7f195765788a"
+    ]
+  },
+  {
+    "id": "ja:exercise:632764112155a5b1",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "左",
+    "answers": [
+      "左"
+    ],
+    "itemIds": [
+      "ja:character:64b1abd327c9cb9f"
+    ]
+  },
+  {
+    "id": "ja:exercise:ae885840f7e35611",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 左 nghĩa là gì?",
+    "choices": [
+      "năm (thời gian)",
+      "sông",
+      "tay",
+      "trái"
+    ],
+    "answers": [
+      "trái"
+    ],
+    "explanationVi": "Hán Việt: tả.",
+    "itemIds": [
+      "ja:character:64b1abd327c9cb9f"
+    ]
+  },
+  {
+    "id": "ja:exercise:0373d75710efba53",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "年",
+    "answers": [
+      "年"
+    ],
+    "itemIds": [
+      "ja:character:4f076adcd229697e"
+    ]
+  },
+  {
+    "id": "ja:exercise:b938bfe053ce7aea",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 年 nghĩa là gì?",
+    "choices": [
+      "năm (thời gian)",
+      "tay",
+      "trái",
+      "văn, chữ viết"
+    ],
+    "answers": [
+      "năm (thời gian)"
+    ],
+    "explanationVi": "Hán Việt: nên.",
+    "itemIds": [
+      "ja:character:4f076adcd229697e"
+    ]
+  },
+  {
+    "id": "ja:exercise:5b93079406952719",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "手",
+    "answers": [
+      "手"
+    ],
+    "itemIds": [
+      "ja:character:7e1901e7f5bd57a8"
+    ]
+  },
+  {
+    "id": "ja:exercise:17350cddac4a3735",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 手 nghĩa là gì?",
+    "choices": [
+      "mặt trời, ngày",
+      "năm (thời gian)",
+      "tay",
+      "văn, chữ viết"
+    ],
+    "answers": [
+      "tay"
+    ],
+    "explanationVi": "Hán Việt: thủ.",
+    "itemIds": [
+      "ja:character:7e1901e7f5bd57a8"
+    ]
+  },
+  {
+    "id": "ja:exercise:b5d656181cf1f861",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "文",
+    "answers": [
+      "文"
+    ],
+    "itemIds": [
+      "ja:character:1a7c4c0a84a82705"
+    ]
+  },
+  {
+    "id": "ja:exercise:4dd6d32c4c974292",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 文 nghĩa là gì?",
+    "choices": [
+      "mặt trời, ngày",
+      "sớm",
+      "tay",
+      "văn, chữ viết"
+    ],
+    "answers": [
+      "văn, chữ viết"
+    ],
+    "explanationVi": "Hán Việt: văn.",
+    "itemIds": [
+      "ja:character:1a7c4c0a84a82705"
+    ]
+  },
+  {
+    "id": "ja:exercise:ce3bdfb0c7f1b4b9",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "日",
+    "answers": [
+      "日"
+    ],
+    "itemIds": [
+      "ja:character:ff1296c1b1d77eae"
+    ]
+  },
+  {
+    "id": "ja:exercise:a0763a6dac976345",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 日 nghĩa là gì?",
+    "choices": [
+      "mặt trăng, tháng",
+      "mặt trời, ngày",
+      "sớm",
+      "văn, chữ viết"
+    ],
+    "answers": [
+      "mặt trời, ngày"
+    ],
+    "explanationVi": "Hán Việt: nhật.",
+    "itemIds": [
+      "ja:character:ff1296c1b1d77eae"
+    ]
+  },
+  {
+    "id": "ja:exercise:417836064c51afc2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "早",
+    "answers": [
+      "早"
+    ],
+    "itemIds": [
+      "ja:character:356a406e018353c9"
+    ]
+  },
+  {
+    "id": "ja:exercise:8639700c29d51a5b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 早 nghĩa là gì?",
+    "choices": [
+      "cây, gỗ",
+      "mặt trăng, tháng",
+      "mặt trời, ngày",
+      "sớm"
+    ],
+    "answers": [
+      "sớm"
+    ],
+    "explanationVi": "Hán Việt: tảo.",
+    "itemIds": [
+      "ja:character:356a406e018353c9"
+    ]
+  },
+  {
+    "id": "ja:exercise:6d6b3dc33affa76f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "月",
+    "answers": [
+      "月"
+    ],
+    "itemIds": [
+      "ja:character:0eda641a570348c5"
+    ]
+  },
+  {
+    "id": "ja:exercise:aeb144752c1baecb",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 月 nghĩa là gì?",
+    "choices": [
+      "cây, gỗ",
+      "mặt trăng, tháng",
+      "sách, gốc",
+      "sớm"
+    ],
+    "answers": [
+      "mặt trăng, tháng"
+    ],
+    "explanationVi": "Hán Việt: nguyệt.",
+    "itemIds": [
+      "ja:character:0eda641a570348c5"
+    ]
+  },
+  {
+    "id": "ja:exercise:084c83dff36595ac",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "木",
+    "answers": [
+      "木"
+    ],
+    "itemIds": [
+      "ja:character:d61826fcc9034184"
+    ]
+  },
+  {
+    "id": "ja:exercise:3887e0ac5723daeb",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 木 nghĩa là gì?",
+    "choices": [
+      "cây, gỗ",
+      "làng",
+      "mặt trăng, tháng",
+      "sách, gốc"
+    ],
+    "answers": [
+      "cây, gỗ"
+    ],
+    "explanationVi": "Hán Việt: mộc.",
+    "itemIds": [
+      "ja:character:d61826fcc9034184"
+    ]
+  },
+  {
+    "id": "ja:exercise:eab28f5a25110cfe",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "本",
+    "answers": [
+      "本"
+    ],
+    "itemIds": [
+      "ja:character:c640239e921b217c"
+    ]
+  },
+  {
+    "id": "ja:exercise:2b4304ff5efbc240",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 本 nghĩa là gì?",
+    "choices": [
+      "cây, gỗ",
+      "làng",
+      "rừng",
+      "sách, gốc"
+    ],
+    "answers": [
+      "sách, gốc"
+    ],
+    "explanationVi": "Hán Việt: bản.",
+    "itemIds": [
+      "ja:character:c640239e921b217c"
+    ]
+  },
+  {
+    "id": "ja:exercise:07c37a0a6aada016",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "村",
+    "answers": [
+      "村"
+    ],
+    "itemIds": [
+      "ja:character:bc6dfa7fd7f03c0e"
+    ]
+  },
+  {
+    "id": "ja:exercise:baa169507433bfb2",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 村 nghĩa là gì?",
+    "choices": [
+      "làng",
+      "rừng",
+      "sách, gốc",
+      "trường học"
+    ],
+    "answers": [
+      "làng"
+    ],
+    "explanationVi": "Hán Việt: thôn.",
+    "itemIds": [
+      "ja:character:bc6dfa7fd7f03c0e"
+    ]
+  },
+  {
+    "id": "ja:exercise:d4d5738d71fedd19",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "林",
+    "answers": [
+      "林"
+    ],
+    "itemIds": [
+      "ja:character:034cc7a2b2c943da"
+    ]
+  },
+  {
+    "id": "ja:exercise:834e0fee05bd5566",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 林 nghĩa là gì?",
+    "choices": [
+      "làng",
+      "rừng",
+      "rừng rậm",
+      "trường học"
+    ],
+    "answers": [
+      "rừng"
+    ],
+    "explanationVi": "Hán Việt: lâm.",
+    "itemIds": [
+      "ja:character:034cc7a2b2c943da"
+    ]
+  },
+  {
+    "id": "ja:exercise:3d0d4f2ca6fd9b45",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "校",
+    "answers": [
+      "校"
+    ],
+    "itemIds": [
+      "ja:character:e2740724acea244b"
+    ]
+  },
+  {
+    "id": "ja:exercise:a2bdc4a6c5a12422",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 校 nghĩa là gì?",
+    "choices": [
+      "rừng",
+      "rừng rậm",
+      "trường học",
+      "đúng, chính"
+    ],
+    "answers": [
+      "trường học"
+    ],
+    "explanationVi": "Hán Việt: chò.",
+    "itemIds": [
+      "ja:character:e2740724acea244b"
+    ]
+  },
+  {
+    "id": "ja:exercise:6179e5c525b1c72f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "森",
+    "answers": [
+      "森"
+    ],
+    "itemIds": [
+      "ja:character:afb8486809745ec4"
+    ]
+  },
+  {
+    "id": "ja:exercise:9f4ad4582ccfb355",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 森 nghĩa là gì?",
+    "choices": [
+      "khí, tinh thần",
+      "rừng rậm",
+      "trường học",
+      "đúng, chính"
+    ],
+    "answers": [
+      "rừng rậm"
+    ],
+    "explanationVi": "Hán Việt: chùm.",
+    "itemIds": [
+      "ja:character:afb8486809745ec4"
+    ]
+  },
+  {
+    "id": "ja:exercise:1ecda7afdbb3d547",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "正",
+    "answers": [
+      "正"
+    ],
+    "itemIds": [
+      "ja:character:bba514f7b52925a6"
+    ]
+  },
+  {
+    "id": "ja:exercise:19ec9425856f5df5",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 正 nghĩa là gì?",
+    "choices": [
+      "khí, tinh thần",
+      "nước",
+      "rừng rậm",
+      "đúng, chính"
+    ],
+    "answers": [
+      "đúng, chính"
+    ],
+    "explanationVi": "Hán Việt: chính.",
+    "itemIds": [
+      "ja:character:bba514f7b52925a6"
+    ]
+  },
+  {
+    "id": "ja:exercise:f0616f2bfbb32895",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "気",
+    "answers": [
+      "気"
+    ],
+    "itemIds": [
+      "ja:character:f19e5aaae4a47d79"
+    ]
+  },
+  {
+    "id": "ja:exercise:2c6269109a2e23fb",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 気 nghĩa là gì?",
+    "choices": [
+      "khí, tinh thần",
+      "lửa",
+      "nước",
+      "đúng, chính"
+    ],
+    "answers": [
+      "khí, tinh thần"
+    ],
+    "explanationVi": "Hán Việt: khí.",
+    "itemIds": [
+      "ja:character:f19e5aaae4a47d79"
+    ]
+  },
+  {
+    "id": "ja:exercise:0602389048b7ce76",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "水",
+    "answers": [
+      "水"
+    ],
+    "itemIds": [
+      "ja:character:22601df8e86967d9"
+    ]
+  },
+  {
+    "id": "ja:exercise:9b3080db8bd53379",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 水 nghĩa là gì?",
+    "choices": [
+      "chó",
+      "khí, tinh thần",
+      "lửa",
+      "nước"
+    ],
+    "answers": [
+      "nước"
+    ],
+    "explanationVi": "Hán Việt: thuỷ.",
+    "itemIds": [
+      "ja:character:22601df8e86967d9"
+    ]
+  },
+  {
+    "id": "ja:exercise:54f10414567b2a63",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "火",
+    "answers": [
+      "火"
+    ],
+    "itemIds": [
+      "ja:character:64b8884510833def"
+    ]
+  },
+  {
+    "id": "ja:exercise:7594e63ba15d54ed",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 火 nghĩa là gì?",
+    "choices": [
+      "chó",
+      "lửa",
+      "ngọc, viên tròn",
+      "nước"
+    ],
+    "answers": [
+      "lửa"
+    ],
+    "explanationVi": "Hán Việt: hoả.",
+    "itemIds": [
+      "ja:character:64b8884510833def"
+    ]
+  },
+  {
+    "id": "ja:exercise:eddd3655024bfc99",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "犬",
+    "answers": [
+      "犬"
+    ],
+    "itemIds": [
+      "ja:character:8285cd8d37cf022a"
+    ]
+  },
+  {
+    "id": "ja:exercise:b0d0d5dc1e35a788",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 犬 nghĩa là gì?",
+    "choices": [
+      "chó",
+      "lửa",
+      "ngọc, viên tròn",
+      "vua"
+    ],
+    "answers": [
+      "chó"
+    ],
+    "explanationVi": "Hán Việt: khuyển.",
+    "itemIds": [
+      "ja:character:8285cd8d37cf022a"
+    ]
+  },
+  {
+    "id": "ja:exercise:48df1cdcf2a702b3",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "玉",
+    "answers": [
+      "玉"
+    ],
+    "itemIds": [
+      "ja:character:f37973080c025c5a"
+    ]
+  },
+  {
+    "id": "ja:exercise:c0c0f6a7a2a57f1e",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 玉 nghĩa là gì?",
+    "choices": [
+      "chó",
+      "ngọc, viên tròn",
+      "sinh, sống",
+      "vua"
+    ],
+    "answers": [
+      "ngọc, viên tròn"
+    ],
+    "explanationVi": "Hán Việt: ngọc.",
+    "itemIds": [
+      "ja:character:f37973080c025c5a"
+    ]
+  },
+  {
+    "id": "ja:exercise:deb435775e1b749e",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "王",
+    "answers": [
+      "王"
+    ],
+    "itemIds": [
+      "ja:character:56db6d01f117127f"
+    ]
+  },
+  {
+    "id": "ja:exercise:a8eb9c2122f9082b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 王 nghĩa là gì?",
+    "choices": [
+      "ngọc, viên tròn",
+      "ruộng",
+      "sinh, sống",
+      "vua"
+    ],
+    "answers": [
+      "vua"
+    ],
+    "explanationVi": "Hán Việt: vương.",
+    "itemIds": [
+      "ja:character:56db6d01f117127f"
+    ]
+  },
+  {
+    "id": "ja:exercise:fcd6c7731e6ca52b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "生",
+    "answers": [
+      "生"
+    ],
+    "itemIds": [
+      "ja:character:b0ac1f69f7e2d66f"
+    ]
+  },
+  {
+    "id": "ja:exercise:d8cbf3373f673c6f",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 生 nghĩa là gì?",
+    "choices": [
+      "ruộng",
+      "sinh, sống",
+      "vua",
+      "đàn ông"
+    ],
+    "answers": [
+      "sinh, sống"
+    ],
+    "explanationVi": "Hán Việt: sinh.",
+    "itemIds": [
+      "ja:character:b0ac1f69f7e2d66f"
+    ]
+  },
+  {
+    "id": "ja:exercise:6865ba955c4a7fd2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "田",
+    "answers": [
+      "田"
+    ],
+    "itemIds": [
+      "ja:character:15edb56ed050fd9b"
+    ]
+  },
+  {
+    "id": "ja:exercise:8d2a9338ac237a39",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 田 nghĩa là gì?",
+    "choices": [
+      "ruộng",
+      "sinh, sống",
+      "thị trấn",
+      "đàn ông"
+    ],
+    "answers": [
+      "ruộng"
+    ],
+    "explanationVi": "Hán Việt: điền.",
+    "itemIds": [
+      "ja:character:15edb56ed050fd9b"
+    ]
+  },
+  {
+    "id": "ja:exercise:ca9313b126d79408",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "男",
+    "answers": [
+      "男"
+    ],
+    "itemIds": [
+      "ja:character:01d84d5e2d7e32bb"
+    ]
+  },
+  {
+    "id": "ja:exercise:b3907468684b14be",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 男 nghĩa là gì?",
+    "choices": [
+      "ruộng",
+      "thị trấn",
+      "trắng",
+      "đàn ông"
+    ],
+    "answers": [
+      "đàn ông"
+    ],
+    "explanationVi": "Hán Việt: nam.",
+    "itemIds": [
+      "ja:character:01d84d5e2d7e32bb"
+    ]
+  },
+  {
+    "id": "ja:exercise:e61af04070355f22",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "町",
+    "answers": [
+      "町"
+    ],
+    "itemIds": [
+      "ja:character:ceaec2516e0b69a0"
+    ]
+  },
+  {
+    "id": "ja:exercise:b1ca412005389f94",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 町 nghĩa là gì?",
+    "choices": [
+      "thị trấn",
+      "trăm",
+      "trắng",
+      "đàn ông"
+    ],
+    "answers": [
+      "thị trấn"
+    ],
+    "explanationVi": "Hán Việt: đinh.",
+    "itemIds": [
+      "ja:character:ceaec2516e0b69a0"
+    ]
+  },
+  {
+    "id": "ja:exercise:468ef0efadd7c4ea",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "白",
+    "answers": [
+      "白"
+    ],
+    "itemIds": [
+      "ja:character:c18577e96a94b02c"
+    ]
+  },
+  {
+    "id": "ja:exercise:d95553a539f2b80b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 白 nghĩa là gì?",
+    "choices": [
+      "mắt",
+      "thị trấn",
+      "trăm",
+      "trắng"
+    ],
+    "answers": [
+      "trắng"
+    ],
+    "explanationVi": "Hán Việt: bạch.",
+    "itemIds": [
+      "ja:character:c18577e96a94b02c"
+    ]
+  },
+  {
+    "id": "ja:exercise:342bd4274b202ef1",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "百",
+    "answers": [
+      "百"
+    ],
+    "itemIds": [
+      "ja:character:4e7d9efb8be3bd7d"
+    ]
+  },
+  {
+    "id": "ja:exercise:e99b22e6cd278336",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 百 nghĩa là gì?",
+    "choices": [
+      "mắt",
+      "trăm",
+      "trắng",
+      "đá"
+    ],
+    "answers": [
+      "trăm"
+    ],
+    "explanationVi": "Hán Việt: bá.",
+    "itemIds": [
+      "ja:character:4e7d9efb8be3bd7d"
+    ]
+  },
+  {
+    "id": "ja:exercise:26cde44cf546f658",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "目",
+    "answers": [
+      "目"
+    ],
+    "itemIds": [
+      "ja:character:4b6109b0b4a80aad"
+    ]
+  },
+  {
+    "id": "ja:exercise:08c1989f96866899",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 目 nghĩa là gì?",
+    "choices": [
+      "bầu trời, trống rỗng",
+      "mắt",
+      "trăm",
+      "đá"
+    ],
+    "answers": [
+      "mắt"
+    ],
+    "explanationVi": "Hán Việt: mục.",
+    "itemIds": [
+      "ja:character:4b6109b0b4a80aad"
+    ]
+  },
+  {
+    "id": "ja:exercise:dceb83405f4853f4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "石",
+    "answers": [
+      "石"
+    ],
+    "itemIds": [
+      "ja:character:7334fd7a5db8063b"
+    ]
+  },
+  {
+    "id": "ja:exercise:9eb190571aa8034a",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 石 nghĩa là gì?",
+    "choices": [
+      "bầu trời, trống rỗng",
+      "mắt",
+      "đá",
+      "đứng"
+    ],
+    "answers": [
+      "đá"
+    ],
+    "explanationVi": "Hán Việt: thạch.",
+    "itemIds": [
+      "ja:character:7334fd7a5db8063b"
+    ]
+  },
+  {
+    "id": "ja:exercise:72fd386cd25bd378",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "空",
+    "answers": [
+      "空"
+    ],
+    "itemIds": [
+      "ja:character:5a991cd58f9fdf00"
+    ]
+  },
+  {
+    "id": "ja:exercise:c9c48aba28b0d57b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 空 nghĩa là gì?",
+    "choices": [
+      "bầu trời, trống rỗng",
+      "tre",
+      "đá",
+      "đứng"
+    ],
+    "answers": [
+      "bầu trời, trống rỗng"
+    ],
+    "explanationVi": "Hán Việt: không.",
+    "itemIds": [
+      "ja:character:5a991cd58f9fdf00"
+    ]
+  },
+  {
+    "id": "ja:exercise:650c582543fc7ad0",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "立",
+    "answers": [
+      "立"
+    ],
+    "itemIds": [
+      "ja:character:9eae0f5ee8ca52ed"
+    ]
+  },
+  {
+    "id": "ja:exercise:4df0603d5bb74d47",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 立 nghĩa là gì?",
+    "choices": [
+      "bầu trời, trống rỗng",
+      "sợi chỉ",
+      "tre",
+      "đứng"
+    ],
+    "answers": [
+      "đứng"
+    ],
+    "explanationVi": "Hán Việt: lập.",
+    "itemIds": [
+      "ja:character:9eae0f5ee8ca52ed"
+    ]
+  },
+  {
+    "id": "ja:exercise:715213d54b8b7078",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "竹",
+    "answers": [
+      "竹"
+    ],
+    "itemIds": [
+      "ja:character:9b3b47468e87e932"
+    ]
+  },
+  {
+    "id": "ja:exercise:1154c802fbfba7ef",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 竹 nghĩa là gì?",
+    "choices": [
+      "sợi chỉ",
+      "tai",
+      "tre",
+      "đứng"
+    ],
+    "answers": [
+      "tre"
+    ],
+    "explanationVi": "Hán Việt: trúc.",
+    "itemIds": [
+      "ja:character:9b3b47468e87e932"
+    ]
+  },
+  {
+    "id": "ja:exercise:d2c131b205e02372",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "糸",
+    "answers": [
+      "糸"
+    ],
+    "itemIds": [
+      "ja:character:69987fe0c6a7953b"
+    ]
+  },
+  {
+    "id": "ja:exercise:2a4105ed0569f374",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 糸 nghĩa là gì?",
+    "choices": [
+      "hoa",
+      "sợi chỉ",
+      "tai",
+      "tre"
+    ],
+    "answers": [
+      "sợi chỉ"
+    ],
+    "explanationVi": "Hán Việt: mịch.",
+    "itemIds": [
+      "ja:character:69987fe0c6a7953b"
+    ]
+  },
+  {
+    "id": "ja:exercise:e5a6133307345a6a",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "耳",
+    "answers": [
+      "耳"
+    ],
+    "itemIds": [
+      "ja:character:b8f3534c511668da"
+    ]
+  },
+  {
+    "id": "ja:exercise:15aeaa6947eb6733",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 耳 nghĩa là gì?",
+    "choices": [
+      "cỏ",
+      "hoa",
+      "sợi chỉ",
+      "tai"
+    ],
+    "answers": [
+      "tai"
+    ],
+    "explanationVi": "Hán Việt: nhĩ.",
+    "itemIds": [
+      "ja:character:b8f3534c511668da"
+    ]
+  },
+  {
+    "id": "ja:exercise:4045107da944e21b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "花",
+    "answers": [
+      "花"
+    ],
+    "itemIds": [
+      "ja:character:8c6295b1dccc7700"
+    ]
+  },
+  {
+    "id": "ja:exercise:176b3bdcb8bbf7f7",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 花 nghĩa là gì?",
+    "choices": [
+      "côn trùng",
+      "cỏ",
+      "hoa",
+      "tai"
+    ],
+    "answers": [
+      "hoa"
+    ],
+    "explanationVi": "Hán Việt: hoa.",
+    "itemIds": [
+      "ja:character:8c6295b1dccc7700"
+    ]
+  },
+  {
+    "id": "ja:exercise:7e0bc6a8bd75e6e2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "草",
+    "answers": [
+      "草"
+    ],
+    "itemIds": [
+      "ja:character:ceed917be3de2acb"
+    ]
+  },
+  {
+    "id": "ja:exercise:ab765bd322b934cb",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 草 nghĩa là gì?",
+    "choices": [
+      "côn trùng",
+      "cỏ",
+      "hoa",
+      "nhìn, thấy"
+    ],
+    "answers": [
+      "cỏ"
+    ],
+    "explanationVi": "Hán Việt: thảo.",
+    "itemIds": [
+      "ja:character:ceed917be3de2acb"
+    ]
+  },
+  {
+    "id": "ja:exercise:00a137e788c57bf8",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "虫",
+    "answers": [
+      "虫"
+    ],
+    "itemIds": [
+      "ja:character:52911f13ff8f011d"
+    ]
+  },
+  {
+    "id": "ja:exercise:d19f314763741482",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 虫 nghĩa là gì?",
+    "choices": [
+      "côn trùng",
+      "cỏ",
+      "nhìn, thấy",
+      "vỏ sò"
+    ],
+    "answers": [
+      "côn trùng"
+    ],
+    "explanationVi": "Hán Việt: trùng.",
+    "itemIds": [
+      "ja:character:52911f13ff8f011d"
+    ]
+  },
+  {
+    "id": "ja:exercise:140b8462fc433efd",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "見",
+    "answers": [
+      "見"
+    ],
+    "itemIds": [
+      "ja:character:7cbdffb11240f264"
+    ]
+  },
+  {
+    "id": "ja:exercise:62b086e67cba958c",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 見 nghĩa là gì?",
+    "choices": [
+      "côn trùng",
+      "nhìn, thấy",
+      "vỏ sò",
+      "đỏ"
+    ],
+    "answers": [
+      "nhìn, thấy"
+    ],
+    "explanationVi": "Hán Việt: kiến.",
+    "itemIds": [
+      "ja:character:7cbdffb11240f264"
+    ]
+  },
+  {
+    "id": "ja:exercise:b024826c833c750b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "貝",
+    "answers": [
+      "貝"
+    ],
+    "itemIds": [
+      "ja:character:5ffa59572105940d"
+    ]
+  },
+  {
+    "id": "ja:exercise:e88d06848f114495",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 貝 nghĩa là gì?",
+    "choices": [
+      "chân",
+      "nhìn, thấy",
+      "vỏ sò",
+      "đỏ"
+    ],
+    "answers": [
+      "vỏ sò"
+    ],
+    "explanationVi": "Hán Việt: buổi.",
+    "itemIds": [
+      "ja:character:5ffa59572105940d"
+    ]
+  },
+  {
+    "id": "ja:exercise:51dfd9b4b23768f4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "赤",
+    "answers": [
+      "赤"
+    ],
+    "itemIds": [
+      "ja:character:3eb4a4c47a9e27c5"
+    ]
+  },
+  {
+    "id": "ja:exercise:065d4b6e23df234f",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 赤 nghĩa là gì?",
+    "choices": [
+      "chân",
+      "vỏ sò",
+      "xe",
+      "đỏ"
+    ],
+    "answers": [
+      "đỏ"
+    ],
+    "explanationVi": "Hán Việt: xích.",
+    "itemIds": [
+      "ja:character:3eb4a4c47a9e27c5"
+    ]
+  },
+  {
+    "id": "ja:exercise:5b6d16ec24895298",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "足",
+    "answers": [
+      "足"
+    ],
+    "itemIds": [
+      "ja:character:7616d530fa18a7f4"
+    ]
+  },
+  {
+    "id": "ja:exercise:862f154d1c3fb8a3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 足 nghĩa là gì?",
+    "choices": [
+      "chân",
+      "vàng, tiền",
+      "xe",
+      "đỏ"
+    ],
+    "answers": [
+      "chân"
+    ],
+    "explanationVi": "Hán Việt: túc.",
+    "itemIds": [
+      "ja:character:7616d530fa18a7f4"
+    ]
+  },
+  {
+    "id": "ja:exercise:79acf11e489a3c3e",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "車",
+    "answers": [
+      "車"
+    ],
+    "itemIds": [
+      "ja:character:814e7e17da99cfd7"
+    ]
+  },
+  {
+    "id": "ja:exercise:8169c29bda4ae758",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 車 nghĩa là gì?",
+    "choices": [
+      "chân",
+      "mưa",
+      "vàng, tiền",
+      "xe"
+    ],
+    "answers": [
+      "xe"
+    ],
+    "explanationVi": "Hán Việt: xa.",
+    "itemIds": [
+      "ja:character:814e7e17da99cfd7"
+    ]
+  },
+  {
+    "id": "ja:exercise:aa98540f2bf1f852",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "金",
+    "answers": [
+      "金"
+    ],
+    "itemIds": [
+      "ja:character:1dd5742b4967bbad"
+    ]
+  },
+  {
+    "id": "ja:exercise:029fac67cebffad3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 金 nghĩa là gì?",
+    "choices": [
+      "mưa",
+      "vàng, tiền",
+      "xanh",
+      "xe"
+    ],
+    "answers": [
+      "vàng, tiền"
+    ],
+    "explanationVi": "Hán Việt: kim.",
+    "itemIds": [
+      "ja:character:1dd5742b4967bbad"
+    ]
+  },
+  {
+    "id": "ja:exercise:4f330cee49914e1c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "雨",
+    "answers": [
+      "雨"
+    ],
+    "itemIds": [
+      "ja:character:f99e880ef8694589"
+    ]
+  },
+  {
+    "id": "ja:exercise:82fd448a03d2763f",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 雨 nghĩa là gì?",
+    "choices": [
+      "mưa",
+      "vàng, tiền",
+      "xanh",
+      "âm thanh"
+    ],
+    "answers": [
+      "mưa"
+    ],
+    "explanationVi": "Hán Việt: vũ.",
+    "itemIds": [
+      "ja:character:f99e880ef8694589"
+    ]
+  },
+  {
+    "id": "ja:exercise:37343401eb5496b9",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "青",
+    "answers": [
+      "青"
+    ],
+    "itemIds": [
+      "ja:character:f09834256ad8e5a5"
+    ]
+  },
+  {
+    "id": "ja:exercise:45538373ebf1b149",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 青 nghĩa là gì?",
+    "choices": [
+      "mưa",
+      "vàng, tiền",
+      "xanh",
+      "âm thanh"
+    ],
+    "answers": [
+      "xanh"
+    ],
+    "explanationVi": "Hán Việt: thanh.",
+    "itemIds": [
+      "ja:character:f09834256ad8e5a5"
+    ]
+  },
+  {
+    "id": "ja:exercise:80d7c3bb4d0a57f6",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "音",
+    "answers": [
+      "音"
+    ],
+    "itemIds": [
+      "ja:character:c5b752776ba54a45"
+    ]
+  },
+  {
+    "id": "ja:exercise:04aef7c1e13e8dbb",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "Chữ 音 nghĩa là gì?",
+    "choices": [
+      "mưa",
+      "vàng, tiền",
+      "xanh",
+      "âm thanh"
+    ],
+    "answers": [
+      "âm thanh"
+    ],
+    "explanationVi": "Hán Việt: âm.",
+    "itemIds": [
+      "ja:character:c5b752776ba54a45"
+    ]
+  }
+]

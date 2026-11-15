@@ -1,0 +1,8560 @@
+[
+  {
+    "id": "ja:exercise:e403fbba8f2adc28",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぁ",
+    "answers": [
+      "ぁ"
+    ],
+    "itemIds": [
+      "ja:character:af6ad4df2f96336e"
+    ]
+  },
+  {
+    "id": "ja:exercise:37fee4646b695e31",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "あ",
+    "answers": [
+      "あ"
+    ],
+    "itemIds": [
+      "ja:character:374a748c31432a9b"
+    ]
+  },
+  {
+    "id": "ja:exercise:4eba6790d62ed03a",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ あ đọc là gì?",
+    "choices": [
+      "a",
+      "a nhỏ",
+      "i",
+      "i nhỏ"
+    ],
+    "answers": [
+      "a"
+    ],
+    "itemIds": [
+      "ja:character:374a748c31432a9b"
+    ]
+  },
+  {
+    "id": "ja:exercise:9f9f4b3ebf1732b1",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "あ",
+    "choices": [
+      "ぁ",
+      "あ",
+      "ぃ",
+      "い"
+    ],
+    "answers": [
+      "あ"
+    ],
+    "itemIds": [
+      "ja:character:374a748c31432a9b"
+    ]
+  },
+  {
+    "id": "ja:exercise:9794f809fced9029",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぃ",
+    "answers": [
+      "ぃ"
+    ],
+    "itemIds": [
+      "ja:character:de467c50a8c8791b"
+    ]
+  },
+  {
+    "id": "ja:exercise:5b3418f97980a8b9",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "い",
+    "answers": [
+      "い"
+    ],
+    "itemIds": [
+      "ja:character:3eb98906f2bf3ef5"
+    ]
+  },
+  {
+    "id": "ja:exercise:48a89064c44e8e7f",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ い đọc là gì?",
+    "choices": [
+      "i",
+      "i nhỏ",
+      "u",
+      "u nhỏ"
+    ],
+    "answers": [
+      "i"
+    ],
+    "itemIds": [
+      "ja:character:3eb98906f2bf3ef5"
+    ]
+  },
+  {
+    "id": "ja:exercise:ef0c7c37b4402573",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "い",
+    "choices": [
+      "ぃ",
+      "い",
+      "ぅ",
+      "う"
+    ],
+    "answers": [
+      "い"
+    ],
+    "itemIds": [
+      "ja:character:3eb98906f2bf3ef5"
+    ]
+  },
+  {
+    "id": "ja:exercise:7c86470261355b6f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぅ",
+    "answers": [
+      "ぅ"
+    ],
+    "itemIds": [
+      "ja:character:13fc4c1dd7388526"
+    ]
+  },
+  {
+    "id": "ja:exercise:fc38c9de7862254d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "う",
+    "answers": [
+      "う"
+    ],
+    "itemIds": [
+      "ja:character:37fc5c9faefac634"
+    ]
+  },
+  {
+    "id": "ja:exercise:0e1267aa79ab69aa",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ う đọc là gì?",
+    "choices": [
+      "e",
+      "e nhỏ",
+      "u",
+      "u nhỏ"
+    ],
+    "answers": [
+      "u"
+    ],
+    "itemIds": [
+      "ja:character:37fc5c9faefac634"
+    ]
+  },
+  {
+    "id": "ja:exercise:374fc871e3e51024",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "う",
+    "choices": [
+      "ぅ",
+      "う",
+      "ぇ",
+      "え"
+    ],
+    "answers": [
+      "う"
+    ],
+    "itemIds": [
+      "ja:character:37fc5c9faefac634"
+    ]
+  },
+  {
+    "id": "ja:exercise:c7deb7d52a9483cb",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぇ",
+    "answers": [
+      "ぇ"
+    ],
+    "itemIds": [
+      "ja:character:b1f4a25045f558de"
+    ]
+  },
+  {
+    "id": "ja:exercise:25581427608f0753",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "え",
+    "answers": [
+      "え"
+    ],
+    "itemIds": [
+      "ja:character:8142e28fc7640317"
+    ]
+  },
+  {
+    "id": "ja:exercise:2dae17a27c05b093",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ え đọc là gì?",
+    "choices": [
+      "e",
+      "e nhỏ",
+      "o",
+      "o nhỏ"
+    ],
+    "answers": [
+      "e"
+    ],
+    "itemIds": [
+      "ja:character:8142e28fc7640317"
+    ]
+  },
+  {
+    "id": "ja:exercise:7f3a35d7aaaf37f8",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "え",
+    "choices": [
+      "ぇ",
+      "え",
+      "ぉ",
+      "お"
+    ],
+    "answers": [
+      "え"
+    ],
+    "itemIds": [
+      "ja:character:8142e28fc7640317"
+    ]
+  },
+  {
+    "id": "ja:exercise:173b441e2177e2b6",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぉ",
+    "answers": [
+      "ぉ"
+    ],
+    "itemIds": [
+      "ja:character:4b9bb21bd600f4d9"
+    ]
+  },
+  {
+    "id": "ja:exercise:24c477415301df1a",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "お",
+    "answers": [
+      "お"
+    ],
+    "itemIds": [
+      "ja:character:7bf045a5370e87ad"
+    ]
+  },
+  {
+    "id": "ja:exercise:165939d340a0adfc",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ お đọc là gì?",
+    "choices": [
+      "ga",
+      "ka",
+      "o",
+      "o nhỏ"
+    ],
+    "answers": [
+      "o"
+    ],
+    "itemIds": [
+      "ja:character:7bf045a5370e87ad"
+    ]
+  },
+  {
+    "id": "ja:exercise:20af5531f112d829",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "お",
+    "choices": [
+      "ぉ",
+      "お",
+      "か",
+      "が"
+    ],
+    "answers": [
+      "お"
+    ],
+    "itemIds": [
+      "ja:character:7bf045a5370e87ad"
+    ]
+  },
+  {
+    "id": "ja:exercise:9f8aa65d2f5eff29",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "か",
+    "answers": [
+      "か"
+    ],
+    "itemIds": [
+      "ja:character:ec364062e66a8494"
+    ]
+  },
+  {
+    "id": "ja:exercise:8b414ad73839feb3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ か đọc là gì?",
+    "choices": [
+      "ga",
+      "ka",
+      "ki",
+      "o"
+    ],
+    "answers": [
+      "ka"
+    ],
+    "itemIds": [
+      "ja:character:ec364062e66a8494"
+    ]
+  },
+  {
+    "id": "ja:exercise:f526b531554aa5f4",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "か",
+    "choices": [
+      "お",
+      "か",
+      "が",
+      "き"
+    ],
+    "answers": [
+      "か"
+    ],
+    "itemIds": [
+      "ja:character:ec364062e66a8494"
+    ]
+  },
+  {
+    "id": "ja:exercise:d75c7189249a118e",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "が",
+    "answers": [
+      "が"
+    ],
+    "itemIds": [
+      "ja:character:6a89012f052cacca"
+    ]
+  },
+  {
+    "id": "ja:exercise:1e94082f80de0d2a",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ が đọc là gì?",
+    "choices": [
+      "ga",
+      "gi",
+      "ka",
+      "ki"
+    ],
+    "answers": [
+      "ga"
+    ],
+    "itemIds": [
+      "ja:character:6a89012f052cacca"
+    ]
+  },
+  {
+    "id": "ja:exercise:3f709b8f831b65b8",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "が",
+    "choices": [
+      "か",
+      "が",
+      "き",
+      "ぎ"
+    ],
+    "answers": [
+      "が"
+    ],
+    "itemIds": [
+      "ja:character:6a89012f052cacca"
+    ]
+  },
+  {
+    "id": "ja:exercise:1e26c1fba6bef825",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "き",
+    "answers": [
+      "き"
+    ],
+    "itemIds": [
+      "ja:character:8ffa29db7ffc22a8"
+    ]
+  },
+  {
+    "id": "ja:exercise:0623f2839a3bc947",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ き đọc là gì?",
+    "choices": [
+      "ga",
+      "gi",
+      "ki",
+      "ku"
+    ],
+    "answers": [
+      "ki"
+    ],
+    "itemIds": [
+      "ja:character:8ffa29db7ffc22a8"
+    ]
+  },
+  {
+    "id": "ja:exercise:727c45f7e90ed4de",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "き",
+    "choices": [
+      "が",
+      "き",
+      "ぎ",
+      "く"
+    ],
+    "answers": [
+      "き"
+    ],
+    "itemIds": [
+      "ja:character:8ffa29db7ffc22a8"
+    ]
+  },
+  {
+    "id": "ja:exercise:63a61e933c26349e",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぎ",
+    "answers": [
+      "ぎ"
+    ],
+    "itemIds": [
+      "ja:character:31774b5805c6bac4"
+    ]
+  },
+  {
+    "id": "ja:exercise:301f3dc878035811",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぎ đọc là gì?",
+    "choices": [
+      "gi",
+      "gu",
+      "ki",
+      "ku"
+    ],
+    "answers": [
+      "gi"
+    ],
+    "itemIds": [
+      "ja:character:31774b5805c6bac4"
+    ]
+  },
+  {
+    "id": "ja:exercise:c96fe91df58c30a6",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぎ",
+    "choices": [
+      "き",
+      "ぎ",
+      "く",
+      "ぐ"
+    ],
+    "answers": [
+      "ぎ"
+    ],
+    "itemIds": [
+      "ja:character:31774b5805c6bac4"
+    ]
+  },
+  {
+    "id": "ja:exercise:a711b100bdac400d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "く",
+    "answers": [
+      "く"
+    ],
+    "itemIds": [
+      "ja:character:6f426df0d9481652"
+    ]
+  },
+  {
+    "id": "ja:exercise:96dd03c0641a4421",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ く đọc là gì?",
+    "choices": [
+      "gi",
+      "gu",
+      "ke",
+      "ku"
+    ],
+    "answers": [
+      "ku"
+    ],
+    "itemIds": [
+      "ja:character:6f426df0d9481652"
+    ]
+  },
+  {
+    "id": "ja:exercise:a09f113a11870962",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "く",
+    "choices": [
+      "ぎ",
+      "く",
+      "ぐ",
+      "け"
+    ],
+    "answers": [
+      "く"
+    ],
+    "itemIds": [
+      "ja:character:6f426df0d9481652"
+    ]
+  },
+  {
+    "id": "ja:exercise:e488a8580f430fd1",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぐ",
+    "answers": [
+      "ぐ"
+    ],
+    "itemIds": [
+      "ja:character:99723491d08bc417"
+    ]
+  },
+  {
+    "id": "ja:exercise:05252f84ee6482e3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぐ đọc là gì?",
+    "choices": [
+      "ge",
+      "gu",
+      "ke",
+      "ku"
+    ],
+    "answers": [
+      "gu"
+    ],
+    "itemIds": [
+      "ja:character:99723491d08bc417"
+    ]
+  },
+  {
+    "id": "ja:exercise:875821162fa4cc94",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぐ",
+    "choices": [
+      "く",
+      "ぐ",
+      "け",
+      "げ"
+    ],
+    "answers": [
+      "ぐ"
+    ],
+    "itemIds": [
+      "ja:character:99723491d08bc417"
+    ]
+  },
+  {
+    "id": "ja:exercise:23d41e3ab9925a6b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "け",
+    "answers": [
+      "け"
+    ],
+    "itemIds": [
+      "ja:character:ba7afe559a5ecba1"
+    ]
+  },
+  {
+    "id": "ja:exercise:7a84d2e84be0880e",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ け đọc là gì?",
+    "choices": [
+      "ge",
+      "gu",
+      "ke",
+      "ko"
+    ],
+    "answers": [
+      "ke"
+    ],
+    "itemIds": [
+      "ja:character:ba7afe559a5ecba1"
+    ]
+  },
+  {
+    "id": "ja:exercise:24060563b9885852",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "け",
+    "choices": [
+      "ぐ",
+      "け",
+      "げ",
+      "こ"
+    ],
+    "answers": [
+      "け"
+    ],
+    "itemIds": [
+      "ja:character:ba7afe559a5ecba1"
+    ]
+  },
+  {
+    "id": "ja:exercise:5753be14ab6180e2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "げ",
+    "answers": [
+      "げ"
+    ],
+    "itemIds": [
+      "ja:character:ce5c15fbd07726d7"
+    ]
+  },
+  {
+    "id": "ja:exercise:fcb5647a1b3724c2",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ げ đọc là gì?",
+    "choices": [
+      "ge",
+      "go",
+      "ke",
+      "ko"
+    ],
+    "answers": [
+      "ge"
+    ],
+    "itemIds": [
+      "ja:character:ce5c15fbd07726d7"
+    ]
+  },
+  {
+    "id": "ja:exercise:07f89668757c488c",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "げ",
+    "choices": [
+      "け",
+      "げ",
+      "こ",
+      "ご"
+    ],
+    "answers": [
+      "げ"
+    ],
+    "itemIds": [
+      "ja:character:ce5c15fbd07726d7"
+    ]
+  },
+  {
+    "id": "ja:exercise:51409596d36adfb3",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "こ",
+    "answers": [
+      "こ"
+    ],
+    "itemIds": [
+      "ja:character:75df8207175c0df6"
+    ]
+  },
+  {
+    "id": "ja:exercise:be4f45bdfadc46bc",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ こ đọc là gì?",
+    "choices": [
+      "ge",
+      "go",
+      "ko",
+      "sa"
+    ],
+    "answers": [
+      "ko"
+    ],
+    "itemIds": [
+      "ja:character:75df8207175c0df6"
+    ]
+  },
+  {
+    "id": "ja:exercise:aa67a5e27eb482fb",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "こ",
+    "choices": [
+      "げ",
+      "こ",
+      "ご",
+      "さ"
+    ],
+    "answers": [
+      "こ"
+    ],
+    "itemIds": [
+      "ja:character:75df8207175c0df6"
+    ]
+  },
+  {
+    "id": "ja:exercise:9c75d834b66b61fd",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ご",
+    "answers": [
+      "ご"
+    ],
+    "itemIds": [
+      "ja:character:42c41a97f5758603"
+    ]
+  },
+  {
+    "id": "ja:exercise:52a6347eb91bb04c",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ご đọc là gì?",
+    "choices": [
+      "go",
+      "ko",
+      "sa",
+      "za"
+    ],
+    "answers": [
+      "go"
+    ],
+    "itemIds": [
+      "ja:character:42c41a97f5758603"
+    ]
+  },
+  {
+    "id": "ja:exercise:5879f1b4ba415a20",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ご",
+    "choices": [
+      "こ",
+      "ご",
+      "さ",
+      "ざ"
+    ],
+    "answers": [
+      "ご"
+    ],
+    "itemIds": [
+      "ja:character:42c41a97f5758603"
+    ]
+  },
+  {
+    "id": "ja:exercise:4721ea07ac39053d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "さ",
+    "answers": [
+      "さ"
+    ],
+    "itemIds": [
+      "ja:character:8776c4aa0fcebce4"
+    ]
+  },
+  {
+    "id": "ja:exercise:0526708ded9bc2f3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ さ đọc là gì?",
+    "choices": [
+      "go",
+      "sa",
+      "shi",
+      "za"
+    ],
+    "answers": [
+      "sa"
+    ],
+    "itemIds": [
+      "ja:character:8776c4aa0fcebce4"
+    ]
+  },
+  {
+    "id": "ja:exercise:6ac774cb01fc7b43",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "さ",
+    "choices": [
+      "ご",
+      "さ",
+      "ざ",
+      "し"
+    ],
+    "answers": [
+      "さ"
+    ],
+    "itemIds": [
+      "ja:character:8776c4aa0fcebce4"
+    ]
+  },
+  {
+    "id": "ja:exercise:970a85661638e68c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ざ",
+    "answers": [
+      "ざ"
+    ],
+    "itemIds": [
+      "ja:character:1eb9d100662041cb"
+    ]
+  },
+  {
+    "id": "ja:exercise:81ba107db1a5b3fd",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ざ đọc là gì?",
+    "choices": [
+      "ji",
+      "sa",
+      "shi",
+      "za"
+    ],
+    "answers": [
+      "za"
+    ],
+    "itemIds": [
+      "ja:character:1eb9d100662041cb"
+    ]
+  },
+  {
+    "id": "ja:exercise:b33ade6d59467e4a",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ざ",
+    "choices": [
+      "さ",
+      "ざ",
+      "し",
+      "じ"
+    ],
+    "answers": [
+      "ざ"
+    ],
+    "itemIds": [
+      "ja:character:1eb9d100662041cb"
+    ]
+  },
+  {
+    "id": "ja:exercise:623c9f87e46b1f95",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "し",
+    "answers": [
+      "し"
+    ],
+    "itemIds": [
+      "ja:character:6f3d459526ca48f1"
+    ]
+  },
+  {
+    "id": "ja:exercise:d112fb7133c8e169",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ し đọc là gì?",
+    "choices": [
+      "ji",
+      "shi",
+      "su",
+      "za"
+    ],
+    "answers": [
+      "shi"
+    ],
+    "itemIds": [
+      "ja:character:6f3d459526ca48f1"
+    ]
+  },
+  {
+    "id": "ja:exercise:18ad4df5d3511acd",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "し",
+    "choices": [
+      "ざ",
+      "し",
+      "じ",
+      "す"
+    ],
+    "answers": [
+      "し"
+    ],
+    "itemIds": [
+      "ja:character:6f3d459526ca48f1"
+    ]
+  },
+  {
+    "id": "ja:exercise:39c86e9d6abdeb33",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "じ",
+    "answers": [
+      "じ"
+    ],
+    "itemIds": [
+      "ja:character:821d4d08ed848a33"
+    ]
+  },
+  {
+    "id": "ja:exercise:7c77c4fb917c9e33",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ じ đọc là gì?",
+    "choices": [
+      "ji",
+      "shi",
+      "su",
+      "zu"
+    ],
+    "answers": [
+      "ji"
+    ],
+    "itemIds": [
+      "ja:character:821d4d08ed848a33"
+    ]
+  },
+  {
+    "id": "ja:exercise:6a0c8e3bbe1dc7bb",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "じ",
+    "choices": [
+      "し",
+      "じ",
+      "す",
+      "ず"
+    ],
+    "answers": [
+      "じ"
+    ],
+    "itemIds": [
+      "ja:character:821d4d08ed848a33"
+    ]
+  },
+  {
+    "id": "ja:exercise:fe1280b078a45b35",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "す",
+    "answers": [
+      "す"
+    ],
+    "itemIds": [
+      "ja:character:e29c8aa9db2f100b"
+    ]
+  },
+  {
+    "id": "ja:exercise:855d569d226d7fe4",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ す đọc là gì?",
+    "choices": [
+      "ji",
+      "se",
+      "su",
+      "zu"
+    ],
+    "answers": [
+      "su"
+    ],
+    "itemIds": [
+      "ja:character:e29c8aa9db2f100b"
+    ]
+  },
+  {
+    "id": "ja:exercise:a6e54638266fc212",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "す",
+    "choices": [
+      "じ",
+      "す",
+      "ず",
+      "せ"
+    ],
+    "answers": [
+      "す"
+    ],
+    "itemIds": [
+      "ja:character:e29c8aa9db2f100b"
+    ]
+  },
+  {
+    "id": "ja:exercise:51f9d671394bdc6c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ず",
+    "answers": [
+      "ず"
+    ],
+    "itemIds": [
+      "ja:character:e4e63b7cb2fa14b1"
+    ]
+  },
+  {
+    "id": "ja:exercise:813ddf157d8cd4a3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ず đọc là gì?",
+    "choices": [
+      "se",
+      "su",
+      "ze",
+      "zu"
+    ],
+    "answers": [
+      "zu"
+    ],
+    "itemIds": [
+      "ja:character:e4e63b7cb2fa14b1"
+    ]
+  },
+  {
+    "id": "ja:exercise:ef6865a1c2627b78",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ず",
+    "choices": [
+      "す",
+      "ず",
+      "せ",
+      "ぜ"
+    ],
+    "answers": [
+      "ず"
+    ],
+    "itemIds": [
+      "ja:character:e4e63b7cb2fa14b1"
+    ]
+  },
+  {
+    "id": "ja:exercise:324346d67548b3fc",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "せ",
+    "answers": [
+      "せ"
+    ],
+    "itemIds": [
+      "ja:character:c216af3a23eab689"
+    ]
+  },
+  {
+    "id": "ja:exercise:0d30efaaf31c7fe4",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ せ đọc là gì?",
+    "choices": [
+      "se",
+      "so",
+      "ze",
+      "zu"
+    ],
+    "answers": [
+      "se"
+    ],
+    "itemIds": [
+      "ja:character:c216af3a23eab689"
+    ]
+  },
+  {
+    "id": "ja:exercise:ae88e37d736ad327",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "せ",
+    "choices": [
+      "ず",
+      "せ",
+      "ぜ",
+      "そ"
+    ],
+    "answers": [
+      "せ"
+    ],
+    "itemIds": [
+      "ja:character:c216af3a23eab689"
+    ]
+  },
+  {
+    "id": "ja:exercise:beb3269ea6930796",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぜ",
+    "answers": [
+      "ぜ"
+    ],
+    "itemIds": [
+      "ja:character:47a3b5a8b38b81e4"
+    ]
+  },
+  {
+    "id": "ja:exercise:b6ddf966c33e6f63",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぜ đọc là gì?",
+    "choices": [
+      "se",
+      "so",
+      "ze",
+      "zo"
+    ],
+    "answers": [
+      "ze"
+    ],
+    "itemIds": [
+      "ja:character:47a3b5a8b38b81e4"
+    ]
+  },
+  {
+    "id": "ja:exercise:cf4406e2bc6fb3b3",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぜ",
+    "choices": [
+      "せ",
+      "ぜ",
+      "そ",
+      "ぞ"
+    ],
+    "answers": [
+      "ぜ"
+    ],
+    "itemIds": [
+      "ja:character:47a3b5a8b38b81e4"
+    ]
+  },
+  {
+    "id": "ja:exercise:e25238901df5e1da",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "そ",
+    "answers": [
+      "そ"
+    ],
+    "itemIds": [
+      "ja:character:96c944324f4c067a"
+    ]
+  },
+  {
+    "id": "ja:exercise:296a02e4cb6c9e96",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ そ đọc là gì?",
+    "choices": [
+      "so",
+      "ta",
+      "ze",
+      "zo"
+    ],
+    "answers": [
+      "so"
+    ],
+    "itemIds": [
+      "ja:character:96c944324f4c067a"
+    ]
+  },
+  {
+    "id": "ja:exercise:c3d72b74d40d2ec7",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "そ",
+    "choices": [
+      "ぜ",
+      "そ",
+      "ぞ",
+      "た"
+    ],
+    "answers": [
+      "そ"
+    ],
+    "itemIds": [
+      "ja:character:96c944324f4c067a"
+    ]
+  },
+  {
+    "id": "ja:exercise:16bc4394546b77bb",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぞ",
+    "answers": [
+      "ぞ"
+    ],
+    "itemIds": [
+      "ja:character:2dbd6a6d90054170"
+    ]
+  },
+  {
+    "id": "ja:exercise:1c3c75c8bff788b8",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぞ đọc là gì?",
+    "choices": [
+      "da",
+      "so",
+      "ta",
+      "zo"
+    ],
+    "answers": [
+      "zo"
+    ],
+    "itemIds": [
+      "ja:character:2dbd6a6d90054170"
+    ]
+  },
+  {
+    "id": "ja:exercise:047a7d7970c6e6a4",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぞ",
+    "choices": [
+      "そ",
+      "ぞ",
+      "た",
+      "だ"
+    ],
+    "answers": [
+      "ぞ"
+    ],
+    "itemIds": [
+      "ja:character:2dbd6a6d90054170"
+    ]
+  },
+  {
+    "id": "ja:exercise:fad6ec5386cba7fe",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "た",
+    "answers": [
+      "た"
+    ],
+    "itemIds": [
+      "ja:character:0ea218da0b6a1ab9"
+    ]
+  },
+  {
+    "id": "ja:exercise:4d815a7937af4599",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ た đọc là gì?",
+    "choices": [
+      "chi",
+      "da",
+      "ta",
+      "zo"
+    ],
+    "answers": [
+      "ta"
+    ],
+    "itemIds": [
+      "ja:character:0ea218da0b6a1ab9"
+    ]
+  },
+  {
+    "id": "ja:exercise:9362a8723d36b953",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "た",
+    "choices": [
+      "ぞ",
+      "た",
+      "だ",
+      "ち"
+    ],
+    "answers": [
+      "た"
+    ],
+    "itemIds": [
+      "ja:character:0ea218da0b6a1ab9"
+    ]
+  },
+  {
+    "id": "ja:exercise:f2279cc045622800",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "だ",
+    "answers": [
+      "だ"
+    ],
+    "itemIds": [
+      "ja:character:f4c5dae0d4a015e6"
+    ]
+  },
+  {
+    "id": "ja:exercise:e30fa9910578f689",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ だ đọc là gì?",
+    "choices": [
+      "chi",
+      "da",
+      "ji",
+      "ta"
+    ],
+    "answers": [
+      "da"
+    ],
+    "itemIds": [
+      "ja:character:f4c5dae0d4a015e6"
+    ]
+  },
+  {
+    "id": "ja:exercise:8f891150ff60961f",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "だ",
+    "choices": [
+      "た",
+      "だ",
+      "ち",
+      "ぢ"
+    ],
+    "answers": [
+      "だ"
+    ],
+    "itemIds": [
+      "ja:character:f4c5dae0d4a015e6"
+    ]
+  },
+  {
+    "id": "ja:exercise:f18f1af3426f27f7",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ち",
+    "answers": [
+      "ち"
+    ],
+    "itemIds": [
+      "ja:character:b87ebf0f7b4dc749"
+    ]
+  },
+  {
+    "id": "ja:exercise:76ae155f80657e69",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ち đọc là gì?",
+    "choices": [
+      "chi",
+      "da",
+      "ji",
+      "tsu nhỏ"
+    ],
+    "answers": [
+      "chi"
+    ],
+    "itemIds": [
+      "ja:character:b87ebf0f7b4dc749"
+    ]
+  },
+  {
+    "id": "ja:exercise:31b7ff4492b2b5c3",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ち",
+    "choices": [
+      "だ",
+      "ち",
+      "ぢ",
+      "っ"
+    ],
+    "answers": [
+      "ち"
+    ],
+    "itemIds": [
+      "ja:character:b87ebf0f7b4dc749"
+    ]
+  },
+  {
+    "id": "ja:exercise:9075d2a944ce3554",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぢ",
+    "answers": [
+      "ぢ"
+    ],
+    "itemIds": [
+      "ja:character:12fcd5f6732ab88e"
+    ]
+  },
+  {
+    "id": "ja:exercise:238f3e2b946bb0a5",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぢ đọc là gì?",
+    "choices": [
+      "chi",
+      "ji",
+      "tsu",
+      "tsu nhỏ"
+    ],
+    "answers": [
+      "ji"
+    ],
+    "itemIds": [
+      "ja:character:12fcd5f6732ab88e"
+    ]
+  },
+  {
+    "id": "ja:exercise:e4bef25f70a8aec0",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぢ",
+    "choices": [
+      "ち",
+      "ぢ",
+      "っ",
+      "つ"
+    ],
+    "answers": [
+      "ぢ"
+    ],
+    "itemIds": [
+      "ja:character:12fcd5f6732ab88e"
+    ]
+  },
+  {
+    "id": "ja:exercise:b48ca87026df1c3b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "っ",
+    "answers": [
+      "っ"
+    ],
+    "itemIds": [
+      "ja:character:8455127930f2dd1f"
+    ]
+  },
+  {
+    "id": "ja:exercise:42501c49d96b708c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "つ",
+    "answers": [
+      "つ"
+    ],
+    "itemIds": [
+      "ja:character:73702671711aa18e"
+    ]
+  },
+  {
+    "id": "ja:exercise:cf0ca47cc539d46c",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ つ đọc là gì?",
+    "choices": [
+      "te",
+      "tsu",
+      "tsu nhỏ",
+      "zu"
+    ],
+    "answers": [
+      "tsu"
+    ],
+    "itemIds": [
+      "ja:character:73702671711aa18e"
+    ]
+  },
+  {
+    "id": "ja:exercise:ef58fad51fcd5621",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "つ",
+    "choices": [
+      "っ",
+      "つ",
+      "づ",
+      "て"
+    ],
+    "answers": [
+      "つ"
+    ],
+    "itemIds": [
+      "ja:character:73702671711aa18e"
+    ]
+  },
+  {
+    "id": "ja:exercise:cdff60e9d60b468f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "づ",
+    "answers": [
+      "づ"
+    ],
+    "itemIds": [
+      "ja:character:b770f0888882af91"
+    ]
+  },
+  {
+    "id": "ja:exercise:6c99b398670abffd",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ づ đọc là gì?",
+    "choices": [
+      "de",
+      "te",
+      "tsu",
+      "zu"
+    ],
+    "answers": [
+      "zu"
+    ],
+    "itemIds": [
+      "ja:character:b770f0888882af91"
+    ]
+  },
+  {
+    "id": "ja:exercise:0988714c964cc766",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "づ",
+    "choices": [
+      "つ",
+      "づ",
+      "て",
+      "で"
+    ],
+    "answers": [
+      "づ"
+    ],
+    "itemIds": [
+      "ja:character:b770f0888882af91"
+    ]
+  },
+  {
+    "id": "ja:exercise:c9284ab7dbf24606",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "て",
+    "answers": [
+      "て"
+    ],
+    "itemIds": [
+      "ja:character:18bac83f5ef4a35a"
+    ]
+  },
+  {
+    "id": "ja:exercise:af9fcfdd826c2b2d",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ て đọc là gì?",
+    "choices": [
+      "de",
+      "te",
+      "to",
+      "zu"
+    ],
+    "answers": [
+      "te"
+    ],
+    "itemIds": [
+      "ja:character:18bac83f5ef4a35a"
+    ]
+  },
+  {
+    "id": "ja:exercise:52d1f5af5d9bef29",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "て",
+    "choices": [
+      "づ",
+      "て",
+      "で",
+      "と"
+    ],
+    "answers": [
+      "て"
+    ],
+    "itemIds": [
+      "ja:character:18bac83f5ef4a35a"
+    ]
+  },
+  {
+    "id": "ja:exercise:066150adecf4e8c7",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "で",
+    "answers": [
+      "で"
+    ],
+    "itemIds": [
+      "ja:character:38cafc026fe157a5"
+    ]
+  },
+  {
+    "id": "ja:exercise:b1205ea092b4780d",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ で đọc là gì?",
+    "choices": [
+      "de",
+      "do",
+      "te",
+      "to"
+    ],
+    "answers": [
+      "de"
+    ],
+    "itemIds": [
+      "ja:character:38cafc026fe157a5"
+    ]
+  },
+  {
+    "id": "ja:exercise:6fd8ff3b11cc3035",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "で",
+    "choices": [
+      "て",
+      "で",
+      "と",
+      "ど"
+    ],
+    "answers": [
+      "で"
+    ],
+    "itemIds": [
+      "ja:character:38cafc026fe157a5"
+    ]
+  },
+  {
+    "id": "ja:exercise:5254cde8a9050591",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "と",
+    "answers": [
+      "と"
+    ],
+    "itemIds": [
+      "ja:character:fca278e21d549544"
+    ]
+  },
+  {
+    "id": "ja:exercise:45444457b115bbe0",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ と đọc là gì?",
+    "choices": [
+      "de",
+      "do",
+      "na",
+      "to"
+    ],
+    "answers": [
+      "to"
+    ],
+    "itemIds": [
+      "ja:character:fca278e21d549544"
+    ]
+  },
+  {
+    "id": "ja:exercise:6491df0b99360b98",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "と",
+    "choices": [
+      "で",
+      "と",
+      "ど",
+      "な"
+    ],
+    "answers": [
+      "と"
+    ],
+    "itemIds": [
+      "ja:character:fca278e21d549544"
+    ]
+  },
+  {
+    "id": "ja:exercise:5068b6a8073979aa",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ど",
+    "answers": [
+      "ど"
+    ],
+    "itemIds": [
+      "ja:character:9ccb839afb7a4cc8"
+    ]
+  },
+  {
+    "id": "ja:exercise:33766377271988e0",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ど đọc là gì?",
+    "choices": [
+      "do",
+      "na",
+      "ni",
+      "to"
+    ],
+    "answers": [
+      "do"
+    ],
+    "itemIds": [
+      "ja:character:9ccb839afb7a4cc8"
+    ]
+  },
+  {
+    "id": "ja:exercise:4430b4360adc7406",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ど",
+    "choices": [
+      "と",
+      "ど",
+      "な",
+      "に"
+    ],
+    "answers": [
+      "ど"
+    ],
+    "itemIds": [
+      "ja:character:9ccb839afb7a4cc8"
+    ]
+  },
+  {
+    "id": "ja:exercise:0d599bb6f7a72de2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "な",
+    "answers": [
+      "な"
+    ],
+    "itemIds": [
+      "ja:character:c9ac5f1d808d03c8"
+    ]
+  },
+  {
+    "id": "ja:exercise:10b3c92ae867f1ae",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ な đọc là gì?",
+    "choices": [
+      "do",
+      "na",
+      "ni",
+      "nu"
+    ],
+    "answers": [
+      "na"
+    ],
+    "itemIds": [
+      "ja:character:c9ac5f1d808d03c8"
+    ]
+  },
+  {
+    "id": "ja:exercise:e4b61b27c43de38b",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "な",
+    "choices": [
+      "ど",
+      "な",
+      "に",
+      "ぬ"
+    ],
+    "answers": [
+      "な"
+    ],
+    "itemIds": [
+      "ja:character:c9ac5f1d808d03c8"
+    ]
+  },
+  {
+    "id": "ja:exercise:f6413741f189a3b5",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "に",
+    "answers": [
+      "に"
+    ],
+    "itemIds": [
+      "ja:character:6ea4bc09d284e827"
+    ]
+  },
+  {
+    "id": "ja:exercise:eded4ca6cb30e2d3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ に đọc là gì?",
+    "choices": [
+      "na",
+      "ne",
+      "ni",
+      "nu"
+    ],
+    "answers": [
+      "ni"
+    ],
+    "itemIds": [
+      "ja:character:6ea4bc09d284e827"
+    ]
+  },
+  {
+    "id": "ja:exercise:4543188cb948c7c4",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "に",
+    "choices": [
+      "な",
+      "に",
+      "ぬ",
+      "ね"
+    ],
+    "answers": [
+      "に"
+    ],
+    "itemIds": [
+      "ja:character:6ea4bc09d284e827"
+    ]
+  },
+  {
+    "id": "ja:exercise:6e63292396583922",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぬ",
+    "answers": [
+      "ぬ"
+    ],
+    "itemIds": [
+      "ja:character:449a488c5a02530d"
+    ]
+  },
+  {
+    "id": "ja:exercise:dc2224cc39007ebf",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぬ đọc là gì?",
+    "choices": [
+      "ne",
+      "ni",
+      "no",
+      "nu"
+    ],
+    "answers": [
+      "nu"
+    ],
+    "itemIds": [
+      "ja:character:449a488c5a02530d"
+    ]
+  },
+  {
+    "id": "ja:exercise:5d7d7518e24fea4b",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぬ",
+    "choices": [
+      "に",
+      "ぬ",
+      "ね",
+      "の"
+    ],
+    "answers": [
+      "ぬ"
+    ],
+    "itemIds": [
+      "ja:character:449a488c5a02530d"
+    ]
+  },
+  {
+    "id": "ja:exercise:11e183ee236becae",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ね",
+    "answers": [
+      "ね"
+    ],
+    "itemIds": [
+      "ja:character:dfbfe3ffb4402b80"
+    ]
+  },
+  {
+    "id": "ja:exercise:784712ae15b3f5f2",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ね đọc là gì?",
+    "choices": [
+      "ha",
+      "ne",
+      "no",
+      "nu"
+    ],
+    "answers": [
+      "ne"
+    ],
+    "itemIds": [
+      "ja:character:dfbfe3ffb4402b80"
+    ]
+  },
+  {
+    "id": "ja:exercise:bea2b6c467854b54",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ね",
+    "choices": [
+      "ぬ",
+      "ね",
+      "の",
+      "は"
+    ],
+    "answers": [
+      "ね"
+    ],
+    "itemIds": [
+      "ja:character:dfbfe3ffb4402b80"
+    ]
+  },
+  {
+    "id": "ja:exercise:12bcb274dbdb0842",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "の",
+    "answers": [
+      "の"
+    ],
+    "itemIds": [
+      "ja:character:c125bbdf4f613ac0"
+    ]
+  },
+  {
+    "id": "ja:exercise:9a7856e95e0ccbcd",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ の đọc là gì?",
+    "choices": [
+      "ba",
+      "ha",
+      "ne",
+      "no"
+    ],
+    "answers": [
+      "no"
+    ],
+    "itemIds": [
+      "ja:character:c125bbdf4f613ac0"
+    ]
+  },
+  {
+    "id": "ja:exercise:c071a5ba46ac009c",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "の",
+    "choices": [
+      "ね",
+      "の",
+      "は",
+      "ば"
+    ],
+    "answers": [
+      "の"
+    ],
+    "itemIds": [
+      "ja:character:c125bbdf4f613ac0"
+    ]
+  },
+  {
+    "id": "ja:exercise:22463cb75aa612ed",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "は",
+    "answers": [
+      "は"
+    ],
+    "itemIds": [
+      "ja:character:e8b7779c10a6179e"
+    ]
+  },
+  {
+    "id": "ja:exercise:0630bc1596dd44f8",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ は đọc là gì?",
+    "choices": [
+      "ba",
+      "ha",
+      "no",
+      "pa"
+    ],
+    "answers": [
+      "ha"
+    ],
+    "itemIds": [
+      "ja:character:e8b7779c10a6179e"
+    ]
+  },
+  {
+    "id": "ja:exercise:ec1c49f9047d6767",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "は",
+    "choices": [
+      "の",
+      "は",
+      "ば",
+      "ぱ"
+    ],
+    "answers": [
+      "は"
+    ],
+    "itemIds": [
+      "ja:character:e8b7779c10a6179e"
+    ]
+  },
+  {
+    "id": "ja:exercise:2a04bd9e94a59465",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ば",
+    "answers": [
+      "ば"
+    ],
+    "itemIds": [
+      "ja:character:21e99b0f24bbe89e"
+    ]
+  },
+  {
+    "id": "ja:exercise:5dd1e731c3e9291e",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ば đọc là gì?",
+    "choices": [
+      "ba",
+      "ha",
+      "hi",
+      "pa"
+    ],
+    "answers": [
+      "ba"
+    ],
+    "itemIds": [
+      "ja:character:21e99b0f24bbe89e"
+    ]
+  },
+  {
+    "id": "ja:exercise:45bef7eae5acd3bc",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ば",
+    "choices": [
+      "は",
+      "ば",
+      "ぱ",
+      "ひ"
+    ],
+    "answers": [
+      "ば"
+    ],
+    "itemIds": [
+      "ja:character:21e99b0f24bbe89e"
+    ]
+  },
+  {
+    "id": "ja:exercise:0cd3b85635847ea8",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぱ",
+    "answers": [
+      "ぱ"
+    ],
+    "itemIds": [
+      "ja:character:fa3fba656c558c48"
+    ]
+  },
+  {
+    "id": "ja:exercise:d02c3dc6e359ec25",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぱ đọc là gì?",
+    "choices": [
+      "ba",
+      "bi",
+      "hi",
+      "pa"
+    ],
+    "answers": [
+      "pa"
+    ],
+    "itemIds": [
+      "ja:character:fa3fba656c558c48"
+    ]
+  },
+  {
+    "id": "ja:exercise:53a0e96ed1324d91",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぱ",
+    "choices": [
+      "ば",
+      "ぱ",
+      "ひ",
+      "び"
+    ],
+    "answers": [
+      "ぱ"
+    ],
+    "itemIds": [
+      "ja:character:fa3fba656c558c48"
+    ]
+  },
+  {
+    "id": "ja:exercise:45fbfba7be6e1c89",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ひ",
+    "answers": [
+      "ひ"
+    ],
+    "itemIds": [
+      "ja:character:933f6bf63ccd9aa4"
+    ]
+  },
+  {
+    "id": "ja:exercise:5307a9cdc83d6bbb",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ひ đọc là gì?",
+    "choices": [
+      "bi",
+      "hi",
+      "pa",
+      "pi"
+    ],
+    "answers": [
+      "hi"
+    ],
+    "itemIds": [
+      "ja:character:933f6bf63ccd9aa4"
+    ]
+  },
+  {
+    "id": "ja:exercise:1e64c0db5f0804ca",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ひ",
+    "choices": [
+      "ぱ",
+      "ひ",
+      "び",
+      "ぴ"
+    ],
+    "answers": [
+      "ひ"
+    ],
+    "itemIds": [
+      "ja:character:933f6bf63ccd9aa4"
+    ]
+  },
+  {
+    "id": "ja:exercise:3862621f82f780e8",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "び",
+    "answers": [
+      "び"
+    ],
+    "itemIds": [
+      "ja:character:d9798455356ee714"
+    ]
+  },
+  {
+    "id": "ja:exercise:0244f39c553d0fd6",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ び đọc là gì?",
+    "choices": [
+      "bi",
+      "fu",
+      "hi",
+      "pi"
+    ],
+    "answers": [
+      "bi"
+    ],
+    "itemIds": [
+      "ja:character:d9798455356ee714"
+    ]
+  },
+  {
+    "id": "ja:exercise:f74dfc8276bee433",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "び",
+    "choices": [
+      "ひ",
+      "び",
+      "ぴ",
+      "ふ"
+    ],
+    "answers": [
+      "び"
+    ],
+    "itemIds": [
+      "ja:character:d9798455356ee714"
+    ]
+  },
+  {
+    "id": "ja:exercise:b8f3820360912a70",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぴ",
+    "answers": [
+      "ぴ"
+    ],
+    "itemIds": [
+      "ja:character:012aafa7ce3b371a"
+    ]
+  },
+  {
+    "id": "ja:exercise:e8e956d5599a8bad",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぴ đọc là gì?",
+    "choices": [
+      "bi",
+      "bu",
+      "fu",
+      "pi"
+    ],
+    "answers": [
+      "pi"
+    ],
+    "itemIds": [
+      "ja:character:012aafa7ce3b371a"
+    ]
+  },
+  {
+    "id": "ja:exercise:e257ba55bb63b427",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぴ",
+    "choices": [
+      "び",
+      "ぴ",
+      "ふ",
+      "ぶ"
+    ],
+    "answers": [
+      "ぴ"
+    ],
+    "itemIds": [
+      "ja:character:012aafa7ce3b371a"
+    ]
+  },
+  {
+    "id": "ja:exercise:2fe5aaecfa63c3a1",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ふ",
+    "answers": [
+      "ふ"
+    ],
+    "itemIds": [
+      "ja:character:e397487935dc87bc"
+    ]
+  },
+  {
+    "id": "ja:exercise:feb3ad79728cf321",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ふ đọc là gì?",
+    "choices": [
+      "bu",
+      "fu",
+      "pi",
+      "pu"
+    ],
+    "answers": [
+      "fu"
+    ],
+    "itemIds": [
+      "ja:character:e397487935dc87bc"
+    ]
+  },
+  {
+    "id": "ja:exercise:f45110e4d1ce7800",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ふ",
+    "choices": [
+      "ぴ",
+      "ふ",
+      "ぶ",
+      "ぷ"
+    ],
+    "answers": [
+      "ふ"
+    ],
+    "itemIds": [
+      "ja:character:e397487935dc87bc"
+    ]
+  },
+  {
+    "id": "ja:exercise:042cbb6d18cb56b4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぶ",
+    "answers": [
+      "ぶ"
+    ],
+    "itemIds": [
+      "ja:character:2446e1fe9066b0a9"
+    ]
+  },
+  {
+    "id": "ja:exercise:9f61c018b0e70f80",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぶ đọc là gì?",
+    "choices": [
+      "bu",
+      "fu",
+      "he",
+      "pu"
+    ],
+    "answers": [
+      "bu"
+    ],
+    "itemIds": [
+      "ja:character:2446e1fe9066b0a9"
+    ]
+  },
+  {
+    "id": "ja:exercise:16cb33d647684f18",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぶ",
+    "choices": [
+      "ふ",
+      "ぶ",
+      "ぷ",
+      "へ"
+    ],
+    "answers": [
+      "ぶ"
+    ],
+    "itemIds": [
+      "ja:character:2446e1fe9066b0a9"
+    ]
+  },
+  {
+    "id": "ja:exercise:afb7ba000fbe4108",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぷ",
+    "answers": [
+      "ぷ"
+    ],
+    "itemIds": [
+      "ja:character:ed7177edda0e0e90"
+    ]
+  },
+  {
+    "id": "ja:exercise:3170861693b235d6",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぷ đọc là gì?",
+    "choices": [
+      "be",
+      "bu",
+      "he",
+      "pu"
+    ],
+    "answers": [
+      "pu"
+    ],
+    "itemIds": [
+      "ja:character:ed7177edda0e0e90"
+    ]
+  },
+  {
+    "id": "ja:exercise:5ad1682148f56c6f",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぷ",
+    "choices": [
+      "ぶ",
+      "ぷ",
+      "へ",
+      "べ"
+    ],
+    "answers": [
+      "ぷ"
+    ],
+    "itemIds": [
+      "ja:character:ed7177edda0e0e90"
+    ]
+  },
+  {
+    "id": "ja:exercise:42f382a793da2517",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "へ",
+    "answers": [
+      "へ"
+    ],
+    "itemIds": [
+      "ja:character:88d4242ebc8fb513"
+    ]
+  },
+  {
+    "id": "ja:exercise:cb21b494c4bbd7dc",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ へ đọc là gì?",
+    "choices": [
+      "be",
+      "he",
+      "pe",
+      "pu"
+    ],
+    "answers": [
+      "he"
+    ],
+    "itemIds": [
+      "ja:character:88d4242ebc8fb513"
+    ]
+  },
+  {
+    "id": "ja:exercise:047bfb4a5f4c7811",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "へ",
+    "choices": [
+      "ぷ",
+      "へ",
+      "べ",
+      "ぺ"
+    ],
+    "answers": [
+      "へ"
+    ],
+    "itemIds": [
+      "ja:character:88d4242ebc8fb513"
+    ]
+  },
+  {
+    "id": "ja:exercise:b5e2e078f2c20785",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "べ",
+    "answers": [
+      "べ"
+    ],
+    "itemIds": [
+      "ja:character:c0e1c119db6725f5"
+    ]
+  },
+  {
+    "id": "ja:exercise:47a59e4b8297e80e",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ べ đọc là gì?",
+    "choices": [
+      "be",
+      "he",
+      "ho",
+      "pe"
+    ],
+    "answers": [
+      "be"
+    ],
+    "itemIds": [
+      "ja:character:c0e1c119db6725f5"
+    ]
+  },
+  {
+    "id": "ja:exercise:0c4c3a0d3d16034e",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "べ",
+    "choices": [
+      "へ",
+      "べ",
+      "ぺ",
+      "ほ"
+    ],
+    "answers": [
+      "べ"
+    ],
+    "itemIds": [
+      "ja:character:c0e1c119db6725f5"
+    ]
+  },
+  {
+    "id": "ja:exercise:4c3f630fc62ac454",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぺ",
+    "answers": [
+      "ぺ"
+    ],
+    "itemIds": [
+      "ja:character:12dcbc15681885a7"
+    ]
+  },
+  {
+    "id": "ja:exercise:3d4d8dcca221cf9a",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぺ đọc là gì?",
+    "choices": [
+      "be",
+      "bo",
+      "ho",
+      "pe"
+    ],
+    "answers": [
+      "pe"
+    ],
+    "itemIds": [
+      "ja:character:12dcbc15681885a7"
+    ]
+  },
+  {
+    "id": "ja:exercise:2a03e8d1b8d8051c",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぺ",
+    "choices": [
+      "べ",
+      "ぺ",
+      "ほ",
+      "ぼ"
+    ],
+    "answers": [
+      "ぺ"
+    ],
+    "itemIds": [
+      "ja:character:12dcbc15681885a7"
+    ]
+  },
+  {
+    "id": "ja:exercise:492052318668c5c3",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ほ",
+    "answers": [
+      "ほ"
+    ],
+    "itemIds": [
+      "ja:character:f901f36a53c3dfe4"
+    ]
+  },
+  {
+    "id": "ja:exercise:e241e5d862be1f2f",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ほ đọc là gì?",
+    "choices": [
+      "bo",
+      "ho",
+      "pe",
+      "po"
+    ],
+    "answers": [
+      "ho"
+    ],
+    "itemIds": [
+      "ja:character:f901f36a53c3dfe4"
+    ]
+  },
+  {
+    "id": "ja:exercise:f1a6f45fa6bb5e0d",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ほ",
+    "choices": [
+      "ぺ",
+      "ほ",
+      "ぼ",
+      "ぽ"
+    ],
+    "answers": [
+      "ほ"
+    ],
+    "itemIds": [
+      "ja:character:f901f36a53c3dfe4"
+    ]
+  },
+  {
+    "id": "ja:exercise:cff16d7b5b7f7448",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぼ",
+    "answers": [
+      "ぼ"
+    ],
+    "itemIds": [
+      "ja:character:61e77dc4f2474b2a"
+    ]
+  },
+  {
+    "id": "ja:exercise:0507536109584bcb",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぼ đọc là gì?",
+    "choices": [
+      "bo",
+      "ho",
+      "ma",
+      "po"
+    ],
+    "answers": [
+      "bo"
+    ],
+    "itemIds": [
+      "ja:character:61e77dc4f2474b2a"
+    ]
+  },
+  {
+    "id": "ja:exercise:c999274b566e175e",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぼ",
+    "choices": [
+      "ほ",
+      "ぼ",
+      "ぽ",
+      "ま"
+    ],
+    "answers": [
+      "ぼ"
+    ],
+    "itemIds": [
+      "ja:character:61e77dc4f2474b2a"
+    ]
+  },
+  {
+    "id": "ja:exercise:1832f2e534bb73f3",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ぽ",
+    "answers": [
+      "ぽ"
+    ],
+    "itemIds": [
+      "ja:character:1824075606995edf"
+    ]
+  },
+  {
+    "id": "ja:exercise:aebcd38c694d3d97",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ぽ đọc là gì?",
+    "choices": [
+      "bo",
+      "ma",
+      "mi",
+      "po"
+    ],
+    "answers": [
+      "po"
+    ],
+    "itemIds": [
+      "ja:character:1824075606995edf"
+    ]
+  },
+  {
+    "id": "ja:exercise:292e30863eb793b0",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ぽ",
+    "choices": [
+      "ぼ",
+      "ぽ",
+      "ま",
+      "み"
+    ],
+    "answers": [
+      "ぽ"
+    ],
+    "itemIds": [
+      "ja:character:1824075606995edf"
+    ]
+  },
+  {
+    "id": "ja:exercise:5f0f526c7108c29a",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ま",
+    "answers": [
+      "ま"
+    ],
+    "itemIds": [
+      "ja:character:85739e2a84936a44"
+    ]
+  },
+  {
+    "id": "ja:exercise:d355b590165d5bb5",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ま đọc là gì?",
+    "choices": [
+      "ma",
+      "mi",
+      "mu",
+      "po"
+    ],
+    "answers": [
+      "ma"
+    ],
+    "itemIds": [
+      "ja:character:85739e2a84936a44"
+    ]
+  },
+  {
+    "id": "ja:exercise:cc8c8f8adf500c0b",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ま",
+    "choices": [
+      "ぽ",
+      "ま",
+      "み",
+      "む"
+    ],
+    "answers": [
+      "ま"
+    ],
+    "itemIds": [
+      "ja:character:85739e2a84936a44"
+    ]
+  },
+  {
+    "id": "ja:exercise:2889c7f30234e1f2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "み",
+    "answers": [
+      "み"
+    ],
+    "itemIds": [
+      "ja:character:5f1f0e95c1e142ba"
+    ]
+  },
+  {
+    "id": "ja:exercise:0b1128e07fcd9c96",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ み đọc là gì?",
+    "choices": [
+      "ma",
+      "me",
+      "mi",
+      "mu"
+    ],
+    "answers": [
+      "mi"
+    ],
+    "itemIds": [
+      "ja:character:5f1f0e95c1e142ba"
+    ]
+  },
+  {
+    "id": "ja:exercise:d681e0662d53adc8",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "み",
+    "choices": [
+      "ま",
+      "み",
+      "む",
+      "め"
+    ],
+    "answers": [
+      "み"
+    ],
+    "itemIds": [
+      "ja:character:5f1f0e95c1e142ba"
+    ]
+  },
+  {
+    "id": "ja:exercise:b83dad0cb6d55402",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "む",
+    "answers": [
+      "む"
+    ],
+    "itemIds": [
+      "ja:character:8f998c7ac76b0de8"
+    ]
+  },
+  {
+    "id": "ja:exercise:9ef4dd0c3441820c",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ む đọc là gì?",
+    "choices": [
+      "me",
+      "mi",
+      "mo",
+      "mu"
+    ],
+    "answers": [
+      "mu"
+    ],
+    "itemIds": [
+      "ja:character:8f998c7ac76b0de8"
+    ]
+  },
+  {
+    "id": "ja:exercise:f259e93d9dc121ac",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "む",
+    "choices": [
+      "み",
+      "む",
+      "め",
+      "も"
+    ],
+    "answers": [
+      "む"
+    ],
+    "itemIds": [
+      "ja:character:8f998c7ac76b0de8"
+    ]
+  },
+  {
+    "id": "ja:exercise:472279c59ae98147",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "め",
+    "answers": [
+      "め"
+    ],
+    "itemIds": [
+      "ja:character:3458ea72a9336ab6"
+    ]
+  },
+  {
+    "id": "ja:exercise:8eaf34cda8d0b908",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ め đọc là gì?",
+    "choices": [
+      "me",
+      "mo",
+      "mu",
+      "ya nhỏ"
+    ],
+    "answers": [
+      "me"
+    ],
+    "itemIds": [
+      "ja:character:3458ea72a9336ab6"
+    ]
+  },
+  {
+    "id": "ja:exercise:b4dd353392aae0db",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "め",
+    "choices": [
+      "む",
+      "め",
+      "も",
+      "ゃ"
+    ],
+    "answers": [
+      "め"
+    ],
+    "itemIds": [
+      "ja:character:3458ea72a9336ab6"
+    ]
+  },
+  {
+    "id": "ja:exercise:53568a2991602207",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "も",
+    "answers": [
+      "も"
+    ],
+    "itemIds": [
+      "ja:character:721667f88863974d"
+    ]
+  },
+  {
+    "id": "ja:exercise:4eb94b5ce22725a9",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ も đọc là gì?",
+    "choices": [
+      "me",
+      "mo",
+      "ya",
+      "ya nhỏ"
+    ],
+    "answers": [
+      "mo"
+    ],
+    "itemIds": [
+      "ja:character:721667f88863974d"
+    ]
+  },
+  {
+    "id": "ja:exercise:3f444c2f7115c1c8",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "も",
+    "choices": [
+      "め",
+      "も",
+      "ゃ",
+      "や"
+    ],
+    "answers": [
+      "も"
+    ],
+    "itemIds": [
+      "ja:character:721667f88863974d"
+    ]
+  },
+  {
+    "id": "ja:exercise:bbdda3752fbea37d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゃ",
+    "answers": [
+      "ゃ"
+    ],
+    "itemIds": [
+      "ja:character:ef2c1b0f8d2de290"
+    ]
+  },
+  {
+    "id": "ja:exercise:5989c4f02b2ae7c9",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "や",
+    "answers": [
+      "や"
+    ],
+    "itemIds": [
+      "ja:character:dc17adb3905450f2"
+    ]
+  },
+  {
+    "id": "ja:exercise:ca07a98e9596c010",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ や đọc là gì?",
+    "choices": [
+      "ya",
+      "ya nhỏ",
+      "yu",
+      "yu nhỏ"
+    ],
+    "answers": [
+      "ya"
+    ],
+    "itemIds": [
+      "ja:character:dc17adb3905450f2"
+    ]
+  },
+  {
+    "id": "ja:exercise:7b7ff2d515c9e97f",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "や",
+    "choices": [
+      "ゃ",
+      "や",
+      "ゅ",
+      "ゆ"
+    ],
+    "answers": [
+      "や"
+    ],
+    "itemIds": [
+      "ja:character:dc17adb3905450f2"
+    ]
+  },
+  {
+    "id": "ja:exercise:8e1f848114c7c7ab",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゅ",
+    "answers": [
+      "ゅ"
+    ],
+    "itemIds": [
+      "ja:character:27673134fcb6793f"
+    ]
+  },
+  {
+    "id": "ja:exercise:381087f470b97025",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゆ",
+    "answers": [
+      "ゆ"
+    ],
+    "itemIds": [
+      "ja:character:722336c1d199d0d9"
+    ]
+  },
+  {
+    "id": "ja:exercise:0e4b286cd420f2fb",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ゆ đọc là gì?",
+    "choices": [
+      "yo",
+      "yo nhỏ",
+      "yu",
+      "yu nhỏ"
+    ],
+    "answers": [
+      "yu"
+    ],
+    "itemIds": [
+      "ja:character:722336c1d199d0d9"
+    ]
+  },
+  {
+    "id": "ja:exercise:3b0b014402e6a7c9",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ゆ",
+    "choices": [
+      "ゅ",
+      "ゆ",
+      "ょ",
+      "よ"
+    ],
+    "answers": [
+      "ゆ"
+    ],
+    "itemIds": [
+      "ja:character:722336c1d199d0d9"
+    ]
+  },
+  {
+    "id": "ja:exercise:d953414a06e9c662",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ょ",
+    "answers": [
+      "ょ"
+    ],
+    "itemIds": [
+      "ja:character:c262d1abf5e25013"
+    ]
+  },
+  {
+    "id": "ja:exercise:dad59719eed43afa",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "よ",
+    "answers": [
+      "よ"
+    ],
+    "itemIds": [
+      "ja:character:e49eb2a09f499c71"
+    ]
+  },
+  {
+    "id": "ja:exercise:8dc9fd9a12ee746c",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ よ đọc là gì?",
+    "choices": [
+      "ra",
+      "ri",
+      "yo",
+      "yo nhỏ"
+    ],
+    "answers": [
+      "yo"
+    ],
+    "itemIds": [
+      "ja:character:e49eb2a09f499c71"
+    ]
+  },
+  {
+    "id": "ja:exercise:4172778ac002e6d7",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "よ",
+    "choices": [
+      "ょ",
+      "よ",
+      "ら",
+      "り"
+    ],
+    "answers": [
+      "よ"
+    ],
+    "itemIds": [
+      "ja:character:e49eb2a09f499c71"
+    ]
+  },
+  {
+    "id": "ja:exercise:87a3898b3378eeef",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ら",
+    "answers": [
+      "ら"
+    ],
+    "itemIds": [
+      "ja:character:d1d5e9c3f65c7452"
+    ]
+  },
+  {
+    "id": "ja:exercise:d3580ff3b2af8c19",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ら đọc là gì?",
+    "choices": [
+      "ra",
+      "ri",
+      "ru",
+      "yo"
+    ],
+    "answers": [
+      "ra"
+    ],
+    "itemIds": [
+      "ja:character:d1d5e9c3f65c7452"
+    ]
+  },
+  {
+    "id": "ja:exercise:90bc33ea43548c5a",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ら",
+    "choices": [
+      "よ",
+      "ら",
+      "り",
+      "る"
+    ],
+    "answers": [
+      "ら"
+    ],
+    "itemIds": [
+      "ja:character:d1d5e9c3f65c7452"
+    ]
+  },
+  {
+    "id": "ja:exercise:43e5ad9781eaa69d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "り",
+    "answers": [
+      "り"
+    ],
+    "itemIds": [
+      "ja:character:f6eeb2b6eafbb6c0"
+    ]
+  },
+  {
+    "id": "ja:exercise:8bcf9a3d00453fb3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ り đọc là gì?",
+    "choices": [
+      "ra",
+      "re",
+      "ri",
+      "ru"
+    ],
+    "answers": [
+      "ri"
+    ],
+    "itemIds": [
+      "ja:character:f6eeb2b6eafbb6c0"
+    ]
+  },
+  {
+    "id": "ja:exercise:037736f51eeab052",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "り",
+    "choices": [
+      "ら",
+      "り",
+      "る",
+      "れ"
+    ],
+    "answers": [
+      "り"
+    ],
+    "itemIds": [
+      "ja:character:f6eeb2b6eafbb6c0"
+    ]
+  },
+  {
+    "id": "ja:exercise:04eb5676e3b102ba",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "る",
+    "answers": [
+      "る"
+    ],
+    "itemIds": [
+      "ja:character:99be6317956d92f0"
+    ]
+  },
+  {
+    "id": "ja:exercise:f3bc8c8c79ffcbc2",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ る đọc là gì?",
+    "choices": [
+      "re",
+      "ri",
+      "ro",
+      "ru"
+    ],
+    "answers": [
+      "ru"
+    ],
+    "itemIds": [
+      "ja:character:99be6317956d92f0"
+    ]
+  },
+  {
+    "id": "ja:exercise:ff77d394bc82272d",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "る",
+    "choices": [
+      "り",
+      "る",
+      "れ",
+      "ろ"
+    ],
+    "answers": [
+      "る"
+    ],
+    "itemIds": [
+      "ja:character:99be6317956d92f0"
+    ]
+  },
+  {
+    "id": "ja:exercise:79024e30a54fc669",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "れ",
+    "answers": [
+      "れ"
+    ],
+    "itemIds": [
+      "ja:character:f10526de98fc19ea"
+    ]
+  },
+  {
+    "id": "ja:exercise:d0bd70aaa8a6b873",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ れ đọc là gì?",
+    "choices": [
+      "re",
+      "ro",
+      "ru",
+      "wa nhỏ"
+    ],
+    "answers": [
+      "re"
+    ],
+    "itemIds": [
+      "ja:character:f10526de98fc19ea"
+    ]
+  },
+  {
+    "id": "ja:exercise:31d9e3aff6e6a14e",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "れ",
+    "choices": [
+      "る",
+      "れ",
+      "ろ",
+      "ゎ"
+    ],
+    "answers": [
+      "れ"
+    ],
+    "itemIds": [
+      "ja:character:f10526de98fc19ea"
+    ]
+  },
+  {
+    "id": "ja:exercise:7e4315480513ad61",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ろ",
+    "answers": [
+      "ろ"
+    ],
+    "itemIds": [
+      "ja:character:a11b3bfb39a05879"
+    ]
+  },
+  {
+    "id": "ja:exercise:fbc632eede8921be",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ろ đọc là gì?",
+    "choices": [
+      "re",
+      "ro",
+      "wa",
+      "wa nhỏ"
+    ],
+    "answers": [
+      "ro"
+    ],
+    "itemIds": [
+      "ja:character:a11b3bfb39a05879"
+    ]
+  },
+  {
+    "id": "ja:exercise:9c7816597d28729e",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ろ",
+    "choices": [
+      "れ",
+      "ろ",
+      "ゎ",
+      "わ"
+    ],
+    "answers": [
+      "ろ"
+    ],
+    "itemIds": [
+      "ja:character:a11b3bfb39a05879"
+    ]
+  },
+  {
+    "id": "ja:exercise:819b2685fbbdbcdc",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゎ",
+    "answers": [
+      "ゎ"
+    ],
+    "itemIds": [
+      "ja:character:fa67242010699409"
+    ]
+  },
+  {
+    "id": "ja:exercise:21d5f3a9ca5a2839",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "わ",
+    "answers": [
+      "わ"
+    ],
+    "itemIds": [
+      "ja:character:32330590e726458e"
+    ]
+  },
+  {
+    "id": "ja:exercise:83ad67c2e3e73db0",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ わ đọc là gì?",
+    "choices": [
+      "wa",
+      "wa nhỏ",
+      "we",
+      "wi"
+    ],
+    "answers": [
+      "wa"
+    ],
+    "itemIds": [
+      "ja:character:32330590e726458e"
+    ]
+  },
+  {
+    "id": "ja:exercise:451d1f76f2a53996",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "わ",
+    "choices": [
+      "ゎ",
+      "わ",
+      "ゐ",
+      "ゑ"
+    ],
+    "answers": [
+      "わ"
+    ],
+    "itemIds": [
+      "ja:character:32330590e726458e"
+    ]
+  },
+  {
+    "id": "ja:exercise:30235f58bc962662",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゐ",
+    "answers": [
+      "ゐ"
+    ],
+    "itemIds": [
+      "ja:character:59eea5d8de857776"
+    ]
+  },
+  {
+    "id": "ja:exercise:8e16916245ca80cc",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ゐ đọc là gì?",
+    "choices": [
+      "wa",
+      "we",
+      "wi",
+      "wo"
+    ],
+    "answers": [
+      "wi"
+    ],
+    "itemIds": [
+      "ja:character:59eea5d8de857776"
+    ]
+  },
+  {
+    "id": "ja:exercise:c0360eea7d75c486",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ゐ",
+    "choices": [
+      "わ",
+      "ゐ",
+      "ゑ",
+      "を"
+    ],
+    "answers": [
+      "ゐ"
+    ],
+    "itemIds": [
+      "ja:character:59eea5d8de857776"
+    ]
+  },
+  {
+    "id": "ja:exercise:2137a160dd6b097e",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゑ",
+    "answers": [
+      "ゑ"
+    ],
+    "itemIds": [
+      "ja:character:e4a0d73973a210aa"
+    ]
+  },
+  {
+    "id": "ja:exercise:d6a4127c41732699",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ゑ đọc là gì?",
+    "choices": [
+      "n",
+      "we",
+      "wi",
+      "wo"
+    ],
+    "answers": [
+      "we"
+    ],
+    "itemIds": [
+      "ja:character:e4a0d73973a210aa"
+    ]
+  },
+  {
+    "id": "ja:exercise:15d8e82c17fa8371",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ゑ",
+    "choices": [
+      "ゐ",
+      "ゑ",
+      "を",
+      "ん"
+    ],
+    "answers": [
+      "ゑ"
+    ],
+    "itemIds": [
+      "ja:character:e4a0d73973a210aa"
+    ]
+  },
+  {
+    "id": "ja:exercise:d7e26aea5d732db9",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "を",
+    "answers": [
+      "を"
+    ],
+    "itemIds": [
+      "ja:character:82d7bdc2e771e7f2"
+    ]
+  },
+  {
+    "id": "ja:exercise:961e0d847d49856b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ を đọc là gì?",
+    "choices": [
+      "n",
+      "vu",
+      "we",
+      "wo"
+    ],
+    "answers": [
+      "wo"
+    ],
+    "itemIds": [
+      "ja:character:82d7bdc2e771e7f2"
+    ]
+  },
+  {
+    "id": "ja:exercise:923110fce5963024",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "を",
+    "choices": [
+      "ゑ",
+      "を",
+      "ん",
+      "ゔ"
+    ],
+    "answers": [
+      "を"
+    ],
+    "itemIds": [
+      "ja:character:82d7bdc2e771e7f2"
+    ]
+  },
+  {
+    "id": "ja:exercise:8d54244ddeda7dc1",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ん",
+    "answers": [
+      "ん"
+    ],
+    "itemIds": [
+      "ja:character:ac0ac84c8b0d6be6"
+    ]
+  },
+  {
+    "id": "ja:exercise:28094f31ce76a662",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ん đọc là gì?",
+    "choices": [
+      "ka nhỏ",
+      "n",
+      "vu",
+      "wo"
+    ],
+    "answers": [
+      "n"
+    ],
+    "itemIds": [
+      "ja:character:ac0ac84c8b0d6be6"
+    ]
+  },
+  {
+    "id": "ja:exercise:566b5dd57ddb8a3c",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ん",
+    "choices": [
+      "を",
+      "ん",
+      "ゔ",
+      "ゕ"
+    ],
+    "answers": [
+      "ん"
+    ],
+    "itemIds": [
+      "ja:character:ac0ac84c8b0d6be6"
+    ]
+  },
+  {
+    "id": "ja:exercise:f9767d9dc107ea61",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゔ",
+    "answers": [
+      "ゔ"
+    ],
+    "itemIds": [
+      "ja:character:a217a034371d623a"
+    ]
+  },
+  {
+    "id": "ja:exercise:575529288db96cdc",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ゔ đọc là gì?",
+    "choices": [
+      "ka nhỏ",
+      "ke nhỏ",
+      "n",
+      "vu"
+    ],
+    "answers": [
+      "vu"
+    ],
+    "itemIds": [
+      "ja:character:a217a034371d623a"
+    ]
+  },
+  {
+    "id": "ja:exercise:d7f2a1b270bcd63f",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ゔ",
+    "choices": [
+      "ん",
+      "ゔ",
+      "ゕ",
+      "ゖ"
+    ],
+    "answers": [
+      "ゔ"
+    ],
+    "itemIds": [
+      "ja:character:a217a034371d623a"
+    ]
+  },
+  {
+    "id": "ja:exercise:4c1284645444db3f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゕ",
+    "answers": [
+      "ゕ"
+    ],
+    "itemIds": [
+      "ja:character:f2b88a17f09b2bdd"
+    ]
+  },
+  {
+    "id": "ja:exercise:ac4c9ca7e78787fb",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゖ",
+    "answers": [
+      "ゖ"
+    ],
+    "itemIds": [
+      "ja:character:30161edb52af2764"
+    ]
+  },
+  {
+    "id": "ja:exercise:523125f658bb3819",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ァ",
+    "answers": [
+      "ァ"
+    ],
+    "itemIds": [
+      "ja:character:972a6f6348608c13"
+    ]
+  },
+  {
+    "id": "ja:exercise:23e9db2078688e46",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ア",
+    "answers": [
+      "ア"
+    ],
+    "itemIds": [
+      "ja:character:5982f22f5dd8ae20"
+    ]
+  },
+  {
+    "id": "ja:exercise:f591a9aad86902a9",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ア đọc là gì?",
+    "choices": [
+      "a",
+      "a nhỏ",
+      "i",
+      "i nhỏ"
+    ],
+    "answers": [
+      "a"
+    ],
+    "itemIds": [
+      "ja:character:5982f22f5dd8ae20"
+    ]
+  },
+  {
+    "id": "ja:exercise:8560a8531a803c46",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ア",
+    "choices": [
+      "ァ",
+      "ア",
+      "ィ",
+      "イ"
+    ],
+    "answers": [
+      "ア"
+    ],
+    "itemIds": [
+      "ja:character:5982f22f5dd8ae20"
+    ]
+  },
+  {
+    "id": "ja:exercise:c5530350dada871c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ィ",
+    "answers": [
+      "ィ"
+    ],
+    "itemIds": [
+      "ja:character:b705f3fc74cd59e0"
+    ]
+  },
+  {
+    "id": "ja:exercise:f0ca0550c4e9fb4c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "イ",
+    "answers": [
+      "イ"
+    ],
+    "itemIds": [
+      "ja:character:b7da50e6bd367b32"
+    ]
+  },
+  {
+    "id": "ja:exercise:79ede994e730ab0f",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ イ đọc là gì?",
+    "choices": [
+      "i",
+      "i nhỏ",
+      "u",
+      "u nhỏ"
+    ],
+    "answers": [
+      "i"
+    ],
+    "itemIds": [
+      "ja:character:b7da50e6bd367b32"
+    ]
+  },
+  {
+    "id": "ja:exercise:b6592ca77f6a6b0d",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "イ",
+    "choices": [
+      "ィ",
+      "イ",
+      "ゥ",
+      "ウ"
+    ],
+    "answers": [
+      "イ"
+    ],
+    "itemIds": [
+      "ja:character:b7da50e6bd367b32"
+    ]
+  },
+  {
+    "id": "ja:exercise:0f258a4cfd2877f2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゥ",
+    "answers": [
+      "ゥ"
+    ],
+    "itemIds": [
+      "ja:character:93156928e8c5118f"
+    ]
+  },
+  {
+    "id": "ja:exercise:e836387b4bc6a1d7",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ウ",
+    "answers": [
+      "ウ"
+    ],
+    "itemIds": [
+      "ja:character:9a77be96e657f54b"
+    ]
+  },
+  {
+    "id": "ja:exercise:2ebf49b26eddc1cb",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ウ đọc là gì?",
+    "choices": [
+      "e",
+      "e nhỏ",
+      "u",
+      "u nhỏ"
+    ],
+    "answers": [
+      "u"
+    ],
+    "itemIds": [
+      "ja:character:9a77be96e657f54b"
+    ]
+  },
+  {
+    "id": "ja:exercise:38691bd4a59cb5c5",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ウ",
+    "choices": [
+      "ゥ",
+      "ウ",
+      "ェ",
+      "エ"
+    ],
+    "answers": [
+      "ウ"
+    ],
+    "itemIds": [
+      "ja:character:9a77be96e657f54b"
+    ]
+  },
+  {
+    "id": "ja:exercise:10cfbd01db22fe60",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ェ",
+    "answers": [
+      "ェ"
+    ],
+    "itemIds": [
+      "ja:character:52ae5f6214207aa6"
+    ]
+  },
+  {
+    "id": "ja:exercise:0db83c3aef15eb7e",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "エ",
+    "answers": [
+      "エ"
+    ],
+    "itemIds": [
+      "ja:character:da6527388325fef5"
+    ]
+  },
+  {
+    "id": "ja:exercise:a165a1e28885f8f6",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ エ đọc là gì?",
+    "choices": [
+      "e",
+      "e nhỏ",
+      "o",
+      "o nhỏ"
+    ],
+    "answers": [
+      "e"
+    ],
+    "itemIds": [
+      "ja:character:da6527388325fef5"
+    ]
+  },
+  {
+    "id": "ja:exercise:b4cae564b7afeb13",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "エ",
+    "choices": [
+      "ェ",
+      "エ",
+      "ォ",
+      "オ"
+    ],
+    "answers": [
+      "エ"
+    ],
+    "itemIds": [
+      "ja:character:da6527388325fef5"
+    ]
+  },
+  {
+    "id": "ja:exercise:96012ddfc296b82f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ォ",
+    "answers": [
+      "ォ"
+    ],
+    "itemIds": [
+      "ja:character:ffd217d2abea80af"
+    ]
+  },
+  {
+    "id": "ja:exercise:6ede3b29e61f2d65",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "オ",
+    "answers": [
+      "オ"
+    ],
+    "itemIds": [
+      "ja:character:50078dbaa307ec98"
+    ]
+  },
+  {
+    "id": "ja:exercise:543477f0a7be2891",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ オ đọc là gì?",
+    "choices": [
+      "ga",
+      "ka",
+      "o",
+      "o nhỏ"
+    ],
+    "answers": [
+      "o"
+    ],
+    "itemIds": [
+      "ja:character:50078dbaa307ec98"
+    ]
+  },
+  {
+    "id": "ja:exercise:4d82aca657a03b52",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "オ",
+    "choices": [
+      "ォ",
+      "オ",
+      "カ",
+      "ガ"
+    ],
+    "answers": [
+      "オ"
+    ],
+    "itemIds": [
+      "ja:character:50078dbaa307ec98"
+    ]
+  },
+  {
+    "id": "ja:exercise:9ca3bdd1a892fcd4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "カ",
+    "answers": [
+      "カ"
+    ],
+    "itemIds": [
+      "ja:character:0f3aeacdfc6545ec"
+    ]
+  },
+  {
+    "id": "ja:exercise:59c97cfdd2293251",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ カ đọc là gì?",
+    "choices": [
+      "ga",
+      "ka",
+      "ki",
+      "o"
+    ],
+    "answers": [
+      "ka"
+    ],
+    "itemIds": [
+      "ja:character:0f3aeacdfc6545ec"
+    ]
+  },
+  {
+    "id": "ja:exercise:38d1c69f66afcbd9",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "カ",
+    "choices": [
+      "オ",
+      "カ",
+      "ガ",
+      "キ"
+    ],
+    "answers": [
+      "カ"
+    ],
+    "itemIds": [
+      "ja:character:0f3aeacdfc6545ec"
+    ]
+  },
+  {
+    "id": "ja:exercise:d177ef0e4f21e346",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ガ",
+    "answers": [
+      "ガ"
+    ],
+    "itemIds": [
+      "ja:character:f661780b6681484c"
+    ]
+  },
+  {
+    "id": "ja:exercise:042fadf2663e4ccc",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ガ đọc là gì?",
+    "choices": [
+      "ga",
+      "gi",
+      "ka",
+      "ki"
+    ],
+    "answers": [
+      "ga"
+    ],
+    "itemIds": [
+      "ja:character:f661780b6681484c"
+    ]
+  },
+  {
+    "id": "ja:exercise:7fe54466f6c6e088",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ガ",
+    "choices": [
+      "カ",
+      "ガ",
+      "キ",
+      "ギ"
+    ],
+    "answers": [
+      "ガ"
+    ],
+    "itemIds": [
+      "ja:character:f661780b6681484c"
+    ]
+  },
+  {
+    "id": "ja:exercise:9de0ffb89e4e50aa",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "キ",
+    "answers": [
+      "キ"
+    ],
+    "itemIds": [
+      "ja:character:d5e6df10a6bf743f"
+    ]
+  },
+  {
+    "id": "ja:exercise:b0646bd9b6432598",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ キ đọc là gì?",
+    "choices": [
+      "ga",
+      "gi",
+      "ki",
+      "ku"
+    ],
+    "answers": [
+      "ki"
+    ],
+    "itemIds": [
+      "ja:character:d5e6df10a6bf743f"
+    ]
+  },
+  {
+    "id": "ja:exercise:eba0934ed15acc05",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "キ",
+    "choices": [
+      "ガ",
+      "キ",
+      "ギ",
+      "ク"
+    ],
+    "answers": [
+      "キ"
+    ],
+    "itemIds": [
+      "ja:character:d5e6df10a6bf743f"
+    ]
+  },
+  {
+    "id": "ja:exercise:e4f54430d4c975be",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ギ",
+    "answers": [
+      "ギ"
+    ],
+    "itemIds": [
+      "ja:character:e97bad72301e2571"
+    ]
+  },
+  {
+    "id": "ja:exercise:0811953144c4d0c5",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ギ đọc là gì?",
+    "choices": [
+      "gi",
+      "gu",
+      "ki",
+      "ku"
+    ],
+    "answers": [
+      "gi"
+    ],
+    "itemIds": [
+      "ja:character:e97bad72301e2571"
+    ]
+  },
+  {
+    "id": "ja:exercise:e154cfbcf10c999a",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ギ",
+    "choices": [
+      "キ",
+      "ギ",
+      "ク",
+      "グ"
+    ],
+    "answers": [
+      "ギ"
+    ],
+    "itemIds": [
+      "ja:character:e97bad72301e2571"
+    ]
+  },
+  {
+    "id": "ja:exercise:dfa744b9ba6fcf56",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ク",
+    "answers": [
+      "ク"
+    ],
+    "itemIds": [
+      "ja:character:c1ea156307b969b0"
+    ]
+  },
+  {
+    "id": "ja:exercise:18cdfe199836cd58",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ク đọc là gì?",
+    "choices": [
+      "gi",
+      "gu",
+      "ke",
+      "ku"
+    ],
+    "answers": [
+      "ku"
+    ],
+    "itemIds": [
+      "ja:character:c1ea156307b969b0"
+    ]
+  },
+  {
+    "id": "ja:exercise:c788058c1c3dada5",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ク",
+    "choices": [
+      "ギ",
+      "ク",
+      "グ",
+      "ケ"
+    ],
+    "answers": [
+      "ク"
+    ],
+    "itemIds": [
+      "ja:character:c1ea156307b969b0"
+    ]
+  },
+  {
+    "id": "ja:exercise:e8e2e12470d6a29d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "グ",
+    "answers": [
+      "グ"
+    ],
+    "itemIds": [
+      "ja:character:6e31b90cc69d2576"
+    ]
+  },
+  {
+    "id": "ja:exercise:84927d73284910f4",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ グ đọc là gì?",
+    "choices": [
+      "ge",
+      "gu",
+      "ke",
+      "ku"
+    ],
+    "answers": [
+      "gu"
+    ],
+    "itemIds": [
+      "ja:character:6e31b90cc69d2576"
+    ]
+  },
+  {
+    "id": "ja:exercise:051c1900348e2e4a",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "グ",
+    "choices": [
+      "ク",
+      "グ",
+      "ケ",
+      "ゲ"
+    ],
+    "answers": [
+      "グ"
+    ],
+    "itemIds": [
+      "ja:character:6e31b90cc69d2576"
+    ]
+  },
+  {
+    "id": "ja:exercise:1922aa9efdcd2583",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ケ",
+    "answers": [
+      "ケ"
+    ],
+    "itemIds": [
+      "ja:character:622fdf3e2c584f9f"
+    ]
+  },
+  {
+    "id": "ja:exercise:2c5b33896c08fd3b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ケ đọc là gì?",
+    "choices": [
+      "ge",
+      "gu",
+      "ke",
+      "ko"
+    ],
+    "answers": [
+      "ke"
+    ],
+    "itemIds": [
+      "ja:character:622fdf3e2c584f9f"
+    ]
+  },
+  {
+    "id": "ja:exercise:275ff632fabaecb8",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ケ",
+    "choices": [
+      "グ",
+      "ケ",
+      "ゲ",
+      "コ"
+    ],
+    "answers": [
+      "ケ"
+    ],
+    "itemIds": [
+      "ja:character:622fdf3e2c584f9f"
+    ]
+  },
+  {
+    "id": "ja:exercise:d7f05c5b19cc4654",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゲ",
+    "answers": [
+      "ゲ"
+    ],
+    "itemIds": [
+      "ja:character:1b25272710252d93"
+    ]
+  },
+  {
+    "id": "ja:exercise:bde583bbe3f25288",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ゲ đọc là gì?",
+    "choices": [
+      "ge",
+      "go",
+      "ke",
+      "ko"
+    ],
+    "answers": [
+      "ge"
+    ],
+    "itemIds": [
+      "ja:character:1b25272710252d93"
+    ]
+  },
+  {
+    "id": "ja:exercise:198f3d8e2d64d2f9",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ゲ",
+    "choices": [
+      "ケ",
+      "ゲ",
+      "コ",
+      "ゴ"
+    ],
+    "answers": [
+      "ゲ"
+    ],
+    "itemIds": [
+      "ja:character:1b25272710252d93"
+    ]
+  },
+  {
+    "id": "ja:exercise:d2f7a0fe50fddd83",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "コ",
+    "answers": [
+      "コ"
+    ],
+    "itemIds": [
+      "ja:character:98fd5ed146189adf"
+    ]
+  },
+  {
+    "id": "ja:exercise:178c2b6169b2e25a",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ コ đọc là gì?",
+    "choices": [
+      "ge",
+      "go",
+      "ko",
+      "sa"
+    ],
+    "answers": [
+      "ko"
+    ],
+    "itemIds": [
+      "ja:character:98fd5ed146189adf"
+    ]
+  },
+  {
+    "id": "ja:exercise:f3cc11634dc6c0df",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "コ",
+    "choices": [
+      "ゲ",
+      "コ",
+      "ゴ",
+      "サ"
+    ],
+    "answers": [
+      "コ"
+    ],
+    "itemIds": [
+      "ja:character:98fd5ed146189adf"
+    ]
+  },
+  {
+    "id": "ja:exercise:c6385f368d931ee8",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゴ",
+    "answers": [
+      "ゴ"
+    ],
+    "itemIds": [
+      "ja:character:a8fc02226a9478bc"
+    ]
+  },
+  {
+    "id": "ja:exercise:1bbc7b0c3aab8de4",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ゴ đọc là gì?",
+    "choices": [
+      "go",
+      "ko",
+      "sa",
+      "za"
+    ],
+    "answers": [
+      "go"
+    ],
+    "itemIds": [
+      "ja:character:a8fc02226a9478bc"
+    ]
+  },
+  {
+    "id": "ja:exercise:8d7f6a71df5e82ea",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ゴ",
+    "choices": [
+      "コ",
+      "ゴ",
+      "サ",
+      "ザ"
+    ],
+    "answers": [
+      "ゴ"
+    ],
+    "itemIds": [
+      "ja:character:a8fc02226a9478bc"
+    ]
+  },
+  {
+    "id": "ja:exercise:125404b97e9b2586",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "サ",
+    "answers": [
+      "サ"
+    ],
+    "itemIds": [
+      "ja:character:bd99c12140a327bc"
+    ]
+  },
+  {
+    "id": "ja:exercise:4e26c0019c1eee55",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ サ đọc là gì?",
+    "choices": [
+      "go",
+      "sa",
+      "shi",
+      "za"
+    ],
+    "answers": [
+      "sa"
+    ],
+    "itemIds": [
+      "ja:character:bd99c12140a327bc"
+    ]
+  },
+  {
+    "id": "ja:exercise:d147eec0e3087db6",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "サ",
+    "choices": [
+      "ゴ",
+      "サ",
+      "ザ",
+      "シ"
+    ],
+    "answers": [
+      "サ"
+    ],
+    "itemIds": [
+      "ja:character:bd99c12140a327bc"
+    ]
+  },
+  {
+    "id": "ja:exercise:96953802c2ea81d4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ザ",
+    "answers": [
+      "ザ"
+    ],
+    "itemIds": [
+      "ja:character:48774c552cdf29a1"
+    ]
+  },
+  {
+    "id": "ja:exercise:34200673053edf19",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ザ đọc là gì?",
+    "choices": [
+      "ji",
+      "sa",
+      "shi",
+      "za"
+    ],
+    "answers": [
+      "za"
+    ],
+    "itemIds": [
+      "ja:character:48774c552cdf29a1"
+    ]
+  },
+  {
+    "id": "ja:exercise:33c23160e9cfdc34",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ザ",
+    "choices": [
+      "サ",
+      "ザ",
+      "シ",
+      "ジ"
+    ],
+    "answers": [
+      "ザ"
+    ],
+    "itemIds": [
+      "ja:character:48774c552cdf29a1"
+    ]
+  },
+  {
+    "id": "ja:exercise:156f8fb8eeebab16",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "シ",
+    "answers": [
+      "シ"
+    ],
+    "itemIds": [
+      "ja:character:4d251a7a45beadff"
+    ]
+  },
+  {
+    "id": "ja:exercise:8e6a1b5bc84e5fbc",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ シ đọc là gì?",
+    "choices": [
+      "ji",
+      "shi",
+      "su",
+      "za"
+    ],
+    "answers": [
+      "shi"
+    ],
+    "itemIds": [
+      "ja:character:4d251a7a45beadff"
+    ]
+  },
+  {
+    "id": "ja:exercise:93ec38d99b650b82",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "シ",
+    "choices": [
+      "ザ",
+      "シ",
+      "ジ",
+      "ス"
+    ],
+    "answers": [
+      "シ"
+    ],
+    "itemIds": [
+      "ja:character:4d251a7a45beadff"
+    ]
+  },
+  {
+    "id": "ja:exercise:07dc0482d12b58db",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ジ",
+    "answers": [
+      "ジ"
+    ],
+    "itemIds": [
+      "ja:character:beaecdc9ac38d9db"
+    ]
+  },
+  {
+    "id": "ja:exercise:94ca574155c5d8bf",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ジ đọc là gì?",
+    "choices": [
+      "ji",
+      "shi",
+      "su",
+      "zu"
+    ],
+    "answers": [
+      "ji"
+    ],
+    "itemIds": [
+      "ja:character:beaecdc9ac38d9db"
+    ]
+  },
+  {
+    "id": "ja:exercise:932dbc1b406bc70e",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ジ",
+    "choices": [
+      "シ",
+      "ジ",
+      "ス",
+      "ズ"
+    ],
+    "answers": [
+      "ジ"
+    ],
+    "itemIds": [
+      "ja:character:beaecdc9ac38d9db"
+    ]
+  },
+  {
+    "id": "ja:exercise:aed335952a50eea6",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ス",
+    "answers": [
+      "ス"
+    ],
+    "itemIds": [
+      "ja:character:01e6e71911ee32dc"
+    ]
+  },
+  {
+    "id": "ja:exercise:004489e3474182ef",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ス đọc là gì?",
+    "choices": [
+      "ji",
+      "se",
+      "su",
+      "zu"
+    ],
+    "answers": [
+      "su"
+    ],
+    "itemIds": [
+      "ja:character:01e6e71911ee32dc"
+    ]
+  },
+  {
+    "id": "ja:exercise:9ecb7c3f8f32f222",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ス",
+    "choices": [
+      "ジ",
+      "ス",
+      "ズ",
+      "セ"
+    ],
+    "answers": [
+      "ス"
+    ],
+    "itemIds": [
+      "ja:character:01e6e71911ee32dc"
+    ]
+  },
+  {
+    "id": "ja:exercise:adf0ed2f6f1783e7",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ズ",
+    "answers": [
+      "ズ"
+    ],
+    "itemIds": [
+      "ja:character:526423239d06815e"
+    ]
+  },
+  {
+    "id": "ja:exercise:7f356fab18f215ed",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ズ đọc là gì?",
+    "choices": [
+      "se",
+      "su",
+      "ze",
+      "zu"
+    ],
+    "answers": [
+      "zu"
+    ],
+    "itemIds": [
+      "ja:character:526423239d06815e"
+    ]
+  },
+  {
+    "id": "ja:exercise:a8a083bc6575746f",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ズ",
+    "choices": [
+      "ス",
+      "ズ",
+      "セ",
+      "ゼ"
+    ],
+    "answers": [
+      "ズ"
+    ],
+    "itemIds": [
+      "ja:character:526423239d06815e"
+    ]
+  },
+  {
+    "id": "ja:exercise:524a3861329f0a1e",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "セ",
+    "answers": [
+      "セ"
+    ],
+    "itemIds": [
+      "ja:character:1d6d5f797ba84da4"
+    ]
+  },
+  {
+    "id": "ja:exercise:509c0e4bdeee8fbf",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ セ đọc là gì?",
+    "choices": [
+      "se",
+      "so",
+      "ze",
+      "zu"
+    ],
+    "answers": [
+      "se"
+    ],
+    "itemIds": [
+      "ja:character:1d6d5f797ba84da4"
+    ]
+  },
+  {
+    "id": "ja:exercise:288442960e5e8819",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "セ",
+    "choices": [
+      "ズ",
+      "セ",
+      "ゼ",
+      "ソ"
+    ],
+    "answers": [
+      "セ"
+    ],
+    "itemIds": [
+      "ja:character:1d6d5f797ba84da4"
+    ]
+  },
+  {
+    "id": "ja:exercise:aade361a47b27901",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゼ",
+    "answers": [
+      "ゼ"
+    ],
+    "itemIds": [
+      "ja:character:00af947c227fd159"
+    ]
+  },
+  {
+    "id": "ja:exercise:de3489f5f6897d1b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ゼ đọc là gì?",
+    "choices": [
+      "se",
+      "so",
+      "ze",
+      "zo"
+    ],
+    "answers": [
+      "ze"
+    ],
+    "itemIds": [
+      "ja:character:00af947c227fd159"
+    ]
+  },
+  {
+    "id": "ja:exercise:cb4491d157b7d622",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ゼ",
+    "choices": [
+      "セ",
+      "ゼ",
+      "ソ",
+      "ゾ"
+    ],
+    "answers": [
+      "ゼ"
+    ],
+    "itemIds": [
+      "ja:character:00af947c227fd159"
+    ]
+  },
+  {
+    "id": "ja:exercise:4c79aea2f04e74db",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ソ",
+    "answers": [
+      "ソ"
+    ],
+    "itemIds": [
+      "ja:character:515ee28e941f4a36"
+    ]
+  },
+  {
+    "id": "ja:exercise:6372986639112a6d",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ソ đọc là gì?",
+    "choices": [
+      "so",
+      "ta",
+      "ze",
+      "zo"
+    ],
+    "answers": [
+      "so"
+    ],
+    "itemIds": [
+      "ja:character:515ee28e941f4a36"
+    ]
+  },
+  {
+    "id": "ja:exercise:5f223d7f166de5ce",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ソ",
+    "choices": [
+      "ゼ",
+      "ソ",
+      "ゾ",
+      "タ"
+    ],
+    "answers": [
+      "ソ"
+    ],
+    "itemIds": [
+      "ja:character:515ee28e941f4a36"
+    ]
+  },
+  {
+    "id": "ja:exercise:0451ba64885579e2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ゾ",
+    "answers": [
+      "ゾ"
+    ],
+    "itemIds": [
+      "ja:character:f7d37547fb72e1e9"
+    ]
+  },
+  {
+    "id": "ja:exercise:6c950b4fd1131a2c",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ゾ đọc là gì?",
+    "choices": [
+      "da",
+      "so",
+      "ta",
+      "zo"
+    ],
+    "answers": [
+      "zo"
+    ],
+    "itemIds": [
+      "ja:character:f7d37547fb72e1e9"
+    ]
+  },
+  {
+    "id": "ja:exercise:45c76d15d9e5a5fe",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ゾ",
+    "choices": [
+      "ソ",
+      "ゾ",
+      "タ",
+      "ダ"
+    ],
+    "answers": [
+      "ゾ"
+    ],
+    "itemIds": [
+      "ja:character:f7d37547fb72e1e9"
+    ]
+  },
+  {
+    "id": "ja:exercise:76969760a6f0c113",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "タ",
+    "answers": [
+      "タ"
+    ],
+    "itemIds": [
+      "ja:character:986a4fdd039a49cb"
+    ]
+  },
+  {
+    "id": "ja:exercise:0c851d7629eee629",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ タ đọc là gì?",
+    "choices": [
+      "chi",
+      "da",
+      "ta",
+      "zo"
+    ],
+    "answers": [
+      "ta"
+    ],
+    "itemIds": [
+      "ja:character:986a4fdd039a49cb"
+    ]
+  },
+  {
+    "id": "ja:exercise:39809575c4e438b6",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "タ",
+    "choices": [
+      "ゾ",
+      "タ",
+      "ダ",
+      "チ"
+    ],
+    "answers": [
+      "タ"
+    ],
+    "itemIds": [
+      "ja:character:986a4fdd039a49cb"
+    ]
+  },
+  {
+    "id": "ja:exercise:e70c43fea5bd96ee",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ダ",
+    "answers": [
+      "ダ"
+    ],
+    "itemIds": [
+      "ja:character:40f3325103158add"
+    ]
+  },
+  {
+    "id": "ja:exercise:4aa60b269bd77d63",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ダ đọc là gì?",
+    "choices": [
+      "chi",
+      "da",
+      "ji",
+      "ta"
+    ],
+    "answers": [
+      "da"
+    ],
+    "itemIds": [
+      "ja:character:40f3325103158add"
+    ]
+  },
+  {
+    "id": "ja:exercise:ef9043cfedf0df6a",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ダ",
+    "choices": [
+      "タ",
+      "ダ",
+      "チ",
+      "ヂ"
+    ],
+    "answers": [
+      "ダ"
+    ],
+    "itemIds": [
+      "ja:character:40f3325103158add"
+    ]
+  },
+  {
+    "id": "ja:exercise:e963ce0bebbdb066",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "チ",
+    "answers": [
+      "チ"
+    ],
+    "itemIds": [
+      "ja:character:375a54f253695ca5"
+    ]
+  },
+  {
+    "id": "ja:exercise:77e40f81d82cb313",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ チ đọc là gì?",
+    "choices": [
+      "chi",
+      "da",
+      "ji",
+      "tsu nhỏ"
+    ],
+    "answers": [
+      "chi"
+    ],
+    "itemIds": [
+      "ja:character:375a54f253695ca5"
+    ]
+  },
+  {
+    "id": "ja:exercise:13256d71498af54e",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "チ",
+    "choices": [
+      "ダ",
+      "チ",
+      "ヂ",
+      "ッ"
+    ],
+    "answers": [
+      "チ"
+    ],
+    "itemIds": [
+      "ja:character:375a54f253695ca5"
+    ]
+  },
+  {
+    "id": "ja:exercise:689a326405deba13",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヂ",
+    "answers": [
+      "ヂ"
+    ],
+    "itemIds": [
+      "ja:character:0565594e6d6f01ae"
+    ]
+  },
+  {
+    "id": "ja:exercise:6d8b8ead138bfbd4",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヂ đọc là gì?",
+    "choices": [
+      "chi",
+      "ji",
+      "tsu",
+      "tsu nhỏ"
+    ],
+    "answers": [
+      "ji"
+    ],
+    "itemIds": [
+      "ja:character:0565594e6d6f01ae"
+    ]
+  },
+  {
+    "id": "ja:exercise:11eaa1c29cce9e00",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヂ",
+    "choices": [
+      "チ",
+      "ヂ",
+      "ッ",
+      "ツ"
+    ],
+    "answers": [
+      "ヂ"
+    ],
+    "itemIds": [
+      "ja:character:0565594e6d6f01ae"
+    ]
+  },
+  {
+    "id": "ja:exercise:defcaf95c4581220",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ッ",
+    "answers": [
+      "ッ"
+    ],
+    "itemIds": [
+      "ja:character:8cf763204720063a"
+    ]
+  },
+  {
+    "id": "ja:exercise:c8b286696e47572a",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ツ",
+    "answers": [
+      "ツ"
+    ],
+    "itemIds": [
+      "ja:character:2199b4acf2b9638f"
+    ]
+  },
+  {
+    "id": "ja:exercise:84d7ed241defc66e",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ツ đọc là gì?",
+    "choices": [
+      "te",
+      "tsu",
+      "tsu nhỏ",
+      "zu"
+    ],
+    "answers": [
+      "tsu"
+    ],
+    "itemIds": [
+      "ja:character:2199b4acf2b9638f"
+    ]
+  },
+  {
+    "id": "ja:exercise:a1a3ff3ccdd5e8f5",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ツ",
+    "choices": [
+      "ッ",
+      "ツ",
+      "ヅ",
+      "テ"
+    ],
+    "answers": [
+      "ツ"
+    ],
+    "itemIds": [
+      "ja:character:2199b4acf2b9638f"
+    ]
+  },
+  {
+    "id": "ja:exercise:33e9bb597bf9be6b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヅ",
+    "answers": [
+      "ヅ"
+    ],
+    "itemIds": [
+      "ja:character:f436c9bdaf07a60a"
+    ]
+  },
+  {
+    "id": "ja:exercise:528d3ee6cca5c64b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヅ đọc là gì?",
+    "choices": [
+      "de",
+      "te",
+      "tsu",
+      "zu"
+    ],
+    "answers": [
+      "zu"
+    ],
+    "itemIds": [
+      "ja:character:f436c9bdaf07a60a"
+    ]
+  },
+  {
+    "id": "ja:exercise:47c80aaf4b31c419",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヅ",
+    "choices": [
+      "ツ",
+      "ヅ",
+      "テ",
+      "デ"
+    ],
+    "answers": [
+      "ヅ"
+    ],
+    "itemIds": [
+      "ja:character:f436c9bdaf07a60a"
+    ]
+  },
+  {
+    "id": "ja:exercise:04e8aa7a14453828",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "テ",
+    "answers": [
+      "テ"
+    ],
+    "itemIds": [
+      "ja:character:1a52efa1ee108f8d"
+    ]
+  },
+  {
+    "id": "ja:exercise:29e898c8ff4f7981",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ テ đọc là gì?",
+    "choices": [
+      "de",
+      "te",
+      "to",
+      "zu"
+    ],
+    "answers": [
+      "te"
+    ],
+    "itemIds": [
+      "ja:character:1a52efa1ee108f8d"
+    ]
+  },
+  {
+    "id": "ja:exercise:c1c790f5e046506b",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "テ",
+    "choices": [
+      "ヅ",
+      "テ",
+      "デ",
+      "ト"
+    ],
+    "answers": [
+      "テ"
+    ],
+    "itemIds": [
+      "ja:character:1a52efa1ee108f8d"
+    ]
+  },
+  {
+    "id": "ja:exercise:44b098b56e6ac19d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "デ",
+    "answers": [
+      "デ"
+    ],
+    "itemIds": [
+      "ja:character:b8d0a65c70e9e37d"
+    ]
+  },
+  {
+    "id": "ja:exercise:66fc767e8f151f48",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ デ đọc là gì?",
+    "choices": [
+      "de",
+      "do",
+      "te",
+      "to"
+    ],
+    "answers": [
+      "de"
+    ],
+    "itemIds": [
+      "ja:character:b8d0a65c70e9e37d"
+    ]
+  },
+  {
+    "id": "ja:exercise:b6a3bc505c8f85b2",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "デ",
+    "choices": [
+      "テ",
+      "デ",
+      "ト",
+      "ド"
+    ],
+    "answers": [
+      "デ"
+    ],
+    "itemIds": [
+      "ja:character:b8d0a65c70e9e37d"
+    ]
+  },
+  {
+    "id": "ja:exercise:ad28db8e36b88e36",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ト",
+    "answers": [
+      "ト"
+    ],
+    "itemIds": [
+      "ja:character:f02d7fd30a4999fe"
+    ]
+  },
+  {
+    "id": "ja:exercise:2fc7fda7f846df05",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ト đọc là gì?",
+    "choices": [
+      "de",
+      "do",
+      "na",
+      "to"
+    ],
+    "answers": [
+      "to"
+    ],
+    "itemIds": [
+      "ja:character:f02d7fd30a4999fe"
+    ]
+  },
+  {
+    "id": "ja:exercise:8f8da9862a0ef103",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ト",
+    "choices": [
+      "デ",
+      "ト",
+      "ド",
+      "ナ"
+    ],
+    "answers": [
+      "ト"
+    ],
+    "itemIds": [
+      "ja:character:f02d7fd30a4999fe"
+    ]
+  },
+  {
+    "id": "ja:exercise:6e5ce213703a15f4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ド",
+    "answers": [
+      "ド"
+    ],
+    "itemIds": [
+      "ja:character:ab206c36906c59e0"
+    ]
+  },
+  {
+    "id": "ja:exercise:5ffbf30d82e80ea0",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ド đọc là gì?",
+    "choices": [
+      "do",
+      "na",
+      "ni",
+      "to"
+    ],
+    "answers": [
+      "do"
+    ],
+    "itemIds": [
+      "ja:character:ab206c36906c59e0"
+    ]
+  },
+  {
+    "id": "ja:exercise:15614543caa82e14",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ド",
+    "choices": [
+      "ト",
+      "ド",
+      "ナ",
+      "ニ"
+    ],
+    "answers": [
+      "ド"
+    ],
+    "itemIds": [
+      "ja:character:ab206c36906c59e0"
+    ]
+  },
+  {
+    "id": "ja:exercise:99375d5e35bb591f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ナ",
+    "answers": [
+      "ナ"
+    ],
+    "itemIds": [
+      "ja:character:dbd732945553088e"
+    ]
+  },
+  {
+    "id": "ja:exercise:08ec5e1cd4d706c0",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ナ đọc là gì?",
+    "choices": [
+      "do",
+      "na",
+      "ni",
+      "nu"
+    ],
+    "answers": [
+      "na"
+    ],
+    "itemIds": [
+      "ja:character:dbd732945553088e"
+    ]
+  },
+  {
+    "id": "ja:exercise:693ba1320e8eaa4f",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ナ",
+    "choices": [
+      "ド",
+      "ナ",
+      "ニ",
+      "ヌ"
+    ],
+    "answers": [
+      "ナ"
+    ],
+    "itemIds": [
+      "ja:character:dbd732945553088e"
+    ]
+  },
+  {
+    "id": "ja:exercise:0726d01866b9057f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ニ",
+    "answers": [
+      "ニ"
+    ],
+    "itemIds": [
+      "ja:character:e5357521c9f146d4"
+    ]
+  },
+  {
+    "id": "ja:exercise:34c7051dbacbfd72",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ニ đọc là gì?",
+    "choices": [
+      "na",
+      "ne",
+      "ni",
+      "nu"
+    ],
+    "answers": [
+      "ni"
+    ],
+    "itemIds": [
+      "ja:character:e5357521c9f146d4"
+    ]
+  },
+  {
+    "id": "ja:exercise:0b13a0c98a364ae3",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ニ",
+    "choices": [
+      "ナ",
+      "ニ",
+      "ヌ",
+      "ネ"
+    ],
+    "answers": [
+      "ニ"
+    ],
+    "itemIds": [
+      "ja:character:e5357521c9f146d4"
+    ]
+  },
+  {
+    "id": "ja:exercise:6c4d7d28fe39044b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヌ",
+    "answers": [
+      "ヌ"
+    ],
+    "itemIds": [
+      "ja:character:e943eb23a00ef222"
+    ]
+  },
+  {
+    "id": "ja:exercise:d449a0f2797c70a1",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヌ đọc là gì?",
+    "choices": [
+      "ne",
+      "ni",
+      "no",
+      "nu"
+    ],
+    "answers": [
+      "nu"
+    ],
+    "itemIds": [
+      "ja:character:e943eb23a00ef222"
+    ]
+  },
+  {
+    "id": "ja:exercise:9a31530b979d5a5d",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヌ",
+    "choices": [
+      "ニ",
+      "ヌ",
+      "ネ",
+      "ノ"
+    ],
+    "answers": [
+      "ヌ"
+    ],
+    "itemIds": [
+      "ja:character:e943eb23a00ef222"
+    ]
+  },
+  {
+    "id": "ja:exercise:c5466bc8c1792c7d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ネ",
+    "answers": [
+      "ネ"
+    ],
+    "itemIds": [
+      "ja:character:f2326d1f1372f2b3"
+    ]
+  },
+  {
+    "id": "ja:exercise:0f523a6bc2136f7b",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ネ đọc là gì?",
+    "choices": [
+      "ha",
+      "ne",
+      "no",
+      "nu"
+    ],
+    "answers": [
+      "ne"
+    ],
+    "itemIds": [
+      "ja:character:f2326d1f1372f2b3"
+    ]
+  },
+  {
+    "id": "ja:exercise:9fa1fb25478c727c",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ネ",
+    "choices": [
+      "ヌ",
+      "ネ",
+      "ノ",
+      "ハ"
+    ],
+    "answers": [
+      "ネ"
+    ],
+    "itemIds": [
+      "ja:character:f2326d1f1372f2b3"
+    ]
+  },
+  {
+    "id": "ja:exercise:a80fa916f0b93bdd",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ノ",
+    "answers": [
+      "ノ"
+    ],
+    "itemIds": [
+      "ja:character:0fc531b0de627833"
+    ]
+  },
+  {
+    "id": "ja:exercise:d53771cdced4ec72",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ノ đọc là gì?",
+    "choices": [
+      "ba",
+      "ha",
+      "ne",
+      "no"
+    ],
+    "answers": [
+      "no"
+    ],
+    "itemIds": [
+      "ja:character:0fc531b0de627833"
+    ]
+  },
+  {
+    "id": "ja:exercise:6035c811c16bc49f",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ノ",
+    "choices": [
+      "ネ",
+      "ノ",
+      "ハ",
+      "バ"
+    ],
+    "answers": [
+      "ノ"
+    ],
+    "itemIds": [
+      "ja:character:0fc531b0de627833"
+    ]
+  },
+  {
+    "id": "ja:exercise:3a5d091bde536605",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ハ",
+    "answers": [
+      "ハ"
+    ],
+    "itemIds": [
+      "ja:character:7fa4747a5edd5326"
+    ]
+  },
+  {
+    "id": "ja:exercise:69f7434074a424b3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ハ đọc là gì?",
+    "choices": [
+      "ba",
+      "ha",
+      "no",
+      "pa"
+    ],
+    "answers": [
+      "ha"
+    ],
+    "itemIds": [
+      "ja:character:7fa4747a5edd5326"
+    ]
+  },
+  {
+    "id": "ja:exercise:bbb7fdb748c44c9b",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ハ",
+    "choices": [
+      "ノ",
+      "ハ",
+      "バ",
+      "パ"
+    ],
+    "answers": [
+      "ハ"
+    ],
+    "itemIds": [
+      "ja:character:7fa4747a5edd5326"
+    ]
+  },
+  {
+    "id": "ja:exercise:6f4dc6abe55bf9b5",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "バ",
+    "answers": [
+      "バ"
+    ],
+    "itemIds": [
+      "ja:character:8d64993e87b83194"
+    ]
+  },
+  {
+    "id": "ja:exercise:8de8ef6bbb65d455",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ バ đọc là gì?",
+    "choices": [
+      "ba",
+      "ha",
+      "hi",
+      "pa"
+    ],
+    "answers": [
+      "ba"
+    ],
+    "itemIds": [
+      "ja:character:8d64993e87b83194"
+    ]
+  },
+  {
+    "id": "ja:exercise:ac49f8085cde510b",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "バ",
+    "choices": [
+      "ハ",
+      "バ",
+      "パ",
+      "ヒ"
+    ],
+    "answers": [
+      "バ"
+    ],
+    "itemIds": [
+      "ja:character:8d64993e87b83194"
+    ]
+  },
+  {
+    "id": "ja:exercise:6dad7935b4a14229",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "パ",
+    "answers": [
+      "パ"
+    ],
+    "itemIds": [
+      "ja:character:8a67014b1b35067f"
+    ]
+  },
+  {
+    "id": "ja:exercise:fe190cd6514b46a9",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ パ đọc là gì?",
+    "choices": [
+      "ba",
+      "bi",
+      "hi",
+      "pa"
+    ],
+    "answers": [
+      "pa"
+    ],
+    "itemIds": [
+      "ja:character:8a67014b1b35067f"
+    ]
+  },
+  {
+    "id": "ja:exercise:bcb0051f7331b1ae",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "パ",
+    "choices": [
+      "バ",
+      "パ",
+      "ヒ",
+      "ビ"
+    ],
+    "answers": [
+      "パ"
+    ],
+    "itemIds": [
+      "ja:character:8a67014b1b35067f"
+    ]
+  },
+  {
+    "id": "ja:exercise:5132a7c4675960a1",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヒ",
+    "answers": [
+      "ヒ"
+    ],
+    "itemIds": [
+      "ja:character:360845b85f662262"
+    ]
+  },
+  {
+    "id": "ja:exercise:fb4c17a0c3389508",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヒ đọc là gì?",
+    "choices": [
+      "bi",
+      "hi",
+      "pa",
+      "pi"
+    ],
+    "answers": [
+      "hi"
+    ],
+    "itemIds": [
+      "ja:character:360845b85f662262"
+    ]
+  },
+  {
+    "id": "ja:exercise:8a02bc505f6fb7ea",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヒ",
+    "choices": [
+      "パ",
+      "ヒ",
+      "ビ",
+      "ピ"
+    ],
+    "answers": [
+      "ヒ"
+    ],
+    "itemIds": [
+      "ja:character:360845b85f662262"
+    ]
+  },
+  {
+    "id": "ja:exercise:b25cedec9ef24865",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ビ",
+    "answers": [
+      "ビ"
+    ],
+    "itemIds": [
+      "ja:character:9bea41136b52abf2"
+    ]
+  },
+  {
+    "id": "ja:exercise:4311d55bc22a5c99",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ビ đọc là gì?",
+    "choices": [
+      "bi",
+      "fu",
+      "hi",
+      "pi"
+    ],
+    "answers": [
+      "bi"
+    ],
+    "itemIds": [
+      "ja:character:9bea41136b52abf2"
+    ]
+  },
+  {
+    "id": "ja:exercise:6329478781742ae2",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ビ",
+    "choices": [
+      "ヒ",
+      "ビ",
+      "ピ",
+      "フ"
+    ],
+    "answers": [
+      "ビ"
+    ],
+    "itemIds": [
+      "ja:character:9bea41136b52abf2"
+    ]
+  },
+  {
+    "id": "ja:exercise:2ac4b5a2bd29e6a9",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ピ",
+    "answers": [
+      "ピ"
+    ],
+    "itemIds": [
+      "ja:character:c41be1718f9988ef"
+    ]
+  },
+  {
+    "id": "ja:exercise:548550fe7324c004",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ピ đọc là gì?",
+    "choices": [
+      "bi",
+      "bu",
+      "fu",
+      "pi"
+    ],
+    "answers": [
+      "pi"
+    ],
+    "itemIds": [
+      "ja:character:c41be1718f9988ef"
+    ]
+  },
+  {
+    "id": "ja:exercise:a4e415ee251e9177",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ピ",
+    "choices": [
+      "ビ",
+      "ピ",
+      "フ",
+      "ブ"
+    ],
+    "answers": [
+      "ピ"
+    ],
+    "itemIds": [
+      "ja:character:c41be1718f9988ef"
+    ]
+  },
+  {
+    "id": "ja:exercise:a0fadb8d0ac62ab1",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "フ",
+    "answers": [
+      "フ"
+    ],
+    "itemIds": [
+      "ja:character:d3c7ef9e7442fdfa"
+    ]
+  },
+  {
+    "id": "ja:exercise:5ce2c1ea04fac147",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ フ đọc là gì?",
+    "choices": [
+      "bu",
+      "fu",
+      "pi",
+      "pu"
+    ],
+    "answers": [
+      "fu"
+    ],
+    "itemIds": [
+      "ja:character:d3c7ef9e7442fdfa"
+    ]
+  },
+  {
+    "id": "ja:exercise:b1af0d6793d820bb",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "フ",
+    "choices": [
+      "ピ",
+      "フ",
+      "ブ",
+      "プ"
+    ],
+    "answers": [
+      "フ"
+    ],
+    "itemIds": [
+      "ja:character:d3c7ef9e7442fdfa"
+    ]
+  },
+  {
+    "id": "ja:exercise:6c11ae4a7922d209",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ブ",
+    "answers": [
+      "ブ"
+    ],
+    "itemIds": [
+      "ja:character:59a9cda9beb02eb7"
+    ]
+  },
+  {
+    "id": "ja:exercise:169568f96a93d79c",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ブ đọc là gì?",
+    "choices": [
+      "bu",
+      "fu",
+      "he",
+      "pu"
+    ],
+    "answers": [
+      "bu"
+    ],
+    "itemIds": [
+      "ja:character:59a9cda9beb02eb7"
+    ]
+  },
+  {
+    "id": "ja:exercise:ed733292d0faf802",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ブ",
+    "choices": [
+      "フ",
+      "ブ",
+      "プ",
+      "ヘ"
+    ],
+    "answers": [
+      "ブ"
+    ],
+    "itemIds": [
+      "ja:character:59a9cda9beb02eb7"
+    ]
+  },
+  {
+    "id": "ja:exercise:db9a9ecc0aeb8a96",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "プ",
+    "answers": [
+      "プ"
+    ],
+    "itemIds": [
+      "ja:character:b1e28240bdb00594"
+    ]
+  },
+  {
+    "id": "ja:exercise:97baced396604ec3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ プ đọc là gì?",
+    "choices": [
+      "be",
+      "bu",
+      "he",
+      "pu"
+    ],
+    "answers": [
+      "pu"
+    ],
+    "itemIds": [
+      "ja:character:b1e28240bdb00594"
+    ]
+  },
+  {
+    "id": "ja:exercise:63da7b5d708dce78",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "プ",
+    "choices": [
+      "ブ",
+      "プ",
+      "ヘ",
+      "ベ"
+    ],
+    "answers": [
+      "プ"
+    ],
+    "itemIds": [
+      "ja:character:b1e28240bdb00594"
+    ]
+  },
+  {
+    "id": "ja:exercise:21c2e9b3d5d41c83",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヘ",
+    "answers": [
+      "ヘ"
+    ],
+    "itemIds": [
+      "ja:character:bd38833f268be2d0"
+    ]
+  },
+  {
+    "id": "ja:exercise:527aff165b0bfc2f",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヘ đọc là gì?",
+    "choices": [
+      "be",
+      "he",
+      "pe",
+      "pu"
+    ],
+    "answers": [
+      "he"
+    ],
+    "itemIds": [
+      "ja:character:bd38833f268be2d0"
+    ]
+  },
+  {
+    "id": "ja:exercise:14d5664ab2de30e2",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヘ",
+    "choices": [
+      "プ",
+      "ヘ",
+      "ベ",
+      "ペ"
+    ],
+    "answers": [
+      "ヘ"
+    ],
+    "itemIds": [
+      "ja:character:bd38833f268be2d0"
+    ]
+  },
+  {
+    "id": "ja:exercise:e67cd8d9c6ba7c64",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ベ",
+    "answers": [
+      "ベ"
+    ],
+    "itemIds": [
+      "ja:character:a686fb822f2e0a96"
+    ]
+  },
+  {
+    "id": "ja:exercise:1f81fe282c50919d",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ベ đọc là gì?",
+    "choices": [
+      "be",
+      "he",
+      "ho",
+      "pe"
+    ],
+    "answers": [
+      "be"
+    ],
+    "itemIds": [
+      "ja:character:a686fb822f2e0a96"
+    ]
+  },
+  {
+    "id": "ja:exercise:ade07987858272d9",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ベ",
+    "choices": [
+      "ヘ",
+      "ベ",
+      "ペ",
+      "ホ"
+    ],
+    "answers": [
+      "ベ"
+    ],
+    "itemIds": [
+      "ja:character:a686fb822f2e0a96"
+    ]
+  },
+  {
+    "id": "ja:exercise:267f7629652ce327",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ペ",
+    "answers": [
+      "ペ"
+    ],
+    "itemIds": [
+      "ja:character:526ceaf698105193"
+    ]
+  },
+  {
+    "id": "ja:exercise:49fb8bd4876764a9",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ペ đọc là gì?",
+    "choices": [
+      "be",
+      "bo",
+      "ho",
+      "pe"
+    ],
+    "answers": [
+      "pe"
+    ],
+    "itemIds": [
+      "ja:character:526ceaf698105193"
+    ]
+  },
+  {
+    "id": "ja:exercise:416792f07ccd30bd",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ペ",
+    "choices": [
+      "ベ",
+      "ペ",
+      "ホ",
+      "ボ"
+    ],
+    "answers": [
+      "ペ"
+    ],
+    "itemIds": [
+      "ja:character:526ceaf698105193"
+    ]
+  },
+  {
+    "id": "ja:exercise:1a7789a17e9ec10b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ホ",
+    "answers": [
+      "ホ"
+    ],
+    "itemIds": [
+      "ja:character:352c8d9c53d292f4"
+    ]
+  },
+  {
+    "id": "ja:exercise:98957115204ea944",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ホ đọc là gì?",
+    "choices": [
+      "bo",
+      "ho",
+      "pe",
+      "po"
+    ],
+    "answers": [
+      "ho"
+    ],
+    "itemIds": [
+      "ja:character:352c8d9c53d292f4"
+    ]
+  },
+  {
+    "id": "ja:exercise:b2f1355d374e9c2c",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ホ",
+    "choices": [
+      "ペ",
+      "ホ",
+      "ボ",
+      "ポ"
+    ],
+    "answers": [
+      "ホ"
+    ],
+    "itemIds": [
+      "ja:character:352c8d9c53d292f4"
+    ]
+  },
+  {
+    "id": "ja:exercise:6d10196f7057f5f5",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ボ",
+    "answers": [
+      "ボ"
+    ],
+    "itemIds": [
+      "ja:character:1500f77aeed1c666"
+    ]
+  },
+  {
+    "id": "ja:exercise:284a6ec11c116895",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ボ đọc là gì?",
+    "choices": [
+      "bo",
+      "ho",
+      "ma",
+      "po"
+    ],
+    "answers": [
+      "bo"
+    ],
+    "itemIds": [
+      "ja:character:1500f77aeed1c666"
+    ]
+  },
+  {
+    "id": "ja:exercise:b2592a0b68200bf8",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ボ",
+    "choices": [
+      "ホ",
+      "ボ",
+      "ポ",
+      "マ"
+    ],
+    "answers": [
+      "ボ"
+    ],
+    "itemIds": [
+      "ja:character:1500f77aeed1c666"
+    ]
+  },
+  {
+    "id": "ja:exercise:8bee522a8cd3c0b5",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ポ",
+    "answers": [
+      "ポ"
+    ],
+    "itemIds": [
+      "ja:character:052a1b56d2c982f7"
+    ]
+  },
+  {
+    "id": "ja:exercise:7ffb00f34db1fed3",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ポ đọc là gì?",
+    "choices": [
+      "bo",
+      "ma",
+      "mi",
+      "po"
+    ],
+    "answers": [
+      "po"
+    ],
+    "itemIds": [
+      "ja:character:052a1b56d2c982f7"
+    ]
+  },
+  {
+    "id": "ja:exercise:e7b7c9ed0cf37844",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ポ",
+    "choices": [
+      "ボ",
+      "ポ",
+      "マ",
+      "ミ"
+    ],
+    "answers": [
+      "ポ"
+    ],
+    "itemIds": [
+      "ja:character:052a1b56d2c982f7"
+    ]
+  },
+  {
+    "id": "ja:exercise:e1c271f4a53c3b7c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "マ",
+    "answers": [
+      "マ"
+    ],
+    "itemIds": [
+      "ja:character:6cb2f39f3d6aacf2"
+    ]
+  },
+  {
+    "id": "ja:exercise:a1829ba84ed3a2e8",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ マ đọc là gì?",
+    "choices": [
+      "ma",
+      "mi",
+      "mu",
+      "po"
+    ],
+    "answers": [
+      "ma"
+    ],
+    "itemIds": [
+      "ja:character:6cb2f39f3d6aacf2"
+    ]
+  },
+  {
+    "id": "ja:exercise:71f1225e637b01c2",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "マ",
+    "choices": [
+      "ポ",
+      "マ",
+      "ミ",
+      "ム"
+    ],
+    "answers": [
+      "マ"
+    ],
+    "itemIds": [
+      "ja:character:6cb2f39f3d6aacf2"
+    ]
+  },
+  {
+    "id": "ja:exercise:400ef2a150c1e0c6",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ミ",
+    "answers": [
+      "ミ"
+    ],
+    "itemIds": [
+      "ja:character:4064b676757233c6"
+    ]
+  },
+  {
+    "id": "ja:exercise:14230f728dcf4110",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ミ đọc là gì?",
+    "choices": [
+      "ma",
+      "me",
+      "mi",
+      "mu"
+    ],
+    "answers": [
+      "mi"
+    ],
+    "itemIds": [
+      "ja:character:4064b676757233c6"
+    ]
+  },
+  {
+    "id": "ja:exercise:83f4c0c2b45c1aec",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ミ",
+    "choices": [
+      "マ",
+      "ミ",
+      "ム",
+      "メ"
+    ],
+    "answers": [
+      "ミ"
+    ],
+    "itemIds": [
+      "ja:character:4064b676757233c6"
+    ]
+  },
+  {
+    "id": "ja:exercise:d7d8f44795a9e4bc",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ム",
+    "answers": [
+      "ム"
+    ],
+    "itemIds": [
+      "ja:character:c1adc67ea6f46013"
+    ]
+  },
+  {
+    "id": "ja:exercise:117a9c56c89a5c54",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ム đọc là gì?",
+    "choices": [
+      "me",
+      "mi",
+      "mo",
+      "mu"
+    ],
+    "answers": [
+      "mu"
+    ],
+    "itemIds": [
+      "ja:character:c1adc67ea6f46013"
+    ]
+  },
+  {
+    "id": "ja:exercise:9c2c6c622c1c09e4",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ム",
+    "choices": [
+      "ミ",
+      "ム",
+      "メ",
+      "モ"
+    ],
+    "answers": [
+      "ム"
+    ],
+    "itemIds": [
+      "ja:character:c1adc67ea6f46013"
+    ]
+  },
+  {
+    "id": "ja:exercise:29970b17188dda59",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "メ",
+    "answers": [
+      "メ"
+    ],
+    "itemIds": [
+      "ja:character:393e129213ffc5f0"
+    ]
+  },
+  {
+    "id": "ja:exercise:759a10d2690830dd",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ メ đọc là gì?",
+    "choices": [
+      "me",
+      "mo",
+      "mu",
+      "ya nhỏ"
+    ],
+    "answers": [
+      "me"
+    ],
+    "itemIds": [
+      "ja:character:393e129213ffc5f0"
+    ]
+  },
+  {
+    "id": "ja:exercise:33fe54d05f66ecda",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "メ",
+    "choices": [
+      "ム",
+      "メ",
+      "モ",
+      "ャ"
+    ],
+    "answers": [
+      "メ"
+    ],
+    "itemIds": [
+      "ja:character:393e129213ffc5f0"
+    ]
+  },
+  {
+    "id": "ja:exercise:2157cda00b969f60",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "モ",
+    "answers": [
+      "モ"
+    ],
+    "itemIds": [
+      "ja:character:5f46cd67f95777d6"
+    ]
+  },
+  {
+    "id": "ja:exercise:fead172c08448f3f",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ モ đọc là gì?",
+    "choices": [
+      "me",
+      "mo",
+      "ya",
+      "ya nhỏ"
+    ],
+    "answers": [
+      "mo"
+    ],
+    "itemIds": [
+      "ja:character:5f46cd67f95777d6"
+    ]
+  },
+  {
+    "id": "ja:exercise:babfd8a0f102d88b",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "モ",
+    "choices": [
+      "メ",
+      "モ",
+      "ャ",
+      "ヤ"
+    ],
+    "answers": [
+      "モ"
+    ],
+    "itemIds": [
+      "ja:character:5f46cd67f95777d6"
+    ]
+  },
+  {
+    "id": "ja:exercise:739fb3dd7e60c00d",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ャ",
+    "answers": [
+      "ャ"
+    ],
+    "itemIds": [
+      "ja:character:fb6c87bf4be60ef1"
+    ]
+  },
+  {
+    "id": "ja:exercise:40d52c1ceac90c17",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヤ",
+    "answers": [
+      "ヤ"
+    ],
+    "itemIds": [
+      "ja:character:a4ace46500cd6303"
+    ]
+  },
+  {
+    "id": "ja:exercise:a997e489e13ff47d",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヤ đọc là gì?",
+    "choices": [
+      "ya",
+      "ya nhỏ",
+      "yu",
+      "yu nhỏ"
+    ],
+    "answers": [
+      "ya"
+    ],
+    "itemIds": [
+      "ja:character:a4ace46500cd6303"
+    ]
+  },
+  {
+    "id": "ja:exercise:c22e638c14f1a4f9",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヤ",
+    "choices": [
+      "ャ",
+      "ヤ",
+      "ュ",
+      "ユ"
+    ],
+    "answers": [
+      "ヤ"
+    ],
+    "itemIds": [
+      "ja:character:a4ace46500cd6303"
+    ]
+  },
+  {
+    "id": "ja:exercise:54d692075413130a",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ュ",
+    "answers": [
+      "ュ"
+    ],
+    "itemIds": [
+      "ja:character:2f712baa025b148d"
+    ]
+  },
+  {
+    "id": "ja:exercise:b2c652a173d87de0",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ユ",
+    "answers": [
+      "ユ"
+    ],
+    "itemIds": [
+      "ja:character:e3a1fc95970e67a1"
+    ]
+  },
+  {
+    "id": "ja:exercise:0537f722c6b83187",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ユ đọc là gì?",
+    "choices": [
+      "yo",
+      "yo nhỏ",
+      "yu",
+      "yu nhỏ"
+    ],
+    "answers": [
+      "yu"
+    ],
+    "itemIds": [
+      "ja:character:e3a1fc95970e67a1"
+    ]
+  },
+  {
+    "id": "ja:exercise:64e8d19e3f4870ae",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ユ",
+    "choices": [
+      "ュ",
+      "ユ",
+      "ョ",
+      "ヨ"
+    ],
+    "answers": [
+      "ユ"
+    ],
+    "itemIds": [
+      "ja:character:e3a1fc95970e67a1"
+    ]
+  },
+  {
+    "id": "ja:exercise:4f38088ac831807e",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ョ",
+    "answers": [
+      "ョ"
+    ],
+    "itemIds": [
+      "ja:character:0ffc239b0ff66ca7"
+    ]
+  },
+  {
+    "id": "ja:exercise:5d0e32918234bf9f",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヨ",
+    "answers": [
+      "ヨ"
+    ],
+    "itemIds": [
+      "ja:character:b141d6301601bf6e"
+    ]
+  },
+  {
+    "id": "ja:exercise:efb606d12356a10a",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヨ đọc là gì?",
+    "choices": [
+      "ra",
+      "ri",
+      "yo",
+      "yo nhỏ"
+    ],
+    "answers": [
+      "yo"
+    ],
+    "itemIds": [
+      "ja:character:b141d6301601bf6e"
+    ]
+  },
+  {
+    "id": "ja:exercise:e35a9b08fdc21a5f",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヨ",
+    "choices": [
+      "ョ",
+      "ヨ",
+      "ラ",
+      "リ"
+    ],
+    "answers": [
+      "ヨ"
+    ],
+    "itemIds": [
+      "ja:character:b141d6301601bf6e"
+    ]
+  },
+  {
+    "id": "ja:exercise:7a47449f03f61dd2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ラ",
+    "answers": [
+      "ラ"
+    ],
+    "itemIds": [
+      "ja:character:9744cd49ee85d5d8"
+    ]
+  },
+  {
+    "id": "ja:exercise:1b88b6fee7ba0fdc",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ラ đọc là gì?",
+    "choices": [
+      "ra",
+      "ri",
+      "ru",
+      "yo"
+    ],
+    "answers": [
+      "ra"
+    ],
+    "itemIds": [
+      "ja:character:9744cd49ee85d5d8"
+    ]
+  },
+  {
+    "id": "ja:exercise:26848c68f6208838",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ラ",
+    "choices": [
+      "ヨ",
+      "ラ",
+      "リ",
+      "ル"
+    ],
+    "answers": [
+      "ラ"
+    ],
+    "itemIds": [
+      "ja:character:9744cd49ee85d5d8"
+    ]
+  },
+  {
+    "id": "ja:exercise:919dd71f9a25143b",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "リ",
+    "answers": [
+      "リ"
+    ],
+    "itemIds": [
+      "ja:character:f8d557863e17d23b"
+    ]
+  },
+  {
+    "id": "ja:exercise:18e67ea6e6826dce",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ リ đọc là gì?",
+    "choices": [
+      "ra",
+      "re",
+      "ri",
+      "ru"
+    ],
+    "answers": [
+      "ri"
+    ],
+    "itemIds": [
+      "ja:character:f8d557863e17d23b"
+    ]
+  },
+  {
+    "id": "ja:exercise:b8ec96ea6fca9eec",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "リ",
+    "choices": [
+      "ラ",
+      "リ",
+      "ル",
+      "レ"
+    ],
+    "answers": [
+      "リ"
+    ],
+    "itemIds": [
+      "ja:character:f8d557863e17d23b"
+    ]
+  },
+  {
+    "id": "ja:exercise:d219bda191ece86a",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ル",
+    "answers": [
+      "ル"
+    ],
+    "itemIds": [
+      "ja:character:d18fe274430edd08"
+    ]
+  },
+  {
+    "id": "ja:exercise:8522b0495c10241d",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ル đọc là gì?",
+    "choices": [
+      "re",
+      "ri",
+      "ro",
+      "ru"
+    ],
+    "answers": [
+      "ru"
+    ],
+    "itemIds": [
+      "ja:character:d18fe274430edd08"
+    ]
+  },
+  {
+    "id": "ja:exercise:832f09e8f76c873d",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ル",
+    "choices": [
+      "リ",
+      "ル",
+      "レ",
+      "ロ"
+    ],
+    "answers": [
+      "ル"
+    ],
+    "itemIds": [
+      "ja:character:d18fe274430edd08"
+    ]
+  },
+  {
+    "id": "ja:exercise:0a428239dc8d10bf",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "レ",
+    "answers": [
+      "レ"
+    ],
+    "itemIds": [
+      "ja:character:1375bc9ad9b88054"
+    ]
+  },
+  {
+    "id": "ja:exercise:13cc00a37a2dcbad",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ レ đọc là gì?",
+    "choices": [
+      "re",
+      "ro",
+      "ru",
+      "wa nhỏ"
+    ],
+    "answers": [
+      "re"
+    ],
+    "itemIds": [
+      "ja:character:1375bc9ad9b88054"
+    ]
+  },
+  {
+    "id": "ja:exercise:f4113040cb023f24",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "レ",
+    "choices": [
+      "ル",
+      "レ",
+      "ロ",
+      "ヮ"
+    ],
+    "answers": [
+      "レ"
+    ],
+    "itemIds": [
+      "ja:character:1375bc9ad9b88054"
+    ]
+  },
+  {
+    "id": "ja:exercise:e7c5f203a16e1c1c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ロ",
+    "answers": [
+      "ロ"
+    ],
+    "itemIds": [
+      "ja:character:d5f9a45766a93d33"
+    ]
+  },
+  {
+    "id": "ja:exercise:7507004469433dd4",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ロ đọc là gì?",
+    "choices": [
+      "re",
+      "ro",
+      "wa",
+      "wa nhỏ"
+    ],
+    "answers": [
+      "ro"
+    ],
+    "itemIds": [
+      "ja:character:d5f9a45766a93d33"
+    ]
+  },
+  {
+    "id": "ja:exercise:baa1331f8b88ec14",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ロ",
+    "choices": [
+      "レ",
+      "ロ",
+      "ヮ",
+      "ワ"
+    ],
+    "answers": [
+      "ロ"
+    ],
+    "itemIds": [
+      "ja:character:d5f9a45766a93d33"
+    ]
+  },
+  {
+    "id": "ja:exercise:f6c05a1a50ea6f4c",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヮ",
+    "answers": [
+      "ヮ"
+    ],
+    "itemIds": [
+      "ja:character:451a01f76a871c6a"
+    ]
+  },
+  {
+    "id": "ja:exercise:0361765feef3b778",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ワ",
+    "answers": [
+      "ワ"
+    ],
+    "itemIds": [
+      "ja:character:9a5847fa4bf02956"
+    ]
+  },
+  {
+    "id": "ja:exercise:4ace1b00f167b7a6",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ワ đọc là gì?",
+    "choices": [
+      "wa",
+      "wa nhỏ",
+      "we",
+      "wi"
+    ],
+    "answers": [
+      "wa"
+    ],
+    "itemIds": [
+      "ja:character:9a5847fa4bf02956"
+    ]
+  },
+  {
+    "id": "ja:exercise:4d0426b9e0041d45",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ワ",
+    "choices": [
+      "ヮ",
+      "ワ",
+      "ヰ",
+      "ヱ"
+    ],
+    "answers": [
+      "ワ"
+    ],
+    "itemIds": [
+      "ja:character:9a5847fa4bf02956"
+    ]
+  },
+  {
+    "id": "ja:exercise:dd0de1bf529800e5",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヰ",
+    "answers": [
+      "ヰ"
+    ],
+    "itemIds": [
+      "ja:character:2e04356060426787"
+    ]
+  },
+  {
+    "id": "ja:exercise:52e933cda71dca8a",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヰ đọc là gì?",
+    "choices": [
+      "wa",
+      "we",
+      "wi",
+      "wo"
+    ],
+    "answers": [
+      "wi"
+    ],
+    "itemIds": [
+      "ja:character:2e04356060426787"
+    ]
+  },
+  {
+    "id": "ja:exercise:5704579d2fcbf12b",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヰ",
+    "choices": [
+      "ワ",
+      "ヰ",
+      "ヱ",
+      "ヲ"
+    ],
+    "answers": [
+      "ヰ"
+    ],
+    "itemIds": [
+      "ja:character:2e04356060426787"
+    ]
+  },
+  {
+    "id": "ja:exercise:a0970ad626cdf4a2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヱ",
+    "answers": [
+      "ヱ"
+    ],
+    "itemIds": [
+      "ja:character:6c485f557b7aad0e"
+    ]
+  },
+  {
+    "id": "ja:exercise:53fb050ce7273309",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヱ đọc là gì?",
+    "choices": [
+      "n",
+      "we",
+      "wi",
+      "wo"
+    ],
+    "answers": [
+      "we"
+    ],
+    "itemIds": [
+      "ja:character:6c485f557b7aad0e"
+    ]
+  },
+  {
+    "id": "ja:exercise:700da1a8c3795cfc",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヱ",
+    "choices": [
+      "ヰ",
+      "ヱ",
+      "ヲ",
+      "ン"
+    ],
+    "answers": [
+      "ヱ"
+    ],
+    "itemIds": [
+      "ja:character:6c485f557b7aad0e"
+    ]
+  },
+  {
+    "id": "ja:exercise:791113844a29d278",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヲ",
+    "answers": [
+      "ヲ"
+    ],
+    "itemIds": [
+      "ja:character:07b3cddee4c0c929"
+    ]
+  },
+  {
+    "id": "ja:exercise:dcab0bf61f33f141",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヲ đọc là gì?",
+    "choices": [
+      "n",
+      "vu",
+      "we",
+      "wo"
+    ],
+    "answers": [
+      "wo"
+    ],
+    "itemIds": [
+      "ja:character:07b3cddee4c0c929"
+    ]
+  },
+  {
+    "id": "ja:exercise:b05120dfdcd19403",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヲ",
+    "choices": [
+      "ヱ",
+      "ヲ",
+      "ン",
+      "ヴ"
+    ],
+    "answers": [
+      "ヲ"
+    ],
+    "itemIds": [
+      "ja:character:07b3cddee4c0c929"
+    ]
+  },
+  {
+    "id": "ja:exercise:3a5f4eaea3dece05",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ン",
+    "answers": [
+      "ン"
+    ],
+    "itemIds": [
+      "ja:character:9de8f54c397948da"
+    ]
+  },
+  {
+    "id": "ja:exercise:8422ed3f91b882fd",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ン đọc là gì?",
+    "choices": [
+      "ka nhỏ",
+      "n",
+      "vu",
+      "wo"
+    ],
+    "answers": [
+      "n"
+    ],
+    "itemIds": [
+      "ja:character:9de8f54c397948da"
+    ]
+  },
+  {
+    "id": "ja:exercise:27e2443d5e2066a1",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ン",
+    "choices": [
+      "ヲ",
+      "ン",
+      "ヴ",
+      "ヵ"
+    ],
+    "answers": [
+      "ン"
+    ],
+    "itemIds": [
+      "ja:character:9de8f54c397948da"
+    ]
+  },
+  {
+    "id": "ja:exercise:48f77a4d93be7354",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヴ",
+    "answers": [
+      "ヴ"
+    ],
+    "itemIds": [
+      "ja:character:f6c8520e0ab11d30"
+    ]
+  },
+  {
+    "id": "ja:exercise:8d1c84af44b0ab49",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヴ đọc là gì?",
+    "choices": [
+      "ka nhỏ",
+      "ke nhỏ",
+      "n",
+      "vu"
+    ],
+    "answers": [
+      "vu"
+    ],
+    "itemIds": [
+      "ja:character:f6c8520e0ab11d30"
+    ]
+  },
+  {
+    "id": "ja:exercise:5a6c32606e1059c8",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヴ",
+    "choices": [
+      "ン",
+      "ヴ",
+      "ヵ",
+      "ヶ"
+    ],
+    "answers": [
+      "ヴ"
+    ],
+    "itemIds": [
+      "ja:character:f6c8520e0ab11d30"
+    ]
+  },
+  {
+    "id": "ja:exercise:851ce149ba88a6a2",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヵ",
+    "answers": [
+      "ヵ"
+    ],
+    "itemIds": [
+      "ja:character:b03dd2b35bc7299c"
+    ]
+  },
+  {
+    "id": "ja:exercise:1420ae2ed97cb633",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヶ",
+    "answers": [
+      "ヶ"
+    ],
+    "itemIds": [
+      "ja:character:a4f32db071309ce2"
+    ]
+  },
+  {
+    "id": "ja:exercise:14872758d6e6dd71",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヷ",
+    "answers": [
+      "ヷ"
+    ],
+    "itemIds": [
+      "ja:character:0e5a5434d0216257"
+    ]
+  },
+  {
+    "id": "ja:exercise:dc7c39d4e3c6dfca",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヷ đọc là gì?",
+    "choices": [
+      "ke nhỏ",
+      "va",
+      "ve",
+      "vi"
+    ],
+    "answers": [
+      "va"
+    ],
+    "itemIds": [
+      "ja:character:0e5a5434d0216257"
+    ]
+  },
+  {
+    "id": "ja:exercise:4469e3245a10854c",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヷ",
+    "choices": [
+      "ヶ",
+      "ヷ",
+      "ヸ",
+      "ヹ"
+    ],
+    "answers": [
+      "ヷ"
+    ],
+    "itemIds": [
+      "ja:character:0e5a5434d0216257"
+    ]
+  },
+  {
+    "id": "ja:exercise:683ca87a88daa3f4",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヸ",
+    "answers": [
+      "ヸ"
+    ],
+    "itemIds": [
+      "ja:character:7152bad49e98e9f6"
+    ]
+  },
+  {
+    "id": "ja:exercise:7eaac2918fd35d50",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヸ đọc là gì?",
+    "choices": [
+      "va",
+      "ve",
+      "vi",
+      "vo"
+    ],
+    "answers": [
+      "vi"
+    ],
+    "itemIds": [
+      "ja:character:7152bad49e98e9f6"
+    ]
+  },
+  {
+    "id": "ja:exercise:ece2fe0380546511",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヸ",
+    "choices": [
+      "ヷ",
+      "ヸ",
+      "ヹ",
+      "ヺ"
+    ],
+    "answers": [
+      "ヸ"
+    ],
+    "itemIds": [
+      "ja:character:7152bad49e98e9f6"
+    ]
+  },
+  {
+    "id": "ja:exercise:e005b5de051822b5",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヹ",
+    "answers": [
+      "ヹ"
+    ],
+    "itemIds": [
+      "ja:character:a9cb376fceff8dde"
+    ]
+  },
+  {
+    "id": "ja:exercise:45c4c5b4a80f8a9c",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヹ đọc là gì?",
+    "choices": [
+      "kéo dài nguyên âm",
+      "ve",
+      "vi",
+      "vo"
+    ],
+    "answers": [
+      "ve"
+    ],
+    "itemIds": [
+      "ja:character:a9cb376fceff8dde"
+    ]
+  },
+  {
+    "id": "ja:exercise:e87174b1cc4c7106",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヹ",
+    "choices": [
+      "ヸ",
+      "ヹ",
+      "ヺ",
+      "ー"
+    ],
+    "answers": [
+      "ヹ"
+    ],
+    "itemIds": [
+      "ja:character:a9cb376fceff8dde"
+    ]
+  },
+  {
+    "id": "ja:exercise:f3c136d390c91acc",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ヺ",
+    "answers": [
+      "ヺ"
+    ],
+    "itemIds": [
+      "ja:character:48c2a8ba65cb9d38"
+    ]
+  },
+  {
+    "id": "ja:exercise:3179d39beca407a8",
+    "lang": "ja",
+    "type": "recognize",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "Chữ ヺ đọc là gì?",
+    "choices": [
+      "kéo dài nguyên âm",
+      "ve",
+      "vi",
+      "vo"
+    ],
+    "answers": [
+      "vo"
+    ],
+    "itemIds": [
+      "ja:character:48c2a8ba65cb9d38"
+    ]
+  },
+  {
+    "id": "ja:exercise:27a3d21388e363d0",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "alphabet",
+    "level": "N5",
+    "prompt": "ヺ",
+    "choices": [
+      "ヸ",
+      "ヹ",
+      "ヺ",
+      "ー"
+    ],
+    "answers": [
+      "ヺ"
+    ],
+    "itemIds": [
+      "ja:character:48c2a8ba65cb9d38"
+    ]
+  },
+  {
+    "id": "ja:exercise:f3d6b03f9d75fa38",
+    "lang": "ja",
+    "type": "stroke-order",
+    "skill": "strokes",
+    "level": "N5",
+    "prompt": "ー",
+    "answers": [
+      "ー"
+    ],
+    "itemIds": [
+      "ja:character:3f759dbe7fe2c738"
+    ]
+  }
+]
