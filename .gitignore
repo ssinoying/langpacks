@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+dist/
+# Open dictionaries are large: download them locally, never commit.
+sources/*
+!sources/.gitkeep

@@ -1,0 +1,29 @@
+{
+  "id": "en-A2-travel",
+  "lang": "en",
+  "framework": "CEFR",
+  "level": "A2",
+  "topic": "travel",
+  "title": "Du lịch: sân bay, khách sạn, hỏi đường",
+  "requires": [
+    "en-ipa"
+  ],
+  "itemIds": [
+    "en:word:c3ba438acef7b1b0",
+    "en:word:ba97a9cda03b3d66",
+    "en:word:8a9172e3aab41291",
+    "en:word:1eadf5eec4b688a8",
+    "en:word:0305228df8b6b36f",
+    "en:word:d6b5c4803cf0df30",
+    "en:word:870072ba0753543f",
+    "en:word:50dc7fe73bbfac9a",
+    "en:word:54a0d2b7d916ac19",
+    "en:word:4f930b79b2dd895b",
+    "en:word:8da2443f9821ae50",
+    "en:word:9d3756cc42550206",
+    "en:word:2483e3f58f52a5d9",
+    "en:word:8e18bea6b7f1456b",
+    "en:word:e251ec71590e8bd0",
+    "en:word:460251688ada84e6"
+  ]
+}

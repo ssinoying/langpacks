@@ -1,0 +1,1044 @@
+[
+  {
+    "id": "en:exercise:a16434a38a737e39",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "see",
+    "choices": [
+      "/e/",
+      "/iː/",
+      "/ɪ/"
+    ],
+    "answers": [
+      "/iː/"
+    ],
+    "explanationVi": "\"see\" đọc là /siː/.",
+    "itemIds": [
+      "en:character:99f6ce0d449b254b"
+    ]
+  },
+  {
+    "id": "en:exercise:d9f9e9e9113de907",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "sit",
+    "choices": [
+      "/e/",
+      "/iː/",
+      "/æ/",
+      "/ɪ/"
+    ],
+    "answers": [
+      "/ɪ/"
+    ],
+    "explanationVi": "\"sit\" đọc là /sɪt/.",
+    "itemIds": [
+      "en:character:e6243df36ad8e48a"
+    ]
+  },
+  {
+    "id": "en:exercise:7b2805f909562f8f",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "bed",
+    "choices": [
+      "/e/",
+      "/iː/",
+      "/æ/",
+      "/ɪ/"
+    ],
+    "answers": [
+      "/e/"
+    ],
+    "explanationVi": "\"bed\" đọc là /bed/.",
+    "itemIds": [
+      "en:character:120349c77ae4051a"
+    ]
+  },
+  {
+    "id": "en:exercise:4bc63c0aec61bf9d",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "cat",
+    "choices": [
+      "/e/",
+      "/æ/",
+      "/ɑː/",
+      "/ɪ/"
+    ],
+    "answers": [
+      "/æ/"
+    ],
+    "explanationVi": "\"cat\" đọc là /kæt/.",
+    "itemIds": [
+      "en:character:9640ecf1ce787783"
+    ]
+  },
+  {
+    "id": "en:exercise:b1c4b4bf19b8a5de",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "car",
+    "choices": [
+      "/e/",
+      "/æ/",
+      "/ɑː/",
+      "/ɒ/"
+    ],
+    "answers": [
+      "/ɑː/"
+    ],
+    "explanationVi": "\"car\" đọc là /kɑːr/.",
+    "itemIds": [
+      "en:character:a986c70adc559529"
+    ]
+  },
+  {
+    "id": "en:exercise:1f8d00b1d74fe6d6",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "hot",
+    "choices": [
+      "/æ/",
+      "/ɑː/",
+      "/ɒ/",
+      "/ɔː/"
+    ],
+    "answers": [
+      "/ɒ/"
+    ],
+    "explanationVi": "\"hot\" đọc là /hɒt/.",
+    "itemIds": [
+      "en:character:9c9a91710eccfbe9"
+    ]
+  },
+  {
+    "id": "en:exercise:624532acbfb29481",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "door",
+    "choices": [
+      "/ɑː/",
+      "/ɒ/",
+      "/ɔː/",
+      "/ʊ/"
+    ],
+    "answers": [
+      "/ɔː/"
+    ],
+    "explanationVi": "\"door\" đọc là /dɔːr/.",
+    "itemIds": [
+      "en:character:fb0aa776e6bd132f"
+    ]
+  },
+  {
+    "id": "en:exercise:f51d7072275cfc4e",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "book",
+    "choices": [
+      "/uː/",
+      "/ɒ/",
+      "/ɔː/",
+      "/ʊ/"
+    ],
+    "answers": [
+      "/ʊ/"
+    ],
+    "explanationVi": "\"book\" đọc là /bʊk/.",
+    "itemIds": [
+      "en:character:ee216a6645897196"
+    ]
+  },
+  {
+    "id": "en:exercise:ad9db85e4bab5f79",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "food",
+    "choices": [
+      "/uː/",
+      "/ɔː/",
+      "/ʊ/",
+      "/ʌ/"
+    ],
+    "answers": [
+      "/uː/"
+    ],
+    "explanationVi": "\"food\" đọc là /fuːd/.",
+    "itemIds": [
+      "en:character:3243c3580268dca5"
+    ]
+  },
+  {
+    "id": "en:exercise:fc17fd418cdb1536",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "cup",
+    "choices": [
+      "/uː/",
+      "/ɜː/",
+      "/ʊ/",
+      "/ʌ/"
+    ],
+    "answers": [
+      "/ʌ/"
+    ],
+    "explanationVi": "\"cup\" đọc là /kʌp/.",
+    "itemIds": [
+      "en:character:5a8ec30743a10734"
+    ]
+  },
+  {
+    "id": "en:exercise:0acf3004fd0b18c4",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "bird",
+    "choices": [
+      "/uː/",
+      "/ə/",
+      "/ɜː/",
+      "/ʌ/"
+    ],
+    "answers": [
+      "/ɜː/"
+    ],
+    "explanationVi": "\"bird\" đọc là /bɜːrd/.",
+    "itemIds": [
+      "en:character:9039aae5500250bc"
+    ]
+  },
+  {
+    "id": "en:exercise:d725d3832c98607e",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "about",
+    "choices": [
+      "/eɪ/",
+      "/ə/",
+      "/ɜː/",
+      "/ʌ/"
+    ],
+    "answers": [
+      "/ə/"
+    ],
+    "explanationVi": "\"about\" đọc là /əˈbaʊt/.",
+    "itemIds": [
+      "en:character:f13e720ef01c2c5d"
+    ]
+  },
+  {
+    "id": "en:exercise:40e80f493f97011f",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "day",
+    "choices": [
+      "/aɪ/",
+      "/eɪ/",
+      "/ə/",
+      "/ɜː/"
+    ],
+    "answers": [
+      "/eɪ/"
+    ],
+    "explanationVi": "\"day\" đọc là /deɪ/.",
+    "itemIds": [
+      "en:character:f4ee0e78d1af40d0"
+    ]
+  },
+  {
+    "id": "en:exercise:372e5ab86c939690",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "my",
+    "choices": [
+      "/aɪ/",
+      "/eɪ/",
+      "/ɔɪ/",
+      "/ə/"
+    ],
+    "answers": [
+      "/aɪ/"
+    ],
+    "explanationVi": "\"my\" đọc là /maɪ/.",
+    "itemIds": [
+      "en:character:2396646a3b55a412"
+    ]
+  },
+  {
+    "id": "en:exercise:aead961b0bf6e733",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "boy",
+    "choices": [
+      "/aɪ/",
+      "/aʊ/",
+      "/eɪ/",
+      "/ɔɪ/"
+    ],
+    "answers": [
+      "/ɔɪ/"
+    ],
+    "explanationVi": "\"boy\" đọc là /bɔɪ/.",
+    "itemIds": [
+      "en:character:9e6459eb59b8239b"
+    ]
+  },
+  {
+    "id": "en:exercise:9bf63b037add8b9d",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "now",
+    "choices": [
+      "/aɪ/",
+      "/aʊ/",
+      "/ɔɪ/",
+      "/əʊ/"
+    ],
+    "answers": [
+      "/aʊ/"
+    ],
+    "explanationVi": "\"now\" đọc là /naʊ/.",
+    "itemIds": [
+      "en:character:1fcff0cb94f784db"
+    ]
+  },
+  {
+    "id": "en:exercise:ec5bd234c7b040be",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "go",
+    "choices": [
+      "/aʊ/",
+      "/ɔɪ/",
+      "/əʊ/",
+      "/ɪə/"
+    ],
+    "answers": [
+      "/əʊ/"
+    ],
+    "explanationVi": "\"go\" đọc là /ɡəʊ/.",
+    "itemIds": [
+      "en:character:1b9226af2f63bd1c"
+    ]
+  },
+  {
+    "id": "en:exercise:0d9d982ce67aba13",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "near",
+    "choices": [
+      "/aʊ/",
+      "/eə/",
+      "/əʊ/",
+      "/ɪə/"
+    ],
+    "answers": [
+      "/ɪə/"
+    ],
+    "explanationVi": "\"near\" đọc là /nɪə/.",
+    "itemIds": [
+      "en:character:e5619e90b767cae6"
+    ]
+  },
+  {
+    "id": "en:exercise:05e054474b48ca46",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "hair",
+    "choices": [
+      "/eə/",
+      "/əʊ/",
+      "/ɪə/",
+      "/ʊə/"
+    ],
+    "answers": [
+      "/eə/"
+    ],
+    "explanationVi": "\"hair\" đọc là /heə/.",
+    "itemIds": [
+      "en:character:c72173c7781bd8f6"
+    ]
+  },
+  {
+    "id": "en:exercise:3789bd056a690329",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "tour",
+    "choices": [
+      "/eə/",
+      "/p/",
+      "/ɪə/",
+      "/ʊə/"
+    ],
+    "answers": [
+      "/ʊə/"
+    ],
+    "explanationVi": "\"tour\" đọc là /tʊə/.",
+    "itemIds": [
+      "en:character:7ec8cad3c18e2f9b"
+    ]
+  },
+  {
+    "id": "en:exercise:d91c9dd842b89b04",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "pen",
+    "choices": [
+      "/b/",
+      "/eə/",
+      "/p/",
+      "/ʊə/"
+    ],
+    "answers": [
+      "/p/"
+    ],
+    "explanationVi": "\"pen\" đọc là /pen/.",
+    "itemIds": [
+      "en:character:a511a2d380a97869"
+    ]
+  },
+  {
+    "id": "en:exercise:8847234d24b23858",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "bag",
+    "choices": [
+      "/b/",
+      "/p/",
+      "/t/",
+      "/ʊə/"
+    ],
+    "answers": [
+      "/b/"
+    ],
+    "explanationVi": "\"bag\" đọc là /bæɡ/.",
+    "itemIds": [
+      "en:character:6e721cdfc5788582"
+    ]
+  },
+  {
+    "id": "en:exercise:6a82f01fa4af5bf3",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "ten",
+    "choices": [
+      "/b/",
+      "/d/",
+      "/p/",
+      "/t/"
+    ],
+    "answers": [
+      "/t/"
+    ],
+    "explanationVi": "\"ten\" đọc là /ten/.",
+    "itemIds": [
+      "en:character:af6734fb612f8e0d"
+    ]
+  },
+  {
+    "id": "en:exercise:82f4655badf41b67",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "dog",
+    "choices": [
+      "/b/",
+      "/d/",
+      "/k/",
+      "/t/"
+    ],
+    "answers": [
+      "/d/"
+    ],
+    "explanationVi": "\"dog\" đọc là /dɒɡ/.",
+    "itemIds": [
+      "en:character:21d91d9e7466550a"
+    ]
+  },
+  {
+    "id": "en:exercise:f2f3c9da8354e787",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "key",
+    "choices": [
+      "/d/",
+      "/k/",
+      "/t/",
+      "/ɡ/"
+    ],
+    "answers": [
+      "/k/"
+    ],
+    "explanationVi": "\"key\" đọc là /kiː/.",
+    "itemIds": [
+      "en:character:b98249d6ab744c73"
+    ]
+  },
+  {
+    "id": "en:exercise:2e81ef468cf235ed",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "get",
+    "choices": [
+      "/d/",
+      "/f/",
+      "/k/",
+      "/ɡ/"
+    ],
+    "answers": [
+      "/ɡ/"
+    ],
+    "explanationVi": "\"get\" đọc là /ɡet/.",
+    "itemIds": [
+      "en:character:e91014104afeed1f"
+    ]
+  },
+  {
+    "id": "en:exercise:050f05a50a48d40f",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "fish",
+    "choices": [
+      "/f/",
+      "/k/",
+      "/v/",
+      "/ɡ/"
+    ],
+    "answers": [
+      "/f/"
+    ],
+    "explanationVi": "\"fish\" đọc là /fɪʃ/.",
+    "itemIds": [
+      "en:character:85d6e030c77c761f"
+    ]
+  },
+  {
+    "id": "en:exercise:38991221866be7da",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "very",
+    "choices": [
+      "/f/",
+      "/v/",
+      "/ɡ/",
+      "/θ/"
+    ],
+    "answers": [
+      "/v/"
+    ],
+    "explanationVi": "\"very\" đọc là /ˈveri/.",
+    "itemIds": [
+      "en:character:503c2e8fed05f5c4"
+    ]
+  },
+  {
+    "id": "en:exercise:46c5d8b99e4e4908",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "think",
+    "choices": [
+      "/f/",
+      "/v/",
+      "/ð/",
+      "/θ/"
+    ],
+    "answers": [
+      "/θ/"
+    ],
+    "explanationVi": "\"think\" đọc là /θɪŋk/.",
+    "itemIds": [
+      "en:character:747f51bf2b35be93"
+    ]
+  },
+  {
+    "id": "en:exercise:1c09e7889b95710e",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "this",
+    "choices": [
+      "/s/",
+      "/v/",
+      "/ð/",
+      "/θ/"
+    ],
+    "answers": [
+      "/ð/"
+    ],
+    "explanationVi": "\"this\" đọc là /ðɪs/.",
+    "itemIds": [
+      "en:character:2438a755628a10f4"
+    ]
+  },
+  {
+    "id": "en:exercise:2f6b4985b84c8868",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "sun",
+    "choices": [
+      "/s/",
+      "/z/",
+      "/ð/",
+      "/θ/"
+    ],
+    "answers": [
+      "/s/"
+    ],
+    "explanationVi": "\"sun\" đọc là /sʌn/.",
+    "itemIds": [
+      "en:character:fb77c3930a69bd24"
+    ]
+  },
+  {
+    "id": "en:exercise:3b7783f6cada142d",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "zoo",
+    "choices": [
+      "/s/",
+      "/z/",
+      "/ð/",
+      "/ʃ/"
+    ],
+    "answers": [
+      "/z/"
+    ],
+    "explanationVi": "\"zoo\" đọc là /zuː/.",
+    "itemIds": [
+      "en:character:33b2262fc5d1210c"
+    ]
+  },
+  {
+    "id": "en:exercise:d813ec727a2b2c46",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "she",
+    "choices": [
+      "/s/",
+      "/z/",
+      "/ʃ/",
+      "/ʒ/"
+    ],
+    "answers": [
+      "/ʃ/"
+    ],
+    "explanationVi": "\"she\" đọc là /ʃiː/.",
+    "itemIds": [
+      "en:character:ee77ed43b9c62999"
+    ]
+  },
+  {
+    "id": "en:exercise:d78f7fa11c040d63",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "vision",
+    "choices": [
+      "/h/",
+      "/z/",
+      "/ʃ/",
+      "/ʒ/"
+    ],
+    "answers": [
+      "/ʒ/"
+    ],
+    "explanationVi": "\"vision\" đọc là /ˈvɪʒn/.",
+    "itemIds": [
+      "en:character:ee2263709e76ccc9"
+    ]
+  },
+  {
+    "id": "en:exercise:fdc73e5d096d640e",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "hat",
+    "choices": [
+      "/h/",
+      "/tʃ/",
+      "/ʃ/",
+      "/ʒ/"
+    ],
+    "answers": [
+      "/h/"
+    ],
+    "explanationVi": "\"hat\" đọc là /hæt/.",
+    "itemIds": [
+      "en:character:079d33339094a841"
+    ]
+  },
+  {
+    "id": "en:exercise:b4042e2b84f5b896",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "chair",
+    "choices": [
+      "/dʒ/",
+      "/h/",
+      "/tʃ/",
+      "/ʒ/"
+    ],
+    "answers": [
+      "/tʃ/"
+    ],
+    "explanationVi": "\"chair\" đọc là /tʃeə/.",
+    "itemIds": [
+      "en:character:6ea87b6d9200fb61"
+    ]
+  },
+  {
+    "id": "en:exercise:e34251bb6298a37f",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "job",
+    "choices": [
+      "/dʒ/",
+      "/h/",
+      "/m/",
+      "/tʃ/"
+    ],
+    "answers": [
+      "/dʒ/"
+    ],
+    "explanationVi": "\"job\" đọc là /dʒɒb/.",
+    "itemIds": [
+      "en:character:a6e52293b173ad46"
+    ]
+  },
+  {
+    "id": "en:exercise:76ad15be4924d21f",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "man",
+    "choices": [
+      "/dʒ/",
+      "/m/",
+      "/n/",
+      "/tʃ/"
+    ],
+    "answers": [
+      "/m/"
+    ],
+    "explanationVi": "\"man\" đọc là /mæn/.",
+    "itemIds": [
+      "en:character:161e6fbc7f0ecd9c"
+    ]
+  },
+  {
+    "id": "en:exercise:2ced869b1b4b0e1a",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "no",
+    "choices": [
+      "/dʒ/",
+      "/m/",
+      "/n/",
+      "/ŋ/"
+    ],
+    "answers": [
+      "/n/"
+    ],
+    "explanationVi": "\"no\" đọc là /nəʊ/.",
+    "itemIds": [
+      "en:character:810e3b1040eec2d9"
+    ]
+  },
+  {
+    "id": "en:exercise:23ebe43d452e0ce3",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "sing",
+    "choices": [
+      "/l/",
+      "/m/",
+      "/n/",
+      "/ŋ/"
+    ],
+    "answers": [
+      "/ŋ/"
+    ],
+    "explanationVi": "\"sing\" đọc là /sɪŋ/.",
+    "itemIds": [
+      "en:character:7c3973ef9e108d57"
+    ]
+  },
+  {
+    "id": "en:exercise:c66813f06b14c614",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "leg",
+    "choices": [
+      "/l/",
+      "/n/",
+      "/r/",
+      "/ŋ/"
+    ],
+    "answers": [
+      "/l/"
+    ],
+    "explanationVi": "\"leg\" đọc là /leɡ/.",
+    "itemIds": [
+      "en:character:9428f94d63ac197a"
+    ]
+  },
+  {
+    "id": "en:exercise:2e6bcb68e036823f",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "red",
+    "choices": [
+      "/j/",
+      "/l/",
+      "/r/",
+      "/ŋ/"
+    ],
+    "answers": [
+      "/r/"
+    ],
+    "explanationVi": "\"red\" đọc là /red/.",
+    "itemIds": [
+      "en:character:5b45e322e172946d"
+    ]
+  },
+  {
+    "id": "en:exercise:d2cfcb75763c30a1",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "yes",
+    "choices": [
+      "/j/",
+      "/l/",
+      "/r/",
+      "/w/"
+    ],
+    "answers": [
+      "/j/"
+    ],
+    "explanationVi": "\"yes\" đọc là /jes/.",
+    "itemIds": [
+      "en:character:7ab5f4e1b44c94cb"
+    ]
+  },
+  {
+    "id": "en:exercise:9c35009858078192",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "we",
+    "choices": [
+      "/j/",
+      "/r/",
+      "/w/"
+    ],
+    "answers": [
+      "/w/"
+    ],
+    "explanationVi": "\"we\" đọc là /wiː/.",
+    "itemIds": [
+      "en:character:af357c0ffb464f75"
+    ]
+  },
+  {
+    "id": "en:exercise:240b666a7e784161",
+    "lang": "en",
+    "type": "recognize",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "Từ nào có âm /ɪ/?",
+    "choices": [
+      "sheep",
+      "ship"
+    ],
+    "answers": [
+      "ship"
+    ],
+    "explanationVi": "\"ship\" có /ɪ/, \"sheep\" có /iː/. Cặp này hay bị đọc lẫn.",
+    "itemIds": [
+      "en:character:e6243df36ad8e48a",
+      "en:character:99f6ce0d449b254b"
+    ]
+  },
+  {
+    "id": "en:exercise:dba7bc04b0296278",
+    "lang": "en",
+    "type": "recognize",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "Từ nào có âm /e/?",
+    "choices": [
+      "bad",
+      "bed"
+    ],
+    "answers": [
+      "bed"
+    ],
+    "explanationVi": "\"bed\" có /e/, \"bad\" có /æ/. Cặp này hay bị đọc lẫn.",
+    "itemIds": [
+      "en:character:120349c77ae4051a",
+      "en:character:9640ecf1ce787783"
+    ]
+  },
+  {
+    "id": "en:exercise:c877ef9b9b006118",
+    "lang": "en",
+    "type": "recognize",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "Từ nào có âm /ʊ/?",
+    "choices": [
+      "fool",
+      "full"
+    ],
+    "answers": [
+      "full"
+    ],
+    "explanationVi": "\"full\" có /ʊ/, \"fool\" có /uː/. Cặp này hay bị đọc lẫn.",
+    "itemIds": [
+      "en:character:ee216a6645897196",
+      "en:character:3243c3580268dca5"
+    ]
+  },
+  {
+    "id": "en:exercise:ac9e67aa1789e2be",
+    "lang": "en",
+    "type": "recognize",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "Từ nào có âm /θ/?",
+    "choices": [
+      "sink",
+      "think"
+    ],
+    "answers": [
+      "think"
+    ],
+    "explanationVi": "\"think\" có /θ/, \"sink\" có /s/. Cặp này hay bị đọc lẫn.",
+    "itemIds": [
+      "en:character:747f51bf2b35be93",
+      "en:character:fb77c3930a69bd24"
+    ]
+  },
+  {
+    "id": "en:exercise:5342a7a56db5fa9d",
+    "lang": "en",
+    "type": "recognize",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "Từ nào có âm /ð/?",
+    "choices": [
+      "day",
+      "they"
+    ],
+    "answers": [
+      "they"
+    ],
+    "explanationVi": "\"they\" có /ð/, \"day\" có /d/. Cặp này hay bị đọc lẫn.",
+    "itemIds": [
+      "en:character:2438a755628a10f4",
+      "en:character:21d91d9e7466550a"
+    ]
+  },
+  {
+    "id": "en:exercise:97ca6131e8cf8437",
+    "lang": "en",
+    "type": "recognize",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "Từ nào có âm /v/?",
+    "choices": [
+      "berry",
+      "very"
+    ],
+    "answers": [
+      "very"
+    ],
+    "explanationVi": "\"very\" có /v/, \"berry\" có /b/. Cặp này hay bị đọc lẫn.",
+    "itemIds": [
+      "en:character:503c2e8fed05f5c4",
+      "en:character:6e721cdfc5788582"
+    ]
+  }
+]

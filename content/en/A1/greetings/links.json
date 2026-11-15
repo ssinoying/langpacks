@@ -1,0 +1,172 @@
+[
+  {
+    "from": "en:word:368d1fa9c967ce9b",
+    "to": "en:sentence:5a31e561baa75805",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:0f4d820aa41a65d0",
+    "to": "en:sentence:5a31e561baa75805",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:87a513a9cb3758cb",
+    "to": "en:sentence:0244ce5c64fce66f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:0920ee3cbb5c936e",
+    "to": "en:sentence:4678b3fd4021b43f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:732fc65a25806889",
+    "to": "en:sentence:32cd016d904d706d",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:e9a71a15e72c8a8b",
+    "to": "en:sentence:ed2e352bb566482d",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:0f4d820aa41a65d0",
+    "to": "en:sentence:001d6e9f9f0b395e",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:703c276f963ed066",
+    "to": "en:sentence:35aece56ba4130a7",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:cbc0d0951f830931",
+    "to": "en:sentence:35aece56ba4130a7",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:3acc41c2273b091f",
+    "to": "en:sentence:1e77b4026444470b",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:7dcbb62e48dee3e6",
+    "to": "en:sentence:1e77b4026444470b",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:887e72315158ddab",
+    "to": "en:sentence:2d062dbfb0f5447d",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:887e72315158ddab",
+    "to": "en:sentence:b4a5dec647fbccc4",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:cd0815d182d0b08a",
+    "to": "en:sentence:804f36b3489e36ad",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:d08e1d541a7723e2",
+    "to": "en:sentence:af3c065d6a4316d9",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:230140bc83391595",
+    "to": "en:sentence:50f271225b9db067",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:d6439772a7dd0a6e",
+    "to": "en:sentence:b44a8bf73e4f3f94",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:word:d9a786fa4b294f9f",
+    "to": "en:sentence:4f0f45fb0cf21185",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "en:sentence:5a31e561baa75805",
+    "to": "en:grammar:28c763c0e0a3524f",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:5a31e561baa75805",
+    "to": "en:grammar:15db379789ba01e3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:0244ce5c64fce66f",
+    "to": "en:grammar:15db379789ba01e3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:001d6e9f9f0b395e",
+    "to": "en:grammar:feb16a8c21fde65e",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:001d6e9f9f0b395e",
+    "to": "en:grammar:28c763c0e0a3524f",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:87d1fdd5a98107a9",
+    "to": "en:grammar:feb16a8c21fde65e",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:87d1fdd5a98107a9",
+    "to": "en:grammar:15db379789ba01e3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:1e77b4026444470b",
+    "to": "en:grammar:15db379789ba01e3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:2d062dbfb0f5447d",
+    "to": "en:grammar:feb16a8c21fde65e",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:2d062dbfb0f5447d",
+    "to": "en:grammar:15db379789ba01e3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:b4a5dec647fbccc4",
+    "to": "en:grammar:15db379789ba01e3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:804f36b3489e36ad",
+    "to": "en:grammar:15db379789ba01e3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:804f36b3489e36ad",
+    "to": "en:grammar:28c763c0e0a3524f",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "en:sentence:5a31e561baa75805",
+    "to": "en:slang:ebc6101b76a8ed64",
+    "kind": "book-reallife"
+  },
+  {
+    "from": "en:sentence:87d1fdd5a98107a9",
+    "to": "en:slang:5e35b024c85678f4",
+    "kind": "book-reallife"
+  },
+  {
+    "from": "en:sentence:b44a8bf73e4f3f94",
+    "to": "en:slang:e024d98c806964a4",
+    "kind": "book-reallife"
+  }
+]

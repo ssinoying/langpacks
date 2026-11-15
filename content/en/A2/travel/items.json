@@ -1,0 +1,231 @@
+[
+  {
+    "id": "en:sentence:c7e7782dcf5f7a75",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I'd like to book a room for two nights.",
+    "meaningVi": "Tôi muốn đặt một phòng cho hai đêm.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:eb957763126d929c",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I have a reservation under the name Tran.",
+    "meaningVi": "Tôi có đặt phòng trước dưới tên Trần.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:11c8546810255747",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Can I see your passport, please?",
+    "meaningVi": "Cho tôi xem hộ chiếu của bạn được không?",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:fbf3ae317599e7de",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Where can I check in?",
+    "meaningVi": "Tôi làm thủ tục ở đâu?",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:97e15df8e4f91673",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My flight is delayed.",
+    "meaningVi": "Chuyến bay của tôi bị hoãn.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:065539543be7cd10",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I lost my luggage.",
+    "meaningVi": "Tôi bị mất hành lý.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:5a73ddfafd4b6c06",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "How do I get to the station?",
+    "meaningVi": "Đi đến nhà ga thế nào?",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:6326ad92cd6f1c63",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Go straight and turn left.",
+    "meaningVi": "Đi thẳng rồi rẽ trái.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:fef27a045d41b16f",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's on your right.",
+    "meaningVi": "Nó ở bên phải bạn.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:749ce8e82b3b5aa3",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Is it far from here?",
+    "meaningVi": "Chỗ đó có xa đây không?",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:48939f0288e09b71",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "A one-way ticket to London, please.",
+    "meaningVi": "Cho tôi một vé một chiều đi London.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:a45e4c88291ec358",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Could you show me on the map?",
+    "meaningVi": "Bạn chỉ giúp tôi trên bản đồ được không?",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:aeb13c2d7669fb2e",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "The train was late yesterday.",
+    "meaningVi": "Hôm qua tàu đến muộn.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:sentence:6654a7268751ad9d",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "We stayed at a small hotel near the airport.",
+    "meaningVi": "Chúng tôi ở một khách sạn nhỏ gần sân bay.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:grammar:8087320216379d56",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Lời đề nghị lịch sự: I'd like / Could you",
+    "explanationVi": "I'd like (= I would like) + danh từ hoặc to + động từ: lịch sự hơn I want. Could you + động từ? để nhờ ai việc gì, lịch sự hơn Can you. Tiếng Việt hay thêm \"ạ\", \"giúp\" để lịch sự, tiếng Anh đổi động từ khiếm khuyết.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:grammar:62a84653a19e29d3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Câu mệnh lệnh chỉ đường: Go / Turn / Take",
+    "explanationVi": "Chỉ đường dùng động từ nguyên mẫu đứng đầu câu, không có chủ ngữ: Go straight. Turn left. Take the second street. Giống tiếng Việt \"Đi thẳng, rẽ trái\".",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:grammar:68aa981c5dd1853d",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Quá khứ đơn: was / were, động từ thêm -ed",
+    "explanationVi": "Việc đã xảy ra và kết thúc: I/he/she/it was, you/we/they were. Động từ thường thêm -ed: stay → stayed. Tiếng Việt dùng \"đã\", \"hôm qua\"; tiếng Anh bắt buộc đổi dạng động từ, kể cả khi đã có yesterday.",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:slang:1982f2b72c1f55c9",
+    "lang": "en",
+    "kind": "slang",
+    "text": "red-eye (flight)",
+    "meaningVi": "chuyến bay đêm",
+    "explanationVi": "Chuyến bay cất cánh đêm, đến nơi sáng sớm, ngủ không đủ nên \"mắt đỏ\".",
+    "level": "A2",
+    "register": "casual",
+    "status": "current",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:slang:db08700bdbad4843",
+    "lang": "en",
+    "kind": "slang",
+    "text": "I'm so jet-lagged.",
+    "meaningVi": "Mình lệch múi giờ mệt quá.",
+    "explanationVi": "Dùng sau chuyến bay dài qua nhiều múi giờ.",
+    "level": "A2",
+    "register": "casual",
+    "status": "current",
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "en:slang:93b01bf541271b32",
+    "lang": "en",
+    "kind": "slang",
+    "text": "I'm gonna grab a cab.",
+    "meaningVi": "Mình bắt taxi đây.",
+    "explanationVi": "gonna = going to, grab a cab = bắt taxi. Nói chuyện thường ngày thì tự nhiên, viết email trang trọng thì không dùng.",
+    "level": "A2",
+    "register": "casual",
+    "status": "current",
+    "topics": [
+      "travel"
+    ]
+  }
+]

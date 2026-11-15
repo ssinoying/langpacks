@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "manifest.schema.json",
+  "title": "Manifest",
+  "description": "List of published packs. Mirrors PackManifest in PerfectYouKit/Sources/Domain.",
+  "type": "object",
+  "required": ["schemaVersion", "generatedAt", "packs"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "generatedAt": { "type": "string", "format": "date" },
+    "packs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "lang", "topic", "title", "version", "minAppSchema", "size", "sha256", "requires", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "$ref": "common.schema.json#/$defs/packId" },
+          "lang": { "$ref": "common.schema.json#/$defs/lang" },
+          "framework": { "$ref": "common.schema.json#/$defs/framework" },
+          "level": { "$ref": "common.schema.json#/$defs/level" },
+          "topic": { "type": "string" },
+          "title": { "type": "string" },
+          "version": { "type": "integer", "minimum": 1 },
+          "minAppSchema": { "type": "integer", "minimum": 1 },
+          "size": { "type": "integer", "minimum": 0 },
+          "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "requires": { "type": "array", "items": { "$ref": "common.schema.json#/$defs/packId" }, "uniqueItems": true },
+          "url": { "type": "string", "format": "uri" }
+        },
+        "dependentRequired": { "level": ["framework"], "framework": ["level"] }
+      }
+    }
+  }
+}

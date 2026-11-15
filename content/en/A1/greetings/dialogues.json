@@ -1,0 +1,69 @@
+[
+  {
+    "id": "en:dialogue:0994de058fcd3b4a",
+    "lang": "en",
+    "level": "A1",
+    "title": "Gặp bạn mới",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Anna",
+        "text": "Hi! I'm Anna. What's your name?",
+        "translationVi": "Chào! Mình là Anna. Bạn tên gì?",
+        "options": [
+          {
+            "answers": [
+              "Hi, I'm Lan.",
+              "Hello, my name is Lan.",
+              "I'm Lan."
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Anna",
+        "text": "Nice to meet you, Lan. Where are you from?",
+        "translationVi": "Rất vui được gặp bạn, Lan. Bạn đến từ đâu?",
+        "options": [
+          {
+            "answers": [
+              "I'm from Vietnam.",
+              "Vietnam.",
+              "I am from Vietnam."
+            ],
+            "next": "c"
+          },
+          {
+            "answers": [
+              "Nice to meet you too.",
+              "Nice to meet you too. I'm from Vietnam."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Anna",
+        "text": "Cool! Welcome. See you later!",
+        "translationVi": "Hay quá! Chào mừng bạn. Gặp lại sau nhé!",
+        "options": [
+          {
+            "answers": [
+              "See you!",
+              "Bye!",
+              "See you later!",
+              "Goodbye!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Anna",
+        "text": "Bye!",
+        "translationVi": "Tạm biệt!"
+      }
+    }
+  }
+]

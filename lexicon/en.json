@@ -1,0 +1,450 @@
+[
+  {
+    "id": "en:word:368d1fa9c967ce9b",
+    "lang": "en",
+    "kind": "word",
+    "text": "hello",
+    "reading": "/həˈləʊ/",
+    "partOfSpeech": "intj",
+    "meaningVi": "xin chào",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:hello"
+  },
+  {
+    "id": "en:word:87a513a9cb3758cb",
+    "lang": "en",
+    "kind": "word",
+    "text": "hi",
+    "reading": "/haɪ/",
+    "partOfSpeech": "intj",
+    "meaningVi": "chào (thân mật)",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:hi"
+  },
+  {
+    "id": "en:word:d6439772a7dd0a6e",
+    "lang": "en",
+    "kind": "word",
+    "text": "goodbye",
+    "reading": "/ɡʊdˈbaɪ/",
+    "partOfSpeech": "intj",
+    "meaningVi": "tạm biệt",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:goodbye"
+  },
+  {
+    "id": "en:word:d9a786fa4b294f9f",
+    "lang": "en",
+    "kind": "word",
+    "text": "bye",
+    "reading": "/baɪ/",
+    "partOfSpeech": "intj",
+    "meaningVi": "tạm biệt (thân mật)",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:bye"
+  },
+  {
+    "id": "en:word:0920ee3cbb5c936e",
+    "lang": "en",
+    "kind": "word",
+    "text": "morning",
+    "reading": "/ˈmɔːnɪŋ/",
+    "partOfSpeech": "noun",
+    "meaningVi": "buổi sáng",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:morning"
+  },
+  {
+    "id": "en:word:732fc65a25806889",
+    "lang": "en",
+    "kind": "word",
+    "text": "afternoon",
+    "reading": "/ˌɑːftəˈnuːn/",
+    "partOfSpeech": "noun",
+    "meaningVi": "buổi chiều",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:afternoon"
+  },
+  {
+    "id": "en:word:e9a71a15e72c8a8b",
+    "lang": "en",
+    "kind": "word",
+    "text": "evening",
+    "reading": "/ˈiːvnɪŋ/",
+    "partOfSpeech": "noun",
+    "meaningVi": "buổi tối",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:evening"
+  },
+  {
+    "id": "en:word:0f4d820aa41a65d0",
+    "lang": "en",
+    "kind": "word",
+    "text": "name",
+    "reading": "/neɪm/",
+    "partOfSpeech": "noun",
+    "meaningVi": "tên",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:name"
+  },
+  {
+    "id": "en:word:cbc0d0951f830931",
+    "lang": "en",
+    "kind": "word",
+    "text": "meet",
+    "reading": "/miːt/",
+    "partOfSpeech": "verb",
+    "meaningVi": "gặp",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:meet"
+  },
+  {
+    "id": "en:word:703c276f963ed066",
+    "lang": "en",
+    "kind": "word",
+    "text": "nice",
+    "reading": "/naɪs/",
+    "partOfSpeech": "adj",
+    "meaningVi": "tốt, dễ chịu",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:nice"
+  },
+  {
+    "id": "en:word:7dcbb62e48dee3e6",
+    "lang": "en",
+    "kind": "word",
+    "text": "thank",
+    "reading": "/θæŋk/",
+    "partOfSpeech": "verb",
+    "meaningVi": "cảm ơn",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:thank"
+  },
+  {
+    "id": "en:word:230140bc83391595",
+    "lang": "en",
+    "kind": "word",
+    "text": "please",
+    "reading": "/pliːz/",
+    "partOfSpeech": "adv",
+    "meaningVi": "làm ơn, vui lòng",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:please"
+  },
+  {
+    "id": "en:word:d08e1d541a7723e2",
+    "lang": "en",
+    "kind": "word",
+    "text": "sorry",
+    "reading": "/ˈsɒri/",
+    "partOfSpeech": "adj",
+    "meaningVi": "xin lỗi, tiếc",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:sorry"
+  },
+  {
+    "id": "en:word:3acc41c2273b091f",
+    "lang": "en",
+    "kind": "word",
+    "text": "fine",
+    "reading": "/faɪn/",
+    "partOfSpeech": "adj",
+    "meaningVi": "khoẻ, ổn",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:fine"
+  },
+  {
+    "id": "en:word:887e72315158ddab",
+    "lang": "en",
+    "kind": "word",
+    "text": "from",
+    "reading": "/frɒm/",
+    "partOfSpeech": "prep",
+    "meaningVi": "từ (đâu đến)",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:from"
+  },
+  {
+    "id": "en:word:cd0815d182d0b08a",
+    "lang": "en",
+    "kind": "word",
+    "text": "friend",
+    "reading": "/frend/",
+    "partOfSpeech": "noun",
+    "meaningVi": "bạn",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ],
+    "source": "wiktionary:friend"
+  },
+  {
+    "id": "en:word:c3ba438acef7b1b0",
+    "lang": "en",
+    "kind": "word",
+    "text": "airport",
+    "reading": "/ˈeəpɔːt/",
+    "partOfSpeech": "noun",
+    "meaningVi": "sân bay",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:airport"
+  },
+  {
+    "id": "en:word:ba97a9cda03b3d66",
+    "lang": "en",
+    "kind": "word",
+    "text": "ticket",
+    "reading": "/ˈtɪkɪt/",
+    "partOfSpeech": "noun",
+    "meaningVi": "vé",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:ticket"
+  },
+  {
+    "id": "en:word:8a9172e3aab41291",
+    "lang": "en",
+    "kind": "word",
+    "text": "passport",
+    "reading": "/ˈpɑːspɔːt/",
+    "partOfSpeech": "noun",
+    "meaningVi": "hộ chiếu",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:passport"
+  },
+  {
+    "id": "en:word:1eadf5eec4b688a8",
+    "lang": "en",
+    "kind": "word",
+    "text": "flight",
+    "reading": "/flaɪt/",
+    "partOfSpeech": "noun",
+    "meaningVi": "chuyến bay",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:flight"
+  },
+  {
+    "id": "en:word:0305228df8b6b36f",
+    "lang": "en",
+    "kind": "word",
+    "text": "luggage",
+    "reading": "/ˈlʌɡɪdʒ/",
+    "partOfSpeech": "noun",
+    "meaningVi": "hành lý",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:luggage"
+  },
+  {
+    "id": "en:word:d6b5c4803cf0df30",
+    "lang": "en",
+    "kind": "word",
+    "text": "hotel",
+    "reading": "/həʊˈtel/",
+    "partOfSpeech": "noun",
+    "meaningVi": "khách sạn",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:hotel"
+  },
+  {
+    "id": "en:word:870072ba0753543f",
+    "lang": "en",
+    "kind": "word",
+    "text": "reservation",
+    "reading": "/ˌrezəˈveɪʃn/",
+    "partOfSpeech": "noun",
+    "meaningVi": "sự đặt chỗ trước",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:reservation"
+  },
+  {
+    "id": "en:word:50dc7fe73bbfac9a",
+    "lang": "en",
+    "kind": "word",
+    "text": "book",
+    "reading": "/bʊk/",
+    "partOfSpeech": "verb",
+    "meaningVi": "đặt (phòng, vé)",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:book"
+  },
+  {
+    "id": "en:word:54a0d2b7d916ac19",
+    "lang": "en",
+    "kind": "word",
+    "text": "check in",
+    "reading": "/ˌtʃek ˈɪn/",
+    "partOfSpeech": "verb",
+    "meaningVi": "làm thủ tục nhận phòng / lên máy bay",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:check in"
+  },
+  {
+    "id": "en:word:4f930b79b2dd895b",
+    "lang": "en",
+    "kind": "word",
+    "text": "station",
+    "reading": "/ˈsteɪʃn/",
+    "partOfSpeech": "noun",
+    "meaningVi": "nhà ga",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:station"
+  },
+  {
+    "id": "en:word:8da2443f9821ae50",
+    "lang": "en",
+    "kind": "word",
+    "text": "map",
+    "reading": "/mæp/",
+    "partOfSpeech": "noun",
+    "meaningVi": "bản đồ",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:map"
+  },
+  {
+    "id": "en:word:9d3756cc42550206",
+    "lang": "en",
+    "kind": "word",
+    "text": "left",
+    "reading": "/left/",
+    "partOfSpeech": "adv",
+    "meaningVi": "bên trái",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:left"
+  },
+  {
+    "id": "en:word:2483e3f58f52a5d9",
+    "lang": "en",
+    "kind": "word",
+    "text": "right",
+    "reading": "/raɪt/",
+    "partOfSpeech": "adv",
+    "meaningVi": "bên phải",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:right"
+  },
+  {
+    "id": "en:word:8e18bea6b7f1456b",
+    "lang": "en",
+    "kind": "word",
+    "text": "straight",
+    "reading": "/streɪt/",
+    "partOfSpeech": "adv",
+    "meaningVi": "thẳng",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:straight"
+  },
+  {
+    "id": "en:word:e251ec71590e8bd0",
+    "lang": "en",
+    "kind": "word",
+    "text": "far",
+    "reading": "/fɑː/",
+    "partOfSpeech": "adj",
+    "meaningVi": "xa",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:far"
+  },
+  {
+    "id": "en:word:460251688ada84e6",
+    "lang": "en",
+    "kind": "word",
+    "text": "late",
+    "reading": "/leɪt/",
+    "partOfSpeech": "adj",
+    "meaningVi": "muộn, trễ",
+    "level": "A2",
+    "topics": [
+      "travel"
+    ],
+    "source": "wiktionary:late"
+  }
+]

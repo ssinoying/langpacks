@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "common.schema.json",
+  "title": "Shared definitions",
+  "$defs": {
+    "id": {
+      "description": "Stable id = hash of lang + kind + normalized key (see AUTHORING.md once written).",
+      "type": "string",
+      "pattern": "^[a-z]{2}(-hans|-hant)?:[a-z]+:[0-9a-f]{16}$"
+    },
+    "lang": { "enum": ["en", "de", "zh-hans", "zh-hant", "ja", "ko"] },
+    "framework": { "enum": ["CEFR", "HSK", "JLPT", "TOPIK"] },
+    "level": {
+      "description": "Level code inside its framework.",
+      "enum": ["A1", "A2", "B1", "B2", "C1", "C2",
+               "HSK1", "HSK2", "HSK3", "HSK4", "HSK5", "HSK6", "HSK7", "HSK8", "HSK9",
+               "N5", "N4", "N3", "N2", "N1",
+               "TOPIK1", "TOPIK2", "TOPIK3", "TOPIK4", "TOPIK5", "TOPIK6"]
+    },
+    "packId": { "type": "string", "pattern": "^[a-z]{2}(-hans|-hant)?-[A-Za-z0-9-]+$" }
+  }
+}

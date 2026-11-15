@@ -1,0 +1,574 @@
+[
+  {
+    "id": "en:character:99f6ce0d449b254b",
+    "lang": "en",
+    "kind": "character",
+    "text": "iː",
+    "reading": "/iː/",
+    "meaningVi": "âm /iː/ như trong \"see\" /siː/",
+    "explanationVi": "Như \"i\" tiếng Việt nhưng kéo dài, môi bành sang hai bên.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:e6243df36ad8e48a",
+    "lang": "en",
+    "kind": "character",
+    "text": "ɪ",
+    "reading": "/ɪ/",
+    "meaningVi": "âm /ɪ/ như trong \"sit\" /sɪt/",
+    "explanationVi": "\"i\" ngắn và lỏng, hơi ngả về \"ê\". Không kéo dài như /iː/.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:120349c77ae4051a",
+    "lang": "en",
+    "kind": "character",
+    "text": "e",
+    "reading": "/e/",
+    "meaningVi": "âm /e/ như trong \"bed\" /bed/",
+    "explanationVi": "Gần \"e\" tiếng Việt nhưng miệng mở ít hơn một chút.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:9640ecf1ce787783",
+    "lang": "en",
+    "kind": "character",
+    "text": "æ",
+    "reading": "/æ/",
+    "meaningVi": "âm /æ/ như trong \"cat\" /kæt/",
+    "explanationVi": "Giữa \"e\" và \"a\": mở miệng rộng như nói \"a\" nhưng lưỡi đặt như nói \"e\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:a986c70adc559529",
+    "lang": "en",
+    "kind": "character",
+    "text": "ɑː",
+    "reading": "/ɑː/",
+    "meaningVi": "âm /ɑː/ như trong \"car\" /kɑːr/",
+    "explanationVi": "\"a\" dài, miệng mở rộng, lưỡi hạ thấp về sau.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:9c9a91710eccfbe9",
+    "lang": "en",
+    "kind": "character",
+    "text": "ɒ",
+    "reading": "/ɒ/",
+    "meaningVi": "âm /ɒ/ như trong \"hot\" /hɒt/",
+    "explanationVi": "Giọng Anh: \"o\" ngắn, tròn môi. Giọng Mỹ thường đọc thành /ɑː/.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:fb0aa776e6bd132f",
+    "lang": "en",
+    "kind": "character",
+    "text": "ɔː",
+    "reading": "/ɔː/",
+    "meaningVi": "âm /ɔː/ như trong \"door\" /dɔːr/",
+    "explanationVi": "Như \"o\" tiếng Việt kéo dài, tròn môi.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:ee216a6645897196",
+    "lang": "en",
+    "kind": "character",
+    "text": "ʊ",
+    "reading": "/ʊ/",
+    "meaningVi": "âm /ʊ/ như trong \"book\" /bʊk/",
+    "explanationVi": "\"u\" ngắn, môi tròn nhẹ, không kéo dài.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:3243c3580268dca5",
+    "lang": "en",
+    "kind": "character",
+    "text": "uː",
+    "reading": "/uː/",
+    "meaningVi": "âm /uː/ như trong \"food\" /fuːd/",
+    "explanationVi": "\"u\" dài, môi tròn và chu ra.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:5a8ec30743a10734",
+    "lang": "en",
+    "kind": "character",
+    "text": "ʌ",
+    "reading": "/ʌ/",
+    "meaningVi": "âm /ʌ/ như trong \"cup\" /kʌp/",
+    "explanationVi": "Gần \"ă\" tiếng Việt, ngắn và gọn.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:9039aae5500250bc",
+    "lang": "en",
+    "kind": "character",
+    "text": "ɜː",
+    "reading": "/ɜː/",
+    "meaningVi": "âm /ɜː/ như trong \"bird\" /bɜːrd/",
+    "explanationVi": "Gần \"ơ\" kéo dài. Giọng Mỹ cong lưỡi thêm âm r.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:f13e720ef01c2c5d",
+    "lang": "en",
+    "kind": "character",
+    "text": "ə",
+    "reading": "/ə/",
+    "meaningVi": "âm /ə/ như trong \"about\" /əˈbaʊt/",
+    "explanationVi": "Âm \"ơ\" rất nhẹ, ngắn, không nhấn. Là âm hay gặp nhất trong tiếng Anh.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:f4ee0e78d1af40d0",
+    "lang": "en",
+    "kind": "character",
+    "text": "eɪ",
+    "reading": "/eɪ/",
+    "meaningVi": "âm /eɪ/ như trong \"day\" /deɪ/",
+    "explanationVi": "Trượt từ \"ê\" sang \"i\", như \"ây\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:2396646a3b55a412",
+    "lang": "en",
+    "kind": "character",
+    "text": "aɪ",
+    "reading": "/aɪ/",
+    "meaningVi": "âm /aɪ/ như trong \"my\" /maɪ/",
+    "explanationVi": "Trượt từ \"a\" sang \"i\", như \"ai\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:9e6459eb59b8239b",
+    "lang": "en",
+    "kind": "character",
+    "text": "ɔɪ",
+    "reading": "/ɔɪ/",
+    "meaningVi": "âm /ɔɪ/ như trong \"boy\" /bɔɪ/",
+    "explanationVi": "Trượt từ \"o\" sang \"i\", như \"oi\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:1fcff0cb94f784db",
+    "lang": "en",
+    "kind": "character",
+    "text": "aʊ",
+    "reading": "/aʊ/",
+    "meaningVi": "âm /aʊ/ như trong \"now\" /naʊ/",
+    "explanationVi": "Trượt từ \"a\" sang \"u\", như \"ao\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:1b9226af2f63bd1c",
+    "lang": "en",
+    "kind": "character",
+    "text": "əʊ",
+    "reading": "/əʊ/",
+    "meaningVi": "âm /əʊ/ như trong \"go\" /ɡəʊ/",
+    "explanationVi": "Giọng Anh: từ \"ơ\" sang \"u\". Giọng Mỹ đọc /oʊ/, như \"âu\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:e5619e90b767cae6",
+    "lang": "en",
+    "kind": "character",
+    "text": "ɪə",
+    "reading": "/ɪə/",
+    "meaningVi": "âm /ɪə/ như trong \"near\" /nɪə/",
+    "explanationVi": "Giọng Anh: từ \"i\" sang \"ơ\", như \"ia\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:c72173c7781bd8f6",
+    "lang": "en",
+    "kind": "character",
+    "text": "eə",
+    "reading": "/eə/",
+    "meaningVi": "âm /eə/ như trong \"hair\" /heə/",
+    "explanationVi": "Giọng Anh: từ \"e\" sang \"ơ\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:7ec8cad3c18e2f9b",
+    "lang": "en",
+    "kind": "character",
+    "text": "ʊə",
+    "reading": "/ʊə/",
+    "meaningVi": "âm /ʊə/ như trong \"tour\" /tʊə/",
+    "explanationVi": "Giọng Anh: từ \"u\" sang \"ơ\", như \"ua\". Ngày càng ít dùng.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:a511a2d380a97869",
+    "lang": "en",
+    "kind": "character",
+    "text": "p",
+    "reading": "/p/",
+    "meaningVi": "âm /p/ như trong \"pen\" /pen/",
+    "explanationVi": "Như \"p\" nhưng bật hơi mạnh ở đầu từ. Cuối từ vẫn phải nghe thấy.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:6e721cdfc5788582",
+    "lang": "en",
+    "kind": "character",
+    "text": "b",
+    "reading": "/b/",
+    "meaningVi": "âm /b/ như trong \"bag\" /bæɡ/",
+    "explanationVi": "Như \"b\" tiếng Việt, nhưng cuối từ vẫn phải phát ra.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:af6734fb612f8e0d",
+    "lang": "en",
+    "kind": "character",
+    "text": "t",
+    "reading": "/t/",
+    "meaningVi": "âm /t/ như trong \"ten\" /ten/",
+    "explanationVi": "Như \"th\" tiếng Việt khi đứng đầu từ (bật hơi). Cuối từ phải bật nhẹ, không nuốt.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:21d91d9e7466550a",
+    "lang": "en",
+    "kind": "character",
+    "text": "d",
+    "reading": "/d/",
+    "meaningVi": "âm /d/ như trong \"dog\" /dɒɡ/",
+    "explanationVi": "Đầu lưỡi chạm lợi trên, không phải \"đ\" tiếng Việt.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:b98249d6ab744c73",
+    "lang": "en",
+    "kind": "character",
+    "text": "k",
+    "reading": "/k/",
+    "meaningVi": "âm /k/ như trong \"key\" /kiː/",
+    "explanationVi": "Như \"kh\" nhẹ khi đứng đầu từ (bật hơi). Cuối từ phải bật nhẹ.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:e91014104afeed1f",
+    "lang": "en",
+    "kind": "character",
+    "text": "ɡ",
+    "reading": "/ɡ/",
+    "meaningVi": "âm /ɡ/ như trong \"get\" /ɡet/",
+    "explanationVi": "Như \"g\" tiếng Việt, cuối từ vẫn phải phát ra.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:85d6e030c77c761f",
+    "lang": "en",
+    "kind": "character",
+    "text": "f",
+    "reading": "/f/",
+    "meaningVi": "âm /f/ như trong \"fish\" /fɪʃ/",
+    "explanationVi": "Như \"ph\" tiếng Việt. Cuối từ vẫn phải nghe thấy.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:503c2e8fed05f5c4",
+    "lang": "en",
+    "kind": "character",
+    "text": "v",
+    "reading": "/v/",
+    "meaningVi": "âm /v/ như trong \"very\" /ˈveri/",
+    "explanationVi": "Như \"v\" tiếng Việt: răng trên chạm môi dưới.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:747f51bf2b35be93",
+    "lang": "en",
+    "kind": "character",
+    "text": "θ",
+    "reading": "/θ/",
+    "meaningVi": "âm /θ/ như trong \"think\" /θɪŋk/",
+    "explanationVi": "Không có trong tiếng Việt: đặt đầu lưỡi giữa hai hàm răng rồi thổi hơi. Không phải \"th\" hay \"s\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:2438a755628a10f4",
+    "lang": "en",
+    "kind": "character",
+    "text": "ð",
+    "reading": "/ð/",
+    "meaningVi": "âm /ð/ như trong \"this\" /ðɪs/",
+    "explanationVi": "Như /θ/ nhưng rung dây thanh. Không phải \"d\" hay \"đ\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:fb77c3930a69bd24",
+    "lang": "en",
+    "kind": "character",
+    "text": "s",
+    "reading": "/s/",
+    "meaningVi": "âm /s/ như trong \"sun\" /sʌn/",
+    "explanationVi": "Như \"x\" tiếng Việt. Cuối từ phải giữ âm xì, đây là lỗi hay gặp.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:33b2262fc5d1210c",
+    "lang": "en",
+    "kind": "character",
+    "text": "z",
+    "reading": "/z/",
+    "meaningVi": "âm /z/ như trong \"zoo\" /zuː/",
+    "explanationVi": "Như \"d\" giọng Bắc (\"da\"), rung dây thanh.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:ee77ed43b9c62999",
+    "lang": "en",
+    "kind": "character",
+    "text": "ʃ",
+    "reading": "/ʃ/",
+    "meaningVi": "âm /ʃ/ như trong \"she\" /ʃiː/",
+    "explanationVi": "Như \"s\" giọng Nam (\"sẽ\"), môi hơi chu ra.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:ee2263709e76ccc9",
+    "lang": "en",
+    "kind": "character",
+    "text": "ʒ",
+    "reading": "/ʒ/",
+    "meaningVi": "âm /ʒ/ như trong \"vision\" /ˈvɪʒn/",
+    "explanationVi": "Như /ʃ/ nhưng rung dây thanh. Hiếm gặp.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:079d33339094a841",
+    "lang": "en",
+    "kind": "character",
+    "text": "h",
+    "reading": "/h/",
+    "meaningVi": "âm /h/ như trong \"hat\" /hæt/",
+    "explanationVi": "Như \"h\" tiếng Việt.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:6ea87b6d9200fb61",
+    "lang": "en",
+    "kind": "character",
+    "text": "tʃ",
+    "reading": "/tʃ/",
+    "meaningVi": "âm /tʃ/ như trong \"chair\" /tʃeə/",
+    "explanationVi": "Như \"ch\" nhưng môi chu ra và bật mạnh hơn.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:a6e52293b173ad46",
+    "lang": "en",
+    "kind": "character",
+    "text": "dʒ",
+    "reading": "/dʒ/",
+    "meaningVi": "âm /dʒ/ như trong \"job\" /dʒɒb/",
+    "explanationVi": "Như /tʃ/ nhưng rung dây thanh, gần \"gi\" đọc mạnh.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:161e6fbc7f0ecd9c",
+    "lang": "en",
+    "kind": "character",
+    "text": "m",
+    "reading": "/m/",
+    "meaningVi": "âm /m/ như trong \"man\" /mæn/",
+    "explanationVi": "Như \"m\" tiếng Việt.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:810e3b1040eec2d9",
+    "lang": "en",
+    "kind": "character",
+    "text": "n",
+    "reading": "/n/",
+    "meaningVi": "âm /n/ như trong \"no\" /nəʊ/",
+    "explanationVi": "Như \"n\" tiếng Việt.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:7c3973ef9e108d57",
+    "lang": "en",
+    "kind": "character",
+    "text": "ŋ",
+    "reading": "/ŋ/",
+    "meaningVi": "âm /ŋ/ như trong \"sing\" /sɪŋ/",
+    "explanationVi": "Như \"ng\" tiếng Việt, nhưng có thể đứng giữa và cuối từ.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:9428f94d63ac197a",
+    "lang": "en",
+    "kind": "character",
+    "text": "l",
+    "reading": "/l/",
+    "meaningVi": "âm /l/ như trong \"leg\" /leɡ/",
+    "explanationVi": "Đầu từ như \"l\" tiếng Việt. Cuối từ (\"feel\") cong lưỡi về sau, không bỏ đi.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:5b45e322e172946d",
+    "lang": "en",
+    "kind": "character",
+    "text": "r",
+    "reading": "/r/",
+    "meaningVi": "âm /r/ như trong \"red\" /red/",
+    "explanationVi": "Cong lưỡi về sau, không chạm vòm miệng, không rung như \"r\" tiếng Việt.",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:7ab5f4e1b44c94cb",
+    "lang": "en",
+    "kind": "character",
+    "text": "j",
+    "reading": "/j/",
+    "meaningVi": "âm /j/ như trong \"yes\" /jes/",
+    "explanationVi": "Như \"d\" giọng Nam (\"dạ\"), hay \"y\" trong \"yêu\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  },
+  {
+    "id": "en:character:af357c0ffb464f75",
+    "lang": "en",
+    "kind": "character",
+    "text": "w",
+    "reading": "/w/",
+    "meaningVi": "âm /w/ như trong \"we\" /wiː/",
+    "explanationVi": "Tròn môi như \"u\" rồi mở nhanh, như \"qu\" trong \"quê\".",
+    "level": "A1",
+    "topics": [
+      "ipa"
+    ]
+  }
+]

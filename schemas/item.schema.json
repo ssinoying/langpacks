@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "item.schema.json",
+  "title": "Item",
+  "description": "One learnable unit: word, sentence, grammar point, slang entry or character.",
+  "type": "object",
+  "required": ["id", "lang", "kind", "text", "level"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "$ref": "common.schema.json#/$defs/id" },
+    "lang": { "$ref": "common.schema.json#/$defs/lang" },
+    "kind": { "enum": ["word", "sentence", "grammar", "slang", "character"] },
+    "text": { "type": "string", "minLength": 1 },
+    "reading": { "description": "IPA, pinyin with tones, kana or romanization.", "type": "string" },
+    "partOfSpeech": { "type": "string" },
+    "meaningVi": { "type": "string" },
+    "explanationVi": { "description": "Short Vietnamese explanation written by Claude.", "type": "string" },
+    "hanViet": { "description": "Sino-Vietnamese reading for zh/ja/ko.", "type": "string" },
+    "level": { "$ref": "common.schema.json#/$defs/level" },
+    "frequencyRank": { "type": "integer", "minimum": 1 },
+    "register": { "enum": ["formal", "neutral", "casual", "slang", "vulgar"] },
+    "status": { "description": "Slang freshness note.", "enum": ["current", "trending", "dated"] },
+    "topics": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "source": { "description": "Upstream dictionary entry, e.g. wiktionary:run.", "type": "string" }
+  }
+}

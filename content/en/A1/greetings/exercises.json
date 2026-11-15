@@ -1,0 +1,252 @@
+[
+  {
+    "id": "en:exercise:d6a39e773f42f207",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "Good ___! (chào buổi sáng)",
+    "answers": [
+      "morning"
+    ],
+    "itemIds": [
+      "en:word:0920ee3cbb5c936e"
+    ]
+  },
+  {
+    "id": "en:exercise:7613bda0c4e2f6ff",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "Nice to ___ you.",
+    "answers": [
+      "meet"
+    ],
+    "itemIds": [
+      "en:word:cbc0d0951f830931",
+      "en:sentence:35aece56ba4130a7"
+    ]
+  },
+  {
+    "id": "en:exercise:044a383391f47fce",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "I ___ from Vietnam.",
+    "answers": [
+      "am",
+      "'m"
+    ],
+    "explanationVi": "Đi với I dùng am.",
+    "itemIds": [
+      "en:grammar:15db379789ba01e3"
+    ]
+  },
+  {
+    "id": "en:exercise:785eec55e670c6a1",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "She ___ my friend.",
+    "answers": [
+      "is",
+      "'s"
+    ],
+    "explanationVi": "Đi với she dùng is.",
+    "itemIds": [
+      "en:grammar:15db379789ba01e3"
+    ]
+  },
+  {
+    "id": "en:exercise:b2ac3b2b620eaa6e",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "What is ___ name? (tên của bạn)",
+    "answers": [
+      "your"
+    ],
+    "itemIds": [
+      "en:grammar:28c763c0e0a3524f"
+    ]
+  },
+  {
+    "id": "en:exercise:efd2c4e816e3bab7",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "from / are / where / you",
+    "answers": [
+      "Where are you from?"
+    ],
+    "explanationVi": "Từ để hỏi lên đầu, rồi đến are, rồi you.",
+    "itemIds": [
+      "en:grammar:feb16a8c21fde65e"
+    ]
+  },
+  {
+    "id": "en:exercise:262bb740d7b4d002",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "sentence",
+    "level": "A1",
+    "prompt": "name / my / Lan / is",
+    "answers": [
+      "My name is Lan."
+    ],
+    "itemIds": [
+      "en:grammar:28c763c0e0a3524f"
+    ]
+  },
+  {
+    "id": "en:exercise:139e3c4fb7f546a4",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Rất vui được gặp bạn.",
+    "answers": [
+      "Nice to meet you.",
+      "Nice to meet you too.",
+      "Pleased to meet you.",
+      "It's nice to meet you."
+    ],
+    "itemIds": [
+      "en:sentence:35aece56ba4130a7"
+    ]
+  },
+  {
+    "id": "en:exercise:4dd4c678c82243e5",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi khoẻ, cảm ơn bạn.",
+    "answers": [
+      "I'm fine, thank you.",
+      "I am fine, thank you.",
+      "I'm fine, thanks.",
+      "I am fine, thanks."
+    ],
+    "itemIds": [
+      "en:sentence:1e77b4026444470b"
+    ]
+  },
+  {
+    "id": "en:exercise:de177af9b5c974f2",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Where are you from?",
+    "answers": [
+      "Where are you from?"
+    ],
+    "itemIds": [
+      "en:sentence:2d062dbfb0f5447d"
+    ]
+  },
+  {
+    "id": "en:exercise:438f0fb6e0b9204a",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "This is my friend, Nam.",
+    "answers": [
+      "This is my friend, Nam."
+    ],
+    "itemIds": [
+      "en:sentence:804f36b3489e36ad"
+    ]
+  },
+  {
+    "id": "en:exercise:e629ecda966b204f",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Hello, my name is Lan.",
+    "answers": [
+      "Hello, my name is Lan."
+    ],
+    "itemIds": [
+      "en:sentence:5a31e561baa75805"
+    ]
+  },
+  {
+    "id": "en:exercise:368fa4c19c72390a",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Nice to meet you.",
+    "answers": [
+      "Nice to meet you."
+    ],
+    "itemIds": [
+      "en:sentence:35aece56ba4130a7"
+    ]
+  },
+  {
+    "id": "en:exercise:ced4813e01c841c2",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Hi! My name is Anna. I'm from London. This is my friend, Tom. He is from New York.\n\nTom đến từ đâu?",
+    "choices": [
+      "London",
+      "New York",
+      "Vietnam"
+    ],
+    "answers": [
+      "New York"
+    ]
+  },
+  {
+    "id": "en:exercise:bf6819e1f756b3b3",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn gặp lại một người bạn thân. Câu nào tự nhiên nhất?",
+    "choices": [
+      "Good evening, sir.",
+      "Hey! What's up?",
+      "How do you do?"
+    ],
+    "answers": [
+      "Hey! What's up?"
+    ],
+    "explanationVi": "Với bạn thân, Hey! What's up? tự nhiên. Hai câu kia quá trang trọng.",
+    "itemIds": [
+      "en:slang:5e35b024c85678f4"
+    ]
+  },
+  {
+    "id": "en:exercise:a92ffdef8017e72c",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn bè hỏi \"What's up?\". Trả lời nào tự nhiên?",
+    "choices": [
+      "I'm fine, thank you.",
+      "Not much. You?",
+      "Yes, it is."
+    ],
+    "answers": [
+      "Not much. You?"
+    ],
+    "explanationVi": "What's up? không phải hỏi thăm sức khoẻ, nên trả lời Not much.",
+    "itemIds": [
+      "en:slang:5e35b024c85678f4"
+    ]
+  }
+]

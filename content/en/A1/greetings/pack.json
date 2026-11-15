@@ -1,0 +1,29 @@
+{
+  "id": "en-A1-greetings",
+  "lang": "en",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "greetings",
+  "title": "Chào hỏi và giới thiệu",
+  "requires": [
+    "en-ipa"
+  ],
+  "itemIds": [
+    "en:word:368d1fa9c967ce9b",
+    "en:word:87a513a9cb3758cb",
+    "en:word:d6439772a7dd0a6e",
+    "en:word:d9a786fa4b294f9f",
+    "en:word:0920ee3cbb5c936e",
+    "en:word:732fc65a25806889",
+    "en:word:e9a71a15e72c8a8b",
+    "en:word:0f4d820aa41a65d0",
+    "en:word:cbc0d0951f830931",
+    "en:word:703c276f963ed066",
+    "en:word:7dcbb62e48dee3e6",
+    "en:word:230140bc83391595",
+    "en:word:d08e1d541a7723e2",
+    "en:word:3acc41c2273b091f",
+    "en:word:887e72315158ddab",
+    "en:word:cd0815d182d0b08a"
+  ]
+}

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "en:exercise:be58b22877603080",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A2",
+    "prompt": "Can I see your ___, please? (hộ chiếu)",
+    "answers": [
+      "passport"
+    ],
+    "itemIds": [
+      "en:word:8a9172e3aab41291"
+    ]
+  },
+  {
+    "id": "en:exercise:593d96c5077f8a95",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A2",
+    "prompt": "My ___ is delayed. (chuyến bay)",
+    "answers": [
+      "flight"
+    ],
+    "itemIds": [
+      "en:word:1eadf5eec4b688a8"
+    ]
+  },
+  {
+    "id": "en:exercise:5c65492a6c0c58a7",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A2",
+    "prompt": "I'd like ___ book a room.",
+    "answers": [
+      "to"
+    ],
+    "explanationVi": "I'd like + to + động từ.",
+    "itemIds": [
+      "en:grammar:8087320216379d56"
+    ]
+  },
+  {
+    "id": "en:exercise:21328252fd7b28f8",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A2",
+    "prompt": "We ___ at a small hotel last week. (stay)",
+    "answers": [
+      "stayed"
+    ],
+    "explanationVi": "Có last week nên dùng quá khứ: stay → stayed.",
+    "itemIds": [
+      "en:grammar:68aa981c5dd1853d"
+    ]
+  },
+  {
+    "id": "en:exercise:cef19dbabedaeeb5",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A2",
+    "prompt": "The train ___ late yesterday.",
+    "answers": [
+      "was"
+    ],
+    "itemIds": [
+      "en:grammar:68aa981c5dd1853d"
+    ]
+  },
+  {
+    "id": "en:exercise:25884621db94ed10",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A2",
+    "prompt": "left / and / turn / straight / go",
+    "answers": [
+      "Go straight and turn left."
+    ],
+    "itemIds": [
+      "en:grammar:62a84653a19e29d3"
+    ]
+  },
+  {
+    "id": "en:exercise:72876ca1572a1466",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "sentence",
+    "level": "A2",
+    "prompt": "you / me / could / show / on the map",
+    "answers": [
+      "Could you show me on the map?"
+    ],
+    "itemIds": [
+      "en:grammar:8087320216379d56"
+    ]
+  },
+  {
+    "id": "en:exercise:d8341f9050d629a8",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A2",
+    "prompt": "Tôi muốn đặt một phòng cho hai đêm.",
+    "answers": [
+      "I'd like to book a room for two nights.",
+      "I would like to book a room for two nights.",
+      "I want to book a room for two nights."
+    ],
+    "itemIds": [
+      "en:sentence:c7e7782dcf5f7a75"
+    ]
+  },
+  {
+    "id": "en:exercise:71570daf62fef42d",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A2",
+    "prompt": "Chỗ đó có xa đây không?",
+    "answers": [
+      "Is it far from here?",
+      "Is it far?"
+    ],
+    "itemIds": [
+      "en:sentence:749ce8e82b3b5aa3"
+    ]
+  },
+  {
+    "id": "en:exercise:511d6aa6b61e965a",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A2",
+    "prompt": "Go straight and turn left.",
+    "answers": [
+      "Go straight and turn left."
+    ],
+    "itemIds": [
+      "en:sentence:6326ad92cd6f1c63"
+    ]
+  },
+  {
+    "id": "en:exercise:b7b7db788f60995c",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A2",
+    "prompt": "I have a reservation under the name Tran.",
+    "answers": [
+      "I have a reservation under the name Tran."
+    ],
+    "itemIds": [
+      "en:sentence:eb957763126d929c"
+    ]
+  },
+  {
+    "id": "en:exercise:84bb6f8bcaa33c6e",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A2",
+    "prompt": "How do I get to the station?",
+    "answers": [
+      "How do I get to the station?"
+    ],
+    "itemIds": [
+      "en:sentence:5a73ddfafd4b6c06"
+    ]
+  },
+  {
+    "id": "en:exercise:297e5274a4680d75",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A2",
+    "prompt": "A one-way ticket to London, please.",
+    "answers": [
+      "A one-way ticket to London, please."
+    ],
+    "itemIds": [
+      "en:sentence:48939f0288e09b71"
+    ]
+  },
+  {
+    "id": "en:exercise:1824026d422f6756",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A2",
+    "prompt": "Last summer, Mai flew to London. Her flight was late, so she arrived at the hotel at midnight. The next day she took the train to Oxford.\n\nVì sao Mai đến khách sạn lúc nửa đêm?",
+    "choices": [
+      "Her flight was late.",
+      "She lost her passport.",
+      "The hotel was far."
+    ],
+    "answers": [
+      "Her flight was late."
+    ]
+  },
+  {
+    "id": "en:exercise:905a24c122292e23",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A2",
+    "prompt": "Nói với bạn bè rằng bạn sẽ bắt taxi. Câu nào tự nhiên nhất?",
+    "choices": [
+      "I shall take a taxicab.",
+      "I'm gonna grab a cab.",
+      "Taxi I go."
+    ],
+    "answers": [
+      "I'm gonna grab a cab."
+    ],
+    "itemIds": [
+      "en:slang:93b01bf541271b32"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "stroke.schema.json",
+  "title": "Stroke",
+  "description": "Stroke order for one character (KanjiVG / Make Me a Hanzi / AnimCJK / hand-built Hangul).",
+  "type": "object",
+  "required": ["character", "lang", "strokes"],
+  "additionalProperties": false,
+  "properties": {
+    "character": { "type": "string", "minLength": 1, "maxLength": 2 },
+    "lang": { "$ref": "common.schema.json#/$defs/lang" },
+    "strokes": {
+      "description": "Strokes in writing order.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["path", "median"],
+        "additionalProperties": false,
+        "properties": {
+          "path": { "description": "SVG path of the stroke outline.", "type": "string" },
+          "median": {
+            "description": "Center line points [x, y] in drawing direction, used for grading.",
+            "type": "array", "minItems": 2,
+            "items": { "type": "array", "prefixItems": [{ "type": "number" }, { "type": "number" }], "minItems": 2, "maxItems": 2 }
+          }
+        }
+      }
+    },
+    "source": { "type": "string" }
+  }
+}

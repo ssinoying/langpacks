@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-15",
+  "packs": [
+    {
+      "id": "en-A1-greetings",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "greetings",
+      "title": "Chào hỏi và giới thiệu",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 9675,
+      "sha256": "079c36bca8b688129e0165a60370357aae0771e795832caba3b8913b5fad7c18",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-greetings-v1/en-A1-greetings-v1.zip"
+    },
+    {
+      "id": "en-A2-travel",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A2",
+      "topic": "travel",
+      "title": "Du lịch: sân bay, khách sạn, hỏi đường",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 10211,
+      "sha256": "6fad1f30c3a3d02d09822d8187b3f909eed339feb6f7fce9519c1e98dccce61e",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A2-travel-v1/en-A2-travel-v1.zip"
+    },
+    {
+      "id": "en-ipa",
+      "lang": "en",
+      "topic": "ipa",
+      "title": "Phát âm IPA tiếng Anh",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 13462,
+      "sha256": "b1f105ef4ec57f731e712edd44db273556bff917a2e9be0dbe208ffde6fda8eb",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-ipa-v1/en-ipa-v1.zip"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "en:dialogue:598f05172f401a83",
+    "lang": "en",
+    "level": "A2",
+    "title": "Nhận phòng khách sạn",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Receptionist",
+        "text": "Good evening. How can I help you?",
+        "translationVi": "Chào buổi tối. Tôi giúp gì được cho anh chị?",
+        "options": [
+          {
+            "answers": [
+              "I have a reservation under the name Tran.",
+              "I have a reservation.",
+              "Hi, I have a booking under Tran."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "I'd like to book a room.",
+              "Do you have a room for tonight?"
+            ],
+            "next": "nobook"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Receptionist",
+        "text": "Thank you. Can I see your passport, please?",
+        "translationVi": "Cảm ơn. Cho tôi xem hộ chiếu được không?",
+        "options": [
+          {
+            "answers": [
+              "Sure, here you are.",
+              "Here it is.",
+              "Yes, here you go."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "nobook": {
+        "speaker": "Receptionist",
+        "text": "Sure. For how many nights?",
+        "translationVi": "Vâng. Anh chị ở mấy đêm?",
+        "options": [
+          {
+            "answers": [
+              "Two nights, please.",
+              "For two nights.",
+              "Two nights."
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Receptionist",
+        "text": "You're in room 305. The lift is on your right. Enjoy your stay!",
+        "translationVi": "Phòng của anh chị là 305. Thang máy ở bên phải. Chúc anh chị nghỉ ngơi vui vẻ!",
+        "options": [
+          {
+            "answers": [
+              "Thank you!",
+              "Thanks a lot.",
+              "Thank you very much."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Receptionist",
+        "text": "You're welcome.",
+        "translationVi": "Không có gì ạ."
+      }
+    }
+  }
+]

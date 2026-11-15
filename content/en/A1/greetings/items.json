@@ -1,0 +1,267 @@
+[
+  {
+    "id": "en:sentence:5a31e561baa75805",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Hello, my name is Lan.",
+    "meaningVi": "Xin chào, tên tôi là Lan.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:0244ce5c64fce66f",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Hi, I'm Minh.",
+    "meaningVi": "Chào, mình là Minh.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:4678b3fd4021b43f",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Good morning!",
+    "meaningVi": "Chào buổi sáng!",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:32cd016d904d706d",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Good afternoon.",
+    "meaningVi": "Chào buổi chiều.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:ed2e352bb566482d",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Good evening.",
+    "meaningVi": "Chào buổi tối.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:001d6e9f9f0b395e",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What's your name?",
+    "meaningVi": "Bạn tên là gì?",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:35aece56ba4130a7",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Nice to meet you.",
+    "meaningVi": "Rất vui được gặp bạn.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:87d1fdd5a98107a9",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "How are you?",
+    "meaningVi": "Bạn có khoẻ không?",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:1e77b4026444470b",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I'm fine, thank you.",
+    "meaningVi": "Tôi khoẻ, cảm ơn bạn.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:2d062dbfb0f5447d",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Where are you from?",
+    "meaningVi": "Bạn đến từ đâu?",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:b4a5dec647fbccc4",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I'm from Vietnam.",
+    "meaningVi": "Tôi đến từ Việt Nam.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:804f36b3489e36ad",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "This is my friend, Nam.",
+    "meaningVi": "Đây là bạn tôi, Nam.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:af3c065d6a4316d9",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Sorry, I don't understand.",
+    "meaningVi": "Xin lỗi, tôi không hiểu.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:50f271225b9db067",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Can you say that again, please?",
+    "meaningVi": "Bạn nói lại được không?",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:b44a8bf73e4f3f94",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Goodbye, see you tomorrow.",
+    "meaningVi": "Tạm biệt, mai gặp lại.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:sentence:4f0f45fb0cf21185",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Bye!",
+    "meaningVi": "Chào nhé!",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:grammar:15db379789ba01e3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "I am / You are / He is (động từ to be)",
+    "explanationVi": "\"to be\" nghĩa là \"là\" hoặc \"thì, ở\". Đi với I dùng am, với you/we/they dùng are, với he/she/it dùng is. Tiếng Việt hay bỏ chữ \"là\" (\"Tôi khoẻ\"), tiếng Anh thì không bỏ được: I am fine, không nói *I fine. Nói nhanh thì viết gọn: I'm, you're, he's.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:grammar:feb16a8c21fde65e",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Câu hỏi What / Where / How",
+    "explanationVi": "Từ để hỏi đứng đầu câu, rồi đến be, rồi chủ ngữ: What is your name? Where are you from? Tiếng Việt để từ hỏi ở cuối (\"Bạn tên là gì?\"), tiếng Anh đưa lên đầu.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:grammar:28c763c0e0a3524f",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Tính từ sở hữu my / your",
+    "explanationVi": "my = của tôi, your = của bạn, đứng TRƯỚC danh từ: my name (tên của tôi). Tiếng Việt để \"của tôi\" phía sau, tiếng Anh đặt phía trước.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:slang:ebc6101b76a8ed64",
+    "lang": "en",
+    "kind": "slang",
+    "text": "Hey!",
+    "meaningVi": "Ê! / Chào!",
+    "explanationVi": "Chào bạn bè, người quen. Không dùng với sếp hay người lạ lớn tuổi.",
+    "level": "A1",
+    "register": "casual",
+    "status": "current",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:slang:5e35b024c85678f4",
+    "lang": "en",
+    "kind": "slang",
+    "text": "What's up?",
+    "meaningVi": "Dạo này sao rồi?",
+    "explanationVi": "Thay cho How are you? giữa bạn bè. Trả lời: Not much. / Nothing much. Không trả lời \"I'm fine\".",
+    "level": "A1",
+    "register": "slang",
+    "status": "current",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:slang:e024d98c806964a4",
+    "lang": "en",
+    "kind": "slang",
+    "text": "See ya!",
+    "meaningVi": "Gặp lại sau nhé!",
+    "explanationVi": "Cách nói nhanh của See you. Tin nhắn hay viết cya.",
+    "level": "A1",
+    "register": "casual",
+    "status": "current",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "en:slang:26083603b5f40718",
+    "lang": "en",
+    "kind": "slang",
+    "text": "Howdy!",
+    "meaningVi": "Chào!",
+    "explanationVi": "Lời chào kiểu miền Nam nước Mỹ, nghe quê hoặc đùa. Ngoài vùng đó ít người dùng thật.",
+    "level": "A1",
+    "register": "casual",
+    "status": "dated",
+    "topics": [
+      "greetings"
+    ]
+  }
+]

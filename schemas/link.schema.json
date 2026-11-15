@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "link.schema.json",
+  "title": "Link",
+  "description": "Directed edge between two items.",
+  "type": "object",
+  "required": ["from", "to", "kind"],
+  "additionalProperties": false,
+  "properties": {
+    "from": { "$ref": "common.schema.json#/$defs/id" },
+    "to": { "$ref": "common.schema.json#/$defs/id" },
+    "kind": { "enum": ["word-sentence", "sentence-grammar", "book-reallife", "related"] }
+  }
+}
