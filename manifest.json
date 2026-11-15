@@ -12,7 +12,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8060,
-      "sha256": "c358efca46b57d2a2d61abdc623657a2f92360d866ac6c5867b8da4b2cca8fbd",
+      "sha256": "0e8716ff26814b8e8d60e8f3d5c3ffaa341607012dbeda5ed1f632918a6365da",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-family-v1/de-A1-family-v1.zip"
     },
@@ -26,7 +26,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8454,
-      "sha256": "a73e55cea97527077a969ed1ac0258030cedf3e9f0e6bb08753099d7a06a6f07",
+      "sha256": "5ebff884bf54e642e6bacf2f07751b740a49d9cfe12362a9f80dd8c4f9baf21d",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-food-v1/de-A1-food-v1.zip"
     },
@@ -54,7 +54,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8426,
-      "sha256": "8d96762a9d314bacb6b318f4ea5ba3e32dd394de66b05a3a0bbdf4d5c0896912",
+      "sha256": "d9dae20754b4cb093b1b7f94edd4b1783da24da8f0e92d2c2a741333e4b21ab0",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-hobbies-v1/de-A1-hobbies-v1.zip"
     },
@@ -67,8 +67,8 @@
       "title": "Nhà cửa",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8081,
-      "sha256": "8a17cb1ff55ad7ed445b67b8fd54d6d3ff73bfbf99eeec9cf7d9e03028a34ce6",
+      "size": 8080,
+      "sha256": "b3ee348cb3de8f7b784831bc6271b37c61b73c69ed427f3de172f2cfd611f9f3",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-home-v1/de-A1-home-v1.zip"
     },
@@ -82,7 +82,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8713,
-      "sha256": "087ebc892bd92a4b2833cf944e93a309c71fa0eb4e85cfd0bc6510330701edd6",
+      "sha256": "53df020a3af22404e3205e835546a151705e8e22f027c4a53e69f7219939cd46",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-numbers-v1/de-A1-numbers-v1.zip"
     },
@@ -96,7 +96,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8256,
-      "sha256": "3a6dfb11f8f2c31b1e5bf5430137a26705cfd032d19094cbadf0b7c7f9d6528e",
+      "sha256": "20eaa59640f8ed3248aae10bce94ce854f52e4f6a86fb2ef9f485e6e846d2c9e",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-school-work-v1/de-A1-school-work-v1.zip"
     },
@@ -110,7 +110,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8076,
-      "sha256": "69a704ccaa01ad122bb09bc9425c2793762196fa411e40f0e9e337ce9c87cd6a",
+      "sha256": "759dd68a38352526f339970aa196fa70ac6f4123dfcd8266af55fb8783799019",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-shopping-v1/de-A1-shopping-v1.zip"
     },
@@ -123,8 +123,8 @@
       "title": "Giờ, ngày, thứ",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8503,
-      "sha256": "e0195e0c1a839901c2ff8650a0d31e9396cc33ca09418b406bb93e4c7b5fc98e",
+      "size": 8502,
+      "sha256": "a1af7a582ee910c90efb9db1e59a2ad717e2759abf78955d4532c5e13f16c690",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-time-v1/de-A1-time-v1.zip"
     },
@@ -138,7 +138,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8027,
-      "sha256": "96d9fc98b4de739d38dc0e45fd12230c01064e7992fe12c9116b93b055a506a6",
+      "sha256": "d8b82f2a2867653cea4d86f3ebe10c33d3442a3ba9189dc8769fb4da02e117bb",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-transport-v1/de-A1-transport-v1.zip"
     },
@@ -152,7 +152,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8232,
-      "sha256": "e2f663d0aea7d819d92b6e46e76176bdeca9578da844bfffe9e613770ad79b3c",
+      "sha256": "0b60f9ef7537a478194319a0a985b7e1b1b7839f2683bbd172459a587fe0c659",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-weather-v1/de-A1-weather-v1.zip"
     },
@@ -166,7 +166,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8562,
-      "sha256": "c549f2d1e14c5dabda9386dc42b582d720a530a1bd18a2403aee454737402ba2",
+      "sha256": "9b2298b228edc23c396e9f485019feed30c04c41f916dba5f7d1e9fd7ffda69b",
       "requires": [
         "en-ipa"
       ],
@@ -181,8 +181,8 @@
       "title": "Ăn uống",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8719,
-      "sha256": "f1bfea26e534d71f2f2241bc7a7724cc53c4c9f4dc442db18cdf3d483e88ea60",
+      "size": 8718,
+      "sha256": "c9a486b9d8084a946a7abbd43b937d70f096d58fa66ab6cf6e860aa4cf97117e",
       "requires": [
         "en-ipa"
       ],
@@ -214,7 +214,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8605,
-      "sha256": "a8ec00151ea113d3f76ae9e379f779466c9f2fde52a34398adf69c0404d4dd84",
+      "sha256": "445e7c62d198b35f5faacec42daeafec9f718619632ce4744e45ebdbfef25310",
       "requires": [
         "en-ipa"
       ],
@@ -230,7 +230,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8482,
-      "sha256": "5e0c90afb893edc81f91f273b8aa80c1bc0ae188f526c0ec1c9dea30bc45e0d0",
+      "sha256": "868e66c3750f8d5e61efb0b33747231b75f7460b61dae2cce0b0c09fbf84b3c1",
       "requires": [
         "en-ipa"
       ],
@@ -245,8 +245,8 @@
       "title": "Số đếm và tuổi",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8619,
-      "sha256": "35c28927a32b4ea1abe2444abdaa3f99812b0492750e6463db941d7a53aac36b",
+      "size": 8618,
+      "sha256": "2e68dac9bc6bba087e18f46d41652c7eaf02b55c5b8e3feedbed5a027fa77349",
       "requires": [
         "en-ipa"
       ],
@@ -261,8 +261,8 @@
       "title": "Trường học và công việc",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8679,
-      "sha256": "6b35d38ce4b2b64119acf0cf0415c3230e210fd83a2fd5a16496c8aa369be944",
+      "size": 8678,
+      "sha256": "57defd85fe55220899bad0ad63954f64b8e27ff39a623d4252c97c1acda86bf5",
       "requires": [
         "en-ipa"
       ],
@@ -278,7 +278,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8898,
-      "sha256": "f924ebc3eaee7964b2e43a29335f5efb6eae29652d2c84303f2891d9d1335689",
+      "sha256": "28f24b581868f6d6a33a3323753882ace6a72ea7636ad43b1a1e3404dcf4757f",
       "requires": [
         "en-ipa"
       ],
@@ -294,7 +294,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8444,
-      "sha256": "3ab5b0890666f94dd3606e787a9b3c3292cd13ccdab9647af71645e38f32dae9",
+      "sha256": "027bb1e754977d85f01b351351ca9d6fd88ad8461b28413548d57e76db22916d",
       "requires": [
         "en-ipa"
       ],
@@ -310,7 +310,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8194,
-      "sha256": "e0fe92e4cf437accc9715dde1385f85493d5406ce5bd8f3262df3733270f99d3",
+      "sha256": "1aad9363dec1a53817f0a122c9077532004922fb5f1e048049c0c0b3baa8b77b",
       "requires": [
         "en-ipa"
       ],
@@ -326,7 +326,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8426,
-      "sha256": "5dea29f30169f2a72ebe6b4593da864c6fe067d13d3b07ee4514db0ac0c6ccc8",
+      "sha256": "bd840b02a321eecf92a3d841c2c0bf7b32ca85ca1b52e9122a1a26050e004d05",
       "requires": [
         "en-ipa"
       ],
@@ -381,8 +381,8 @@
       "title": "Gia đình",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8022,
-      "sha256": "b2a5b0b8039d670eb3b2aff896a46c1fb89db595673b46a739a165ad81320f2b",
+      "size": 8023,
+      "sha256": "7ca9792f34fe27a8b90e051206356747f896c0c0ce3a8cd31bcdfa742525abad",
       "requires": [
         "ja-kana"
       ],
@@ -397,8 +397,8 @@
       "title": "Ăn uống",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8141,
-      "sha256": "4b1bef04cb66f5f21dfbc3773d3dde6c70ce56d60f0af0a3053e7770fde7f27a",
+      "size": 8140,
+      "sha256": "fc02375bc37c1c371af2f90aae24aaa2df999c92ac7d8072bf5904cf60fedf31",
       "requires": [
         "ja-kana"
       ],
@@ -430,7 +430,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8163,
-      "sha256": "b4be81fb3568f7aa14fec6958753460dbdb5b7c08ff521dee0f23c3a1c1ab646",
+      "sha256": "52849aa4807e93bcd6bbb62b86da687841bb4db0da5a1696aa6117cf10911d45",
       "requires": [
         "ja-kana"
       ],
@@ -445,8 +445,8 @@
       "title": "Nhà cửa",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7743,
-      "sha256": "6ad2d50488c995cd9e0caf8914ec5f1ca828522554d22d3b4dce0d4b610b300f",
+      "size": 7744,
+      "sha256": "4a0ec68d2afa5216507f1de879067510696fd949b1fcdab607732d987252cd17",
       "requires": [
         "ja-kana"
       ],
@@ -461,8 +461,8 @@
       "title": "Số đếm và tuổi",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7921,
-      "sha256": "ceacad4987bc1370be7ef1559d84bc606a1f7386518396fd0d7a0cbc4cb03b5f",
+      "size": 7922,
+      "sha256": "29b33c1a294aad9a6a11f3a1967dfb0c93468ebcfb5c084d18b42bdc9d2811b9",
       "requires": [
         "ja-kana"
       ],
@@ -477,8 +477,8 @@
       "title": "Trường học và công việc",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7821,
-      "sha256": "5f8edf9f56bfd41ffa92cf85b7b13e049c6cb32e628d87ae3fa4e19de1add205",
+      "size": 7819,
+      "sha256": "405600652d0a78ea5088038e3b89128b520f7f665017185479a0604b159bf5af",
       "requires": [
         "ja-kana"
       ],
@@ -493,8 +493,8 @@
       "title": "Mua sắm",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7993,
-      "sha256": "057c1abf94eb1536a2f607278f27950f38cd974a0ab02257acbcd0408cf6471b",
+      "size": 7992,
+      "sha256": "7d4bfab0577893d0d2a2e50a0335a1c5f269d8860e9d484dbf1ae5923b283239",
       "requires": [
         "ja-kana"
       ],
@@ -509,8 +509,8 @@
       "title": "Giờ, ngày, thứ",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8011,
-      "sha256": "71651b50a7fbf661a9edac1428203f352065d2b498bd6be98a1306b16b2fc1b6",
+      "size": 8012,
+      "sha256": "05ea3c729cea54c5787d5aee7662332a4f6a26026532a2b8cdacf30c39bb2f6a",
       "requires": [
         "ja-kana"
       ],
@@ -526,7 +526,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8065,
-      "sha256": "e9752ff4f1e412523040991ca35619368ac019dba254c073cbd6077fe87508c6",
+      "sha256": "98196aa932449d46e64c74cdc6ad07f2c8585f0969b4fd718fd640f8e4278615",
       "requires": [
         "ja-kana"
       ],
@@ -541,8 +541,8 @@
       "title": "Thời tiết và mùa",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8033,
-      "sha256": "82fc9a5595729cd5b305d28e1e9c501d09fc2867b357503cec754dd5af48d458",
+      "size": 8034,
+      "sha256": "afed90b37cdd24b99ecb620e6ebf6f195e9bf43f7778bfb34fa0fc7367dccef5",
       "requires": [
         "ja-kana"
       ],
@@ -582,7 +582,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8384,
-      "sha256": "ac7345d890dcd06d3aa8336d01dcae8f2990119f97c4569456aab6e38ff9582d",
+      "sha256": "d759b4c2f31a772bc6056cafae581d05aaa491ed26b1060dc8efefb321bbe4af",
       "requires": [
         "ko-hangul"
       ],
@@ -598,7 +598,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8697,
-      "sha256": "fa59eec2cf6c5a655b6bc6f351dc3c7323eb81476fc4028d8a89898d0420065e",
+      "sha256": "12644ab1e74a74827fb9357795326fcc8246914a13f1b6ae56e2564ee0575a17",
       "requires": [
         "ko-hangul"
       ],
@@ -629,8 +629,8 @@
       "title": "Sở thích",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8252,
-      "sha256": "02edfc32f0b07c4aa783d9497bf52c9f769f616834ac60bed51999102a1e7ee1",
+      "size": 8253,
+      "sha256": "f16810a9f13c1a0e04e8153026133b6117855926138c8db49707c53881277dfe",
       "requires": [
         "ko-hangul"
       ],
@@ -646,7 +646,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8283,
-      "sha256": "17ec6169146466324bf60f8b6850bace6df128017c6d3ab9b091b4ce42d0ba2a",
+      "sha256": "fc4c002c3017eaf655106bc00a28f74f1277de14ae45fe43b84978d4e3d50225",
       "requires": [
         "ko-hangul"
       ],
@@ -662,7 +662,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 7945,
-      "sha256": "de203fb7a030ce14eed02447382d1abd49fdb3eff38dd0111cb2a269fb5a41a0",
+      "sha256": "e202ab509d707e62b0457d3097f77b9f5f61724ab70d2d8de64f3dd393614ad3",
       "requires": [
         "ko-hangul"
       ],
@@ -678,7 +678,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8395,
-      "sha256": "6baa06eeb03ee55dd348b823ca1262dc90523ee292842e5158d82484d62fd66d",
+      "sha256": "e5a3e5dee254c795a46e0ceffae73ed24de15a449510facd1d93eaf108767470",
       "requires": [
         "ko-hangul"
       ],
@@ -694,7 +694,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8195,
-      "sha256": "20fbfe7b80eeab7c6fe4238ec8565e215cb03666ff1ddacce4b18c0c287a2e43",
+      "sha256": "2fa5b8cfa37a9f399d67f06c84651a8a7084a8ac58005f6057b1281d8abe5c99",
       "requires": [
         "ko-hangul"
       ],
@@ -710,7 +710,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8396,
-      "sha256": "3253d940ee763f833b78a95f5ea914831b93b82069415341e023a72649f24927",
+      "sha256": "95711c1b2cc6e4e0a71d4537783ccb8fdb912ae988e68a1bf07531c8d019b267",
       "requires": [
         "ko-hangul"
       ],
@@ -726,7 +726,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8135,
-      "sha256": "852cae4780442a12391ab1f38deacf1cb17e12bd7950cbc84bd5344819c49dcf",
+      "sha256": "c94e4ffc37eb0abd850f3b8b89072c013e0ae4d04e7e9b5188367120c922eebe",
       "requires": [
         "ko-hangul"
       ],
@@ -741,8 +741,8 @@
       "title": "Thời tiết và mùa",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7930,
-      "sha256": "981d03387b77d7ff3de34edbb0179d4ba813bc2c572600e8a3b5534a776e921a",
+      "size": 7933,
+      "sha256": "98a3f096c97f7c944da67f17323468b50355c3a9f0c29de588d8fb5992b3b189",
       "requires": [
         "ko-hangul"
       ],
@@ -769,8 +769,8 @@
       "title": "Gia đình",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7569,
-      "sha256": "cb70689a319db27c4a3266e478f3aa0a2e505d34ca5111c05d508c3436d72ae8",
+      "size": 7568,
+      "sha256": "39be4dde67e2316fce09f560b96747d081c9ea4d9e78bf00e4d841400c341d4c",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-family-v1/zh-hans-HSK1-family-v1.zip"
     },
@@ -784,7 +784,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8137,
-      "sha256": "640f387d98512be0734d28d8e8f08d545c35a7d5b3f3abd13532b4a3f063ca38",
+      "sha256": "f1562f6807044dde79c85af9e2892e78b6d122cd7de262e28a20e530dc75c990",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-food-v1/zh-hans-HSK1-food-v1.zip"
     },
@@ -811,8 +811,8 @@
       "title": "Sở thích",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7657,
-      "sha256": "14127d40a0e6d065fa913d297433896378df00cfea8466f7b92c2c96f9739916",
+      "size": 7653,
+      "sha256": "d83251d89ea68864b264c27bc73a127a1026e944b7f08f1ca3f41a466944cd5b",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-hobbies-v1/zh-hans-HSK1-hobbies-v1.zip"
     },
@@ -825,8 +825,8 @@
       "title": "Nhà cửa",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7678,
-      "sha256": "6936f018bca885826c172d78d2e85992b9706cadc35628358f783473c7d26395",
+      "size": 7679,
+      "sha256": "40dbb5c16e7860d1b2f461e94b4b223afac23497123cfad18ded5adcb694015e",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-home-v1/zh-hans-HSK1-home-v1.zip"
     },
@@ -840,7 +840,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 7703,
-      "sha256": "546b02e66345851f6e3feb31f2f9151e188e0a32c8559177c3070bab4af69488",
+      "sha256": "71da59b986e7f0fec66b3e1533f1e0bb221fae8c78784f7db5f3a21debc0cddb",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-numbers-v1/zh-hans-HSK1-numbers-v1.zip"
     },
@@ -854,7 +854,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 7766,
-      "sha256": "96aed205f73b5c294a5f2a191bc7a2cd84613938868cdb50e9efd7141266527d",
+      "sha256": "8c9ab3e09c7dd7bb84b70c07be59233e47a2cbf44815378926b3e825563f89b5",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-school-work-v1/zh-hans-HSK1-school-work-v1.zip"
     },
@@ -868,7 +868,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8292,
-      "sha256": "a04a80e71e38759173929fc5891cdaec8b0f2aabf9794017ccb64b8712668d95",
+      "sha256": "25286adc6e99e060f0ee2c89c2758c04d82a2cd1b59ff0b989e0bff8c69dc72c",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-shopping-v1/zh-hans-HSK1-shopping-v1.zip"
     },
@@ -881,8 +881,8 @@
       "title": "Giờ, ngày, thứ",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8022,
-      "sha256": "80386521a4b11a74908ffa72510d90b55a8a82af0b295bb18d19201224ae5613",
+      "size": 8021,
+      "sha256": "f3347823fa6e535af237343ae7479e10bcccb485bfd4bcf37e688302aed69966",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-time-v1/zh-hans-HSK1-time-v1.zip"
     },
@@ -895,8 +895,8 @@
       "title": "Đi lại và hỏi đường",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7922,
-      "sha256": "4858c0cc557a65515d912ec30c0c4694edf82c042d80df4aa16d7b596e5bd956",
+      "size": 7920,
+      "sha256": "73859e6684dcbe0d97099ffac00c51c549b95b8cdcf355cf8d386cc06bac4cf4",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-transport-v1/zh-hans-HSK1-transport-v1.zip"
     },
@@ -910,7 +910,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 7867,
-      "sha256": "55017174833d80521a918da555fcdce1054a0dbeb8b9c09fa369548601ce4499",
+      "sha256": "56270daba7e3680fc442a910db7792d7951342b4f03dbf5738cc6203ce6a7306",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-weather-v1/zh-hans-HSK1-weather-v1.zip"
     },
@@ -935,8 +935,8 @@
       "title": "Gia đình",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7574,
-      "sha256": "1cf6eebf3fdaebeba5b97c408443e30b5335588ec666120e19d8ca2505386f44",
+      "size": 7573,
+      "sha256": "2f519620c3aff00eaecc4e361f33a0625bd5eb5cc7c29105057da635f8a801dc",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-family-v1/zh-hant-HSK1-family-v1.zip"
     },
@@ -949,8 +949,8 @@
       "title": "Ăn uống",
       "version": 1,
       "minAppSchema": 1,
-      "size": 8151,
-      "sha256": "ec7484c4cc42d342f68616664f91accbf8a01960ae6698cea2a91fb0ff043708",
+      "size": 8152,
+      "sha256": "ccc42143e308bc6d55edfb4a8ec374f08f57509f54faae6a0797b3c0a07fcdc7",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-food-v1/zh-hant-HSK1-food-v1.zip"
     },
@@ -977,8 +977,8 @@
       "title": "Sở thích",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7641,
-      "sha256": "8cb6e75bf17273a5098c759886ccb42f254a4527b48facc6f6987116e3559e40",
+      "size": 7647,
+      "sha256": "5977a8afd3962f7aeafcf3ef6a56af0aed903d9de4d4765482e3c92b7cecb5e3",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-hobbies-v1/zh-hant-HSK1-hobbies-v1.zip"
     },
@@ -992,7 +992,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 7680,
-      "sha256": "d402d23b35c7df34b40757c380ab5cda5fc53053c5a0935c5962494c9a45dca0",
+      "sha256": "1842276797b95fd96c6c8e5a25ccdd836bb78eb9c9e4469a6597c13705cdad2e",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-home-v1/zh-hant-HSK1-home-v1.zip"
     },
@@ -1005,8 +1005,8 @@
       "title": "Số đếm và tuổi",
       "version": 1,
       "minAppSchema": 1,
-      "size": 7714,
-      "sha256": "ade8ebd399c24f666d97a55d0ddfefd24c1550569214f1d18223ebad71b55ec6",
+      "size": 7715,
+      "sha256": "300632841d81e92a9a96e385f492868058e5adaf269ad0ea03839cd6cdc57e27",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-numbers-v1/zh-hant-HSK1-numbers-v1.zip"
     },
@@ -1020,7 +1020,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 7779,
-      "sha256": "c9a4a46f8147a1e3928fa63c58c65c8028cee28369c84a13d6c663c3fe9d60d2",
+      "sha256": "01e6facb38ff2b45e7f1c7aeb13fcff10e447a5b7b388bfeb3604c6c1e0be379",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-school-work-v1/zh-hant-HSK1-school-work-v1.zip"
     },
@@ -1034,7 +1034,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8307,
-      "sha256": "6feb866a9164664a1b7e6af9530a1d1624bed66655e583938939aad98b85d0ae",
+      "sha256": "47eaf4176817254542315ceb511100079ff31d37c76a68d8d83d776938ddccf7",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-shopping-v1/zh-hant-HSK1-shopping-v1.zip"
     },
@@ -1048,7 +1048,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 8031,
-      "sha256": "563d206ede52303cbb71d2e045ba864d7f4c253743a62a0c47364183149f14fb",
+      "sha256": "3b117d38a78280dfb4ac3dd158171595e34c3f9d74e7e35f5b5047323a534626",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-time-v1/zh-hant-HSK1-time-v1.zip"
     },
@@ -1062,7 +1062,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 7913,
-      "sha256": "066b0b03822390033fd5b8e7d2ba2e3b786b4e64968deffb2acbf52960efacd2",
+      "sha256": "e899bec5e3403a9f91b69712f7b135ac5cb6318dcf2c8a547dad456422fe1e71",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-transport-v1/zh-hant-HSK1-transport-v1.zip"
     },
@@ -1076,7 +1076,7 @@
       "version": 1,
       "minAppSchema": 1,
       "size": 7866,
-      "sha256": "9a332b08a49d77bd18c8d780dcd4a1ab14a7b8a2c1774487c9f0b21e9feb951b",
+      "sha256": "40155a9bd14d20cf95b6b0b834cebde6c8eb7a949c827501e2770c5170572467",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-weather-v1/zh-hant-HSK1-weather-v1.zip"
     }
