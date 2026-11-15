@@ -1,0 +1,23 @@
+{
+  "id": "de-A1-food",
+  "lang": "de",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "food",
+  "title": "Ăn uống",
+  "requires": [],
+  "itemIds": [
+    "de:word:1c9778d30ef21b18",
+    "de:word:148d5f151bd62fcd",
+    "de:word:64dcb400916374dc",
+    "de:word:cd24c67be8d55109",
+    "de:word:bc9deb0005535d4a",
+    "de:word:39282a14c8b68d84",
+    "de:word:73ac6827a9a8fb2a",
+    "de:word:4bbe002cb78379b3",
+    "de:word:2be55cc35a9e3e77",
+    "de:word:34b77b6244d90c6c",
+    "de:word:3c9da08aed6366fd",
+    "de:word:99bd58ac5973477d"
+  ]
+}

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ja:sentence:880b17b9043ff3d3",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "すみません、駅はどこですか。",
+    "meaningVi": "Xin lỗi, nhà ga ở đâu ạ?",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:sentence:cdf4caf97c9a2072",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "まっすぐ行って、二つ目の交差点を右に曲がってください。",
+    "meaningVi": "Đi thẳng, đến ngã tư thứ hai thì rẽ phải.",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:sentence:e837e049092c8e84",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "銀行の角を左に曲がります。",
+    "meaningVi": "Rẽ trái ở góc ngân hàng.",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:sentence:29476aca6835d1cf",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "毎朝、電車で学校へ行きます。",
+    "meaningVi": "Sáng nào tôi cũng đi học bằng tàu điện.",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:sentence:a4554991b4bb6cf7",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "ここから駅まで歩いて十分です。",
+    "meaningVi": "Từ đây đến ga đi bộ mười phút.",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:sentence:7792fe2b813dda18",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "地下鉄に乗りましょう。",
+    "meaningVi": "Mình đi tàu điện ngầm nhé.",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:sentence:31d36c7fe3a3304e",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "このバスは空港へ行きますか。",
+    "meaningVi": "Xe buýt này có đi sân bay không?",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:sentence:666377978b21e268",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "父は自転車で会社に通っています。",
+    "meaningVi": "Bố tôi đi làm bằng xe đạp.",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:sentence:c2fac2612e9b792c",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "駅は遠いですか。",
+    "meaningVi": "Ga có xa không?",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:sentence:d4c9fba32e12c117",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "次の駅で降ります。",
+    "meaningVi": "Tôi xuống ở ga tiếp theo.",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:grammar:7fa42c72a3373351",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "Phương tiện + で: 電車で (bằng tàu điện)",
+    "explanationVi": "で sau phương tiện = \"bằng\": 電車で, 自転車で. Đi bộ thì nói 歩いて, không nói *足で. Lên xe dùng に: 地下鉄に乗る (không dùng を).",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:grammar:c4c65e0338544055",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "V て、V てください: chỉ đường",
+    "explanationVi": "Thể て nối các hành động theo thứ tự như \"rồi\": まっすぐ行って、右に曲がってください = Đi thẳng rồi rẽ phải. V てください = \"hãy...\" lịch sự.",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja:slang:e2b0da2568082627",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "チャリ",
+    "meaningVi": "Xe đạp.",
+    "explanationVi": "Tiếng lóng rất phổ biến cho 自転車, nói với bạn bè: チャリで行く. Không dùng khi viết trang trọng.",
+    "register": "slang",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "transport"
+    ]
+  }
+]

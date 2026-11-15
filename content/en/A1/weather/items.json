@@ -1,0 +1,162 @@
+[
+  {
+    "id": "en:sentence:ad0927b049a69d33",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What's the weather like today?",
+    "meaningVi": "Hôm nay thời tiết thế nào?",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:sentence:8d059bb469db39c3",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's sunny and hot.",
+    "meaningVi": "Trời nắng và nóng.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:sentence:ab1d7e1229102adf",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's raining now.",
+    "meaningVi": "Trời đang mưa.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:sentence:0dd883840e6b6191",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It rains a lot in summer.",
+    "meaningVi": "Mùa hè mưa nhiều.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:sentence:7e62fc3562806dc4",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's very cold in winter.",
+    "meaningVi": "Mùa đông rất lạnh.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:sentence:ec1e9e4e7f0a5634",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Spring is warm and beautiful.",
+    "meaningVi": "Mùa xuân ấm áp và đẹp.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:sentence:a9d7b248232dfa2f",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's cloudy this morning.",
+    "meaningVi": "Sáng nay trời nhiều mây.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:sentence:1e1e4f426f674e34",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "The wind is very strong today.",
+    "meaningVi": "Hôm nay gió rất mạnh.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:sentence:f3014e60717f8afe",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Children love playing in the snow.",
+    "meaningVi": "Trẻ con thích chơi đùa trên tuyết.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:sentence:667f7b6201512472",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My favourite season is autumn.",
+    "meaningVi": "Mùa tôi thích nhất là mùa thu.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:grammar:24460cbad9000d05",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Chủ ngữ It khi nói thời tiết: It's sunny, It rains",
+    "explanationVi": "Tiếng Việt nói \"Trời nắng\", \"Mưa rồi\". Tiếng Anh luôn cần chủ ngữ It: It's sunny, It's cold. Không bỏ It (*Is sunny) và không dịch \"trời\" thành sky (*The sky is hot).",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:grammar:85002a1cf2f48421",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Đang xảy ra hay thường xảy ra: It's raining / It rains",
+    "explanationVi": "\"Đang mưa\" (lúc này) dùng hiện tại tiếp diễn: It's raining now. \"Thường mưa\" (thói quen, sự thật) dùng hiện tại đơn, It thêm -s: It rains a lot in summer. Tiếng Việt phân biệt bằng \"đang\" và \"thường\".",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:slang:819c88d6ede1beb5",
+    "lang": "en",
+    "kind": "slang",
+    "text": "It's boiling!",
+    "meaningVi": "Nóng như đổ lửa!",
+    "explanationVi": "Nói quá khi trời rất nóng. Trời rất lạnh thì nói It's freezing!",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "en:slang:dd4a9e8200151665",
+    "lang": "en",
+    "kind": "slang",
+    "text": "It's pouring.",
+    "meaningVi": "Mưa như trút nước.",
+    "explanationVi": "Nói khi mưa rất to, dùng hằng ngày với mọi người.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  }
+]

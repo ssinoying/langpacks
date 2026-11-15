@@ -1,0 +1,26 @@
+{
+  "id": "ja-N5-hobbies",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "hobbies",
+  "title": "Sở thích",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:f9b2ff5861fd11e0",
+    "ja:word:644e2a6335e93df9",
+    "ja:word:b7b885d6d1754b6d",
+    "ja:word:329ca59238982457",
+    "ja:word:f2cf8a713886392a",
+    "ja:word:93d3228dc35c3bd2",
+    "ja:word:39da5f35cc329380",
+    "ja:word:92e1272a05af8eba",
+    "ja:word:795bc1fbc41e2904",
+    "ja:word:6a4af6b7d01368d3",
+    "ja:word:3134cc98c33b3a9d",
+    "ja:word:df36402fe7e007ff",
+    "ja:word:1ce14a791348b9d5"
+  ]
+}

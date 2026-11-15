@@ -1,0 +1,23 @@
+{
+  "id": "zh-hans-HSK1-school-work",
+  "lang": "zh-hans",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "school-work",
+  "title": "Trường học và công việc",
+  "requires": [],
+  "itemIds": [
+    "zh-hans:word:d2ebf357c7b91fac",
+    "zh-hans:word:bc4c2562dc146fcc",
+    "zh-hans:word:93e8d1b0d087a1ae",
+    "zh-hans:word:4fa9cd0c3bbde5d4",
+    "zh-hans:word:d1f21ac94884ac12",
+    "zh-hans:word:fa8b9bb8cf164f63",
+    "zh-hans:word:968be7cdcb89d28c",
+    "zh-hans:word:b712cadb3d31f903",
+    "zh-hans:word:ad784b66fd1dbe97",
+    "zh-hans:word:ef4f04a5741d4346",
+    "zh-hans:word:bb1af6446181acf4",
+    "zh-hans:word:7a670a19f2047e72"
+  ]
+}

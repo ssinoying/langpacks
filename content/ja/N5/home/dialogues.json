@@ -1,0 +1,78 @@
+[
+  {
+    "id": "ja:dialogue:8bb9d09e1b7ae9e3",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Xem phòng trọ",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "不動産屋",
+        "text": "こちらがお部屋です。どうですか。",
+        "translationVi": "Đây là căn phòng. Thế nào ạ?",
+        "options": [
+          {
+            "answers": [
+              "広いですね。",
+              "いい部屋ですね。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "ちょっと狭いですね。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "不動産屋",
+        "text": "台所も新しいですよ。",
+        "translationVi": "Bếp cũng mới đấy ạ.",
+        "options": [
+          {
+            "answers": [
+              "お風呂はどこですか。",
+              "トイレはどこですか。"
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "不動産屋",
+        "text": "でも、駅から近いですよ。",
+        "translationVi": "Nhưng gần ga đấy ạ.",
+        "options": [
+          {
+            "answers": [
+              "そうですね。台所を見てもいいですか。",
+              "台所はどこですか。"
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "不動産屋",
+        "text": "あちらです。",
+        "translationVi": "Ở đằng kia ạ.",
+        "options": [
+          {
+            "answers": [
+              "ありがとうございます。",
+              "この部屋にします。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "不動産屋",
+        "text": "では、こちらへどうぞ。",
+        "translationVi": "Vậy mời đi lối này ạ."
+      }
+    }
+  }
+]

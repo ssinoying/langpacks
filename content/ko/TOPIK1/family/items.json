@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ko:sentence:b96379375846c53c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "우리 가족은 네 명이에요.",
+    "meaningVi": "Nhà tôi có bốn người.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:sentence:9602fd1e39e0d2cf",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "아버지는 회사에 다니세요.",
+    "meaningVi": "Bố tôi đi làm ở công ty.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:sentence:8c4056ddb289492f",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "어머니는 요리를 정말 잘하세요.",
+    "meaningVi": "Mẹ tôi nấu ăn rất giỏi.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:sentence:e9897a1efc8902a8",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저는 형이 한 명 있어요.",
+    "meaningVi": "Tôi có một anh trai.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:sentence:c5eb76a88ee2d6a6",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "언니하고 오빠가 있어요?",
+    "meaningVi": "Bạn có chị gái và anh trai không?",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:sentence:ff2ab0c77c3a2a71",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "누나는 작년에 결혼했어요.",
+    "meaningVi": "Chị gái tôi kết hôn năm ngoái.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:sentence:1b288a6104e7cd1c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "남동생은 고등학생이에요.",
+    "meaningVi": "Em trai tôi là học sinh cấp ba.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:sentence:96e44353c1b37b13",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "여동생은 저보다 세 살 어려요.",
+    "meaningVi": "Em gái kém tôi ba tuổi.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:sentence:55384e8cf0c7c56c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "동생이 몇 명이에요?",
+    "meaningVi": "Bạn có mấy người em?",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:sentence:b2200912ac0f6e5f",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "할머니는 부모님하고 같이 사세요.",
+    "meaningVi": "Bà sống cùng với bố mẹ tôi.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:grammar:5195b9d6b4d4240a",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "-(으)세요: kính ngữ khi nói về người lớn",
+    "explanationVi": "Tiếng Việt tỏ kính trọng bằng cách xưng hô (ông, bà, bố mẹ). Tiếng Hàn còn đổi đuôi động từ: thêm 시 → -(으)세요. 다니다 → 다니세요, 살다 → 사세요. Dùng khi chủ ngữ là người lớn, không dùng cho chính mình.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:grammar:9a10085f2a1c38b4",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "N이/가 있어요 (có N)",
+    "explanationVi": "\"Tôi có anh trai\" nói là 저는 형이 있어요 (tôi thì anh trai có). Thứ được sở hữu mang 이/가 (có patchim dùng 이, không có dùng 가), không phải 을/를 như tân ngữ. Không có thì dùng 없어요.",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko:slang:b3876536b96e2ce7",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "엄빠",
+    "meaningVi": "Bố mẹ (ghép 엄마 + 아빠).",
+    "explanationVi": "Giới trẻ dùng khi nói chuyện, nhắn tin với bạn. Không dùng với người lớn hay trong văn viết; lịch sự thì nói 부모님.",
+    "register": "slang",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "family"
+    ]
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": "ja:exercise:57c5edaee8b5e2b6",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "水___飲みます。",
+    "choices": [
+      "を",
+      "は",
+      "に",
+      "で"
+    ],
+    "answers": [
+      "を"
+    ],
+    "explanationVi": "を đánh dấu thứ bị tác động (tân ngữ)."
+  },
+  {
+    "id": "ja:exercise:bcdcc8460b2c80d4",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "一緒にお茶を飲み___か。(rủ rê)",
+    "answers": [
+      "ません"
+    ],
+    "explanationVi": "V ませんか là lời mời lịch sự, không mang nghĩa phủ định."
+  },
+  {
+    "id": "ja:exercise:1708f07e0e3fdbc4",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "を / 食べます / 野菜 / 毎日",
+    "answers": [
+      "毎日野菜を食べます。",
+      "野菜を毎日食べます。"
+    ],
+    "explanationVi": "Động từ đứng cuối; を đứng ngay sau 野菜."
+  },
+  {
+    "id": "ja:exercise:ce7c8da1852220f6",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Bạn ăn sáng chưa?",
+    "answers": [
+      "朝御飯を食べましたか。",
+      "朝ごはんを食べましたか。",
+      "あさごはんをたべましたか。",
+      "朝御飯は食べましたか。",
+      "朝ごはんは食べましたか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:14ea9b24faf68f9d",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "このケーキは甘いです。",
+    "answers": [
+      "このケーキは甘いです。",
+      "このケーキはあまいです。"
+    ]
+  },
+  {
+    "id": "ja:exercise:e7f0a46a5269133e",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "いただきます。",
+    "answers": [
+      "いただきます。"
+    ]
+  },
+  {
+    "id": "ja:exercise:6ff5daa381323b43",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "さかな",
+    "choices": [
+      "魚",
+      "肉",
+      "野菜"
+    ],
+    "answers": [
+      "魚"
+    ]
+  },
+  {
+    "id": "ja:exercise:162ef2081fb65a15",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "ミンさんは毎朝パンと卵を食べます。昼は魚を食べます。肉はあまり食べません。\n\nミンさんがあまり食べないものは何ですか。",
+    "choices": [
+      "パン",
+      "魚",
+      "肉"
+    ],
+    "answers": [
+      "肉"
+    ]
+  },
+  {
+    "id": "ja:exercise:0e815f4fa2f5c011",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Ăn xong bữa cơm ở nhà bạn người Nhật. Bạn nói gì?",
+    "choices": [
+      "いただきます。",
+      "ごちそうさまでした。",
+      "おやすみなさい。"
+    ],
+    "answers": [
+      "ごちそうさまでした。"
+    ],
+    "explanationVi": "いただきます nói trước khi ăn, ごちそうさまでした nói sau khi ăn."
+  },
+  {
+    "id": "ja:exercise:c993fb8f3670b488",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Ăn tô mì cùng bạn thân, mì rất ngon. Câu thân mật nào tự nhiên?",
+    "choices": [
+      "うまい！",
+      "美味しゅうございます。",
+      "まずい！"
+    ],
+    "answers": [
+      "うまい！"
+    ],
+    "explanationVi": "うまい là cách nói thân mật; 美味しゅうございます cực kỳ trang trọng; まずい là dở."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "de:sentence:f0f2ebbc0f23a22d",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wie spät ist es?",
+    "meaningVi": "Mấy giờ rồi?",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:sentence:a7a9eb60cce6ae06",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Es ist jetzt acht Uhr.",
+    "meaningVi": "Bây giờ là tám giờ.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:sentence:f2df16be2ec7cb7d",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Es ist halb vier.",
+    "meaningVi": "Bây giờ là ba giờ rưỡi.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:sentence:f4e3dd68b9e23713",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wann fängt der Kurs an?",
+    "meaningVi": "Khi nào lớp học bắt đầu?",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:sentence:21c48631d3638251",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Der Kurs fängt um neun Uhr an.",
+    "meaningVi": "Lớp học bắt đầu lúc chín giờ.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:sentence:febc415a39be2846",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich habe am Montag einen Termin.",
+    "meaningVi": "Thứ Hai tôi có một cuộc hẹn.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:sentence:eca003b1dbfadcf3",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Heute ist Freitag.",
+    "meaningVi": "Hôm nay là thứ Sáu.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:sentence:a614768416c40096",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Morgen habe ich keine Zeit.",
+    "meaningVi": "Ngày mai tôi không rảnh.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:sentence:3c2087f98d3c4712",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Gestern war Sonntag.",
+    "meaningVi": "Hôm qua là Chủ nhật.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:sentence:6fe2cb42c4bf2332",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Der Film dauert zwei Stunden.",
+    "meaningVi": "Bộ phim dài hai tiếng.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:grammar:2db434b70466aee9",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Nói giờ: Es ist … Uhr, halb …",
+    "explanationVi": "Hỏi giờ: Wie spät ist es? Trả lời: Es ist acht Uhr. Chú ý halb vier là 3:30 (nửa tiếng trước bốn giờ), không phải 4:30. Tiếng Việt nói \"ba giờ rưỡi\" theo giờ trước, tiếng Đức nhìn tới giờ sau.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:grammar:ab3f7a9407a9d437",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "um + giờ, am + thứ; động từ tách anfangen",
+    "explanationVi": "Lúc mấy giờ dùng um: um neun Uhr. Vào thứ mấy dùng am: am Montag. Tiếng Việt chỉ có \"lúc\", \"vào\". anfangen là động từ tách: phần an chạy về cuối câu: Der Kurs fängt um neun Uhr an.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:slang:b0e3ad762c4079a0",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Bis gleich!",
+    "meaningVi": "Lát gặp nhé!",
+    "explanationVi": "Chào khi sắp gặp lại trong ít phút. Gặp lại ngày mai thì nói Bis morgen!",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "de:slang:ce4f46fe97701891",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Feierabend!",
+    "meaningVi": "Hết giờ làm rồi!",
+    "explanationVi": "Nói khi xong việc trong ngày, rất hay nghe ở chỗ làm: Schönen Feierabend! = Chúc buổi tối vui vẻ.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  }
+]

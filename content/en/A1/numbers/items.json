@@ -1,0 +1,173 @@
+[
+  {
+    "id": "en:sentence:ef85789f5b57061d",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "How old are you?",
+    "meaningVi": "Bạn bao nhiêu tuổi?",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:6c59e6f52c169fca",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I'm twenty years old.",
+    "meaningVi": "Tôi hai mươi tuổi.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:bce5eb92cb6b37ea",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "She is five years old.",
+    "meaningVi": "Cô bé năm tuổi.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:efa3614693d07fef",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My brother is twelve.",
+    "meaningVi": "Em trai tôi mười hai tuổi.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:63a0c86810c8c64c",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "We are the same age.",
+    "meaningVi": "Chúng tôi bằng tuổi nhau.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:18d2c4e053bb85c8",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I have two cats and one dog.",
+    "meaningVi": "Tôi có hai con mèo và một con chó.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:80e67ae7092593b3",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Three apples, please.",
+    "meaningVi": "Cho tôi ba quả táo.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:0fdc2fe4644c2fc7",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "How many students are in your class?",
+    "meaningVi": "Lớp bạn có bao nhiêu học sinh?",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:de6c0fe3e62be547",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "There are thirty students in my class.",
+    "meaningVi": "Lớp tôi có ba mươi học sinh.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:ffae080befe35b4e",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Ten and ten is twenty.",
+    "meaningVi": "Mười cộng mười là hai mươi.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:sentence:1aee187d3906d4ee",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What's your phone number?",
+    "meaningVi": "Số điện thoại của bạn là gì?",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:grammar:e61420766366f637",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Nói tuổi: I am + số (+ years old)",
+    "explanationVi": "Tiếng Việt nói \"Tôi hai mươi tuổi\", không có động từ. Tiếng Anh bắt buộc có am/is/are: I'm twenty (years old). Không nói *I have twenty years (dịch từ \"có\") và không bỏ old: *I'm twenty years.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:grammar:d7f0f05abb9c4ed4",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Danh từ số nhiều sau số đếm: two cats, thirty students",
+    "explanationVi": "Tiếng Việt danh từ không đổi (hai con mèo). Tiếng Anh từ hai trở lên danh từ thêm -s: two cats, three apples. How many cũng đi với danh từ số nhiều: How many students...?",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:slang:b4be0d1edaa7e4b3",
+    "lang": "en",
+    "kind": "slang",
+    "text": "I'm in my twenties.",
+    "meaningVi": "Tôi ngoài hai mươi tuổi.",
+    "explanationVi": "Cách nói tuổi khéo, không nêu số cụ thể. Dùng khi trò chuyện; điền đơn hay giấy tờ thì ghi số tuổi.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "en:slang:c3eeda9bcb532feb",
+    "lang": "en",
+    "kind": "slang",
+    "text": "a couple of",
+    "meaningVi": "hai, vài",
+    "explanationVi": "a couple of cats = hai (hoặc vài) con mèo. Nói chuyện hằng ngày rất hay dùng; văn viết trang trọng dùng two.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  }
+]

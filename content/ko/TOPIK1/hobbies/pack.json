@@ -1,0 +1,26 @@
+{
+  "id": "ko-TOPIK1-hobbies",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "hobbies",
+  "title": "Sở thích",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:a6e12136e46bc169",
+    "ko:word:87d0f7e091892acf",
+    "ko:word:635747cd6b8c71f8",
+    "ko:word:a7921d3dc2bff06a",
+    "ko:word:4f1834b73af89555",
+    "ko:word:55f4fc2e94de79ac",
+    "ko:word:01fde29b45befefc",
+    "ko:word:87dc169184f9a904",
+    "ko:word:6596b49fc6e60767",
+    "ko:word:1402002159c2fb3c",
+    "ko:word:6caf5369a2dce9f4",
+    "ko:word:fcb3a84519cfa88d",
+    "ko:word:fd66e7a38b51eb2a"
+  ]
+}

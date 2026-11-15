@@ -1,0 +1,79 @@
+[
+  {
+    "id": "de:dialogue:4625b54c73e9888a",
+    "lang": "de",
+    "level": "A1",
+    "title": "Hỏi đường đến nhà ga",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Frau",
+        "text": "Hallo! Suchen Sie etwas?",
+        "translationVi": "Chào anh/chị! Anh/chị đang tìm gì à?",
+        "options": [
+          {
+            "answers": [
+              "Ja, wie komme ich zum Bahnhof?",
+              "Wo ist der Bahnhof?"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Ja, wo ist die Haltestelle?",
+              "Wo ist die Bushaltestelle?"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Frau",
+        "text": "Gehen Sie hier geradeaus und dann links.",
+        "translationVi": "Anh/chị đi thẳng rồi rẽ trái.",
+        "options": [
+          {
+            "answers": [
+              "Ist es weit?",
+              "Ist das weit?"
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Frau",
+        "text": "Die Haltestelle ist dort rechts.",
+        "translationVi": "Trạm xe ở bên phải đằng kia.",
+        "options": [
+          {
+            "answers": [
+              "Danke!",
+              "Vielen Dank!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "Frau",
+        "text": "Nein, nur fünf Minuten zu Fuß.",
+        "translationVi": "Không, đi bộ chỉ năm phút.",
+        "options": [
+          {
+            "answers": [
+              "Danke schön!",
+              "Vielen Dank!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Frau",
+        "text": "Bitte schön! Gute Reise!",
+        "translationVi": "Không có gì! Chúc đi vui vẻ!"
+      }
+    }
+  }
+]

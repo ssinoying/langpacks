@@ -1,0 +1,23 @@
+{
+  "id": "zh-hant-HSK1-home",
+  "lang": "zh-hant",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "home",
+  "title": "Nhà cửa",
+  "requires": [],
+  "itemIds": [
+    "zh-hant:word:fd84232890d491dc",
+    "zh-hant:word:77ca2df6e9e0794f",
+    "zh-hant:word:597d3e977f81c0da",
+    "zh-hant:word:4275d2b866bf4646",
+    "zh-hant:word:da6898e7c9be13dd",
+    "zh-hant:word:f9cf221a31d6750a",
+    "zh-hant:word:b6b8bf2c0600aebe",
+    "zh-hant:word:5dcbc33b235801c7",
+    "zh-hant:word:2a50c38e6fc3499a",
+    "zh-hant:word:46f9ac69d9d0435c",
+    "zh-hant:word:93d51ef0edb4de9e",
+    "zh-hant:word:d311a5dec9cfea65"
+  ]
+}

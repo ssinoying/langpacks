@@ -1,0 +1,173 @@
+[
+  {
+    "id": "en:sentence:1980200e930a42db",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "How much is this shirt?",
+    "meaningVi": "Cái áo sơ mi này bao nhiêu tiền?",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:3498d9e95fab04f5",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's fifteen dollars.",
+    "meaningVi": "Mười lăm đô la.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:57ae5eaf357945c3",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "These shoes are too expensive.",
+    "meaningVi": "Đôi giày này đắt quá.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:70b35e947bab12aa",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "How much do these shoes cost?",
+    "meaningVi": "Đôi giày này giá bao nhiêu?",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:8b7b99c6a72cc890",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Do you have this in a smaller size?",
+    "meaningVi": "Cái này có cỡ nhỏ hơn không?",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:63c15e3d47f44e67",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I want to buy a present for my mum.",
+    "meaningVi": "Tôi muốn mua một món quà cho mẹ.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:a5245608f8a251e7",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Can I pay by card?",
+    "meaningVi": "Tôi trả bằng thẻ được không?",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:66de8379d220b079",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "The shop opens at nine.",
+    "meaningVi": "Cửa hàng mở cửa lúc chín giờ.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:7ce52f47ba7ea167",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "The prices here are very good.",
+    "meaningVi": "Giá ở đây rất hời.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:d9f7b4ae73421091",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Fruit is cheap at the market.",
+    "meaningVi": "Trái cây ở chợ rẻ.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:sentence:84ec18f787925eaa",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I don't have much money.",
+    "meaningVi": "Tôi không có nhiều tiền.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:grammar:df811acc3fedee48",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "this / these: một vật và nhiều vật",
+    "explanationVi": "Tiếng Việt dùng \"này\" cho cả một lẫn nhiều vật. Tiếng Anh: this + số ít (this shirt is), these + số nhiều (these shoes are). Giày, quần đi theo đôi nên luôn số nhiều: these shoes.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:grammar:56d02c4e08aad3ca",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Hỏi giá: How much is ...? / How much are ...?",
+    "explanationVi": "Một vật dùng is, nhiều vật dùng are: How much is this shirt? How much are these shoes? Trả lời: It's / They're + giá. Cũng có thể hỏi How much do/does ... cost? Đơn vị tiền thêm -s: fifteen dollars.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:slang:8de2f8ba75ea5745",
+    "lang": "en",
+    "kind": "slang",
+    "text": "a rip-off",
+    "meaningVi": "giá cắt cổ, bị chặt chém",
+    "explanationVi": "That's a rip-off! = Đắt vô lý! Dùng khi phàn nàn với bạn bè, không nói trước mặt người bán.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "en:slang:2bc282940d738aae",
+    "lang": "en",
+    "kind": "slang",
+    "text": "bucks",
+    "meaningVi": "đô (tiền đô la)",
+    "explanationVi": "fifteen bucks = 15 đô la, kiểu Mỹ, thân mật. Ở cửa hàng nhân viên vẫn nói dollars.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  }
+]

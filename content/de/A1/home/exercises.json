@@ -1,0 +1,140 @@
+[
+  {
+    "id": "de:exercise:229a426cd45c2589",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "In der Wohnung ___ es zwei Zimmer. (có)",
+    "answers": [
+      "gibt"
+    ],
+    "explanationVi": "Cụm cố định: es gibt = có."
+  },
+  {
+    "id": "de:exercise:28d733f6090328d3",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Der Tisch steht ___ Küche. (trong)",
+    "choices": [
+      "in der",
+      "im",
+      "in den"
+    ],
+    "answers": [
+      "in der"
+    ],
+    "explanationVi": "die Küche → in der Küche."
+  },
+  {
+    "id": "de:exercise:44f9fe4aa7c15eb8",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Das Bett ist ___ Schlafzimmer. (trong)",
+    "choices": [
+      "in der",
+      "im"
+    ],
+    "answers": [
+      "im"
+    ],
+    "explanationVi": "das Schlafzimmer → im (in dem)."
+  },
+  {
+    "id": "de:exercise:a28155e93fd3be59",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "drei / hat / die Wohnung / Zimmer",
+    "answers": [
+      "Die Wohnung hat drei Zimmer."
+    ]
+  },
+  {
+    "id": "de:exercise:45eebb13f0e73bb8",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Căn hộ của tôi nhỏ.",
+    "answers": [
+      "Meine Wohnung ist klein."
+    ],
+    "explanationVi": "Wohnung là die nên dùng meine."
+  },
+  {
+    "id": "de:exercise:7add28f0b90e91ac",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Wie hoch ist die Miete?",
+    "answers": [
+      "Wie hoch ist die Miete?"
+    ]
+  },
+  {
+    "id": "de:exercise:8266f4ce0401423e",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Das Zimmer ist hell und groß.",
+    "answers": [
+      "Das Zimmer ist hell und groß."
+    ]
+  },
+  {
+    "id": "de:exercise:1ecefff2ac848a86",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Küche",
+    "choices": [
+      "Küche",
+      "Kuchen",
+      "Kirche"
+    ],
+    "answers": [
+      "Küche"
+    ],
+    "explanationVi": "ü đọc tròn môi như u nhưng lưỡi như i."
+  },
+  {
+    "id": "de:exercise:055cd72431ca437a",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Kể với bạn cùng lớp về phòng trọ nhỏ của bạn. Câu nào tự nhiên?",
+    "choices": [
+      "Meine Bude ist klein.",
+      "Die Miete ist hell.",
+      "Es gibt ein Bude."
+    ],
+    "answers": [
+      "Meine Bude ist klein."
+    ]
+  },
+  {
+    "id": "de:exercise:55e7a87649e39da5",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Familie Nguyen wohnt in Berlin. Die Wohnung hat zwei Zimmer, eine Küche und ein Bad. Es gibt keinen Balkon, aber die Wohnung ist hell.\n\nHat die Wohnung einen Balkon?",
+    "choices": [
+      "Nein",
+      "Ja"
+    ],
+    "answers": [
+      "Nein"
+    ]
+  }
+]

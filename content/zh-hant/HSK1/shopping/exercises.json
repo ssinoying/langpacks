@@ -1,0 +1,134 @@
+[
+  {
+    "id": "zh-hant:exercise:1ccb1ab8b1b219a4",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "這___衣服多少錢？(lượng từ cho áo)",
+    "choices": [
+      "件",
+      "個",
+      "本"
+    ],
+    "answers": [
+      "件"
+    ],
+    "explanationVi": "Quần áo dùng lượng từ 件."
+  },
+  {
+    "id": "zh-hant:exercise:a8246b148727b042",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "太貴___！便宜一點兒吧。(quá)",
+    "answers": [
+      "了"
+    ],
+    "explanationVi": "Cấu trúc 太…了."
+  },
+  {
+    "id": "zh-hant:exercise:2665a7667aece5e9",
+    "lang": "zh-hant",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "手機 / 買 / 想 / 我 / 一個",
+    "answers": [
+      "我想買一個手機。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:a7e83e785429d996",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Cái áo này bao nhiêu tiền?",
+    "answers": [
+      "這件衣服多少錢？"
+    ],
+    "explanationVi": "\"Cái áo này\" = 這件衣服."
+  },
+  {
+    "id": "zh-hant:exercise:cd986291463e8825",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Đắt quá!",
+    "answers": [
+      "太貴了！"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:8dfa2f901a4330ca",
+    "lang": "zh-hant",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "我們去商場買東西吧。",
+    "answers": [
+      "我們去商場買東西吧。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:a8296788fb99098f",
+    "lang": "zh-hant",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "這個杯子五塊錢，很便宜。",
+    "answers": [
+      "這個杯子五塊錢，很便宜。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:b7881f4c602d7abe",
+    "lang": "zh-hant",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "一百二十塊",
+    "choices": [
+      "一百二十塊",
+      "一百塊",
+      "二十塊"
+    ],
+    "answers": [
+      "一百二十塊"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:2016ddfc798a360b",
+    "lang": "zh-hant",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Ở chợ thấy giá đắt, muốn mặc cả. Câu nào tự nhiên?",
+    "choices": [
+      "便宜一點兒吧！",
+      "謝謝，再見。",
+      "這個菜很好吃。"
+    ],
+    "answers": [
+      "便宜一點兒吧！"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:aa4ae9bcd6852775",
+    "lang": "zh-hant",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "小紅去商店買衣服。一件衣服一百塊，太貴了，她沒買。\n\n小紅買衣服了嗎？",
+    "choices": [
+      "沒買",
+      "買了"
+    ],
+    "answers": [
+      "沒買"
+    ]
+  }
+]

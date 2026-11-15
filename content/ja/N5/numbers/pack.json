@@ -1,0 +1,27 @@
+{
+  "id": "ja-N5-numbers",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "numbers",
+  "title": "Số đếm và tuổi",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:4d42d460c7269749",
+    "ja:word:ec7d82f6ede33c47",
+    "ja:word:9e1d186c248b59ff",
+    "ja:word:37f23378f821f448",
+    "ja:word:68c5430fe6b37f07",
+    "ja:word:ff10eef35f1f689f",
+    "ja:word:64e98a63a562f9da",
+    "ja:word:66f0714ca52aff4a",
+    "ja:word:d5d1538932ed868a",
+    "ja:word:6c2708ef55ada80e",
+    "ja:word:af2479d265bae6b7",
+    "ja:word:1721417d4d493dbf",
+    "ja:word:c3636035c493d4a8",
+    "ja:word:025c40e76806e519"
+  ]
+}

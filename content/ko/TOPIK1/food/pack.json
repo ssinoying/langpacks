@@ -1,0 +1,26 @@
+{
+  "id": "ko-TOPIK1-food",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "food",
+  "title": "Ăn uống",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:4b36d582580679f4",
+    "ko:word:b04b4e59766522fd",
+    "ko:word:e7e23eb0b764607c",
+    "ko:word:3caa8f7d242e820c",
+    "ko:word:2b4de05fe96bbc76",
+    "ko:word:482afa3d2ee4646d",
+    "ko:word:5a798e19c2b4780b",
+    "ko:word:b0d19bbf6d0032e4",
+    "ko:word:ce921a046f96a98a",
+    "ko:word:3b8f98ce5ce15156",
+    "ko:word:ef46fff4ea57cce2",
+    "ko:word:8ca5921cea1adba0",
+    "ko:word:6b6acd5108d57cff"
+  ]
+}

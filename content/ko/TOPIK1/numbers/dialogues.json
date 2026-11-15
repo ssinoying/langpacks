@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ko:dialogue:dc89c72968c9b343",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Hỏi tuổi bạn mới quen",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "지수",
+        "text": "민 씨, 나이가 어떻게 되세요?",
+        "translationVi": "Minh ơi, bạn bao nhiêu tuổi?",
+        "options": [
+          {
+            "answers": [
+              "스무 살이에요.",
+              "저는 스무 살이에요."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "서른 살이에요.",
+              "저는 서른 살이에요."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "지수",
+        "text": "아, 저도 스무 살이에요. 우리 동갑이네요!",
+        "translationVi": "À, mình cũng hai mươi tuổi. Mình bằng tuổi nhau nhé!",
+        "options": [
+          {
+            "answers": [
+              "반가워요!",
+              "네, 동갑이에요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "지수",
+        "text": "그럼 제가 동생이네요. 전화번호가 몇 번이에요?",
+        "translationVi": "Vậy mình là em rồi. Số điện thoại của anh là số mấy?",
+        "options": [
+          {
+            "answers": [
+              "공일공, 일이삼사, 오육칠팔이에요.",
+              "010-1234-5678이에요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "지수",
+        "text": "고마워요. 또 만나요!",
+        "translationVi": "Cảm ơn. Gặp lại nhé!"
+      }
+    }
+  }
+]

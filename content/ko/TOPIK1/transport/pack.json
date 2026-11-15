@@ -1,0 +1,26 @@
+{
+  "id": "ko-TOPIK1-transport",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "transport",
+  "title": "Đi lại và hỏi đường",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:af0a393bbea87564",
+    "ko:word:e2031773b50841f1",
+    "ko:word:3c68a6709cf627c9",
+    "ko:word:79a4566228729f54",
+    "ko:word:eb995338a2362acf",
+    "ko:word:e4968b5b4a565998",
+    "ko:word:2890eed083a94aa2",
+    "ko:word:db9e57bd8e25efe9",
+    "ko:word:b937b2726713514c",
+    "ko:word:0fc9d85f07a8b89e",
+    "ko:word:e179860784b54992",
+    "ko:word:e83663b3aeeb58dc",
+    "ko:word:748193bea8ef3359"
+  ]
+}

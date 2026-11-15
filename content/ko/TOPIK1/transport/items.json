@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ko:sentence:92ac770231bc2cfe",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "지하철역이 어디에 있어요?",
+    "meaningVi": "Ga tàu điện ngầm ở đâu?",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:sentence:ba82e97c80f9cf18",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "이 길로 쭉 가세요.",
+    "meaningVi": "Cứ đi thẳng đường này.",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:sentence:f6a2a3f9a234df48",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저기에서 오른쪽으로 가세요.",
+    "meaningVi": "Đến chỗ kia thì rẽ phải.",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:sentence:28ba43d8874fb7c3",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "은행 왼쪽에 버스 정류장이 있어요.",
+    "meaningVi": "Bên trái ngân hàng có bến xe buýt.",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:sentence:5c53200c9bb453bf",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "학교까지 버스를 타요.",
+    "meaningVi": "Tôi đi xe buýt đến trường.",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:sentence:f204af2b9e4bf4c5",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "다음 역에서 내리세요.",
+    "meaningVi": "Xuống ở ga tiếp theo.",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:sentence:7b9dd79a90108935",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "여기에서 멀어요?",
+    "meaningVi": "Có xa đây không?",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:sentence:d26e3c7266bcf01e",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "아니요, 가까워요. 걸어가도 돼요.",
+    "meaningVi": "Không, gần lắm. Đi bộ cũng được.",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:sentence:2d4ee74fcfc0d38a",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "명동까지 택시로 얼마나 걸려요?",
+    "meaningVi": "Đi taxi đến Myeongdong mất bao lâu?",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:sentence:9a09d70d7a2ce360",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "지하철로 이십 분 걸려요.",
+    "meaningVi": "Đi tàu điện ngầm mất hai mươi phút.",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:grammar:0e57dd6201d141eb",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "N(으)로 가다: đi về phía N",
+    "explanationVi": "로/으로 sau từ chỉ hướng hay đường nghĩa là \"về phía, theo\": 오른쪽으로 가세요 = đi về bên phải, 이 길로 = theo đường này. Có patchim (trừ ㄹ) dùng 으로. Cùng trợ từ này còn nghĩa \"bằng\": 택시로 = bằng taxi.",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:grammar:29565b8141e6c579",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "(시간이) 걸리다: mất (bao lâu)",
+    "explanationVi": "Hỏi thời gian đi: 얼마나 걸려요? = mất bao lâu? Trả lời: 이십 분 걸려요 (mất hai mươi phút). Giống \"mất\" trong tiếng Việt nhưng động từ đứng cuối.",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:slang:ce39a7131e044231",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "길치",
+    "meaningVi": "Người mù đường.",
+    "explanationVi": "Hay tự nói về mình khi dễ lạc: 저는 길치예요. Dùng thoải mái, hơi đùa.",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko:slang:941747507236e751",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "지옥철",
+    "meaningVi": "\"Tàu điện địa ngục\" (đông nghẹt giờ cao điểm).",
+    "explanationVi": "Ghép 지옥 (địa ngục) + 지하철. Nói đùa với bạn bè, đồng nghiệp.",
+    "register": "slang",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "transport"
+    ]
+  }
+]

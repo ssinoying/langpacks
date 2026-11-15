@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ko:sentence:43c8063883cb3c97",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "우리 집은 아파트 십 층이에요.",
+    "meaningVi": "Nhà tôi ở tầng mười của chung cư.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:sentence:6da838e662c01940",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "제 방은 작지만 깨끗해요.",
+    "meaningVi": "Phòng tôi nhỏ nhưng sạch.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:sentence:c40afbb946729312",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "우리 집은 학교에서 멀지만 조용해요.",
+    "meaningVi": "Nhà tôi xa trường nhưng yên tĩnh.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:sentence:627ec161163dd97b",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "화장실이 어디에 있어요?",
+    "meaningVi": "Nhà vệ sinh ở đâu?",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:sentence:682d4d3783f59eb7",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "책상 위에 컴퓨터가 있어요.",
+    "meaningVi": "Trên bàn có máy tính.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:sentence:d8aa33d689765c20",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "침대 옆에 의자가 있어요.",
+    "meaningVi": "Cạnh giường có cái ghế.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:sentence:04b776d378061ca0",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "냉장고 안에 우유가 있어요.",
+    "meaningVi": "Trong tủ lạnh có sữa.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:sentence:7b80248c1c1245ce",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "부엌이 넓어서 좋아요.",
+    "meaningVi": "Bếp rộng nên tôi thích.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:sentence:9c44cb39437aae2c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "창문 좀 열어 주세요.",
+    "meaningVi": "Mở giúp tôi cửa sổ.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:sentence:0b9363d14e5a6d00",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "주말에 집을 청소해요.",
+    "meaningVi": "Cuối tuần tôi dọn nhà.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:grammar:41f94a1caf532cd4",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "N 위/옆/안에 있어요 (ở trên/cạnh/trong N)",
+    "explanationVi": "Tiếng Việt nói \"trên bàn\" (từ chỉ vị trí đứng trước). Tiếng Hàn ngược lại: 책상 위 = bàn + trên, rồi thêm 에 있어요. 위 trên, 아래/밑 dưới, 옆 cạnh, 안 trong, 앞 trước, 뒤 sau.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:grammar:37da7a49cc68a78a",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "A/V-지만 (nhưng)",
+    "explanationVi": "Nối hai vế trái ngược, như \"nhưng\": 작지만 깨끗해요 = nhỏ nhưng sạch. -지만 gắn thẳng vào gốc từ, không đổi theo patchim.",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ko:slang:35fa0dbfc288a34e",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "집순이",
+    "meaningVi": "Cô nàng thích ở nhà (nam là 집돌이).",
+    "explanationVi": "Nói vui về mình với bạn bè: 저는 집순이예요. Không mang nghĩa xấu.",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "home"
+    ]
+  }
+]

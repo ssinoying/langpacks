@@ -107,7 +107,11 @@
     "reading": "いくつ",
     "partOfSpeech": "adv",
     "level": "N5",
-    "source": "jmdict:いくつ"
+    "source": "jmdict:いくつ",
+    "meaningVi": "bao nhiêu cái; mấy tuổi",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:2e109cc07587f856",
@@ -117,7 +121,11 @@
     "reading": "いくら",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:いくら"
+    "source": "jmdict:いくら",
+    "meaningVi": "bao nhiêu tiền",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:032f9cf943eecc74",
@@ -257,7 +265,11 @@
     "reading": "おかꜜあさん",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:お母さん"
+    "source": "jmdict:お母さん",
+    "meaningVi": "mẹ (người khác; gọi mẹ)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:28f2f98ad22c7116",
@@ -267,7 +279,11 @@
     "reading": "おとꜜうさん",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:お父さん"
+    "source": "jmdict:お父さん",
+    "meaningVi": "bố (người khác; gọi bố)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:411be6513074d789",
@@ -297,7 +313,11 @@
     "reading": "おちゃ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:お茶"
+    "source": "jmdict:お茶",
+    "meaningVi": "trà",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:a2282192be68a198",
@@ -327,7 +347,11 @@
     "reading": "おかね",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:お金"
+    "source": "jmdict:お金",
+    "meaningVi": "tiền",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:ebc82daf651020dc",
@@ -337,7 +361,11 @@
     "reading": "おふꜜろ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:お風呂"
+    "source": "jmdict:お風呂",
+    "meaningVi": "bồn tắm, phòng tắm",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:7ce767d9dae1cbd3",
@@ -906,7 +934,11 @@
     "reading": "まっすぐ",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:まっすぐ"
+    "source": "jmdict:まっすぐ",
+    "meaningVi": "thẳng",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:606e761481526796",
@@ -995,7 +1027,11 @@
     "reading": "アパート",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:アパート"
+    "source": "jmdict:アパート",
+    "meaningVi": "căn hộ, chung cư nhỏ",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:1c36c653e7853d2a",
@@ -1065,7 +1101,11 @@
     "reading": "ギター",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:ギター"
+    "source": "jmdict:ギター",
+    "meaningVi": "đàn ghi-ta",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:b4deae73dae7780d",
@@ -1134,7 +1174,11 @@
     "reading": "シャツ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:シャツ"
+    "source": "jmdict:シャツ",
+    "meaningVi": "áo sơ mi",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:a803668a4ee02663",
@@ -1184,7 +1228,11 @@
     "reading": "スポーツ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:スポーツ"
+    "source": "jmdict:スポーツ",
+    "meaningVi": "thể thao",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:c34c7e6afe2f5337",
@@ -1234,7 +1282,11 @@
     "reading": "テスト",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:テスト"
+    "source": "jmdict:テスト",
+    "meaningVi": "bài kiểm tra",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:b1b614805f864e91",
@@ -1284,7 +1336,11 @@
     "reading": "デパート",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:デパート"
+    "source": "jmdict:デパート",
+    "meaningVi": "trung tâm thương mại",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:f3dd0b481192db2e",
@@ -1294,7 +1350,11 @@
     "reading": "トイレ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:トイレ"
+    "source": "jmdict:トイレ",
+    "meaningVi": "nhà vệ sinh",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:1716172f87953e84",
@@ -1364,7 +1424,11 @@
     "reading": "バス",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:バス"
+    "source": "jmdict:バス",
+    "meaningVi": "xe buýt",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:3a50d008c2106b4a",
@@ -1434,7 +1498,11 @@
     "reading": "ベッド",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:ベッド"
+    "source": "jmdict:ベッド",
+    "meaningVi": "giường",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:d2493fbc91292577",
@@ -1604,7 +1672,11 @@
     "reading": "ひとꜜつ",
     "partOfSpeech": "num",
     "level": "N5",
-    "source": "jmdict:一つ"
+    "source": "jmdict:一つ",
+    "meaningVi": "một cái",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:c3636035c493d4a8",
@@ -1615,7 +1687,11 @@
     "partOfSpeech": "noun",
     "hanViet": "nhất nhân",
     "level": "N5",
-    "source": "jmdict:一人"
+    "source": "jmdict:一人",
+    "meaningVi": "một người",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:8b2450ed5ea3424b",
@@ -1733,7 +1809,11 @@
     "partOfSpeech": "num",
     "hanViet": "vạn",
     "level": "N5",
-    "source": "jmdict:万"
+    "source": "jmdict:万",
+    "meaningVi": "mười nghìn (vạn)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:c13c3fe4f026872c",
@@ -1776,7 +1856,11 @@
     "reading": "みっつꜜ",
     "partOfSpeech": "num",
     "level": "N5",
-    "source": "jmdict:三つ"
+    "source": "jmdict:三つ",
+    "meaningVi": "ba cái",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:225d647d5c82d4e5",
@@ -1819,7 +1903,11 @@
     "partOfSpeech": "adj",
     "hanViet": "thượng thủ",
     "level": "N5",
-    "source": "jmdict:上手"
+    "source": "jmdict:上手",
+    "meaningVi": "giỏi",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:18bb289a140a61d6",
@@ -1872,7 +1960,11 @@
     "reading": "りょꜜうしん",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:両親"
+    "source": "jmdict:両親",
+    "meaningVi": "bố mẹ",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:c0347edebb8c69cc",
@@ -1923,7 +2015,11 @@
     "reading": "のる",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:乗る"
+    "source": "jmdict:乗る",
+    "meaningVi": "lên (xe), đi (tàu, xe)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:cbcc556dc82288fb",
@@ -1987,7 +2083,11 @@
     "reading": "ふたつꜜ",
     "partOfSpeech": "num",
     "level": "N5",
-    "source": "jmdict:二つ"
+    "source": "jmdict:二つ",
+    "meaningVi": "hai cái",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:025c40e76806e519",
@@ -1998,7 +2098,11 @@
     "partOfSpeech": "noun",
     "hanViet": "nhì nhân",
     "level": "N5",
-    "source": "jmdict:二人"
+    "source": "jmdict:二人",
+    "meaningVi": "hai người",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:c8001de3d8442740",
@@ -2020,7 +2124,11 @@
     "partOfSpeech": "noun",
     "hanViet": "nhì thập tuế",
     "level": "N5",
-    "source": "jmdict:二十歳"
+    "source": "jmdict:二十歳",
+    "meaningVi": "hai mươi tuổi",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:bbfb4e7d841c004f",
@@ -2074,7 +2182,11 @@
     "partOfSpeech": "noun",
     "hanViet": "giao sai điểm",
     "level": "N5",
-    "source": "jmdict:交差点"
+    "source": "jmdict:交差点",
+    "meaningVi": "ngã tư",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:6bb566173e43e9ca",
@@ -2107,7 +2219,11 @@
     "partOfSpeech": "noun",
     "hanViet": "kim",
     "level": "N5",
-    "source": "jmdict:今"
+    "source": "jmdict:今",
+    "meaningVi": "bây giờ",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:d3c77d03517ca6f8",
@@ -2129,7 +2245,11 @@
     "partOfSpeech": "noun",
     "hanViet": "kim nhật",
     "level": "N5",
-    "source": "jmdict:今日"
+    "source": "jmdict:今日",
+    "meaningVi": "hôm nay",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:1d419310a9c6c25a",
@@ -2183,7 +2303,11 @@
     "partOfSpeech": "noun",
     "hanViet": "sĩ sự",
     "level": "N5",
-    "source": "jmdict:仕事"
+    "source": "jmdict:仕事",
+    "meaningVi": "công việc",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:f34bb64c448604cd",
@@ -2224,7 +2348,11 @@
     "partOfSpeech": "noun",
     "hanViet": "hội xã",
     "level": "N5",
-    "source": "jmdict:会社"
+    "source": "jmdict:会社",
+    "meaningVi": "công ty",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:576fc976cd1b4285",
@@ -2263,7 +2391,11 @@
     "reading": "すꜜむ",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:住む"
+    "source": "jmdict:住む",
+    "meaningVi": "sống, ở",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:20285e43ababece5",
@@ -2376,7 +2508,11 @@
     "reading": "はたらく",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:働く"
+    "source": "jmdict:働く",
+    "meaningVi": "làm việc",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:3c18ef26ce277237",
@@ -2398,7 +2534,11 @@
     "partOfSpeech": "noun",
     "hanViet": "huynh",
     "level": "N5",
-    "source": "jmdict:兄"
+    "source": "jmdict:兄",
+    "meaningVi": "anh trai (của tôi)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:3dd853c602dfb424",
@@ -2409,7 +2549,11 @@
     "partOfSpeech": "noun",
     "hanViet": "huynh đệ",
     "level": "N5",
-    "source": "jmdict:兄弟"
+    "source": "jmdict:兄弟",
+    "meaningVi": "anh chị em",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:676551c292ccb573",
@@ -2596,7 +2740,11 @@
     "partOfSpeech": "noun",
     "hanViet": "tả chân",
     "level": "N5",
-    "source": "jmdict:写真"
+    "source": "jmdict:写真",
+    "meaningVi": "ảnh",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:a063708b5896c6e4",
@@ -2607,7 +2755,11 @@
     "partOfSpeech": "noun",
     "hanViet": "đông",
     "level": "N5",
-    "source": "jmdict:冬"
+    "source": "jmdict:冬",
+    "meaningVi": "mùa đông",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:9cab6bcc2d5319ab",
@@ -2627,7 +2779,11 @@
     "reading": "れいぞꜜうこ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:冷蔵庫"
+    "source": "jmdict:冷蔵庫",
+    "meaningVi": "tủ lạnh",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:d02b3713c8ab9fee",
@@ -2836,7 +2992,11 @@
     "partOfSpeech": "num",
     "hanViet": "thiên",
     "level": "N5",
-    "source": "jmdict:千"
+    "source": "jmdict:千",
+    "meaningVi": "một nghìn",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:ae4cbd070ad36f39",
@@ -2847,7 +3007,11 @@
     "partOfSpeech": "noun",
     "hanViet": "ngọ tiền",
     "level": "N5",
-    "source": "jmdict:午前"
+    "source": "jmdict:午前",
+    "meaningVi": "buổi sáng (trước 12 giờ trưa)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:49c6185a0ea1577e",
@@ -2858,7 +3022,11 @@
     "partOfSpeech": "noun",
     "hanViet": "ngọ hậu",
     "level": "N5",
-    "source": "jmdict:午後"
+    "source": "jmdict:午後",
+    "meaningVi": "buổi chiều (sau 12 giờ trưa)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:6296490c6ae0c62c",
@@ -2869,7 +3037,11 @@
     "partOfSpeech": "prefix",
     "hanViet": "bán",
     "level": "N5",
-    "source": "jmdict:半"
+    "source": "jmdict:半",
+    "meaningVi": "rưỡi, một nửa",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:b82db24f768ebdc8",
@@ -2911,7 +3083,11 @@
     "reading": "たまꜜご",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:卵"
+    "source": "jmdict:卵",
+    "meaningVi": "trứng",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:b68a5d17b3d27b6c",
@@ -2995,7 +3171,11 @@
     "partOfSpeech": "noun",
     "hanViet": "thai sỡ",
     "level": "N5",
-    "source": "jmdict:台所"
+    "source": "jmdict:台所",
+    "meaningVi": "bếp",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:cc3fb4c768b458c5",
@@ -3006,7 +3186,11 @@
     "partOfSpeech": "noun",
     "hanViet": "hữu",
     "level": "N5",
-    "source": "jmdict:右"
+    "source": "jmdict:右",
+    "meaningVi": "bên phải",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:584a333dba23a5ce",
@@ -3175,7 +3359,11 @@
     "reading": "どよꜜうび",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:土曜日"
+    "source": "jmdict:土曜日",
+    "meaningVi": "thứ Bảy",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:dab24c66a79a55a9",
@@ -3195,7 +3383,11 @@
     "reading": "ちかてつ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:地下鉄"
+    "source": "jmdict:地下鉄",
+    "meaningVi": "tàu điện ngầm",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:386bccb56b33cc0b",
@@ -3246,7 +3438,11 @@
     "reading": "なつꜜ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:夏"
+    "source": "jmdict:夏",
+    "meaningVi": "mùa hè",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:8b79eab29fda82a5",
@@ -3459,7 +3655,11 @@
     "partOfSpeech": "noun",
     "hanViet": "đại học",
     "level": "N5",
-    "source": "jmdict:大学"
+    "source": "jmdict:大学",
+    "meaningVi": "trường đại học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:a254bf5d7df21571",
@@ -3470,7 +3670,11 @@
     "partOfSpeech": "noun",
     "hanViet": "thiên khí",
     "level": "N5",
-    "source": "jmdict:天気"
+    "source": "jmdict:天気",
+    "meaningVi": "thời tiết",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:0f5f9b1401e9cb93",
@@ -3521,7 +3725,11 @@
     "reading": "すきꜜ",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:好き"
+    "source": "jmdict:好き",
+    "meaningVi": "thích",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:b33cf1b27fa1ad36",
@@ -3532,7 +3740,11 @@
     "partOfSpeech": "noun",
     "hanViet": "muội",
     "level": "N5",
-    "source": "jmdict:妹"
+    "source": "jmdict:妹",
+    "meaningVi": "em gái",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:c361079e9a4c05d6",
@@ -3543,7 +3755,11 @@
     "partOfSpeech": "noun",
     "hanViet": "chị",
     "level": "N5",
-    "source": "jmdict:姉"
+    "source": "jmdict:姉",
+    "meaningVi": "chị gái (của tôi)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:2fa026674aacc596",
@@ -3574,7 +3790,11 @@
     "reading": "きらい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:嫌い"
+    "source": "jmdict:嫌い",
+    "meaningVi": "ghét, không thích",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:1721417d4d493dbf",
@@ -3585,7 +3805,11 @@
     "partOfSpeech": "noun",
     "hanViet": "tí cung",
     "level": "N5",
-    "source": "jmdict:子供"
+    "source": "jmdict:子供",
+    "meaningVi": "trẻ em, con",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:32317ff501aaa071",
@@ -3607,7 +3831,11 @@
     "partOfSpeech": "noun",
     "hanViet": "học chò",
     "level": "N5",
-    "source": "jmdict:学校"
+    "source": "jmdict:学校",
+    "meaningVi": "trường học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:df26f9cce21a67be",
@@ -3632,7 +3860,11 @@
     "reading": "やすꜜい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:安い"
+    "source": "jmdict:安い",
+    "meaningVi": "rẻ",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:5c449aff73c8e0aa",
@@ -3643,7 +3875,11 @@
     "partOfSpeech": "noun",
     "hanViet": "gia",
     "level": "N5",
-    "source": "jmdict:家"
+    "source": "jmdict:家",
+    "meaningVi": "nhà",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:ae9fe08b067b31d3",
@@ -3665,7 +3901,11 @@
     "partOfSpeech": "noun",
     "hanViet": "gia tộc",
     "level": "N5",
-    "source": "jmdict:家族"
+    "source": "jmdict:家族",
+    "meaningVi": "gia đình",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:0bff3db6eacc8ff0",
@@ -3675,7 +3915,11 @@
     "reading": "しゅくだい",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:宿題"
+    "source": "jmdict:宿題",
+    "meaningVi": "bài tập về nhà",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:e72caf0d7e538991",
@@ -3685,7 +3929,11 @@
     "reading": "さむꜜい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:寒い"
+    "source": "jmdict:寒い",
+    "meaningVi": "lạnh (thời tiết)",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:35eb15829abd41d3",
@@ -3789,7 +4037,11 @@
     "partOfSpeech": "noun",
     "hanViet": "tả",
     "level": "N5",
-    "source": "jmdict:左"
+    "source": "jmdict:左",
+    "meaningVi": "bên trái",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:1a7f607394aebbc9",
@@ -3851,7 +4103,11 @@
     "reading": "ひろꜜい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:広い"
+    "source": "jmdict:広い",
+    "meaningVi": "rộng",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:6c728d62e66cffb1",
@@ -3862,7 +4118,11 @@
     "partOfSpeech": "noun",
     "hanViet": "điếm",
     "level": "N5",
-    "source": "jmdict:店"
+    "source": "jmdict:店",
+    "meaningVi": "cửa hàng",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:68c91dd7496ef811",
@@ -3926,7 +4186,11 @@
     "partOfSpeech": "noun",
     "hanViet": "đệ",
     "level": "N5",
-    "source": "jmdict:弟"
+    "source": "jmdict:弟",
+    "meaningVi": "em trai",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:b651de1c10f2b4b9",
@@ -3997,7 +4261,11 @@
     "reading": "ごꜜはん",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:御飯"
+    "source": "jmdict:御飯",
+    "meaningVi": "cơm; bữa ăn",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:3d6e3a35c8c65afb",
@@ -4017,7 +4285,11 @@
     "reading": "いそがしꜜい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:忙しい"
+    "source": "jmdict:忙しい",
+    "meaningVi": "bận",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:ac3d1d4d26b87221",
@@ -4122,7 +4394,11 @@
     "partOfSpeech": "noun",
     "hanViet": "thụ nghiệp",
     "level": "N5",
-    "source": "jmdict:授業"
+    "source": "jmdict:授業",
+    "meaningVi": "giờ học, tiết học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:2ecfaeae38816d9d",
@@ -4142,7 +4418,11 @@
     "reading": "とꜜる",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:撮る"
+    "source": "jmdict:撮る",
+    "meaningVi": "chụp (ảnh)",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:ccb9e62f7379de1b",
@@ -4163,7 +4443,11 @@
     "partOfSpeech": "noun",
     "hanViet": "giáo thất",
     "level": "N5",
-    "source": "jmdict:教室"
+    "source": "jmdict:教室",
+    "meaningVi": "phòng học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:c55d6082d71f35cd",
@@ -4246,7 +4530,11 @@
     "reading": "にちよꜜうび",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:日曜日"
+    "source": "jmdict:日曜日",
+    "meaningVi": "Chủ nhật",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:4cbdf79aa0b74e5f",
@@ -4288,7 +4576,11 @@
     "partOfSpeech": "noun",
     "hanViet": "minh nhật",
     "level": "N5",
-    "source": "jmdict:明日"
+    "source": "jmdict:明日",
+    "meaningVi": "ngày mai",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:74feca405462db0d",
@@ -4309,7 +4601,11 @@
     "partOfSpeech": "noun",
     "hanViet": "ánh hoạ",
     "level": "N5",
-    "source": "jmdict:映画"
+    "source": "jmdict:映画",
+    "meaningVi": "phim",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:485323b09b687c65",
@@ -4330,7 +4626,11 @@
     "reading": "はꜜる",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:春"
+    "source": "jmdict:春",
+    "meaningVi": "mùa xuân",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:48ba082c8fc65d9d",
@@ -4350,7 +4650,11 @@
     "reading": "きのꜜう",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:昨日"
+    "source": "jmdict:昨日",
+    "meaningVi": "hôm qua",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:d8fded6bd91f26a7",
@@ -4402,7 +4706,11 @@
     "partOfSpeech": "noun",
     "hanViet": "thì gian",
     "level": "N5",
-    "source": "jmdict:時間"
+    "source": "jmdict:時間",
+    "meaningVi": "thời gian",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:afacc5cb1f82be33",
@@ -4432,7 +4740,11 @@
     "reading": "はれꜜ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:晴れ"
+    "source": "jmdict:晴れ",
+    "meaningVi": "trời nắng, quang đãng",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:79548d0cbf4df291",
@@ -4463,7 +4775,11 @@
     "reading": "あつꜜい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:暑い"
+    "source": "jmdict:暑い",
+    "meaningVi": "nóng (thời tiết)",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:a921b72a3ef5dd43",
@@ -4473,7 +4789,11 @@
     "reading": "あたたかꜜい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:暖かい"
+    "source": "jmdict:暖かい",
+    "meaningVi": "ấm",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:8c01498fc88b8733",
@@ -4513,7 +4833,11 @@
     "reading": "まがる",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:曲る"
+    "source": "jmdict:曲る",
+    "meaningVi": "rẽ",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:fa6f4272c6708a29",
@@ -4533,7 +4857,11 @@
     "reading": "げつよꜜうび",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:月曜日"
+    "source": "jmdict:月曜日",
+    "meaningVi": "thứ Hai",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:05c8ad4b03af6f3f",
@@ -4586,7 +4914,11 @@
     "reading": "あさごꜜはん",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:朝御飯"
+    "source": "jmdict:朝御飯",
+    "meaningVi": "bữa sáng",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:b337f0affdbc40a1",
@@ -4618,7 +4950,11 @@
     "partOfSpeech": "noun",
     "hanViet": "bản",
     "level": "N5",
-    "source": "jmdict:本"
+    "source": "jmdict:本",
+    "meaningVi": "sách",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:3ad8faa5304731d5",
@@ -4650,7 +4986,11 @@
     "partOfSpeech": "noun",
     "hanViet": "cơ",
     "level": "N5",
-    "source": "jmdict:机"
+    "source": "jmdict:机",
+    "meaningVi": "bàn (học, làm việc)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:31dafcd6b66ae60e",
@@ -4736,7 +5076,11 @@
     "reading": "いす",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:椅子"
+    "source": "jmdict:椅子",
+    "meaningVi": "ghế",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:7f8fb5b58a0442a7",
@@ -4810,7 +5154,11 @@
     "reading": "うたう",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:歌う"
+    "source": "jmdict:歌う",
+    "meaningVi": "hát",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:acbc2baf28e34345",
@@ -4830,7 +5178,11 @@
     "reading": "あるꜜく",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:歩く"
+    "source": "jmdict:歩く",
+    "meaningVi": "đi bộ",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:2d3304cbb7303cc0",
@@ -4871,7 +5223,11 @@
     "partOfSpeech": "noun",
     "hanViet": "mẫu",
     "level": "N5",
-    "source": "jmdict:母"
+    "source": "jmdict:母",
+    "meaningVi": "mẹ (của tôi)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:db654d779b465778",
@@ -4942,7 +5298,11 @@
     "partOfSpeech": "noun",
     "hanViet": "thuỷ",
     "level": "N5",
-    "source": "jmdict:水"
+    "source": "jmdict:水",
+    "meaningVi": "nước",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:5a7559bc16d1b6df",
@@ -4993,7 +5353,11 @@
     "reading": "およꜜぐ",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:泳ぐ"
+    "source": "jmdict:泳ぐ",
+    "meaningVi": "bơi",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:d451ad9ff9409ab9",
@@ -5075,7 +5439,11 @@
     "reading": "すずしꜜい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:涼しい"
+    "source": "jmdict:涼しい",
+    "meaningVi": "mát",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:a3c124631803a3d4",
@@ -5167,7 +5535,11 @@
     "reading": "ちちꜜ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:父"
+    "source": "jmdict:父",
+    "meaningVi": "bố (của tôi)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ja:word:f35d8501607d407a",
@@ -5261,7 +5633,11 @@
     "reading": "あまい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:甘い"
+    "source": "jmdict:甘い",
+    "meaningVi": "ngọt",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:bf2e532e93534b4e",
@@ -5336,7 +5712,11 @@
     "partOfSpeech": "noun",
     "hanViet": "phan hiệu",
     "level": "N5",
-    "source": "jmdict:番号"
+    "source": "jmdict:番号",
+    "meaningVi": "số (điện thoại, phòng...)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:5e1f12a6677a49be",
@@ -5420,7 +5800,11 @@
     "partOfSpeech": "num",
     "hanViet": "bá",
     "level": "N5",
-    "source": "jmdict:百"
+    "source": "jmdict:百",
+    "meaningVi": "một trăm",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:16014ebf30ec82da",
@@ -5559,7 +5943,11 @@
     "partOfSpeech": "noun",
     "hanViet": "thu",
     "level": "N5",
-    "source": "jmdict:秋"
+    "source": "jmdict:秋",
+    "meaningVi": "mùa thu",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:2704f1d159a5b554",
@@ -5580,7 +5968,11 @@
     "reading": "まꜜど",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:窓"
+    "source": "jmdict:窓",
+    "meaningVi": "cửa sổ",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:c616c4a110a23970",
@@ -5753,7 +6145,11 @@
     "reading": "おいしい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:美味しい"
+    "source": "jmdict:美味しい",
+    "meaningVi": "ngon",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:27fb5c8692ccbab8",
@@ -5763,7 +6159,11 @@
     "reading": "ならꜜう",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:習う"
+    "source": "jmdict:習う",
+    "meaningVi": "học (từ ai đó)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:07d2f24465b4fa1e",
@@ -5794,7 +6194,11 @@
     "reading": "にくꜜ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:肉"
+    "source": "jmdict:肉",
+    "meaningVi": "thịt",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:bf72c7efc0b8c6f4",
@@ -5857,7 +6261,11 @@
     "reading": "じてꜜんしゃ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:自転車"
+    "source": "jmdict:自転車",
+    "meaningVi": "xe đạp",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:bf3d0d652db7885c",
@@ -5921,7 +6329,11 @@
     "partOfSpeech": "noun",
     "hanViet": "anh ngữ",
     "level": "N5",
-    "source": "jmdict:英語"
+    "source": "jmdict:英語",
+    "meaningVi": "tiếng Anh",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:aa0b3b65e9f88732",
@@ -6107,7 +6519,11 @@
     "reading": "たんじょꜜうび",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:誕生日"
+    "source": "jmdict:誕生日",
+    "meaningVi": "sinh nhật",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ja:word:3134cc98c33b3a9d",
@@ -6117,7 +6533,11 @@
     "reading": "よꜜむ",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:読む"
+    "source": "jmdict:読む",
+    "meaningVi": "đọc",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:a325c53b953ddad6",
@@ -6169,7 +6589,11 @@
     "partOfSpeech": "noun",
     "hanViet": "tài bố",
     "level": "N5",
-    "source": "jmdict:財布"
+    "source": "jmdict:財布",
+    "meaningVi": "ví",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:f48288483d4c2ce5",
@@ -6179,7 +6603,11 @@
     "reading": "かいもの",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:買い物"
+    "source": "jmdict:買い物",
+    "meaningVi": "việc mua sắm",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:f34367e009c9cd2d",
@@ -6189,7 +6617,11 @@
     "reading": "かう",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:買う"
+    "source": "jmdict:買う",
+    "meaningVi": "mua",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:dd8e08faf12e03c1",
@@ -6313,7 +6745,11 @@
     "partOfSpeech": "noun",
     "hanViet": "từ thư",
     "level": "N5",
-    "source": "jmdict:辞書"
+    "source": "jmdict:辞書",
+    "meaningVi": "từ điển",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ja:word:0b0a9ed31ca41905",
@@ -6414,7 +6850,11 @@
     "reading": "とおい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:遠い"
+    "source": "jmdict:遠い",
+    "meaningVi": "xa",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:f8e086d7afbc8e9d",
@@ -6425,7 +6865,11 @@
     "partOfSpeech": "noun",
     "hanViet": "bộ ốc",
     "level": "N5",
-    "source": "jmdict:部屋"
+    "source": "jmdict:部屋",
+    "meaningVi": "phòng",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ja:word:3aa4c15ae9d805a4",
@@ -6465,7 +6909,11 @@
     "reading": "やさい",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:野菜"
+    "source": "jmdict:野菜",
+    "meaningVi": "rau",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:7d620bd517906d2f",
@@ -6588,7 +7036,11 @@
     "reading": "ふꜜる",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:降る"
+    "source": "jmdict:降る",
+    "meaningVi": "rơi (mưa, tuyết)",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:9f65cbc5f21fe0d1",
@@ -6640,7 +7092,11 @@
     "partOfSpeech": "noun",
     "hanViet": "vũ",
     "level": "N5",
-    "source": "jmdict:雨"
+    "source": "jmdict:雨",
+    "meaningVi": "mưa",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:c4080e23192ca346",
@@ -6650,7 +7106,11 @@
     "reading": "ゆきꜜ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:雪"
+    "source": "jmdict:雪",
+    "meaningVi": "tuyết",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ja:word:4e760e8c49aa374f",
@@ -6681,7 +7141,11 @@
     "reading": "でんわ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:電話"
+    "source": "jmdict:電話",
+    "meaningVi": "điện thoại",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:4e2cca44d44f8f86",
@@ -6691,7 +7155,11 @@
     "reading": "でんしゃ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:電車"
+    "source": "jmdict:電車",
+    "meaningVi": "tàu điện",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:1136f7dd5918d415",
@@ -6742,7 +7210,11 @@
     "reading": "くつꜜ",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:靴"
+    "source": "jmdict:靴",
+    "meaningVi": "giày",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:2b1a80bb9ac2380d",
@@ -6762,7 +7234,11 @@
     "reading": "おꜜんがく",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:音楽"
+    "source": "jmdict:音楽",
+    "meaningVi": "âm nhạc",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ja:word:53e9ef6018eb4c15",
@@ -6847,7 +7323,11 @@
     "reading": "たべꜜる",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:食べる"
+    "source": "jmdict:食べる",
+    "meaningVi": "ăn",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:67468f267ae664ae",
@@ -6887,7 +7367,11 @@
     "reading": "のꜜむ",
     "partOfSpeech": "verb",
     "level": "N5",
-    "source": "jmdict:飲む"
+    "source": "jmdict:飲む",
+    "meaningVi": "uống",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:d2c8280c3362cc20",
@@ -6907,7 +7391,11 @@
     "reading": "えꜜき",
     "partOfSpeech": "noun",
     "level": "N5",
-    "source": "jmdict:駅"
+    "source": "jmdict:駅",
+    "meaningVi": "nhà ga",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ja:word:e5e8a47303d61d15",
@@ -6917,7 +7405,11 @@
     "reading": "たかꜜい",
     "partOfSpeech": "adj",
     "level": "N5",
-    "source": "jmdict:高い"
+    "source": "jmdict:高い",
+    "meaningVi": "đắt; cao",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:21039fa65828fa3f",
@@ -6928,7 +7420,11 @@
     "partOfSpeech": "noun",
     "hanViet": "ngư",
     "level": "N5",
-    "source": "jmdict:魚"
+    "source": "jmdict:魚",
+    "meaningVi": "cá",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ja:word:5049153aff93446d",
@@ -7163,7 +7659,11 @@
     "text": "～円",
     "reading": "～えん",
     "level": "N5",
-    "source": "jmdict:～円"
+    "source": "jmdict:～円",
+    "meaningVi": "yên (tiền Nhật)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ja:word:9ff3d748d13bb422",
@@ -7325,7 +7825,11 @@
     "text": "～歳",
     "reading": "～さい",
     "level": "N5",
-    "source": "jmdict:～歳"
+    "source": "jmdict:～歳",
+    "meaningVi": "tuổi",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ja:word:047cfef8c01f0c7c",

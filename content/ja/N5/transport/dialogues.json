@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ja:dialogue:c435ee2b476332bc",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Hỏi đường đến ga",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "通行人",
+        "text": "どうしましたか。",
+        "translationVi": "Có chuyện gì vậy?",
+        "options": [
+          {
+            "answers": [
+              "駅はどこですか。",
+              "すみません、駅はどこですか。"
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "通行人",
+        "text": "まっすぐ行って、交差点を左に曲がってください。",
+        "translationVi": "Đi thẳng, đến ngã tư thì rẽ trái.",
+        "options": [
+          {
+            "answers": [
+              "遠いですか。",
+              "歩いて何分ですか。"
+            ],
+            "next": "c"
+          },
+          {
+            "answers": [
+              "ありがとうございます。",
+              "わかりました。ありがとうございます。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "通行人",
+        "text": "いいえ、歩いて五分ぐらいです。",
+        "translationVi": "Không, đi bộ khoảng năm phút.",
+        "options": [
+          {
+            "answers": [
+              "ありがとうございました。",
+              "ありがとうございます。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "通行人",
+        "text": "気をつけて。",
+        "translationVi": "Đi cẩn thận nhé."
+      }
+    }
+  }
+]

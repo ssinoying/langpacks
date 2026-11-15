@@ -1,0 +1,137 @@
+[
+  {
+    "id": "zh-hant:exercise:56a2851f1a39fa29",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我___醫院工作。(ở)",
+    "answers": [
+      "在"
+    ],
+    "explanationVi": "Nơi chốn với 在 đứng trước động từ."
+  },
+  {
+    "id": "zh-hant:exercise:059303712f604bb6",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "你工作忙___？(câu hỏi có/không)",
+    "choices": [
+      "嗎",
+      "呢",
+      "吧"
+    ],
+    "answers": [
+      "嗎"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:fe2edfe443239279",
+    "lang": "zh-hant",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "工作 / 在 / 醫院 / 我",
+    "answers": [
+      "我在醫院工作。"
+    ],
+    "explanationVi": "在醫院 đứng trước 工作."
+  },
+  {
+    "id": "zh-hant:exercise:8012a06faec7b607",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Bạn làm việc ở đâu?",
+    "answers": [
+      "你在哪兒工作？",
+      "你在哪裡工作？"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:b992d74bcc73e9f5",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Ngày mai chúng tôi có bài kiểm tra.",
+    "answers": [
+      "我們明天有考試。",
+      "明天我們有考試。"
+    ],
+    "explanationVi": "考試 (khảo thí) = thi, kiểm tra."
+  },
+  {
+    "id": "zh-hant:exercise:04c4b053ab90671c",
+    "lang": "zh-hant",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "我和同學一起學習漢語。",
+    "answers": [
+      "我和同學一起學習漢語。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:c8514ab46237d9eb",
+    "lang": "zh-hant",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "我們的漢語老師是中國人。",
+    "answers": [
+      "我們的漢語老師是中國人。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:6d7c3bcb0e17ad7b",
+    "lang": "zh-hant",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "上班",
+    "choices": [
+      "上班",
+      "上課",
+      "下班"
+    ],
+    "answers": [
+      "上班"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:b8dcfe94518cca11",
+    "lang": "zh-hant",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Bạn cùng lớp lúc nào cũng được điểm cao nhất. Khen vui thế nào?",
+    "choices": [
+      "你真是學霸！",
+      "你是打工人。",
+      "你工作忙嗎？"
+    ],
+    "answers": [
+      "你真是學霸！"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:7cf818546525ea81",
+    "lang": "zh-hant",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "我叫小林，是中學生。我爸爸是醫生，每天很忙。\n\n小林的爸爸做什麼工作？",
+    "choices": [
+      "醫生",
+      "老師",
+      "學生"
+    ],
+    "answers": [
+      "醫生"
+    ]
+  }
+]

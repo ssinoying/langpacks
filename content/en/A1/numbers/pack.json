@@ -1,0 +1,26 @@
+{
+  "id": "en-A1-numbers",
+  "lang": "en",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "numbers",
+  "title": "Số đếm và tuổi",
+  "requires": [
+    "en-ipa"
+  ],
+  "itemIds": [
+    "en:word:acf6edcc2cca3b93",
+    "en:word:f0b6d5d8aa7480b0",
+    "en:word:076348df96675c70",
+    "en:word:d916580b6a3253a8",
+    "en:word:33fa916cbd62722d",
+    "en:word:c1b1a195e2ae7362",
+    "en:word:a37bce4af9cbfb5e",
+    "en:word:15be8c37df2d1ce3",
+    "en:word:166e758abfb12729",
+    "en:word:50234e1eaff75d3c",
+    "en:word:f76ad426e35d88a3",
+    "en:word:ab61d244a9dcf80c",
+    "en:word:3c7eef22550d83da"
+  ]
+}

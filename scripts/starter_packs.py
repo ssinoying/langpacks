@@ -199,15 +199,16 @@ def trad_pack():
 def build(lang, spec):
     lexicon_path = LEXICON / f"{lang}.json"
     lexicon = load_json(lexicon_path)
-    level, topic = spec["level"], "greetings"
+    level, topic = spec["level"], spec.get("topic", "greetings")
     words, lexicon_changed = {}, False
-    for text, reading, meaning in spec["words"]:
+    for text, reading, meaning, *pos in spec["words"]:   # optional 4th field: part of speech, for en/de homographs
         def plain(r):   # compare readings without pitch marks or syllable spaces ("míng zi" = "míngzi")
             return r.replace("ꜜ", "").replace(" ", "")
-        hit = next((i for i in lexicon if i["text"] == text and (reading is None or plain(i.get("reading", "")) == plain(reading))), None)
+        hit = next((i for i in lexicon if i["text"] == text and (reading is None or plain(i.get("reading", "")) == plain(reading))
+                    and (not pos or i.get("partOfSpeech") == pos[0])), None)
         if hit is None:
-            hit = {"lang": lang, "kind": "word", "text": text, **({"reading": reading} if reading else {}), "level": level,
-                   "source": "manual"}
+            hit = {"lang": lang, "kind": "word", "text": text, **({"reading": reading} if reading else {}),
+                   **({"partOfSpeech": pos[0]} if pos else {}), "level": level, "source": "manual"}
             hit["id"] = item_id(hit)
             lexicon.append(hit)
         if "meaningVi" not in hit:
@@ -267,6 +268,11 @@ def build(lang, spec):
 
 
 if __name__ == "__main__":
+    import importlib
     for lang, spec in PACKS.items():
         build(lang, spec)
     build("zh-hant", trad_pack())
+    # More packs per language: scripts/packs/<lang>.py, each defining PACKS = [spec, ...] in the format above plus "topic".
+    for lang in ["en", "de", "ja", "ko", "zh-hans", "zh-hant"]:
+        for spec in importlib.import_module("packs." + lang.replace("-", "_")).PACKS:
+            build(lang, spec)

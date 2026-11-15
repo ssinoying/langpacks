@@ -1,0 +1,162 @@
+[
+  {
+    "id": "de:sentence:a07bbd62bb98661d",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich habe Hunger.",
+    "meaningVi": "Tôi đói.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:sentence:965ec6662add327e",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Hast du Durst?",
+    "meaningVi": "Bạn có khát không?",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:sentence:79144c5d22a8e6d1",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich esse kein Fleisch.",
+    "meaningVi": "Tôi không ăn thịt.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:sentence:22355f1910d5effe",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Was isst du zum Frühstück?",
+    "meaningVi": "Bạn ăn gì vào bữa sáng?",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:sentence:b7c6f7a2fc4db05e",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Zum Frühstück esse ich Brot.",
+    "meaningVi": "Bữa sáng tôi ăn bánh mì.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:sentence:d516987f2a8efdaf",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Er isst gern Fisch.",
+    "meaningVi": "Anh ấy thích ăn cá.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:sentence:22a77011a14a8e25",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich trinke gern Kaffee.",
+    "meaningVi": "Tôi thích uống cà phê.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:sentence:070bed3cf3ac6c72",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich möchte ein Wasser, bitte.",
+    "meaningVi": "Cho tôi một chai nước.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:sentence:17f288f73360cd7a",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Möchtest du einen Tee?",
+    "meaningVi": "Bạn muốn uống trà không?",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:sentence:c34d0b38e8b50100",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Das Gemüse schmeckt gut.",
+    "meaningVi": "Rau ngon.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:grammar:5ee872b7896e40fb",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "essen: e → i (du isst, er isst)",
+    "explanationVi": "Một số động từ đổi nguyên âm ở du và er/sie: ich esse, du isst, er isst; wir/Sie essen. Tiếng Việt \"ăn\" không bao giờ đổi; người Việt hay nói sai *du esst.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:grammar:8fd41f06fb334a43",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Hunger haben, Durst haben: đói, khát",
+    "explanationVi": "Tiếng Đức nói \"có cơn đói\": Ich habe Hunger, Hast du Durst? Tiếng Việt dùng tính từ (tôi đói), nên người Việt hay nói sai *Ich bin Hunger. Hunger, Durst là danh từ nên viết hoa.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:slang:66d45c2a1fcb940a",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Lecker!",
+    "meaningVi": "Ngon!",
+    "explanationVi": "Khen món ăn, rất thông dụng, người lớn cũng nói. Trang trọng hơn: Das schmeckt sehr gut.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "de:slang:f19c7fbd13253f8d",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Mahlzeit!",
+    "meaningVi": "Chúc ăn ngon (ở chỗ làm)",
+    "explanationVi": "Đồng nghiệp chào nhau quanh giờ ăn trưa ở công ty. Ở nhà hay ở nhà hàng thì nói Guten Appetit!",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  }
+]

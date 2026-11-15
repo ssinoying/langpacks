@@ -1,0 +1,24 @@
+{
+  "id": "zh-hans-HSK1-food",
+  "lang": "zh-hans",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "food",
+  "title": "Ăn uống",
+  "requires": [],
+  "itemIds": [
+    "zh-hans:word:e52bacf917465e6a",
+    "zh-hans:word:f5c759dacaab6c0a",
+    "zh-hans:word:30b1fbfc19bf9e81",
+    "zh-hans:word:b7fa4e82468935d9",
+    "zh-hans:word:a2ad6d9db8b17287",
+    "zh-hans:word:31d791cb8e39a722",
+    "zh-hans:word:059325724d4f9491",
+    "zh-hans:word:c5e42f871c0deaa0",
+    "zh-hans:word:7e71b8a9c2e594df",
+    "zh-hans:word:fa035aed5e3411a3",
+    "zh-hans:word:279500cb0e511af7",
+    "zh-hans:word:c3f0dfa3dde9be02",
+    "zh-hans:word:40cbdb0ffac30392"
+  ]
+}

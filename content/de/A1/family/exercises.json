@@ -1,0 +1,142 @@
+[
+  {
+    "id": "de:exercise:1c57d304d666d65c",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Das ist ___ Mutter. (của tôi)",
+    "choices": [
+      "mein",
+      "meine"
+    ],
+    "answers": [
+      "meine"
+    ],
+    "explanationVi": "Mutter là die (giống cái) nên dùng meine."
+  },
+  {
+    "id": "de:exercise:cc4a0cf2eea54d2c",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "___ Vater ist Lehrer. (của tôi)",
+    "choices": [
+      "Mein",
+      "Meine"
+    ],
+    "answers": [
+      "Mein"
+    ],
+    "explanationVi": "Vater là der (giống đực) nên dùng mein."
+  },
+  {
+    "id": "de:exercise:bfa061d4b5489a5f",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "Mein Bruder ist nicht verheiratet, er ist ___. (độc thân)",
+    "answers": [
+      "ledig"
+    ]
+  },
+  {
+    "id": "de:exercise:7ae108ebaba689ea",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "wohnt / Familie / wo / deine",
+    "answers": [
+      "Wo wohnt deine Familie?"
+    ],
+    "explanationVi": "Từ hỏi wo đứng đầu, động từ đứng thứ hai."
+  },
+  {
+    "id": "de:exercise:0a6b256601ae2bc2",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi có một anh trai.",
+    "answers": [
+      "Ich habe einen Bruder.",
+      "Ich habe einen älteren Bruder.",
+      "Ich habe einen großen Bruder."
+    ],
+    "explanationVi": "Tiếng Đức không phân biệt anh hay em: Bruder là cả hai."
+  },
+  {
+    "id": "de:exercise:8771776552feaa96",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Sie haben einen Sohn und eine Tochter.",
+    "answers": [
+      "Sie haben einen Sohn und eine Tochter."
+    ]
+  },
+  {
+    "id": "de:exercise:c465396731f05f44",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Meine Oma und mein Opa wohnen in Hanoi.",
+    "answers": [
+      "Meine Oma und mein Opa wohnen in Hanoi."
+    ]
+  },
+  {
+    "id": "de:exercise:ba3c82a3fbdf0105",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Tochter",
+    "choices": [
+      "Tochter",
+      "Doktor",
+      "Mutter"
+    ],
+    "answers": [
+      "Tochter"
+    ]
+  },
+  {
+    "id": "de:exercise:ede032e52a54fa0e",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Nói với bạn thân về mẹ của mình. Câu nào tự nhiên nhất?",
+    "choices": [
+      "Meine Mama kocht super.",
+      "Ihre Mutter kocht super.",
+      "Mein Mama kocht super."
+    ],
+    "answers": [
+      "Meine Mama kocht super."
+    ],
+    "explanationVi": "Ihre Mutter là mẹ của ông/bà; Mama là die nên phải là meine."
+  },
+  {
+    "id": "de:exercise:d91a700474f3e821",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Ich heiße Minh. Ich bin verheiratet. Meine Frau heißt Lan. Wir haben eine Tochter, sie ist drei.\n\nWer ist Lan?",
+    "choices": [
+      "die Frau von Minh",
+      "die Tochter von Minh",
+      "die Mutter von Minh"
+    ],
+    "answers": [
+      "die Frau von Minh"
+    ]
+  }
+]

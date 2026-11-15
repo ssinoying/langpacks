@@ -395,7 +395,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 49,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "nhà",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:2549694e503c8f35",
@@ -550,7 +554,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 74,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "won (tiền Hàn)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:547ef9e927025161",
@@ -580,7 +588,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 77,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "người (đơn vị đếm người)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:f5a686087a06fe6d",
@@ -773,7 +785,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 106,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mẹ",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:85b2704eab7430ff",
@@ -865,7 +881,11 @@
     "partOfSpeech": "num",
     "level": "TOPIK1",
     "frequencyRank": 119,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "một (số thuần Hàn)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:0f57a9cb957fffc0",
@@ -897,7 +917,11 @@
     "hanViet": "vận động",
     "level": "TOPIK1",
     "frequencyRank": 123,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "thể thao, tập thể dục",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:afb43b8a53aee6ff",
@@ -919,7 +943,11 @@
     "hanViet": "học chò",
     "level": "TOPIK1",
     "frequencyRank": 125,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "trường học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:a11bca0c698581b5",
@@ -1021,7 +1049,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 140,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "tiền",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:c240d2c324c0c54e",
@@ -1114,7 +1146,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 153,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bố, cha",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:fdfb674d11197dc0",
@@ -1196,7 +1232,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 165,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "nước",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:2d9679133adaafbd",
@@ -1250,7 +1290,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 173,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "đường",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:222f7f5ef01fd8f0",
@@ -1344,7 +1388,11 @@
     "partOfSpeech": "det",
     "level": "TOPIK1",
     "frequencyRank": 186,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mấy, bao nhiêu",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:9899e4d33b61948e",
@@ -1418,7 +1466,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 199,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mua",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:faa6309fd01a38ff",
@@ -1546,7 +1598,11 @@
     "explanationVi": "Hán tự: 冊.",
     "level": "TOPIK1",
     "frequencyRank": 215,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "sách",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:21ab64cb5a600348",
@@ -1752,7 +1808,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 243,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "xuống (xe)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:a9c20766689c99f0",
@@ -1844,7 +1904,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 260,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "đi (xe), lên (xe)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:14405e8c77ad4834",
@@ -2036,7 +2100,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 310,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "hôm nay",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:e1ff861009e33300",
@@ -2068,7 +2136,11 @@
     "hanViet": "phòng",
     "level": "TOPIK1",
     "frequencyRank": 318,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "phòng",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:3d794f62fa2e4729",
@@ -2078,7 +2150,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 323,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "buổi sáng",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:d3ebed3df2d04413",
@@ -2159,7 +2235,11 @@
     "explanationVi": "Hán tự: 映畵.",
     "level": "TOPIK1",
     "frequencyRank": 341,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "phim",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:95eaa9e3fec20cbb",
@@ -2201,7 +2281,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 353,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cơm, bữa ăn",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:308681938018e075",
@@ -2241,7 +2325,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 365,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "uống",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:c565b36286277a8a",
@@ -2363,7 +2451,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 383,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cà phê",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:a4e4a9d15013c92a",
@@ -2395,7 +2487,11 @@
     "hanViet": "hội xã",
     "level": "TOPIK1",
     "frequencyRank": 389,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "công ty",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:73974f163da6ce03",
@@ -2436,7 +2532,11 @@
     "explanationVi": "Hán tự: 飮食.",
     "level": "TOPIK1",
     "frequencyRank": 395,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "món ăn, đồ ăn",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:1d04f7941ec74c50",
@@ -2478,7 +2578,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 402,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bao nhiêu (tiền)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:d28c283f8a4529a6",
@@ -2512,7 +2616,11 @@
     "hanViet": "gia tộc",
     "level": "TOPIK1",
     "frequencyRank": 409,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "gia đình",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:0c0fa0c950c68449",
@@ -2566,7 +2674,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 429,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "tuổi",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:91230ffe43c062b7",
@@ -2586,7 +2698,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 438,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "thích",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:f81fbd13f76a3758",
@@ -2606,7 +2722,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 441,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "học (từ ai đó)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:0501a64d1d71ac5c",
@@ -2750,7 +2870,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 487,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bài hát, hát",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:10667228e0b5c8d5",
@@ -2802,7 +2926,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 497,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "chị gái (em gái gọi)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:0b29b1acc2e22341",
@@ -2899,7 +3027,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 530,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "quần áo",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:9e3adf75af22fdb2",
@@ -2931,7 +3063,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 536,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bà",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:f7591f2c4d5b43c6",
@@ -2943,7 +3079,11 @@
     "hanViet": "hội nghị",
     "level": "TOPIK1",
     "frequencyRank": 537,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cuộc họp",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:54db52b32cac0eab",
@@ -3015,7 +3155,11 @@
     "hanViet": "thì gian",
     "level": "TOPIK1",
     "frequencyRank": 551,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "thời gian, tiếng đồng hồ",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:811bcc3fd67b68cd",
@@ -3067,7 +3211,11 @@
     "partOfSpeech": "num",
     "level": "TOPIK1",
     "frequencyRank": 575,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "hai (số thuần Hàn)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:89aadd48931596ab",
@@ -3097,7 +3245,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 581,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "tuổi (đơn vị đếm tuổi)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:4f1834b73af89555",
@@ -3109,7 +3261,11 @@
     "hanViet": "âm lạc",
     "level": "TOPIK1",
     "frequencyRank": 586,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "âm nhạc",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:1695d31ecd7705f5",
@@ -3139,7 +3295,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 592,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mưa",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:b082d4f63659aec5",
@@ -3214,7 +3374,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 602,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "em",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:b55bce74c1a12a8d",
@@ -3236,7 +3400,11 @@
     "hanViet": "ngọ hậu",
     "level": "TOPIK1",
     "frequencyRank": 606,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "buổi chiều",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:36e74c1159cebaa3",
@@ -3350,7 +3518,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 634,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "buổi tối",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:48b58cc7298eba3d",
@@ -3370,7 +3542,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 638,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "rộng",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:4cc87327e3ce513a",
@@ -3382,7 +3558,11 @@
     "hanViet": "thí nghiệm",
     "level": "TOPIK1",
     "frequencyRank": 639,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "kỳ thi, bài thi",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:6a3c1166eccf3cea",
@@ -3414,7 +3594,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 648,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "gần",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:835157e87612bf8a",
@@ -3468,7 +3652,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 657,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bán",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:3f732b6ce70c4d03",
@@ -3488,7 +3676,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 661,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "làm việc",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:091879c76d8aa4ad",
@@ -3620,7 +3812,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 698,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "dạy",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:8bf9ec6979cefe79",
@@ -3654,7 +3850,11 @@
     "hanViet": "huynh",
     "level": "TOPIK1",
     "frequencyRank": 702,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "anh trai (em trai gọi)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:1ba1a5c43c51f6bd",
@@ -3684,7 +3884,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 718,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "xa",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:e2031773b50841f1",
@@ -3694,7 +3898,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 719,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "xe buýt",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:50e9f9c004399a37",
@@ -3717,7 +3925,11 @@
     "explanationVi": "Hán tự: 寫眞.",
     "level": "TOPIK1",
     "frequencyRank": 728,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ảnh",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:8a7180ed68b85c2e",
@@ -3830,7 +4042,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 766,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mùa hè",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:7fb9fdadee63eab5",
@@ -3914,7 +4130,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 807,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:3dc0d707379410ed",
@@ -4038,7 +4258,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 851,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "chung cư",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:c0599997396e4f37",
@@ -4202,7 +4426,11 @@
     "hanViet": "thụ nghiệp",
     "level": "TOPIK1",
     "frequencyRank": 919,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "giờ học, tiết học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:7f93be05ab3a88b1",
@@ -4212,7 +4440,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 920,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mùa đông",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:b7b25856ac8ed8af",
@@ -4381,7 +4613,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 972,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mùa xuân",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:689aa71fcefcbd0f",
@@ -4434,7 +4670,11 @@
     "explanationVi": "Hán tự: 旅行.",
     "level": "TOPIK1",
     "frequencyRank": 984,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "du lịch",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:de9c61e817762eed",
@@ -4488,7 +4728,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1000,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "anh trai (em gái gọi)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:b6810542de05b40a",
@@ -4560,7 +4804,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 1020,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ngon",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:ddaca8e6efbda29c",
@@ -4667,7 +4915,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 1077,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "trong, quang đãng",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:409a4258edf467bb",
@@ -4824,7 +5076,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 1130,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "kết hôn",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:ce2e321dc0bc525d",
@@ -4834,7 +5090,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1140,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "chị gái (em trai gọi)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:5170cfd8a2f9126f",
@@ -4867,7 +5127,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1160,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bố mẹ",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:594e929703739d9d",
@@ -4971,7 +5235,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1195,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cửa hàng",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:e642d82c9f0d9843",
@@ -5097,7 +5365,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1268,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mùa thu",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:89db772517f0b8d4",
@@ -5108,7 +5380,11 @@
     "explanationVi": "Hán tự: 來日.",
     "level": "TOPIK1",
     "frequencyRank": 1270,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ngày mai",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:7a5fd55e0e389a81",
@@ -5152,7 +5428,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1291,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "thời tiết",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:e16fd743cbf5816d",
@@ -5248,7 +5528,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 1312,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ấm áp",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:87dc169184f9a904",
@@ -5259,7 +5543,11 @@
     "explanationVi": "Hán tự: 蹴球.",
     "level": "TOPIK1",
     "frequencyRank": 1317,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bóng đá",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:ed19e0c9cd00884a",
@@ -5324,7 +5612,11 @@
     "explanationVi": "Hán tự: 敎室.",
     "level": "TOPIK1",
     "frequencyRank": 1339,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "lớp học, phòng học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:a859abfbf7cd23fa",
@@ -5399,7 +5691,11 @@
     "explanationVi": "Hán tự: 食堂.",
     "level": "TOPIK1",
     "frequencyRank": 1393,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "quán ăn, nhà hàng",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:8792bb2aece3f0e5",
@@ -5559,7 +5855,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 1471,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "sạch sẽ",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:4be23cfbe4d48afd",
@@ -5667,7 +5967,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1530,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cái túi, cặp",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:36a55b5de1db257d",
@@ -5807,7 +6111,11 @@
     "explanationVi": "Hán tự: 宿題.",
     "level": "TOPIK1",
     "frequencyRank": 1627,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bài tập về nhà",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:6965074f0cd3348d",
@@ -5840,7 +6148,11 @@
     "explanationVi": "Hán tự: 冊床.",
     "level": "TOPIK1",
     "frequencyRank": 1653,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bàn học, bàn làm việc",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:17471b21e0456be2",
@@ -5850,7 +6162,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 1654,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "lạnh",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:917c783363988347",
@@ -5880,7 +6196,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1663,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "gió",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:8f2a554ef76fedf4",
@@ -5891,7 +6211,11 @@
     "explanationVi": "Hán tự: 寢臺.",
     "level": "TOPIK1",
     "frequencyRank": 1670,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "giường",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:d59a548a38d28182",
@@ -6067,7 +6391,11 @@
     "hanViet": "địa hạ thiết",
     "level": "TOPIK1",
     "frequencyRank": 1755,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "tàu điện ngầm",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:6fca5a20ae040fbb",
@@ -6079,7 +6407,11 @@
     "hanViet": "sự vụ thất",
     "level": "TOPIK1",
     "frequencyRank": 1781,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "văn phòng",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:dd1063f76cd3ad71",
@@ -6124,7 +6456,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 1819,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "đắt",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:e179860784b54992",
@@ -6134,7 +6470,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1822,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bên trái",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:3c68a6709cf627c9",
@@ -6144,7 +6484,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1824,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "taxi",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:8a41f630d650a19e",
@@ -6154,7 +6498,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 1844,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mát mẻ",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:e63aa5d8206f65fd",
@@ -6268,7 +6616,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 1897,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bên phải",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:57970ae40cb4fe07",
@@ -6291,7 +6643,11 @@
     "explanationVi": "Hán tự: 化粧室.",
     "level": "TOPIK1",
     "frequencyRank": 1904,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "nhà vệ sinh",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:b2815f2e8a6d28f8",
@@ -6303,7 +6659,11 @@
     "hanViet": "chu mạt",
     "level": "TOPIK1",
     "frequencyRank": 1933,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cuối tuần",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:c0e2a0740b8eca59",
@@ -6349,7 +6709,11 @@
     "hanViet": "sinh nhật",
     "level": "TOPIK1",
     "frequencyRank": 1963,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "sinh nhật",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:748193bea8ef3359",
@@ -6359,7 +6723,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 1970,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "đi bộ (đến)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:9421e00cd6fa790b",
@@ -6371,7 +6739,11 @@
     "hanViet": "bá hoá điếm",
     "level": "TOPIK1",
     "frequencyRank": 1974,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "trung tâm thương mại",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:a0f95c4b8f250177",
@@ -6479,7 +6851,11 @@
     "explanationVi": "Hán tự: 窓門.",
     "level": "TOPIK1",
     "frequencyRank": 2033,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cửa sổ",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:c68ff814f239f839",
@@ -6575,7 +6951,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 2159,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bếp",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:b4b070b239281c56",
@@ -6605,7 +6985,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 2184,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "thẻ",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:178cd756a22c5704",
@@ -6637,7 +7021,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 2199,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "giày dép",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:ce921a046f96a98a",
@@ -6647,7 +7035,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 2207,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "kim chi",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:c5913dfad9853c9e",
@@ -6678,7 +7070,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 2240,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "rẻ",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:f1f227af8283d6b3",
@@ -6688,7 +7084,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 2252,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "hôm qua",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:d8cc75f56ce2899e",
@@ -6731,7 +7131,11 @@
     "explanationVi": "Hán tự: 椅子.",
     "level": "TOPIK1",
     "frequencyRank": 2292,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ghế",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:534346c15bb7e613",
@@ -6892,7 +7296,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 2465,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cắt; bớt giá",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "ko:word:a6256528bf4c9782",
@@ -6945,7 +7353,11 @@
     "hanViet": "quí tiết",
     "level": "TOPIK1",
     "frequencyRank": 2520,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mùa",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:90f452a9507fc8eb",
@@ -7070,7 +7482,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 2636,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ghét, không thích",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:72b77bcaf33d1cec",
@@ -7159,7 +7575,11 @@
     "hanViet": "thú vị",
     "level": "TOPIK1",
     "frequencyRank": 2671,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "sở thích",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:7759c7d079da78e9",
@@ -7169,7 +7589,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 2678,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "nóng",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "ko:word:b0133e9e9e6182bc",
@@ -7271,7 +7695,11 @@
     "partOfSpeech": "num",
     "level": "TOPIK1",
     "frequencyRank": 2771,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ba (số thuần Hàn)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:47e0896954f0fcb6",
@@ -7368,7 +7796,11 @@
     "explanationVi": "Hán tự: 水泳.",
     "level": "TOPIK1",
     "frequencyRank": 2899,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bơi lội",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:8c8168da94a443fb",
@@ -7571,7 +8003,11 @@
     "explanationVi": "Hán tự: 冷藏庫.",
     "level": "TOPIK1",
     "frequencyRank": 3311,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "tủ lạnh",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:99a7f2f22114d265",
@@ -7691,7 +8127,11 @@
     "explanationVi": "Hán tự: 電話番號.",
     "level": "TOPIK1",
     "frequencyRank": 3836,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "số điện thoại",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:7d99a1837c6780b5",
@@ -7749,7 +8189,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 3924,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ăn",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:98ffacd56e498625",
@@ -7811,7 +8255,11 @@
     "partOfSpeech": "det",
     "level": "TOPIK1",
     "frequencyRank": 4078,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "hai mươi (đứng trước đơn vị đếm)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:79a4566228729f54",
@@ -7823,7 +8271,11 @@
     "hanViet": "dịch",
     "level": "TOPIK1",
     "frequencyRank": 4087,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ga, nhà ga",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:acddd3a96328ff8a",
@@ -7939,7 +8391,11 @@
     "hanViet": "đại học chò",
     "level": "TOPIK1",
     "frequencyRank": 4416,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "trường đại học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "ko:word:05bf4ba32413a3ca",
@@ -8078,7 +8534,11 @@
     "explanationVi": "Hán tự: 月曜日.",
     "level": "TOPIK1",
     "frequencyRank": 4823,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "thứ hai",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:ab10ff04cb3af7e5",
@@ -8120,7 +8580,11 @@
     "partOfSpeech": "verb",
     "level": "TOPIK1",
     "frequencyRank": 4946,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "dọn dẹp",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "ko:word:1eda0fd51076005e",
@@ -8142,7 +8606,11 @@
     "hanViet": "đăng sơn",
     "level": "TOPIK1",
     "frequencyRank": 4996,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "leo núi",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "ko:word:8ca5921cea1adba0",
@@ -8152,7 +8620,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 5002,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "thực đơn",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:6c321303f77c6ec9",
@@ -8432,7 +8904,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 5905,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "đói bụng",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:d0bf46db6fac3bb5",
@@ -8466,7 +8942,11 @@
     "hanViet": "đình lưu trường",
     "level": "TOPIK1",
     "frequencyRank": 5966,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bến xe, trạm dừng",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "ko:word:b0d19bbf6d0032e4",
@@ -8476,7 +8956,11 @@
     "partOfSpeech": "adj",
     "level": "TOPIK1",
     "frequencyRank": 6050,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cay",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:d4874931571ea16d",
@@ -8487,7 +8971,11 @@
     "explanationVi": "Hán tự: 女同生.",
     "level": "TOPIK1",
     "frequencyRank": 6102,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "em gái",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:eed1b1c52848e128",
@@ -8681,7 +9169,11 @@
     "partOfSpeech": "num",
     "level": "TOPIK1",
     "frequencyRank": 6980,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "bốn (số thuần Hàn)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:755dc4bb38a9210b",
@@ -8793,7 +9285,11 @@
     "partOfSpeech": "num",
     "level": "TOPIK1",
     "frequencyRank": 7476,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "năm (số thuần Hàn)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:4726ca644159c8f6",
@@ -8824,7 +9320,11 @@
     "explanationVi": "Hán tự: 曜日.",
     "level": "TOPIK1",
     "frequencyRank": 7586,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "thứ (trong tuần)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:2404ebc9e2e86231",
@@ -8869,7 +9369,11 @@
     "explanationVi": "Hán tự: 金曜日.",
     "level": "TOPIK1",
     "frequencyRank": 7714,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "thứ sáu",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "ko:word:b000884db4d8f920",
@@ -9074,7 +9578,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 9077,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "em trai",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "ko:word:47bcaffd64d386cf",
@@ -9116,7 +9624,11 @@
     "partOfSpeech": "num",
     "level": "TOPIK1",
     "frequencyRank": 9266,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "mười (số thuần Hàn)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:61e517a1f5f81f74",
@@ -9364,7 +9876,11 @@
     "partOfSpeech": "num",
     "level": "TOPIK1",
     "frequencyRank": 12580,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "ba mươi (số thuần Hàn)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "ko:word:b492303fe32c09dc",
@@ -9416,7 +9932,11 @@
     "partOfSpeech": "noun",
     "level": "TOPIK1",
     "frequencyRank": 13411,
-    "source": "nikl:학습용어휘"
+    "source": "nikl:학습용어휘",
+    "meaningVi": "cơm trộn bibimbap",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "ko:word:4988d0082028a8c9",

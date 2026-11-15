@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ko:exercise:9264d250224a69d1",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "아침 일곱 시___ 일어나요. (lúc)",
+    "choices": [
+      "에",
+      "에서",
+      "을",
+      "는"
+    ],
+    "answers": [
+      "에"
+    ],
+    "explanationVi": "Mốc thời gian dùng 에."
+  },
+  {
+    "id": "ko:exercise:8f217862df4213cb",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "오후 ___ 시예요. (3)",
+    "choices": [
+      "세",
+      "삼",
+      "셋",
+      "석"
+    ],
+    "answers": [
+      "세"
+    ],
+    "explanationVi": "Giờ dùng số thuần Hàn; 셋 rút thành 세 trước 시. 삼 là số Hán Hàn."
+  },
+  {
+    "id": "ko:exercise:0daba6c4aedcb891",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "오늘은 무슨 ___이에요? (thứ)",
+    "answers": [
+      "요일"
+    ]
+  },
+  {
+    "id": "ko:exercise:0d622b3b99274074",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "일해요 / 금요일까지 / 월요일부터",
+    "answers": [
+      "월요일부터 금요일까지 일해요."
+    ]
+  },
+  {
+    "id": "ko:exercise:7aefa5037ef86696",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Cuối tuần bạn có rảnh không?",
+    "answers": [
+      "주말에 시간 있어요?",
+      "주말에 시간이 있어요?"
+    ],
+    "explanationVi": "Tiếng Hàn hỏi \"có thời gian không\": 시간 있어요?"
+  },
+  {
+    "id": "ko:exercise:1574a692810664ad",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "어제 저녁에 친구를 만났어요.",
+    "answers": [
+      "어제 저녁에 친구를 만났어요."
+    ]
+  },
+  {
+    "id": "ko:exercise:96763ce2ecd9dc9d",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "제 생일은 오월 십일이에요.",
+    "answers": [
+      "제 생일은 오월 십일이에요."
+    ]
+  },
+  {
+    "id": "ko:exercise:171a0e36909f9362",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "금요일",
+    "choices": [
+      "금요일",
+      "목요일",
+      "월요일",
+      "일요일"
+    ],
+    "answers": [
+      "금요일"
+    ],
+    "explanationVi": "금 = kim (thứ sáu), 목 = mộc (thứ năm), 월 = nguyệt (thứ hai), 일 = nhật (chủ nhật)."
+  },
+  {
+    "id": "ko:exercise:4727fe9a18fbcdf3",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "저는 월요일부터 금요일까지 일해요. 토요일에는 친구를 만나요. 일요일에는 집에서 쉬어요.\n\n이 사람은 일요일에 뭐 해요?",
+    "choices": [
+      "일해요",
+      "친구를 만나요",
+      "집에서 쉬어요"
+    ],
+    "answers": [
+      "집에서 쉬어요"
+    ]
+  },
+  {
+    "id": "ko:exercise:b34a532f1f42237c",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Bạn muốn hỏi đồng nghiệp bây giờ là mấy giờ.",
+    "choices": [
+      "지금 몇 시예요?",
+      "지금 몇 시간이에요?",
+      "오늘은 무슨 요일이에요?"
+    ],
+    "answers": [
+      "지금 몇 시예요?"
+    ],
+    "explanationVi": "시 là giờ (mốc), 시간 là khoảng thời gian (mấy tiếng)."
+  }
+]

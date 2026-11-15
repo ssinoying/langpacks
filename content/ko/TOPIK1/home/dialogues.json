@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ko:dialogue:d66d6805636716a8",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Thăm nhà bạn",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "지수",
+        "text": "어서 와요! 여기가 우리 집이에요.",
+        "translationVi": "Vào đi! Đây là nhà mình.",
+        "options": [
+          {
+            "answers": [
+              "와, 집이 정말 넓어요!",
+              "집이 정말 깨끗해요!"
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "지수",
+        "text": "고마워요. 뭐 마실래요?",
+        "translationVi": "Cảm ơn. Bạn uống gì không?",
+        "options": [
+          {
+            "answers": [
+              "물 주세요.",
+              "물 한 잔 주세요."
+            ],
+            "next": "c"
+          },
+          {
+            "answers": [
+              "괜찮아요. 화장실이 어디에 있어요?",
+              "화장실이 어디예요?"
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "지수",
+        "text": "냉장고에 주스도 있어요. 편하게 앉으세요.",
+        "translationVi": "Tủ lạnh có cả nước ép. Cứ ngồi tự nhiên nhé.",
+        "options": [
+          {
+            "answers": [
+              "감사합니다.",
+              "고마워요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "지수",
+        "text": "부엌 옆에 있어요.",
+        "translationVi": "Ở cạnh bếp.",
+        "options": [
+          {
+            "answers": [
+              "감사합니다.",
+              "고마워요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "지수",
+        "text": "편하게 있어요!",
+        "translationVi": "Cứ tự nhiên nhé!"
+      }
+    }
+  }
+]

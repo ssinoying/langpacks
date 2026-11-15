@@ -1,0 +1,25 @@
+{
+  "id": "en-A1-transport",
+  "lang": "en",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "transport",
+  "title": "Đi lại và hỏi đường",
+  "requires": [
+    "en-ipa"
+  ],
+  "itemIds": [
+    "en:word:e571b9c8d01d5112",
+    "en:word:cbda8eca9f51ce3e",
+    "en:word:34a16e26d6773c75",
+    "en:word:2009038a02e2fcae",
+    "en:word:b2835e32f642af79",
+    "en:word:facd8cdeb6d099f2",
+    "en:word:20085416a1dbdf53",
+    "en:word:cb8a0fad2306704f",
+    "en:word:5b480122f62a2947",
+    "en:word:7a8e3b8021d248d0",
+    "en:word:da3efde8e9b2e78e",
+    "en:word:42b63dabf1955c2f"
+  ]
+}

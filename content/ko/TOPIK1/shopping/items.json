@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ko:sentence:6bab5fa31a18a38a",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "이거 얼마예요?",
+    "meaningVi": "Cái này bao nhiêu tiền?",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:dd49092aafa7edd2",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "만 오천 원이에요.",
+    "meaningVi": "Mười lăm nghìn won.",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:769d775b6d5850a5",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "너무 비싸요. 좀 깎아 주세요.",
+    "meaningVi": "Đắt quá. Bớt cho tôi chút đi.",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:e04129a70a1fba89",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "포장해 주세요.",
+    "meaningVi": "Gói lại giúp tôi.",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:f7e7c4c6ebf67262",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "이 가게는 옷이 싸요.",
+    "meaningVi": "Cửa hàng này quần áo rẻ.",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:dbdbfa7467cf6aa6",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "백화점에서 가방을 샀어요.",
+    "meaningVi": "Tôi đã mua túi ở trung tâm thương mại.",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:95affcf8a89736ca",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "카드로 계산해도 돼요?",
+    "meaningVi": "Tôi trả bằng thẻ được không?",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:97da62b1af12a2e8",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "이 신발 다른 색깔 있어요?",
+    "meaningVi": "Đôi giày này có màu khác không?",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:78fcc1da5f956bb6",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "돈이 없어서 못 사요.",
+    "meaningVi": "Không có tiền nên không mua được.",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:f512f6cdf6ad0c3d",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "시장에서 과일을 팔아요.",
+    "meaningVi": "Ở chợ có bán hoa quả.",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:sentence:ac07299e8ff114c6",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "이걸로 주세요.",
+    "meaningVi": "Lấy cho tôi cái này.",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:grammar:d3ee2729039a6d9d",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "V-아/어 주세요 (làm ơn làm gì cho tôi)",
+    "explanationVi": "Nhờ người khác làm gì: 깎다 → 깎아 주세요, 포장하다 → 포장해 주세요. Giống \"... giúp tôi\", \"... cho tôi\" trong tiếng Việt, nhưng 주세요 luôn đứng cuối.",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:grammar:c7c1a400aca60891",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "N(으)로: bằng (phương tiện, cách trả)",
+    "explanationVi": "로/으로 = \"bằng\": 카드로 (bằng thẻ), 현금으로 (bằng tiền mặt). Danh từ không có patchim hoặc tận cùng ㄹ dùng 로, có patchim dùng 으로. 이걸로 주세요 = lấy cái này (chọn cái này).",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:slang:c214e24485e59543",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "가성비",
+    "meaningVi": "Đáng đồng tiền (tỉ lệ giá và chất lượng).",
+    "explanationVi": "Rút gọn từ 가격 대비 성능. Rất phổ biến, cả trên báo và quảng cáo: 가성비가 좋아요.",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ko:slang:12caae85c772a557",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "지름신",
+    "meaningVi": "\"Thần mua sắm\", cơn muốn mua đồ.",
+    "explanationVi": "Nói đùa khi lỡ mua thứ không cần: 지름신이 왔어요. Dùng với bạn bè.",
+    "register": "slang",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "shopping"
+    ]
+  }
+]

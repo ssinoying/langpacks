@@ -1,0 +1,133 @@
+[
+  {
+    "id": "zh-hant:exercise:3d058373a726e101",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "電腦在桌子___。(trên)",
+    "answers": [
+      "上"
+    ],
+    "explanationVi": "Từ chỉ vị trí đứng sau danh từ: 桌子上."
+  },
+  {
+    "id": "zh-hant:exercise:b723efbf497d547f",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "你住___哪兒？(ở)",
+    "answers": [
+      "在"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:2b1daa1b1a6e253d",
+    "lang": "zh-hant",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "旁邊 / 洗手間 / 在 / 我房間",
+    "answers": [
+      "洗手間在我房間旁邊。"
+    ],
+    "explanationVi": "旁邊 đứng sau 我房間."
+  },
+  {
+    "id": "zh-hant:exercise:a8ba3cdf8ad6b875",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Tôi sống ở Hà Nội.",
+    "answers": [
+      "我住在河內。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:ddd82694b01a49a9",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Nhà vệ sinh ở đâu?",
+    "answers": [
+      "洗手間在哪兒？",
+      "洗手間在哪裡？",
+      "廁所在哪兒？",
+      "廁所在哪裡？"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:59973e71011bbf21",
+    "lang": "zh-hant",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "我的房間裡有一張床和一張桌子。",
+    "answers": [
+      "我的房間裡有一張床和一張桌子。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:399bb9142f2988ca",
+    "lang": "zh-hant",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "家裡有電視嗎？",
+    "answers": [
+      "家裡有電視嗎？"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:ab441ed01113d195",
+    "lang": "zh-hant",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "電腦",
+    "choices": [
+      "電腦",
+      "電視",
+      "電話"
+    ],
+    "answers": [
+      "電腦"
+    ],
+    "explanationVi": "電腦 (điện não) = máy tính, 電視 (điện thị) = tivi."
+  },
+  {
+    "id": "zh-hant:exercise:1ce4a572bd6ba8e5",
+    "lang": "zh-hant",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Bạn rủ đi chơi cuối tuần nhưng bạn chỉ muốn ở nhà. Câu nào tự nhiên?",
+    "choices": [
+      "我想在家宅著。",
+      "我住在河內。",
+      "洗手間在哪兒？"
+    ],
+    "answers": [
+      "我想在家宅著。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:38d6f83324afd2ea",
+    "lang": "zh-hant",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "小李住在北京。他的房子不大，有兩個房間。\n\n小李的房子有幾個房間？",
+    "choices": [
+      "兩個",
+      "一個",
+      "三個"
+    ],
+    "answers": [
+      "兩個"
+    ]
+  }
+]

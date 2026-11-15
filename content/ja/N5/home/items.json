@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ja:sentence:d20dc59d0a436906",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "私の部屋は二階にあります。",
+    "meaningVi": "Phòng tôi ở tầng hai.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:sentence:8bbcc3de8a27f0f8",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "このアパートは駅から近いです。",
+    "meaningVi": "Căn hộ này gần ga.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:sentence:8d44dd690506e7f1",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "台所に冷蔵庫があります。",
+    "meaningVi": "Trong bếp có tủ lạnh.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:sentence:bd7087eef303c0c2",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "机の上に本があります。",
+    "meaningVi": "Trên bàn có quyển sách.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:sentence:35745edbd7a008cd",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "椅子の下に猫がいます。",
+    "meaningVi": "Dưới ghế có con mèo.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:sentence:8683c715b9a4a0c8",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "ベッドの横に窓があります。",
+    "meaningVi": "Bên cạnh giường có cửa sổ.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:sentence:a702330b5385ad6e",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "トイレはどこですか。",
+    "meaningVi": "Nhà vệ sinh ở đâu?",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:sentence:8c9c130beacdebdb",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "毎晩お風呂に入ります。",
+    "meaningVi": "Tối nào tôi cũng tắm bồn.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:sentence:c7e186412cf86c9c",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "窓を開けてもいいですか。",
+    "meaningVi": "Tôi mở cửa sổ được không?",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:sentence:92a7fec1963827e2",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "田中さんの家は広いですね。",
+    "meaningVi": "Nhà anh Tanaka rộng nhỉ.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:grammar:26b9f6e975c93532",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "N1 の 上 / 下 / 横 に N2 が あります",
+    "explanationVi": "Chỉ vị trí: 机の上 = trên bàn. Tiếng Việt nói \"trên bàn\", tiếng Nhật nói ngược \"bàn の trên\". Con vật, người dùng います: 椅子の下に猫がいます.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:grammar:6884ebc4bdd835b7",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "N は Địa điểm に あります: cái gì ở đâu",
+    "explanationVi": "Khi đồ vật đã biết là chủ đề: 部屋は二階にあります = Phòng ở tầng hai. Hỏi \"ở đâu\" dùng どこですか.",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "ja:slang:8453131f48ea96da",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "駅近",
+    "meaningVi": "Gần ga.",
+    "explanationVi": "Rút gọn của 駅に近い, rất hay gặp trên quảng cáo thuê nhà và khi nói chuyện về chỗ ở.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "home"
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "ko:sentence:da3ec174fe49fe6f",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저는 대학교에서 한국어를 공부해요.",
+    "meaningVi": "Tôi học tiếng Hàn ở trường đại học.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:dd8c28c43dd046af",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "형은 회사에서 일해요.",
+    "meaningVi": "Anh trai tôi làm việc ở công ty.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:de2050887c1ad43c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "수업이 아홉 시에 시작해요.",
+    "meaningVi": "Giờ học bắt đầu lúc chín giờ.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:4cd6672cfbdf6a96",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "내일 시험이 있어서 바빠요.",
+    "meaningVi": "Mai có thi nên tôi bận.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:9b424554a99fc338",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "숙제를 아직 못 했어요.",
+    "meaningVi": "Tôi vẫn chưa làm được bài tập.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:ccb54866feac4809",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "교실에 학생이 많아요.",
+    "meaningVi": "Trong lớp có nhiều học sinh.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:01cfba633c7ed60f",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "오후에 회의가 있어요.",
+    "meaningVi": "Chiều nay có cuộc họp.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:30fdc7ed8554dacd",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "지금 회의하고 있어요.",
+    "meaningVi": "Bây giờ tôi đang họp.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:e9b6590b3b2c1a03",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "사무실이 몇 층이에요?",
+    "meaningVi": "Văn phòng ở tầng mấy?",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:48aefdf17489970c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "김 선생님은 영어를 가르치세요.",
+    "meaningVi": "Thầy Kim dạy tiếng Anh.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:1b167138662ad8c7",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "요즘 한국어를 배우고 있어요.",
+    "meaningVi": "Dạo này tôi đang học tiếng Hàn.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:sentence:0476d9fa053b1855",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "학교가 끝나고 아르바이트를 해요.",
+    "meaningVi": "Tan học xong tôi đi làm thêm.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:grammar:46d8e2335db8a700",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "N에서 V (làm gì ở đâu)",
+    "explanationVi": "Nơi diễn ra hành động dùng 에서: 회사에서 일해요 = làm việc ở công ty. Khác 에 dùng với 있다, 가다: 회사에 있어요, 회사에 가요. Tiếng Việt đều là \"ở\", nên người Việt hay nhầm *회사에 일해요.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:grammar:a9dbab1b5d24b617",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "V-고 있어요 (đang làm)",
+    "explanationVi": "Diễn tả việc đang diễn ra, như \"đang\": 배우고 있어요 = đang học. Gắn -고 있어요 vào gốc động từ, không đổi theo patchim.",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:slang:f18988c892fca99c",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "알바",
+    "meaningVi": "Việc làm thêm (rút gọn 아르바이트, gốc tiếng Đức Arbeit).",
+    "explanationVi": "Dùng rất phổ biến, cả khi nói lịch sự: 알바해요.",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ko:slang:8c28d4be9ba6a190",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "칼퇴",
+    "meaningVi": "Tan làm đúng giờ.",
+    "explanationVi": "칼 (dao) + 퇴근 (tan làm): về đúng giờ, gọn như dao cắt. Nói với đồng nghiệp thân, không nói với sếp.",
+    "register": "slang",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "school-work"
+    ]
+  }
+]

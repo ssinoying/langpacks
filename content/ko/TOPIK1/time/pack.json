@@ -1,0 +1,25 @@
+{
+  "id": "ko-TOPIK1-time",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "time",
+  "title": "Giờ, ngày, thứ",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:a1c7c16376ac3e08",
+    "ko:word:a3e83db61e1ea9a1",
+    "ko:word:89db772517f0b8d4",
+    "ko:word:f1f227af8283d6b3",
+    "ko:word:3d794f62fa2e4729",
+    "ko:word:6378bf1148401160",
+    "ko:word:43247449793f53b6",
+    "ko:word:c576088750d502e2",
+    "ko:word:8aa8d9f9fb60cb7f",
+    "ko:word:b2815f2e8a6d28f8",
+    "ko:word:5a1bf28c7c385089",
+    "ko:word:eebf5ac5d3300000"
+  ]
+}

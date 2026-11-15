@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ja:sentence:1f624759e236435e",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "私は音楽が好きです。",
+    "meaningVi": "Tôi thích âm nhạc.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:sentence:de4f7a4a98b2dff5",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "どんなスポーツが好きですか。",
+    "meaningVi": "Bạn thích môn thể thao nào?",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:sentence:667113c1534a8833",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "週末はよく映画を見ます。",
+    "meaningVi": "Cuối tuần tôi hay xem phim.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:sentence:60d505422bc7e5d0",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "兄はギターがとても上手です。",
+    "meaningVi": "Anh trai tôi chơi ghi-ta rất giỏi.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:sentence:7d2d8a1b765ccd18",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "カラオケで歌を歌います。",
+    "meaningVi": "Tôi hát ở quán karaoke.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:sentence:b7715f5f2671b3c4",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "夏休みに海で泳ぎました。",
+    "meaningVi": "Kỳ nghỉ hè tôi đã bơi ở biển.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:sentence:441ff7dedd0d8bf6",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "写真を撮るのが好きです。",
+    "meaningVi": "Tôi thích chụp ảnh.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:sentence:0601f10d480bc191",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "寝る前に本を読みます。",
+    "meaningVi": "Tôi đọc sách trước khi ngủ.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:sentence:303b822660431c9e",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "うるさい音楽が嫌いです。",
+    "meaningVi": "Tôi ghét nhạc ồn ào.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:sentence:ddfae7641f64c795",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "スポーツはあまり好きじゃありません。",
+    "meaningVi": "Tôi không thích thể thao lắm.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:grammar:2434e269a95696d7",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "N が 好きです / 嫌いです",
+    "explanationVi": "Thích, ghét cái gì thì dùng が: 音楽が好きです. Tiếng Việt \"thích X\" không cần trợ từ, người Việt hay dùng nhầm を.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:grammar:a6150abb071773e5",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "あまり + phủ định: không ... lắm",
+    "explanationVi": "あまり phải đi với thể phủ định: あまり好きじゃありません = không thích lắm. Giống \"không ... lắm\" trong tiếng Việt.",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:slang:7d74bf070d5282c3",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "推し",
+    "meaningVi": "Thần tượng mình ủng hộ nhất.",
+    "explanationVi": "Người hâm mộ dùng cho idol, nhân vật yêu thích: 私の推しはこの人. Dùng với bạn bè, trên mạng xã hội.",
+    "register": "slang",
+    "status": "trending",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ja:slang:0e01166b332c00ed",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "ハマる",
+    "meaningVi": "Mê, nghiện (một thứ gì đó).",
+    "explanationVi": "Nói về sở thích mới: 最近ギターにハマっています. Thân mật nhưng nói với đồng nghiệp vẫn được.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "hobbies"
+    ]
+  }
+]

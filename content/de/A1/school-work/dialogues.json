@@ -1,0 +1,66 @@
+[
+  {
+    "id": "de:dialogue:c6672db4c8a05751",
+    "lang": "de",
+    "level": "A1",
+    "title": "Nói về công việc",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Herr Klein",
+        "text": "Was machen Sie beruflich?",
+        "translationVi": "Anh/chị làm nghề gì?",
+        "options": [
+          {
+            "answers": [
+              "Ich bin Student.",
+              "Ich bin Studentin.",
+              "Ich studiere."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Ich arbeite bei einer Firma.",
+              "Ich arbeite."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Herr Klein",
+        "text": "Ah, und was studieren Sie?",
+        "translationVi": "À, thế anh/chị học ngành gì?",
+        "options": [
+          {
+            "answers": [
+              "Ich studiere Informatik.",
+              "Informatik."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Herr Klein",
+        "text": "Interessant! Ist die Arbeit schwer?",
+        "translationVi": "Thú vị đấy! Công việc có vất vả không?",
+        "options": [
+          {
+            "answers": [
+              "Nein, sie macht Spaß.",
+              "Ja, ein bisschen."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Herr Klein",
+        "text": "Viel Erfolg!",
+        "translationVi": "Chúc thành công!"
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "from": "ja:word:050690cc5906ceea",
+    "to": "ja:sentence:52f0989b0efe5b6b",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:787218a89daee181",
+    "to": "ja:sentence:dc46a7749394a3dc",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:af489f649bcd6394",
+    "to": "ja:sentence:6e1bb4ae3dfe604d",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:3dd853c602dfb424",
+    "to": "ja:sentence:313c232053da750c",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:d83cb3b055b139e3",
+    "to": "ja:sentence:7f679e807e034cb8",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:b33cf1b27fa1ad36",
+    "to": "ja:sentence:7f679e807e034cb8",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:c361079e9a4c05d6",
+    "to": "ja:sentence:bf55f1932a2d81f2",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:a3b0b9a267bc1bda",
+    "to": "ja:sentence:bf55f1932a2d81f2",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:f7a496c5bcd9523c",
+    "to": "ja:sentence:2fed6b1bf5ebf86f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:28f2f98ad22c7116",
+    "to": "ja:sentence:e161d4f0903aaf15",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:f71cf873eac38684",
+    "to": "ja:sentence:e2e791f63cd0c558",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:f68f110ca8779597",
+    "to": "ja:sentence:878fff0f572bc89f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:a3b0b9a267bc1bda",
+    "to": "ja:sentence:878fff0f572bc89f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:sentence:dc46a7749394a3dc",
+    "to": "ja:grammar:5d9476d2217254d3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ja:sentence:e161d4f0903aaf15",
+    "to": "ja:grammar:5d9476d2217254d3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ja:sentence:e2e791f63cd0c558",
+    "to": "ja:grammar:5d9476d2217254d3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ja:sentence:313c232053da750c",
+    "to": "ja:grammar:ba2bca7e40605ae6",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ja:sentence:7f679e807e034cb8",
+    "to": "ja:grammar:ba2bca7e40605ae6",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ja:sentence:6e1bb4ae3dfe604d",
+    "to": "ja:slang:478a4a39148432db",
+    "kind": "book-reallife"
+  },
+  {
+    "from": "ja:sentence:e161d4f0903aaf15",
+    "to": "ja:slang:889d6d6de974fb80",
+    "kind": "book-reallife"
+  }
+]

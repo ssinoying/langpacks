@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ja:sentence:c2712a1535f4fe42",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "いただきます。",
+    "meaningVi": "Mời mọi người ăn (nói trước khi ăn).",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:2470c6a90944660e",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "ごちそうさまでした。",
+    "meaningVi": "Cảm ơn vì bữa ăn (nói sau khi ăn).",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:d098a05104c1c029",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "朝御飯を食べましたか。",
+    "meaningVi": "Bạn ăn sáng chưa?",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:11f17d835014331c",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "毎朝、卵とパンを食べます。",
+    "meaningVi": "Sáng nào tôi cũng ăn trứng và bánh mì.",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:8b75bcd7df99a8b5",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "お茶を飲みませんか。",
+    "meaningVi": "Uống trà không?",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:78c803406f5b66a0",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "水をください。",
+    "meaningVi": "Cho tôi nước.",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:43bb5be31445a4b2",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "このラーメンはとても美味しいです。",
+    "meaningVi": "Mì ramen này rất ngon.",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:9dbfd849ff082d58",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "肉と魚とどちらが好きですか。",
+    "meaningVi": "Bạn thích thịt hay cá hơn?",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:3c13115ef55071e5",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "野菜も食べてください。",
+    "meaningVi": "Ăn cả rau nữa nhé.",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:fa4d65a0befe62c7",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "このケーキは甘いです。",
+    "meaningVi": "Bánh này ngọt.",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:sentence:f63a00315273183f",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "一緒に御飯を食べましょう。",
+    "meaningVi": "Cùng ăn cơm nhé.",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:grammar:ed28a82e67c34f6a",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "N を V ます: を đánh dấu tân ngữ",
+    "explanationVi": "を (đọc \"o\") đứng sau thứ bị tác động, động từ ở cuối câu. Tiếng Việt: ăn trứng → tiếng Nhật: 卵を食べます (trứng / を / ăn).",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:grammar:9417d353be2daae5",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "V ませんか / V ましょう: rủ rê",
+    "explanationVi": "V ませんか là lời mời lịch sự \"... không?\", không phải câu phủ định. V ましょう = \"cùng ... nhé\". お茶を飲みませんか = Uống trà không?",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:slang:ff9c5889f8d709d2",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "うまい",
+    "meaningVi": "Ngon!",
+    "explanationVi": "Nam giới hay dùng thay 美味しい khi ăn với bạn bè. Ở nhà hàng sang hoặc với người trên nên dùng 美味しい.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja:slang:95bcc4ad70c948cb",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "腹減った",
+    "meaningVi": "Đói bụng quá.",
+    "explanationVi": "Câu nói thân mật, nam giới hay dùng. Lịch sự hơn: お腹がすきました.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "food"
+    ]
+  }
+]

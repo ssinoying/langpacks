@@ -1,0 +1,69 @@
+[
+  {
+    "id": "en:dialogue:96162e468ac2ac93",
+    "lang": "en",
+    "level": "A1",
+    "title": "Hẹn giờ gặp",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Anna",
+        "text": "Are you free tomorrow?",
+        "translationVi": "Mai bạn rảnh không?",
+        "options": [
+          {
+            "answers": [
+              "Yes, I am.",
+              "Yes.",
+              "Yes, I'm free."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "No, sorry. I'm busy tomorrow.",
+              "No, I'm not.",
+              "Sorry, I'm busy."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Anna",
+        "text": "Great! Let's meet at ten o'clock.",
+        "translationVi": "Tuyệt! Gặp nhau lúc mười giờ nhé.",
+        "options": [
+          {
+            "answers": [
+              "OK, see you at ten!",
+              "OK!",
+              "Sounds good."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Anna",
+        "text": "No problem. What about Sunday?",
+        "translationVi": "Không sao. Thế Chủ nhật thì sao?",
+        "options": [
+          {
+            "answers": [
+              "Sunday is fine.",
+              "OK, Sunday.",
+              "Yes, Sunday is good."
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Anna",
+        "text": "See you then!",
+        "translationVi": "Hẹn gặp nhé!"
+      }
+    }
+  }
+]

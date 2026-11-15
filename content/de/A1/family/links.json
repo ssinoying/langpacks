@@ -1,0 +1,122 @@
+[
+  {
+    "from": "de:word:81bef24734654a31",
+    "to": "de:sentence:6fdd48307159d59d",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:406fd79483a95c34",
+    "to": "de:sentence:9e6d67f5ed9e6c62",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:93413e66b85a8aa4",
+    "to": "de:sentence:c1d001512d153e50",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:3c949876de55a8e3",
+    "to": "de:sentence:51cd0be0aafb50ab",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:5ade8aabc89b98e6",
+    "to": "de:sentence:51cd0be0aafb50ab",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:5ade8aabc89b98e6",
+    "to": "de:sentence:d8e35d22e139e4b2",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:86c611d1095750d5",
+    "to": "de:sentence:d8e35d22e139e4b2",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:3c949876de55a8e3",
+    "to": "de:sentence:1770ecfb73b066c8",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:d5aded9d67a5603b",
+    "to": "de:sentence:1770ecfb73b066c8",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:f023eb7c7b7c6bcf",
+    "to": "de:sentence:d334ca6bbdd56d9f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:a97382bd1479e8d6",
+    "to": "de:sentence:d334ca6bbdd56d9f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:7013c082246be56f",
+    "to": "de:sentence:36f55617b87f813f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:26c8620409f43a5d",
+    "to": "de:sentence:36f55617b87f813f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:9d3e19af9012a2eb",
+    "to": "de:sentence:36f55617b87f813f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:9d3e19af9012a2eb",
+    "to": "de:sentence:e4773baabd53b1e1",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:word:81bef24734654a31",
+    "to": "de:sentence:e4773baabd53b1e1",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "de:sentence:6fdd48307159d59d",
+    "to": "de:grammar:782fd90cf0c90087",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "de:sentence:9e6d67f5ed9e6c62",
+    "to": "de:grammar:782fd90cf0c90087",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "de:sentence:c1d001512d153e50",
+    "to": "de:grammar:782fd90cf0c90087",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "de:sentence:e4773baabd53b1e1",
+    "to": "de:grammar:782fd90cf0c90087",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "de:sentence:e168b5ffb0ee2e84",
+    "to": "de:grammar:523339d4db81b064",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "de:sentence:51cd0be0aafb50ab",
+    "to": "de:grammar:523339d4db81b064",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "de:sentence:9e6d67f5ed9e6c62",
+    "to": "de:slang:86cf27625f0b0f28",
+    "kind": "book-reallife"
+  },
+  {
+    "from": "de:sentence:c1d001512d153e50",
+    "to": "de:slang:ff8d82187b899488",
+    "kind": "book-reallife"
+  }
+]

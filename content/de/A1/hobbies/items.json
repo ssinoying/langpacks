@@ -1,0 +1,173 @@
+[
+  {
+    "id": "de:sentence:285f202c0877eb85",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Was machst du in deiner Freizeit?",
+    "meaningVi": "Bạn làm gì lúc rảnh?",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:1e5f5bb84c385c48",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Was ist dein Hobby?",
+    "meaningVi": "Sở thích của bạn là gì?",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:6e6718cd3f9ecfde",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich spiele gern Fußball.",
+    "meaningVi": "Tôi thích chơi bóng đá.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:6b4d220f7c925ac6",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich koche gern.",
+    "meaningVi": "Tôi thích nấu ăn.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:35486ef125fd9a83",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Liest du gern?",
+    "meaningVi": "Bạn có thích đọc sách không?",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:a97823f85c6848bd",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Er liest jeden Abend ein Buch.",
+    "meaningVi": "Tối nào anh ấy cũng đọc sách.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:8e2869815fecbfbe",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich schwimme nicht gern.",
+    "meaningVi": "Tôi không thích bơi.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:5b76feb5e017f96b",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Tanzt du gern?",
+    "meaningVi": "Bạn có thích nhảy không?",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:9b63fa40134f994f",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wir gehen am Wochenende ins Kino.",
+    "meaningVi": "Cuối tuần chúng tôi đi xem phim.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:6db2e925d7c9e1a3",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Der Film ist sehr gut.",
+    "meaningVi": "Bộ phim rất hay.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:sentence:96e2698a702e0090",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Sport macht Spaß.",
+    "meaningVi": "Chơi thể thao vui.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:grammar:60b44caa07adbb70",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Động từ + gern: thích làm gì",
+    "explanationVi": "Tiếng Việt nói \"thích + động từ\" (tôi thích nấu ăn). Tiếng Đức chia động từ trước rồi thêm gern sau: Ich koche gern. Không thích: nicht gern. Không nói *Ich gern koche.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:grammar:77f0e90aa58563fd",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "lesen: e → ie (du liest, er liest)",
+    "explanationVi": "lesen đổi nguyên âm ở du và er/sie: ich lese, du liest, er liest; wir/Sie lesen. Giống essen → isst, đây là nhóm động từ phải học thuộc.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:slang:99a3e817d6a81551",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Bock haben",
+    "meaningVi": "có hứng, muốn làm",
+    "explanationVi": "Hast du Bock auf Kino? = Có hứng đi xem phim không? Rất phổ biến với giới trẻ; không dùng với sếp hay người lạ.",
+    "register": "slang",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "de:slang:8fa4c3e045e8d832",
+    "lang": "de",
+    "kind": "slang",
+    "text": "chillen",
+    "meaningVi": "thư giãn, nằm nghỉ",
+    "explanationVi": "Mượn từ tiếng Anh chill: Ich chille zu Hause. Dùng với bạn bè.",
+    "register": "slang",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "zh-hant:dialogue:c0a7e36ba37b0429",
+    "lang": "zh-hant",
+    "level": "HSK1",
+    "title": "Hẹn ngày gặp",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "小張",
+        "text": "明天你有時間嗎？",
+        "translationVi": "Mai bạn có rảnh không?",
+        "options": [
+          {
+            "answers": [
+              "有。",
+              "有時間。",
+              "我有時間。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "沒有，明天我很忙。",
+              "沒有。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "小張",
+        "text": "我們明天下午三點見，好嗎？",
+        "translationVi": "Mình gặp nhau lúc ba giờ chiều mai nhé?",
+        "options": [
+          {
+            "answers": [
+              "好的。",
+              "好，明天見！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "小張",
+        "text": "那星期六呢？",
+        "translationVi": "Vậy thứ Bảy thì sao?",
+        "options": [
+          {
+            "answers": [
+              "星期六可以。",
+              "可以。",
+              "好的。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "小張",
+        "text": "好，到時候見！",
+        "translationVi": "Ừ, đến lúc đó gặp nhé!"
+      }
+    }
+  }
+]

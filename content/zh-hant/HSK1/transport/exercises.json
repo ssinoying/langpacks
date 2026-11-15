@@ -1,0 +1,132 @@
+[
+  {
+    "id": "zh-hant:exercise:d3c9322ab6bcff7b",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我___飛機去北京。(đi bằng)",
+    "answers": [
+      "坐"
+    ],
+    "explanationVi": "Đi phương tiện dùng 坐."
+  },
+  {
+    "id": "zh-hant:exercise:d1c1e960432051b5",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "請問，車站___走？(thế nào)",
+    "answers": [
+      "怎麼"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:cf949b223896c841",
+    "lang": "zh-hant",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "去 / 我 / 北京 / 坐飛機",
+    "answers": [
+      "我坐飛機去北京。"
+    ],
+    "explanationVi": "Phương tiện đứng trước 去."
+  },
+  {
+    "id": "zh-hant:exercise:a3fd64f4eba265c9",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Sân bay có xa không?",
+    "answers": [
+      "機場遠嗎？",
+      "機場遠不遠？"
+    ],
+    "explanationVi": "機場 (cơ trường) = sân bay."
+  },
+  {
+    "id": "zh-hant:exercise:527762e2ea0a7a9b",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Bạn đến trường bằng gì?",
+    "answers": [
+      "你怎麼去學校？"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:f7bfdacb76f41b9d",
+    "lang": "zh-hant",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "車站在路口左邊。",
+    "answers": [
+      "車站在路口左邊。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:ea4b2fc749eb6aa6",
+    "lang": "zh-hant",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "請問，車站怎麼走？",
+    "answers": [
+      "請問，車站怎麼走？"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:24abe8e4ec068e75",
+    "lang": "zh-hant",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "右邊",
+    "choices": [
+      "右邊",
+      "左邊",
+      "旁邊"
+    ],
+    "answers": [
+      "右邊"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:861666a677991b0f",
+    "lang": "zh-hant",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Lạc đường, muốn hỏi một người lạ. Câu mở đầu nào lịch sự?",
+    "choices": [
+      "請問，車站怎麼走？",
+      "喂，車站呢？",
+      "我是路癡。"
+    ],
+    "answers": [
+      "請問，車站怎麼走？"
+    ],
+    "explanationVi": "請問 mở đầu câu hỏi lịch sự."
+  },
+  {
+    "id": "zh-hant:exercise:6672d798495ac498",
+    "lang": "zh-hant",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "小王家離機場很遠。他打車去機場，要一個小時。\n\n小王怎麼去機場？",
+    "choices": [
+      "打車",
+      "坐火車",
+      "走路"
+    ],
+    "answers": [
+      "打車"
+    ]
+  }
+]

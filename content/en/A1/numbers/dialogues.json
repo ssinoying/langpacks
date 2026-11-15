@@ -1,0 +1,70 @@
+[
+  {
+    "id": "en:dialogue:a2ccccbb9f8f4d91",
+    "lang": "en",
+    "level": "A1",
+    "title": "Hỏi tuổi bạn mới",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Tom",
+        "text": "Hi! How old are you?",
+        "translationVi": "Chào! Bạn bao nhiêu tuổi?",
+        "options": [
+          {
+            "answers": [
+              "I'm twenty.",
+              "I'm twenty years old.",
+              "I am twenty years old.",
+              "I am twenty."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "I'm in my twenties.",
+              "Guess!"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Tom",
+        "text": "Oh, me too! How many people are in your family?",
+        "translationVi": "Ồ, mình cũng vậy! Nhà bạn có mấy người?",
+        "options": [
+          {
+            "answers": [
+              "Four.",
+              "There are four people.",
+              "Four people.",
+              "There are four people in my family."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Tom",
+        "text": "Ha! OK. I'm twenty-one.",
+        "translationVi": "Ha! Được rồi. Mình hai mươi mốt tuổi.",
+        "options": [
+          {
+            "answers": [
+              "Me too!",
+              "Really? Me too!",
+              "Cool!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Tom",
+        "text": "Nice! Let's be friends.",
+        "translationVi": "Hay quá! Làm bạn nhé."
+      }
+    }
+  }
+]

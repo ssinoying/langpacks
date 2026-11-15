@@ -1,0 +1,143 @@
+[
+  {
+    "id": "en:exercise:4f20620dd906fe4b",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Look! It ___ now. (đang mưa)",
+    "answers": [
+      "is raining"
+    ],
+    "explanationVi": "now: việc đang xảy ra nên dùng is + V-ing."
+  },
+  {
+    "id": "en:exercise:da611d3d9b4e073c",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "It ___ a lot in summer. (thường mưa)",
+    "choices": [
+      "rains",
+      "is raining",
+      "rain"
+    ],
+    "answers": [
+      "rains"
+    ],
+    "explanationVi": "Sự thật, thói quen dùng hiện tại đơn; chủ ngữ It nên thêm -s."
+  },
+  {
+    "id": "en:exercise:7c6e7abe2aa0cecb",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "It's very ___ in winter. (lạnh)",
+    "answers": [
+      "cold"
+    ]
+  },
+  {
+    "id": "en:exercise:ace628166ef71fe2",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "like / what's / today / the weather",
+    "answers": [
+      "What's the weather like today?",
+      "What is the weather like today?"
+    ],
+    "explanationVi": "like ở đây nghĩa là \"như thế nào\" và đứng sau the weather."
+  },
+  {
+    "id": "en:exercise:803f2506e780fe65",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Trời nắng và nóng.",
+    "answers": [
+      "It's sunny and hot.",
+      "It is sunny and hot.",
+      "It's hot and sunny.",
+      "It is hot and sunny."
+    ],
+    "explanationVi": "Phải có It; không dịch \"trời\" thành sky."
+  },
+  {
+    "id": "en:exercise:83c2ebc3637cd470",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "My favourite season is autumn.",
+    "answers": [
+      "My favourite season is autumn.",
+      "My favorite season is autumn."
+    ],
+    "explanationVi": "Anh viết favourite, Mỹ viết favorite."
+  },
+  {
+    "id": "en:exercise:a14701e355c3b459",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Spring is warm and beautiful.",
+    "answers": [
+      "Spring is warm and beautiful."
+    ]
+  },
+  {
+    "id": "en:exercise:1a13c88f5793d1a3",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "cold",
+    "choices": [
+      "cold",
+      "called",
+      "coat"
+    ],
+    "answers": [
+      "cold"
+    ],
+    "explanationVi": "cold có âm /əʊ/ và kết thúc bằng /ld/."
+  },
+  {
+    "id": "en:exercise:92fdaf2d62929ed1",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "In Hanoi, summer is hot and it rains a lot. Winter is cold and cloudy, but it doesn't snow.\n\nMùa đông ở Hà Nội có tuyết không?",
+    "choices": [
+      "Yes, it does.",
+      "No, it doesn't."
+    ],
+    "answers": [
+      "No, it doesn't."
+    ]
+  },
+  {
+    "id": "en:exercise:19d30bbb07d2aaab",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Trời mưa rất to, bạn nhắn tin cho bạn thân. Câu nào tự nhiên?",
+    "choices": [
+      "It's pouring!",
+      "The sky is crying water.",
+      "It rains big."
+    ],
+    "answers": [
+      "It's pouring!"
+    ],
+    "explanationVi": "It rains big là dịch từng chữ \"mưa to\"; người bản xứ nói It's pouring hoặc It's raining hard."
+  }
+]

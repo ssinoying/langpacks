@@ -1,0 +1,26 @@
+{
+  "id": "ja-N5-school-work",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "school-work",
+  "title": "Trường học và công việc",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:afcd19fedba79bbb",
+    "ja:word:66bd61417ed0da36",
+    "ja:word:9f76d6da63d7dce6",
+    "ja:word:0bff3db6eacc8ff0",
+    "ja:word:7ff726d9ee416215",
+    "ja:word:8c2beb80be501962",
+    "ja:word:7b9c390c0a4db08e",
+    "ja:word:649440d8b7a04848",
+    "ja:word:349f234e5829a205",
+    "ja:word:3e0bd83dc70c82c4",
+    "ja:word:551706b2a1887e71",
+    "ja:word:08fa3dcb1fdde0d8",
+    "ja:word:27fb5c8692ccbab8"
+  ]
+}

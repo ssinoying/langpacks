@@ -1,0 +1,148 @@
+[
+  {
+    "id": "de:sentence:eccc5c24b33a63dd",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wie komme ich zum Bahnhof?",
+    "meaningVi": "Đến nhà ga đi thế nào?",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:sentence:620b16e6c088e0f6",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Gehen Sie hier links.",
+    "meaningVi": "Ông/bà rẽ trái ở đây.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:sentence:50dd86acbf6381e9",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Dann gehen Sie die zweite Straße rechts.",
+    "meaningVi": "Sau đó ông/bà rẽ phải ở đường thứ hai.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:sentence:2acfaf20b7a2b15b",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Der Bahnhof ist nicht weit.",
+    "meaningVi": "Nhà ga không xa.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:sentence:d30852c61c20a240",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wo ist die Haltestelle?",
+    "meaningVi": "Trạm xe ở đâu?",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:sentence:e24caff73dfd5f12",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich fahre mit dem Bus zur Arbeit.",
+    "meaningVi": "Tôi đi làm bằng xe buýt.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:sentence:ac4bfeb6dd6efe50",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Fährst du mit dem Fahrrad?",
+    "meaningVi": "Bạn đi xe đạp à?",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:sentence:d426036b102aca13",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Der Zug kommt um zehn Uhr.",
+    "meaningVi": "Tàu đến lúc mười giờ.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:sentence:77a5ac2c180b7c4b",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wo kann ich eine Fahrkarte kaufen?",
+    "meaningVi": "Tôi mua vé ở đâu?",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:sentence:278f2e2ee645b2d0",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Sie steigen an der nächsten Haltestelle aus.",
+    "meaningVi": "Ông/bà xuống ở trạm kế tiếp.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:grammar:94ff0c78b9cf98e1",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "fahren: a → ä; mit dem Bus fahren",
+    "explanationVi": "fahren đổi nguyên âm ở du và er: ich fahre, du fährst, er fährt. Đi bằng phương tiện gì: mit dem Bus, mit dem Fahrrad. Tiếng Việt chỉ có một chữ \"đi\"; tiếng Đức đi bộ là gehen, đi bằng xe là fahren.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:grammar:86c8f03133b36025",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Động từ tách: aussteigen → steigen … aus",
+    "explanationVi": "Nhiều động từ có tiền tố tách ra khi chia: aussteigen → Sie steigen an der nächsten Haltestelle aus. Phần aus chạy về cuối câu. Tiếng Việt \"xuống xe\" đi liền, người Việt hay quên đặt aus cuối câu.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "de:slang:33807ae935626512",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Öffis",
+    "meaningVi": "phương tiện công cộng",
+    "explanationVi": "Cách nói thân mật cho xe buýt, tàu điện… (öffentliche Verkehrsmittel), rất phổ biến ở Áo và nhiều vùng ở Đức.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  }
+]

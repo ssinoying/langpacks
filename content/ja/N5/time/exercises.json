@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ja:exercise:2b92678800d07518",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "九時___会社へ行きます。",
+    "choices": [
+      "に",
+      "を",
+      "は",
+      "で"
+    ],
+    "answers": [
+      "に"
+    ],
+    "explanationVi": "Giờ cụ thể thêm に."
+  },
+  {
+    "id": "ja:exercise:28ae123c5473f4d7",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "昨日は日曜日___。(quá khứ)",
+    "choices": [
+      "です",
+      "でした",
+      "じゃありません"
+    ],
+    "answers": [
+      "でした"
+    ],
+    "explanationVi": "Quá khứ của です là でした."
+  },
+  {
+    "id": "ja:exercise:071c0d24bd312b75",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "___は日曜日でした。(hôm qua)",
+    "answers": [
+      "昨日",
+      "きのう"
+    ]
+  },
+  {
+    "id": "ja:exercise:ae5bae8941af83f0",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "何時 / 今 / ですか",
+    "answers": [
+      "今、何時ですか。",
+      "今何時ですか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:3e8049cac07c8186",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Hôm nay là thứ Hai.",
+    "answers": [
+      "今日は月曜日です。",
+      "きょうはげつようびです。"
+    ]
+  },
+  {
+    "id": "ja:exercise:8ec60c269508c758",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "午後三時半です。",
+    "answers": [
+      "午後三時半です。",
+      "ごごさんじはんです。"
+    ]
+  },
+  {
+    "id": "ja:exercise:4493a810c966fe78",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "誕生日はいつですか。",
+    "answers": [
+      "誕生日はいつですか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:e2c6d11d18151c98",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "あした",
+    "choices": [
+      "昨日",
+      "今日",
+      "明日"
+    ],
+    "answers": [
+      "明日"
+    ]
+  },
+  {
+    "id": "ja:exercise:a0b48da5618fb1b4",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "今日は金曜日です。明日、ミンさんは友達と映画を見ます。\n\nミンさんはいつ映画を見ますか。",
+    "choices": [
+      "金曜日",
+      "土曜日",
+      "日曜日"
+    ],
+    "answers": [
+      "土曜日"
+    ],
+    "explanationVi": "Hôm nay thứ Sáu, ngày mai là thứ Bảy."
+  },
+  {
+    "id": "ja:exercise:e472e11daab71417",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Bạn bè rủ đi chơi tối nay nhưng bạn bận. Câu nào đúng?",
+    "choices": [
+      "すみません、今日は時間がありません。",
+      "昨日は時間がありませんでした。",
+      "明日は日曜日です。"
+    ],
+    "answers": [
+      "すみません、今日は時間がありません。"
+    ]
+  }
+]

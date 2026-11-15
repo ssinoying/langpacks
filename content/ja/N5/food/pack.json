@@ -1,0 +1,25 @@
+{
+  "id": "ja-N5-food",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "food",
+  "title": "Ăn uống",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:9ef9a17f9ab31024",
+    "ja:word:38bdd3ffa8e6423d",
+    "ja:word:a03b74870db3261f",
+    "ja:word:05625081c3f96f6a",
+    "ja:word:170a1d54cd3521d7",
+    "ja:word:7426a002c26eb61a",
+    "ja:word:7b2e50c5b47913c5",
+    "ja:word:48df38ac0f4b2490",
+    "ja:word:21039fa65828fa3f",
+    "ja:word:eb6f4a4545f66dfb",
+    "ja:word:01ea30120303b387",
+    "ja:word:3e14bbfdb2dd6075"
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "en:dialogue:0ae6de543e7fcaec",
+    "lang": "en",
+    "level": "A1",
+    "title": "Rủ đi chơi cuối tuần",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Jake",
+        "text": "What do you like doing at the weekend?",
+        "translationVi": "Cuối tuần bạn thích làm gì?",
+        "options": [
+          {
+            "answers": [
+              "I like playing football.",
+              "I play football.",
+              "Playing football."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "I like watching movies.",
+              "I love movies.",
+              "Watching movies."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Jake",
+        "text": "Cool! Do you want to play with us on Sunday?",
+        "translationVi": "Hay! Chủ nhật chơi với bọn mình không?",
+        "options": [
+          {
+            "answers": [
+              "Sure!",
+              "Yes, I'd love to.",
+              "Yes, please."
+            ],
+            "next": "end"
+          },
+          {
+            "answers": [
+              "Sorry, I'm busy.",
+              "Sorry, I can't."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Jake",
+        "text": "Me too! Let's go to the cinema on Saturday.",
+        "translationVi": "Mình cũng vậy! Thứ Bảy đi xem phim nhé.",
+        "options": [
+          {
+            "answers": [
+              "Good idea!",
+              "OK!",
+              "Sure, let's go."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "Jake",
+        "text": "No problem. Maybe next time!",
+        "translationVi": "Không sao. Lần sau nhé!",
+        "options": [
+          {
+            "answers": [
+              "OK, next time!",
+              "Sure."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Jake",
+        "text": "OK, talk soon!",
+        "translationVi": "Ừ, nói chuyện sau nhé!"
+      }
+    }
+  }
+]

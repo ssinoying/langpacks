@@ -1,0 +1,24 @@
+{
+  "id": "zh-hant-HSK1-numbers",
+  "lang": "zh-hant",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "numbers",
+  "title": "Số đếm và tuổi",
+  "requires": [],
+  "itemIds": [
+    "zh-hant:word:f963040da3b3c357",
+    "zh-hant:word:2fb664857e873641",
+    "zh-hant:word:04341df027ef3b9a",
+    "zh-hant:word:e3433d09e35a407f",
+    "zh-hant:word:52644b8bb9f4544a",
+    "zh-hant:word:16a2a48666ba6a91",
+    "zh-hant:word:6f5494d6a9a97cd0",
+    "zh-hant:word:8046f4ff472f2ddc",
+    "zh-hant:word:da3b4fddde4f7e46",
+    "zh-hant:word:e73670e29fbb42d0",
+    "zh-hant:word:1572d4f2fb61e7a3",
+    "zh-hant:word:d227c7d11e9a0f47",
+    "zh-hant:word:9b2a9630043f5a99"
+  ]
+}

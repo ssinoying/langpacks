@@ -1,0 +1,143 @@
+[
+  {
+    "id": "de:exercise:c2a06a343951e5da",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Wie alt ___ du? (sein)",
+    "answers": [
+      "bist"
+    ],
+    "explanationVi": "Với du, sein thành bist."
+  },
+  {
+    "id": "de:exercise:bfed404854a35dc4",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Wir ___ zwei Kinder. (haben)",
+    "answers": [
+      "haben"
+    ]
+  },
+  {
+    "id": "de:exercise:0372e1e08a5569cf",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "alt / du / bist / wie",
+    "answers": [
+      "Wie alt bist du?"
+    ],
+    "explanationVi": "Từ hỏi Wie alt đứng đầu, động từ đứng thứ hai."
+  },
+  {
+    "id": "de:exercise:deaf4d9826a1c289",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi hai mươi tuổi.",
+    "answers": [
+      "Ich bin zwanzig Jahre alt.",
+      "Ich bin zwanzig.",
+      "Ich bin 20 Jahre alt.",
+      "Ich bin 20."
+    ],
+    "explanationVi": "Phải có động từ bin: không nói *Ich zwanzig."
+  },
+  {
+    "id": "de:exercise:48cc15eed3cc4fd5",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Wie viele Kinder haben Sie?",
+    "answers": [
+      "Wie viele Kinder haben Sie?"
+    ]
+  },
+  {
+    "id": "de:exercise:cddcb7b394eaeb1a",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Heute ist mein Geburtstag.",
+    "answers": [
+      "Heute ist mein Geburtstag."
+    ]
+  },
+  {
+    "id": "de:exercise:ed51b217add8af2a",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "dreizehn",
+    "choices": [
+      "13",
+      "30",
+      "3",
+      "33"
+    ],
+    "answers": [
+      "13"
+    ],
+    "explanationVi": "-zehn là mười mấy (13), -zig là chục (30: dreißig)."
+  },
+  {
+    "id": "de:exercise:ccb992dbbe6bed0a",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "einundzwanzig",
+    "choices": [
+      "12",
+      "21",
+      "20",
+      "22"
+    ],
+    "answers": [
+      "21"
+    ],
+    "explanationVi": "Tiếng Đức đọc hàng đơn vị trước: einundzwanzig = một và hai mươi = 21."
+  },
+  {
+    "id": "de:exercise:69974eeccfe783df",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn muốn hỏi tuổi một bé năm tuổi. Câu nào tự nhiên?",
+    "choices": [
+      "Wie alt bist du?",
+      "Wie alt sind Sie?",
+      "Alter!"
+    ],
+    "answers": [
+      "Wie alt bist du?"
+    ],
+    "explanationVi": "Với trẻ em dùng du; Sie quá trang trọng."
+  },
+  {
+    "id": "de:exercise:15b9e2d45b865b3d",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Das ist Familie Weber. Herr Weber ist vierzig Jahre alt, Frau Weber ist achtunddreißig. Sie haben zwei Kinder: Tim ist acht und Lea ist fünf.\n\nWie alt ist Lea?",
+    "choices": [
+      "fünf",
+      "acht",
+      "achtunddreißig"
+    ],
+    "answers": [
+      "fünf"
+    ]
+  }
+]

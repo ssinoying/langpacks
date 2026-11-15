@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ja:dialogue:036c83f0e91355a0",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Hỏi tuổi",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "田中",
+        "text": "ミンさん、おいくつですか。",
+        "translationVi": "Anh Minh bao nhiêu tuổi?",
+        "options": [
+          {
+            "answers": [
+              "二十歳です。",
+              "はたちです。",
+              "私は二十歳です。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "ひみつです。",
+              "それはひみつです。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "田中",
+        "text": "そうですか。私も二十歳です！",
+        "translationVi": "Vậy à. Tôi cũng hai mươi tuổi!",
+        "options": [
+          {
+            "answers": [
+              "同じですね。",
+              "じゃあ、タメですね。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "田中",
+        "text": "あ、すみません。",
+        "translationVi": "À, xin lỗi.",
+        "options": [
+          {
+            "answers": [
+              "いいえ、大丈夫です。",
+              "大丈夫です。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "田中",
+        "text": "これからよろしく。",
+        "translationVi": "Từ giờ mong được giúp đỡ nhé."
+      }
+    }
+  }
+]

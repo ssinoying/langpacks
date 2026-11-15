@@ -1,0 +1,26 @@
+{
+  "id": "ko-TOPIK1-numbers",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "numbers",
+  "title": "Số đếm và tuổi",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:b8d0618ae8306105",
+    "ko:word:5c49cc4c2ffd281c",
+    "ko:word:ac25b2952e9ba17e",
+    "ko:word:47393c668d24706c",
+    "ko:word:c84890d9901ef6b1",
+    "ko:word:698adfc133873207",
+    "ko:word:0b94f5ffd93582bd",
+    "ko:word:3ff299db83adeb44",
+    "ko:word:1cd49c802e91f61e",
+    "ko:word:1817f350bc42921a",
+    "ko:word:a882e4e813c25d4f",
+    "ko:word:fa36548d43ec84dd",
+    "ko:word:a06d5418da02d6f9"
+  ]
+}

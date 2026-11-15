@@ -1,0 +1,162 @@
+[
+  {
+    "id": "de:sentence:49aa024b3b756ec0",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Meine Wohnung ist klein.",
+    "meaningVi": "Căn hộ của tôi nhỏ.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:sentence:ad0e0732c5ca9237",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Die Wohnung hat drei Zimmer.",
+    "meaningVi": "Căn hộ có ba phòng.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:sentence:12134761d20cb34a",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Es gibt eine Küche und ein Bad.",
+    "meaningVi": "Có một bếp và một phòng tắm.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:sentence:d3413faedd189e34",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Das Zimmer ist hell und groß.",
+    "meaningVi": "Căn phòng sáng và rộng.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:sentence:6c7b2b50a9b285c2",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wir haben einen Balkon.",
+    "meaningVi": "Chúng tôi có ban công.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:sentence:851b3a1fca5f3abf",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Das Bett ist im Schlafzimmer.",
+    "meaningVi": "Giường ở trong phòng ngủ.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:sentence:9f2142307c0d4b71",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Der Tisch steht in der Küche.",
+    "meaningVi": "Cái bàn ở trong bếp.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:sentence:2ba78754e6ceab58",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Das Sofa ist neu.",
+    "meaningVi": "Ghế sofa còn mới.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:sentence:7d02f3f96d0704c5",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wie hoch ist die Miete?",
+    "meaningVi": "Tiền thuê nhà bao nhiêu?",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:sentence:f9fdbb8e20355171",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Meine Eltern haben ein Haus mit Garten.",
+    "meaningVi": "Bố mẹ tôi có một ngôi nhà có vườn.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:grammar:783ab55135488375",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "es gibt: có (cái gì đó tồn tại)",
+    "explanationVi": "Nói \"ở đâu đó có cái gì\" dùng es gibt: Es gibt eine Küche und ein Bad. Tiếng Việt chỉ nói \"có\". Nói ai sở hữu gì thì dùng haben: Wir haben einen Balkon.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:grammar:329eedd4f6bf0e37",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Ở đâu: in der (die), im (der/das)",
+    "explanationVi": "Trả lời Wo? (ở đâu) bằng in: die Küche → in der Küche; das Schlafzimmer → im Schlafzimmer (im = in dem). Tiếng Việt chỉ nói \"trong\", tiếng Đức đổi mạo từ theo giống, nên học cả cụm.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:slang:9db856279cd88abb",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Bude",
+    "meaningVi": "phòng, căn hộ (nhỏ)",
+    "explanationVi": "Cách gọi thân mật chỗ ở, hay dùng với sinh viên: meine Bude. Không dùng trong hợp đồng thuê nhà.",
+    "register": "slang",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "de:slang:b779ecdc20b31dd5",
+    "lang": "de",
+    "kind": "slang",
+    "text": "WG",
+    "meaningVi": "nhà ở ghép",
+    "explanationVi": "Viết tắt Wohngemeinschaft: nhiều người thuê chung một căn hộ, mỗi người một phòng. Rất phổ biến với sinh viên.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  }
+]

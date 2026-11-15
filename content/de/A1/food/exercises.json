@@ -1,0 +1,144 @@
+[
+  {
+    "id": "de:exercise:efb7f7e7c5656586",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Was ___ du gern? (essen)",
+    "answers": [
+      "isst"
+    ],
+    "explanationVi": "Với du, essen đổi e → i: du isst."
+  },
+  {
+    "id": "de:exercise:7d06085593c353e6",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Ich habe ___. (đói)",
+    "choices": [
+      "Hunger",
+      "hungrig",
+      "Durst"
+    ],
+    "answers": [
+      "Hunger"
+    ],
+    "explanationVi": "Tiếng Đức nói có cơn đói: Hunger haben."
+  },
+  {
+    "id": "de:exercise:700c6c6fdf24401b",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "esse / zum Frühstück / ich / Brot",
+    "answers": [
+      "Zum Frühstück esse ich Brot.",
+      "Ich esse zum Frühstück Brot."
+    ],
+    "explanationVi": "Động từ luôn đứng thứ hai: đưa Zum Frühstück lên đầu thì ich ra sau động từ."
+  },
+  {
+    "id": "de:exercise:dc53f429a74712ac",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi khát.",
+    "answers": [
+      "Ich habe Durst.",
+      "Ich bin durstig."
+    ],
+    "explanationVi": "Không nói *Ich bin Durst."
+  },
+  {
+    "id": "de:exercise:58dd8abef7d147b7",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Cho tôi một ly nước.",
+    "answers": [
+      "Ich möchte ein Glas Wasser.",
+      "Ich möchte ein Wasser.",
+      "Ich möchte ein Glas Wasser, bitte.",
+      "Ich möchte ein Wasser, bitte.",
+      "Ein Glas Wasser, bitte.",
+      "Ein Wasser, bitte."
+    ]
+  },
+  {
+    "id": "de:exercise:afd8e50eb9ddc6b8",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Ich trinke gern Kaffee.",
+    "answers": [
+      "Ich trinke gern Kaffee."
+    ]
+  },
+  {
+    "id": "de:exercise:8421262642a6b260",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Das Gemüse schmeckt gut.",
+    "answers": [
+      "Das Gemüse schmeckt gut."
+    ]
+  },
+  {
+    "id": "de:exercise:188f7b02e65abcfe",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Fleisch",
+    "choices": [
+      "Fleisch",
+      "Fisch",
+      "Flasche"
+    ],
+    "answers": [
+      "Fleisch"
+    ]
+  },
+  {
+    "id": "de:exercise:1d2a69675c292971",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn ăn món bạn mình nấu, rất ngon. Câu nào tự nhiên?",
+    "choices": [
+      "Lecker!",
+      "Mahlzeit!",
+      "Ich habe Hunger."
+    ],
+    "answers": [
+      "Lecker!"
+    ],
+    "explanationVi": "Mahlzeit là lời chào giờ ăn trưa ở chỗ làm, không phải lời khen."
+  },
+  {
+    "id": "de:exercise:c1194d9e8ee75a60",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Anna isst kein Fleisch. Zum Frühstück isst sie Brot und trinkt Tee. Mittags isst sie Gemüse.\n\nWas trinkt Anna zum Frühstück?",
+    "choices": [
+      "Tee",
+      "Kaffee",
+      "Wasser"
+    ],
+    "answers": [
+      "Tee"
+    ]
+  }
+]

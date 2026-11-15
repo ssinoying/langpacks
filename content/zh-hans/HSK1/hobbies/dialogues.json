@@ -1,0 +1,65 @@
+[
+  {
+    "id": "zh-hans:dialogue:812e23a069bf32c9",
+    "lang": "zh-hans",
+    "level": "HSK1",
+    "title": "Rủ đi chơi cuối tuần",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "小雨",
+        "text": "周末你想做什么？",
+        "translationVi": "Cuối tuần bạn muốn làm gì?",
+        "options": [
+          {
+            "answers": [
+              "我想看电影。",
+              "看电影。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "我想去打球。",
+              "打球。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "小雨",
+        "text": "好啊，星期六晚上一起去吧！",
+        "translationVi": "Được đó, tối thứ Bảy cùng đi nhé!",
+        "options": [
+          {
+            "answers": [
+              "好，星期六见！",
+              "好！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "小雨",
+        "text": "我不太会打球，你教我吧！",
+        "translationVi": "Mình không giỏi chơi bóng lắm, bạn dạy mình nhé!",
+        "options": [
+          {
+            "answers": [
+              "没问题！",
+              "好啊！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "小雨",
+        "text": "太好了！",
+        "translationVi": "Tuyệt quá!"
+      }
+    }
+  }
+]

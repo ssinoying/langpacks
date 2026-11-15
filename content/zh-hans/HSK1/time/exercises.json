@@ -1,0 +1,135 @@
+[
+  {
+    "id": "zh-hans:exercise:b8be0771d56f1670",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "现在八点___。(rưỡi)",
+    "answers": [
+      "半"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:027aa9a00c2ab51c",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "今天星期___？(mấy)",
+    "answers": [
+      "几"
+    ],
+    "explanationVi": "Hỏi thứ dùng 几: 星期几."
+  },
+  {
+    "id": "zh-hans:exercise:fe2341feb4e65b7e",
+    "lang": "zh-hans",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "起床 / 六点 / 我 / 早上",
+    "answers": [
+      "我早上六点起床。",
+      "早上六点我起床。"
+    ],
+    "explanationVi": "Thời gian đứng trước động từ, từ lớn đến nhỏ."
+  },
+  {
+    "id": "zh-hans:exercise:aedf465368d6feef",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Hôm nay thứ Tư.",
+    "answers": [
+      "今天星期三。",
+      "今天是星期三。",
+      "今天礼拜三。"
+    ],
+    "explanationVi": "Thứ Tư là 星期三, lệch một so với tiếng Việt."
+  },
+  {
+    "id": "zh-hans:exercise:a5e32dac24ff8da3",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Bây giờ mấy giờ?",
+    "answers": [
+      "现在几点？",
+      "现在几点了？"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c81df93565f684db",
+    "lang": "zh-hans",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "你的生日是几月几号？",
+    "answers": [
+      "你的生日是几月几号？"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:33267ea21817581b",
+    "lang": "zh-hans",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "明天是我的生日。",
+    "answers": [
+      "明天是我的生日。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:3d12e461597aef0e",
+    "lang": "zh-hans",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "星期天",
+    "choices": [
+      "星期天",
+      "星期一",
+      "星期四"
+    ],
+    "answers": [
+      "星期天"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:0ae8118ffcab1e56",
+    "lang": "zh-hans",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Gặp hàng xóm lúc 7 giờ sáng. Chào thế nào cho tự nhiên?",
+    "choices": [
+      "早！",
+      "晚上好！",
+      "再见！"
+    ],
+    "answers": [
+      "早！"
+    ],
+    "explanationVi": "早！ là cách chào buổi sáng ngắn gọn nhất."
+  },
+  {
+    "id": "zh-hans:exercise:83bf4552047844b9",
+    "lang": "zh-hans",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "今天是星期五。明天是小李的生日。\n\n小李的生日是星期几？",
+    "choices": [
+      "星期六",
+      "星期五",
+      "星期天"
+    ],
+    "answers": [
+      "星期六"
+    ]
+  }
+]

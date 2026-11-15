@@ -1,0 +1,112 @@
+[
+  {
+    "from": "zh-hans:word:22b048007385d63c",
+    "to": "zh-hans:sentence:6a5e36303000a00d",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:4d54d3b3393d7cb0",
+    "to": "zh-hans:sentence:f95dcde79ad61ad0",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:b842d5ecff53fb7c",
+    "to": "zh-hans:sentence:f95dcde79ad61ad0",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:4763b35fa0acb94a",
+    "to": "zh-hans:sentence:46fac0b22a300c70",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:31cbab0758e1fb89",
+    "to": "zh-hans:sentence:1fb34815263d240a",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:04e6a130c807f682",
+    "to": "zh-hans:sentence:1fb34815263d240a",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:1afe49401716ee1d",
+    "to": "zh-hans:sentence:432742f710f346d4",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:e48163acf880fe80",
+    "to": "zh-hans:sentence:432742f710f346d4",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:4d54d3b3393d7cb0",
+    "to": "zh-hans:sentence:1ac4253e06a70486",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:195308487941328d",
+    "to": "zh-hans:sentence:1ac4253e06a70486",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:1afe49401716ee1d",
+    "to": "zh-hans:sentence:e05a864c52ea20d6",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:bcaecbe81ba592cf",
+    "to": "zh-hans:sentence:e05a864c52ea20d6",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:3f9a42b3805e0019",
+    "to": "zh-hans:sentence:a4c167d81b78eff9",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:4d54d3b3393d7cb0",
+    "to": "zh-hans:sentence:b4d3e24ddf75f453",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:word:04e6a130c807f682",
+    "to": "zh-hans:sentence:b4d3e24ddf75f453",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hans:sentence:f95dcde79ad61ad0",
+    "to": "zh-hans:grammar:f96a48912b7a4fb5",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "zh-hans:sentence:1ac4253e06a70486",
+    "to": "zh-hans:grammar:f96a48912b7a4fb5",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "zh-hans:sentence:b4d3e24ddf75f453",
+    "to": "zh-hans:grammar:f96a48912b7a4fb5",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "zh-hans:sentence:432742f710f346d4",
+    "to": "zh-hans:grammar:0c3374f5909cea9d",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "zh-hans:sentence:1fb34815263d240a",
+    "to": "zh-hans:grammar:0c3374f5909cea9d",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "zh-hans:sentence:e05a864c52ea20d6",
+    "to": "zh-hans:slang:b0f8d53623f6c460",
+    "kind": "book-reallife"
+  },
+  {
+    "from": "zh-hans:sentence:f95dcde79ad61ad0",
+    "to": "zh-hans:slang:a0b42433dd5cd969",
+    "kind": "book-reallife"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "de:dialogue:8b4db44a7226ac27",
+    "lang": "de",
+    "level": "A1",
+    "title": "Trời đẹp, đi chơi không?",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Mia",
+        "text": "Schau mal, die Sonne scheint! Gehen wir raus?",
+        "translationVi": "Nhìn kìa, trời nắng! Mình ra ngoài nhé?",
+        "options": [
+          {
+            "answers": [
+              "Ja, gern!",
+              "Gute Idee!"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Nein, es ist zu kalt.",
+              "Nein, draußen ist es kalt."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Mia",
+        "text": "Super, wir gehen in den Park.",
+        "translationVi": "Tuyệt, mình đi công viên.",
+        "options": [
+          {
+            "answers": [
+              "Okay, ich komme mit.",
+              "Okay!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Mia",
+        "text": "Schade. Dann trinken wir Tee zu Hause.",
+        "translationVi": "Tiếc nhỉ. Vậy mình uống trà ở nhà.",
+        "options": [
+          {
+            "answers": [
+              "Gute Idee!",
+              "Ja, gern."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Mia",
+        "text": "Prima!",
+        "translationVi": "Tuyệt!"
+      }
+    }
+  }
+]

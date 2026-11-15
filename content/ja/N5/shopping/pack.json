@@ -1,0 +1,25 @@
+{
+  "id": "ja-N5-shopping",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "shopping",
+  "title": "Mua sắm",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:f34367e009c9cd2d",
+    "ja:word:f48288483d4c2ce5",
+    "ja:word:6c728d62e66cffb1",
+    "ja:word:2e109cc07587f856",
+    "ja:word:e5e8a47303d61d15",
+    "ja:word:14382b8b87eece6c",
+    "ja:word:51e202d1af588d3f",
+    "ja:word:bd6bd50519da3076",
+    "ja:word:e3ddaf2c12d921e8",
+    "ja:word:e02112d8428a0908",
+    "ja:word:1060c0ae9be1fd9e",
+    "ja:word:895bf812ebe7540b"
+  ]
+}

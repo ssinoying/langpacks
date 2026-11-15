@@ -1,0 +1,84 @@
+[
+  {
+    "id": "en:dialogue:86d9637c3e5fa3f8",
+    "lang": "en",
+    "level": "A1",
+    "title": "Hỏi thăm thời tiết",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Ben",
+        "text": "Hi! What's the weather like in Vietnam now?",
+        "translationVi": "Chào! Bây giờ thời tiết ở Việt Nam thế nào?",
+        "options": [
+          {
+            "answers": [
+              "It's hot and sunny.",
+              "It's very hot.",
+              "It's sunny."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "It's raining a lot.",
+              "It's rainy.",
+              "It rains every day."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Ben",
+        "text": "Lucky you! It's cold here in London.",
+        "translationVi": "Sướng thế! Ở London đang lạnh.",
+        "options": [
+          {
+            "answers": [
+              "Is it snowing?",
+              "Do you have snow?",
+              "Is there snow?"
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Ben",
+        "text": "Oh no! Do you have an umbrella?",
+        "translationVi": "Ôi không! Bạn có ô không?",
+        "options": [
+          {
+            "answers": [
+              "Yes, I do.",
+              "Yes.",
+              "No, I don't."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "Ben",
+        "text": "Not yet. Maybe next week.",
+        "translationVi": "Chưa. Có lẽ tuần sau.",
+        "options": [
+          {
+            "answers": [
+              "Cool!",
+              "Wow!",
+              "Stay warm!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Ben",
+        "text": "Talk to you soon!",
+        "translationVi": "Nói chuyện sau nhé!"
+      }
+    }
+  }
+]

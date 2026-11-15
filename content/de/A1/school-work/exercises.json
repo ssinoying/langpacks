@@ -1,0 +1,139 @@
+[
+  {
+    "id": "de:exercise:1d1ea84dd8632cb0",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Ich bin ___. (giáo viên, nam)",
+    "choices": [
+      "Lehrer",
+      "ein Lehrer",
+      "der Lehrer"
+    ],
+    "answers": [
+      "Lehrer"
+    ],
+    "explanationVi": "Nói nghề nghiệp không dùng mạo từ."
+  },
+  {
+    "id": "de:exercise:0d9629ee18b3b1bf",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Wo ___ du? (arbeiten)",
+    "answers": [
+      "arbeitest"
+    ],
+    "explanationVi": "Gốc arbeit- tận cùng bằng -t nên thêm -est: du arbeitest."
+  },
+  {
+    "id": "de:exercise:2ea1b14e5d68d4b6",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "habe / morgen / eine Prüfung / ich",
+    "answers": [
+      "Morgen habe ich eine Prüfung.",
+      "Ich habe morgen eine Prüfung."
+    ],
+    "explanationVi": "Động từ habe đứng thứ hai."
+  },
+  {
+    "id": "de:exercise:04dabf5ae4a94ce4",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Ông/bà làm nghề gì?",
+    "answers": [
+      "Was sind Sie von Beruf?",
+      "Was machen Sie beruflich?"
+    ]
+  },
+  {
+    "id": "de:exercise:c45865315508602e",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi là sinh viên.",
+    "answers": [
+      "Ich bin Student.",
+      "Ich bin Studentin."
+    ],
+    "explanationVi": "Không thêm ein trước nghề nghiệp."
+  },
+  {
+    "id": "de:exercise:f3bb088e0f094f48",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Ich arbeite bei einer Firma in Berlin.",
+    "answers": [
+      "Ich arbeite bei einer Firma in Berlin."
+    ]
+  },
+  {
+    "id": "de:exercise:42be8ca411988a08",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Ich lerne jeden Tag Deutsch.",
+    "answers": [
+      "Ich lerne jeden Tag Deutsch."
+    ]
+  },
+  {
+    "id": "de:exercise:e9e2e48f84f2ab08",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Schüler",
+    "choices": [
+      "Schüler",
+      "Schule",
+      "Schuhe"
+    ],
+    "answers": [
+      "Schüler"
+    ]
+  },
+  {
+    "id": "de:exercise:ba64720e0f85ed12",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Kể với bạn cùng lớp là tuần này phải học dồn cho kỳ thi. Câu nào tự nhiên?",
+    "choices": [
+      "Ich muss diese Woche büffeln.",
+      "Ich bin Lehrer.",
+      "Die Schule beginnt um acht."
+    ],
+    "answers": [
+      "Ich muss diese Woche büffeln."
+    ]
+  },
+  {
+    "id": "de:exercise:20c4e5135a98108f",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Frau Schulz ist Ärztin. Sie arbeitet in einem Krankenhaus. Ihr Mann ist Lehrer an einer Schule.\n\nWas ist Herr Schulz von Beruf?",
+    "choices": [
+      "Lehrer",
+      "Arzt",
+      "Student"
+    ],
+    "answers": [
+      "Lehrer"
+    ]
+  }
+]

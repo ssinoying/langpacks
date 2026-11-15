@@ -1,0 +1,128 @@
+[
+  {
+    "id": "de:exercise:810d30793682a575",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Was ___ die Schuhe? (kosten)",
+    "answers": [
+      "kosten"
+    ],
+    "explanationVi": "die Schuhe là số nhiều nên dùng kosten."
+  },
+  {
+    "id": "de:exercise:c9d20aecc5a75c45",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Die Jacke ist schön, aber ___ ist teuer. (nó)",
+    "choices": [
+      "er",
+      "sie",
+      "es"
+    ],
+    "answers": [
+      "sie"
+    ],
+    "explanationVi": "die Jacke là giống cái nên thay bằng sie."
+  },
+  {
+    "id": "de:exercise:f4959297e183cd5b",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "kostet / was / die Jacke",
+    "answers": [
+      "Was kostet die Jacke?"
+    ]
+  },
+  {
+    "id": "de:exercise:ab132594df09ab54",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Đôi giày này đắt quá.",
+    "answers": [
+      "Die Schuhe sind zu teuer.",
+      "Die Schuhe sind sehr teuer.",
+      "Diese Schuhe sind zu teuer.",
+      "Diese Schuhe sind sehr teuer."
+    ],
+    "explanationVi": "Schuhe là số nhiều nên dùng sind."
+  },
+  {
+    "id": "de:exercise:b851c074069dcf4c",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Kann ich mit Karte bezahlen?",
+    "answers": [
+      "Kann ich mit Karte bezahlen?"
+    ]
+  },
+  {
+    "id": "de:exercise:5abc3ff9d9b07ec5",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Ich möchte Schuhe kaufen.",
+    "answers": [
+      "Ich möchte Schuhe kaufen."
+    ]
+  },
+  {
+    "id": "de:exercise:c6db9db464155175",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "fünfzig Euro",
+    "choices": [
+      "15 €",
+      "50 €",
+      "55 €"
+    ],
+    "answers": [
+      "50 €"
+    ],
+    "explanationVi": "fünfzig = 50; fünfzehn = 15."
+  },
+  {
+    "id": "de:exercise:4115f2d04782f24b",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn muốn tìm chỗ trả tiền trong cửa hàng. Hỏi thế nào?",
+    "choices": [
+      "Wo ist die Kasse?",
+      "Wo ist das Geld?",
+      "Was kostet die Kasse?"
+    ],
+    "answers": [
+      "Wo ist die Kasse?"
+    ]
+  },
+  {
+    "id": "de:exercise:e014d0f81a4716cd",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Tim sucht eine Jacke. Die blaue Jacke kostet achtzig Euro, die schwarze kostet vierzig Euro. Tim hat nur fünfzig Euro.\n\nWelche Jacke kauft Tim?",
+    "choices": [
+      "die schwarze Jacke",
+      "die blaue Jacke",
+      "keine Jacke"
+    ],
+    "answers": [
+      "die schwarze Jacke"
+    ]
+  }
+]

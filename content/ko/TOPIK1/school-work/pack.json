@@ -1,0 +1,26 @@
+{
+  "id": "ko-TOPIK1-school-work",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "school-work",
+  "title": "Trường học và công việc",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:af0cd73980c5c29b",
+    "ko:word:6debda2dbdf60d49",
+    "ko:word:be2f2ca384a6790d",
+    "ko:word:4b249c8ef7eb844f",
+    "ko:word:8cf1bd592f6fc6e0",
+    "ko:word:25a9295bc4f69b36",
+    "ko:word:4cc87327e3ce513a",
+    "ko:word:726a8cc5ee220862",
+    "ko:word:c5212c7e477be187",
+    "ko:word:f7591f2c4d5b43c6",
+    "ko:word:6fca5a20ae040fbb",
+    "ko:word:5a45e68294bc91a7",
+    "ko:word:a5cdcbd510a92263"
+  ]
+}

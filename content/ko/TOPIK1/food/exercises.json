@@ -1,0 +1,149 @@
+[
+  {
+    "id": "ko:exercise:cecc6b83f3308a81",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "김치가 너무 ___. (맵다)",
+    "choices": [
+      "매워요",
+      "맵어요",
+      "맵아요"
+    ],
+    "answers": [
+      "매워요"
+    ],
+    "explanationVi": "맵다 là bất quy tắc ㅂ: ㅂ đổi thành 우 → 매워요."
+  },
+  {
+    "id": "ko:exercise:0551325abf35025c",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "밥 먹___ 가요. (đi để ăn)",
+    "choices": [
+      "으러",
+      "러",
+      "고"
+    ],
+    "answers": [
+      "으러"
+    ],
+    "explanationVi": "먹 có patchim nên dùng -으러."
+  },
+  {
+    "id": "ko:exercise:ec061cfe672b25a5",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "커피 한 잔 ___? (uống không)",
+    "choices": [
+      "마실래요",
+      "먹을래요",
+      "볼래요"
+    ],
+    "answers": [
+      "마실래요"
+    ],
+    "explanationVi": "Đồ uống dùng 마시다 (uống)."
+  },
+  {
+    "id": "ko:exercise:5289a1c984351107",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "sentence",
+    "level": "TOPIK1",
+    "prompt": "주세요 / 좀 / 물 / 여기",
+    "answers": [
+      "여기 물 좀 주세요."
+    ]
+  },
+  {
+    "id": "ko:exercise:7dcf7badd4e9a299",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Tôi thích món ăn Hàn Quốc.",
+    "answers": [
+      "한국 음식을 좋아해요.",
+      "저는 한국 음식을 좋아해요.",
+      "한국 음식 좋아해요."
+    ],
+    "explanationVi": "좋아하다 đi với tân ngữ 을/를."
+  },
+  {
+    "id": "ko:exercise:fb00f6db01b7b552",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "메뉴 좀 보여 주세요.",
+    "answers": [
+      "메뉴 좀 보여 주세요."
+    ]
+  },
+  {
+    "id": "ko:exercise:3476a781ad27ea9b",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "잘 먹겠습니다!",
+    "answers": [
+      "잘 먹겠습니다!"
+    ]
+  },
+  {
+    "id": "ko:exercise:10868d1bbbd489d8",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "비빔밥",
+    "choices": [
+      "비빔밥",
+      "김밥",
+      "불고기"
+    ],
+    "answers": [
+      "비빔밥"
+    ]
+  },
+  {
+    "id": "ko:exercise:3863c2669b11743e",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Bạn người Hàn mời bạn ăn cơm. Trước khi ăn, bạn nói gì?",
+    "choices": [
+      "잘 먹겠습니다!",
+      "맛있게 드세요.",
+      "배고파요."
+    ],
+    "answers": [
+      "잘 먹겠습니다!"
+    ],
+    "explanationVi": "잘 먹겠습니다 nói trước khi ăn để cảm ơn người mời; 맛있게 드세요 là câu chủ nhà nói."
+  },
+  {
+    "id": "ko:exercise:3eb1ca5424b770f5",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "민: 배고파요. 밥 먹으러 가요.\n지수: 좋아요! 저는 비빔밥을 먹을래요. 매운 음식을 좋아해요.\n\n지수 씨는 무엇을 좋아해요?",
+    "choices": [
+      "매운 음식",
+      "커피",
+      "김밥"
+    ],
+    "answers": [
+      "매운 음식"
+    ]
+  }
+]

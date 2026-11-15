@@ -1,0 +1,26 @@
+{
+  "id": "ja-N5-transport",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "transport",
+  "title": "Đi lại và hỏi đường",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:71e2fb0bbe4b6c18",
+    "ja:word:4e2cca44d44f8f86",
+    "ja:word:4059276a2f6f6eed",
+    "ja:word:ce9d63a6356c03a2",
+    "ja:word:4c1c473f7372e8dd",
+    "ja:word:1f62e39020d221de",
+    "ja:word:cc3fb4c768b458c5",
+    "ja:word:b25c39506fefb468",
+    "ja:word:519ab68c5e9e8ab2",
+    "ja:word:bb72cd5868e638c0",
+    "ja:word:2f552d76920075bd",
+    "ja:word:d371a8a673e3a87d",
+    "ja:word:031089851f8fbfea"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "de-A1-home",
+  "lang": "de",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "home",
+  "title": "Nhà cửa",
+  "requires": [],
+  "itemIds": [
+    "de:word:0512dcd89daf48ff",
+    "de:word:f88583d9305effcd",
+    "de:word:756e3de514402f03",
+    "de:word:3a605671a6e6ff73",
+    "de:word:75d349d9e64cf778",
+    "de:word:d0ef62044dac7036",
+    "de:word:fd92e64371713f30",
+    "de:word:bd0164da7daa9152",
+    "de:word:1525c2f95a302687",
+    "de:word:f576b15438dd94b6",
+    "de:word:6fdf2063ebd9e94e",
+    "de:word:774909d411646210",
+    "de:word:da2580b2c63a0489"
+  ]
+}

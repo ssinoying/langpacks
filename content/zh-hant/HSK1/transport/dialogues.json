@@ -1,0 +1,65 @@
+[
+  {
+    "id": "zh-hant:dialogue:6f8f579476fae6a2",
+    "lang": "zh-hant",
+    "level": "HSK1",
+    "title": "Hỏi đường",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "阿姨",
+        "text": "你好，你要去哪兒？",
+        "translationVi": "Chào cháu, cháu muốn đi đâu?",
+        "options": [
+          {
+            "answers": [
+              "我去車站。",
+              "請問，車站怎麼走？"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "我去機場。",
+              "請問，機場怎麼走？"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "阿姨",
+        "text": "一直走，車站就在路口左邊。",
+        "translationVi": "Đi thẳng, ga ở ngay bên trái ngã tư.",
+        "options": [
+          {
+            "answers": [
+              "謝謝您！",
+              "謝謝！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "阿姨",
+        "text": "機場很遠，你打車吧。",
+        "translationVi": "Sân bay xa lắm, cháu bắt taxi đi.",
+        "options": [
+          {
+            "answers": [
+              "好的，謝謝您！",
+              "謝謝！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "阿姨",
+        "text": "不客氣！",
+        "translationVi": "Không có gì!"
+      }
+    }
+  }
+]

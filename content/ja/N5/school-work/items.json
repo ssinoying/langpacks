@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ja:sentence:8de65f13eda12350",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "私は大学で英語を習っています。",
+    "meaningVi": "Tôi đang học tiếng Anh ở trường đại học.",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:sentence:bb36f61a74fbd6dc",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "授業は九時から始まります。",
+    "meaningVi": "Giờ học bắt đầu từ chín giờ.",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:sentence:5ee76bbd98de7d1d",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "宿題はもう終わりましたか。",
+    "meaningVi": "Bạn làm xong bài tập chưa?",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:sentence:c0ee67b267e1ca5e",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "明日、テストがあります。",
+    "meaningVi": "Ngày mai có bài kiểm tra.",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:sentence:d73037d0039d99d1",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "教室で辞書を使ってもいいですか。",
+    "meaningVi": "Em dùng từ điển trong lớp được không ạ?",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:sentence:56cb81c78fa457fe",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "兄は銀行で働いています。",
+    "meaningVi": "Anh trai tôi làm việc ở ngân hàng.",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:sentence:16280a720efd11d4",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "会社は駅の近くにあります。",
+    "meaningVi": "Công ty ở gần ga.",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:sentence:cb6ce323ed6264c4",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "仕事は何時に終わりますか。",
+    "meaningVi": "Mấy giờ bạn tan làm?",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:sentence:ad2a95068ad48723",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "今週は仕事が忙しいです。",
+    "meaningVi": "Tuần này công việc bận.",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:sentence:28a7d19f25dd074b",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "家から学校まで自転車で十五分です。",
+    "meaningVi": "Từ nhà đến trường đi xe đạp mười lăm phút.",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:grammar:e957c18d647f85fd",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "V ています: đang làm, việc làm hiện tại",
+    "explanationVi": "銀行で働いています = (hiện) làm việc ở ngân hàng. Giống \"đang\" nhưng ています còn chỉ việc kéo dài, nghề nghiệp hiện tại, không chỉ lúc đang nói.",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:grammar:222d23348ea3a531",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "から ... まで: từ ... đến",
+    "explanationVi": "Giống \"từ ... đến\" nhưng đứng sau danh từ: 九時から (từ chín giờ), 学校まで (đến trường).",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:slang:5aaa4381ab653963",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "バイト",
+    "meaningVi": "Việc làm thêm.",
+    "explanationVi": "Rút gọn của アルバイト, dùng hằng ngày: コンビニでバイトしています. Trong hồ sơ xin việc viết アルバイト.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "ja:slang:4bb2edb40e523683",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "ブラック企業",
+    "meaningVi": "Công ty bóc lột (giờ làm dài, lương thấp).",
+    "explanationVi": "Hay dùng khi than phiền về công việc với bạn bè; tránh nói trước mặt sếp.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "school-work"
+    ]
+  }
+]

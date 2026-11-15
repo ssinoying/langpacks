@@ -1,0 +1,162 @@
+[
+  {
+    "id": "en:sentence:45917ccdbd65aced",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What are your hobbies?",
+    "meaningVi": "Sở thích của bạn là gì?",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:sentence:5839b7060665447d",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I like reading books.",
+    "meaningVi": "Tôi thích đọc sách.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:sentence:064d1077c3f1afd3",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Do you like music?",
+    "meaningVi": "Bạn có thích nhạc không?",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:sentence:435e1f4b0c5d6a82",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "We love watching movies.",
+    "meaningVi": "Chúng tôi rất thích xem phim.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:sentence:cb3c96cc624d9c44",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My brother plays football on Saturdays.",
+    "meaningVi": "Anh trai tôi đá bóng vào các ngày thứ Bảy.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:sentence:d85abfffa063ebcd",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "He plays the guitar.",
+    "meaningVi": "Anh ấy chơi đàn ghi-ta.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:sentence:7184a1eafc25ca3a",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "She can sing very well.",
+    "meaningVi": "Cô ấy hát rất hay.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:sentence:d9127aff6670738a",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I can't swim.",
+    "meaningVi": "Tôi không biết bơi.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:sentence:e6f27fca4206dcfe",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Let's go dancing tonight!",
+    "meaningVi": "Tối nay đi nhảy đi!",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:sentence:2575bebe94b21d85",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What do you do in your free time?",
+    "meaningVi": "Lúc rảnh bạn làm gì?",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:grammar:b704a74632f1df2d",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "like / love + V-ing",
+    "explanationVi": "Tiếng Việt nói \"thích đọc\", động từ không đổi. Tiếng Anh sau like, love thường dùng động từ thêm -ing: I like reading, We love watching movies. Lỗi hay gặp: *I like read.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:grammar:9b95356bd7d739ba",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "can / can't: biết, có thể làm gì",
+    "explanationVi": "\"Biết bơi\" là can swim, không dịch thành know. Sau can là động từ nguyên mẫu, không thêm -s, không có to: She can sing (không nói *She cans sing, *can to sing). Phủ định: can't.",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:slang:960373905b4b4ba2",
+    "lang": "en",
+    "kind": "slang",
+    "text": "I'm really into music.",
+    "meaningVi": "Tôi mê nhạc lắm.",
+    "explanationVi": "be into + thứ gì = rất thích, mê. Thân mật, rất hay dùng khi nói về sở thích.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "en:slang:38207707ff71323d",
+    "lang": "en",
+    "kind": "slang",
+    "text": "binge-watch",
+    "meaningVi": "cày phim (xem liền nhiều tập)",
+    "explanationVi": "Dùng khi xem liền nhiều tập phim bộ trong một lần. Thân mật.",
+    "register": "slang",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "hobbies"
+    ]
+  }
+]

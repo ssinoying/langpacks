@@ -1,0 +1,143 @@
+[
+  {
+    "id": "en:exercise:2022a1996c3b8a53",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "I like ___ books. (read)",
+    "answers": [
+      "reading",
+      "to read"
+    ],
+    "explanationVi": "Sau like dùng V-ing (to read cũng đúng); không nói *I like read."
+  },
+  {
+    "id": "en:exercise:a66ae02d42e051cb",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "She can ___ very well.",
+    "choices": [
+      "sing",
+      "sings",
+      "to sing",
+      "singing"
+    ],
+    "answers": [
+      "sing"
+    ],
+    "explanationVi": "Sau can là động từ nguyên mẫu, không thêm -s, không có to."
+  },
+  {
+    "id": "en:exercise:762a59d1aadb33e1",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "He plays the ___. (đàn ghi-ta)",
+    "answers": [
+      "guitar"
+    ],
+    "explanationVi": "Chơi nhạc cụ có the (play the guitar); chơi thể thao không có the (play football)."
+  },
+  {
+    "id": "en:exercise:6d0244446bf63e78",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "do / what / you / in your free time / do",
+    "answers": [
+      "What do you do in your free time?"
+    ],
+    "explanationVi": "do đầu là trợ động từ để hỏi, do sau nghĩa là \"làm\"."
+  },
+  {
+    "id": "en:exercise:731ef08af9ccad20",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi không biết bơi.",
+    "answers": [
+      "I can't swim.",
+      "I cannot swim.",
+      "I can not swim."
+    ],
+    "explanationVi": "\"Biết\" (làm được) là can, không dùng know."
+  },
+  {
+    "id": "en:exercise:c64cb3fabb62b6a3",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "My brother plays football on Saturdays.",
+    "answers": [
+      "My brother plays football on Saturdays."
+    ]
+  },
+  {
+    "id": "en:exercise:4a3be60186006710",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "What are your hobbies?",
+    "answers": [
+      "What are your hobbies?"
+    ]
+  },
+  {
+    "id": "en:exercise:8c9c2654050704c8",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "swim",
+    "choices": [
+      "swim",
+      "swing",
+      "seem"
+    ],
+    "answers": [
+      "swim"
+    ],
+    "explanationVi": "swim kết thúc bằng /m/, swing bằng /ŋ/."
+  },
+  {
+    "id": "en:exercise:6623cdb7dd45ef6c",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Hi, I'm Mai. In my free time, I like listening to music and reading. I can't play football, but I love swimming.\n\nMai không biết làm gì?",
+    "choices": [
+      "swim",
+      "play football",
+      "read"
+    ],
+    "answers": [
+      "play football"
+    ]
+  },
+  {
+    "id": "en:exercise:d77edb2484a21acd",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn mới quen hỏi về sở thích. Trả lời nào tự nhiên, thân mật?",
+    "choices": [
+      "I'm really into music.",
+      "I am interesting music.",
+      "My hobby is like music."
+    ],
+    "answers": [
+      "I'm really into music."
+    ],
+    "explanationVi": "I am interesting nghĩa là \"tôi thú vị\"; muốn nói thích thì dùng I'm interested in hoặc I'm into."
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "id": "de-A1-shopping",
+  "lang": "de",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "shopping",
+  "title": "Mua sắm",
+  "requires": [],
+  "itemIds": [
+    "de:word:944b49afdafeae4f",
+    "de:word:54b2af1771046c52",
+    "de:word:b68d8c52cdd3f2b7",
+    "de:word:3ca380345bd37aaa",
+    "de:word:84e2c20622e782b5",
+    "de:word:e8955f1372537407",
+    "de:word:04e6be56f6696dfa",
+    "de:word:e27580df0fe0130e",
+    "de:word:b3d2bca22415ff25",
+    "de:word:2fcb3e6334f45f36",
+    "de:word:42f78a235faae73e",
+    "de:word:05c0b1a096aa2031"
+  ]
+}

@@ -69,7 +69,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Alter.",
     "level": "A1",
-    "source": "wiktionary:Alter"
+    "source": "wiktionary:Alter",
+    "meaningVi": "tuổi (das Alter)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:1174eef62dc0ac82",
@@ -411,7 +415,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Bad.",
     "level": "A1",
-    "source": "wiktionary:Bad"
+    "source": "wiktionary:Bad",
+    "meaningVi": "phòng tắm (das Bad)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:8adfeeccf5acf5a8",
@@ -432,7 +440,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Bahnhof.",
     "level": "A1",
-    "source": "wiktionary:Bahnhof"
+    "source": "wiktionary:Bahnhof",
+    "meaningVi": "nhà ga (der Bahnhof)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:b6aa4b13bd644bf4",
@@ -454,7 +466,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Balkon.",
     "level": "A1",
-    "source": "wiktionary:Balkon"
+    "source": "wiktionary:Balkon",
+    "meaningVi": "ban công (der Balkon)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:ef828b84c232a9c7",
@@ -540,7 +556,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Beruf, số nhiều -e.",
     "level": "A1",
-    "source": "wiktionary:Beruf"
+    "source": "wiktionary:Beruf",
+    "meaningVi": "nghề nghiệp (der Beruf)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:fd92e64371713f30",
@@ -551,7 +571,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Bett, số nhiều -en.",
     "level": "A1",
-    "source": "wiktionary:Bett"
+    "source": "wiktionary:Bett",
+    "meaningVi": "giường (das Bett)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:4334284ca31d85bf",
@@ -666,7 +690,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Brot, số nhiều -e.",
     "level": "A1",
-    "source": "wiktionary:Brot"
+    "source": "wiktionary:Brot",
+    "meaningVi": "bánh mì (das Brot)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:3c949876de55a8e3",
@@ -677,7 +705,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Bruder, số nhiều -ü.",
     "level": "A1",
-    "source": "wiktionary:Bruder"
+    "source": "wiktionary:Bruder",
+    "meaningVi": "anh trai, em trai (der Bruder)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:dc72937d6ebe70ae",
@@ -721,7 +753,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Bus, số nhiều -se.",
     "level": "A1",
-    "source": "wiktionary:Bus"
+    "source": "wiktionary:Bus",
+    "meaningVi": "xe buýt (der Bus)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:41e8c8c3e7ca2f78",
@@ -893,7 +929,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Durst.",
     "level": "A1",
-    "source": "wiktionary:Durst"
+    "source": "wiktionary:Durst",
+    "meaningVi": "cơn khát (der Durst)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:15f7a9a60b2b1767",
@@ -1078,7 +1118,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Fahrkarte, số nhiều -n.",
     "level": "A1",
-    "source": "wiktionary:Fahrkarte"
+    "source": "wiktionary:Fahrkarte",
+    "meaningVi": "vé xe, vé tàu (die Fahrkarte)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:d27b65b35c723376",
@@ -1089,7 +1133,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Fahrrad, số nhiều -ä, er.",
     "level": "A1",
-    "source": "wiktionary:Fahrrad"
+    "source": "wiktionary:Fahrrad",
+    "meaningVi": "xe đạp (das Fahrrad)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:81bef24734654a31",
@@ -1099,7 +1147,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Familie, số nhiều -n.",
     "level": "A1",
-    "source": "wiktionary:Familie"
+    "source": "wiktionary:Familie",
+    "meaningVi": "gia đình (die Familie)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:43357cd9933ec8e4",
@@ -1130,7 +1182,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Farbe, số nhiều -n.",
     "level": "A1",
-    "source": "wiktionary:Farbe"
+    "source": "wiktionary:Farbe",
+    "meaningVi": "màu (die Farbe)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:794b0e7a7e28f8a7",
@@ -1193,7 +1249,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Film, số nhiều -e.",
     "level": "A1",
-    "source": "wiktionary:Film"
+    "source": "wiktionary:Film",
+    "meaningVi": "bộ phim (der Film)",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:7a26343f55c1a3d0",
@@ -1203,7 +1263,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Firma.",
     "level": "A1",
-    "source": "wiktionary:Firma"
+    "source": "wiktionary:Firma",
+    "meaningVi": "công ty (die Firma)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:a465d829c4af0381",
@@ -1235,7 +1299,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Fleisch.",
     "level": "A1",
-    "source": "wiktionary:Fleisch"
+    "source": "wiktionary:Fleisch",
+    "meaningVi": "thịt (das Fleisch)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:238ec4753699a370",
@@ -1309,7 +1377,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Freizeit.",
     "level": "A1",
-    "source": "wiktionary:Freizeit"
+    "source": "wiktionary:Freizeit",
+    "meaningVi": "thời gian rảnh (die Freizeit)",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:e9bf9c9766991120",
@@ -1330,7 +1402,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Frühstück.",
     "level": "A1",
-    "source": "wiktionary:Frühstück"
+    "source": "wiktionary:Frühstück",
+    "meaningVi": "bữa sáng (das Frühstück)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:a9a7db584603caf0",
@@ -1351,7 +1427,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Fußball.",
     "level": "A1",
-    "source": "wiktionary:Fußball"
+    "source": "wiktionary:Fußball",
+    "meaningVi": "bóng đá (der Fußball)",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:d7cd7320588b4051",
@@ -1416,7 +1496,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Geburtstag.",
     "level": "A1",
-    "source": "wiktionary:Geburtstag"
+    "source": "wiktionary:Geburtstag",
+    "meaningVi": "sinh nhật (der Geburtstag)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:84e2c20622e782b5",
@@ -1427,7 +1511,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Geld.",
     "level": "A1",
-    "source": "wiktionary:Geld"
+    "source": "wiktionary:Geld",
+    "meaningVi": "tiền (das Geld)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:34b77b6244d90c6c",
@@ -1438,7 +1526,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Gemüse.",
     "level": "A1",
-    "source": "wiktionary:Gemüse"
+    "source": "wiktionary:Gemüse",
+    "meaningVi": "rau (das Gemüse)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:ccbc0e6b34953711",
@@ -1598,7 +1690,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Größe.",
     "level": "A1",
-    "source": "wiktionary:Größe"
+    "source": "wiktionary:Größe",
+    "meaningVi": "cỡ, kích thước (die Größe)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:c098a895444d4c6c",
@@ -1641,7 +1737,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Haltestelle.",
     "level": "A1",
-    "source": "wiktionary:Haltestelle"
+    "source": "wiktionary:Haltestelle",
+    "meaningVi": "trạm dừng xe (die Haltestelle)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:83d8a5b2d00e6b89",
@@ -1662,7 +1762,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Handy, số nhiều -s.",
     "level": "A1",
-    "source": "wiktionary:Handy"
+    "source": "wiktionary:Handy",
+    "meaningVi": "điện thoại di động (das Handy)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:f88583d9305effcd",
@@ -1673,7 +1777,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Haus, số nhiều -ä, er.",
     "level": "A1",
-    "source": "wiktionary:Haus"
+    "source": "wiktionary:Haus",
+    "meaningVi": "ngôi nhà (das Haus)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:3f7f80b79965caaa",
@@ -1684,7 +1792,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Hausaufgabe, số nhiều -n.",
     "level": "A1",
-    "source": "wiktionary:Hausaufgabe"
+    "source": "wiktionary:Hausaufgabe",
+    "meaningVi": "bài tập về nhà (die Hausaufgabe)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:4a79fee6586fc516",
@@ -1749,7 +1861,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Hobby, số nhiều -s.",
     "level": "A1",
-    "source": "wiktionary:Hobby"
+    "source": "wiktionary:Hobby",
+    "meaningVi": "sở thích (das Hobby)",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:144232ba42311c75",
@@ -1792,7 +1908,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Hunger.",
     "level": "A1",
-    "source": "wiktionary:Hunger"
+    "source": "wiktionary:Hunger",
+    "meaningVi": "cơn đói (der Hunger)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:ba71fe464407cf81",
@@ -1835,7 +1955,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Jacke, số nhiều -n.",
     "level": "A1",
-    "source": "wiktionary:Jacke"
+    "source": "wiktionary:Jacke",
+    "meaningVi": "áo khoác (die Jacke)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:6dad1dd1aee5f31a",
@@ -1879,7 +2003,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Kaffee.",
     "level": "A1",
-    "source": "wiktionary:Kaffee"
+    "source": "wiktionary:Kaffee",
+    "meaningVi": "cà phê (der Kaffee)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:355a8934beec3e0b",
@@ -1910,7 +2038,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Kasse.",
     "level": "A1",
-    "source": "wiktionary:Kasse"
+    "source": "wiktionary:Kasse",
+    "meaningVi": "quầy thu ngân (die Kasse)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:97ca009ae1f3b844",
@@ -1921,7 +2053,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Kind, số nhiều -er.",
     "level": "A1",
-    "source": "wiktionary:Kind"
+    "source": "wiktionary:Kind",
+    "meaningVi": "đứa trẻ, con (das Kind, số nhiều die Kinder)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:f42533b6e5ac9204",
@@ -1941,7 +2077,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Kino, số nhiều -s.",
     "level": "A1",
-    "source": "wiktionary:Kino"
+    "source": "wiktionary:Kino",
+    "meaningVi": "rạp chiếu phim (das Kino)",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:76e5c42425a00ef2",
@@ -1993,7 +2133,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Kollege, số nhiều -n.",
     "level": "A1",
-    "source": "wiktionary:Kollege"
+    "source": "wiktionary:Kollege",
+    "meaningVi": "đồng nghiệp nam (der Kollege)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:31e4e77effb73a8d",
@@ -2069,7 +2213,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Küche.",
     "level": "A1",
-    "source": "wiktionary:Küche"
+    "source": "wiktionary:Küche",
+    "meaningVi": "nhà bếp (die Küche)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:f2597703f37bfdf5",
@@ -2123,7 +2271,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Lehrer, số nhiều –.",
     "level": "A1",
-    "source": "wiktionary:Lehrer"
+    "source": "wiktionary:Lehrer",
+    "meaningVi": "giáo viên nam (der Lehrer; nữ: die Lehrerin)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:48a5222770d43e52",
@@ -2241,7 +2393,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Miete.",
     "level": "A1",
-    "source": "wiktionary:Miete"
+    "source": "wiktionary:Miete",
+    "meaningVi": "tiền thuê nhà (die Miete)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:2ad3bf2b7df01a3c",
@@ -2295,7 +2451,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Mutter, số nhiều -ü.",
     "level": "A1",
-    "source": "wiktionary:Mutter"
+    "source": "wiktionary:Mutter",
+    "meaningVi": "mẹ (die Mutter)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:11a6a7940a09bd50",
@@ -2331,7 +2491,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Nummer, số nhiều -n.",
     "level": "A1",
-    "source": "wiktionary:Nummer"
+    "source": "wiktionary:Nummer",
+    "meaningVi": "số (die Nummer)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:c1c05789451c724c",
@@ -2353,7 +2517,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Oma, số nhiều -s.",
     "level": "A1",
-    "source": "wiktionary:Oma"
+    "source": "wiktionary:Oma",
+    "meaningVi": "bà (die Oma)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:26c8620409f43a5d",
@@ -2364,7 +2532,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Opa, số nhiều -s.",
     "level": "A1",
-    "source": "wiktionary:Opa"
+    "source": "wiktionary:Opa",
+    "meaningVi": "ông (der Opa)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:49d7ec6604f44cf4",
@@ -2557,7 +2729,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Prüfung.",
     "level": "A1",
-    "source": "wiktionary:Prüfung"
+    "source": "wiktionary:Prüfung",
+    "meaningVi": "kỳ thi (die Prüfung)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:89dc0ba849290c25",
@@ -2590,7 +2766,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Regen.",
     "level": "A1",
-    "source": "wiktionary:Regen"
+    "source": "wiktionary:Regen",
+    "meaningVi": "mưa (der Regen)",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:61594fe98266d014",
@@ -2791,7 +2971,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Schuh, số nhiều -e.",
     "level": "A1",
-    "source": "wiktionary:Schuh"
+    "source": "wiktionary:Schuh",
+    "meaningVi": "giày (der Schuh, số nhiều die Schuhe)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:64e558886500a35d",
@@ -2801,7 +2985,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Schule.",
     "level": "A1",
-    "source": "wiktionary:Schule"
+    "source": "wiktionary:Schule",
+    "meaningVi": "trường học (die Schule)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:5ade8aabc89b98e6",
@@ -2811,7 +2999,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Schwester, số nhiều -n.",
     "level": "A1",
-    "source": "wiktionary:Schwester"
+    "source": "wiktionary:Schwester",
+    "meaningVi": "chị gái, em gái (die Schwester)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:f20e43884e93f8d2",
@@ -2833,7 +3025,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Schüler, số nhiều –.",
     "level": "A1",
-    "source": "wiktionary:Schüler"
+    "source": "wiktionary:Schüler",
+    "meaningVi": "học sinh nam (der Schüler; nữ: die Schülerin)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:b227014d35c837f0",
@@ -2865,7 +3061,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Sofa.",
     "level": "A1",
-    "source": "wiktionary:Sofa"
+    "source": "wiktionary:Sofa",
+    "meaningVi": "ghế sofa (das Sofa)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:f023eb7c7b7c6bcf",
@@ -2876,7 +3076,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Sohn, số nhiều -ö, e.",
     "level": "A1",
-    "source": "wiktionary:Sohn"
+    "source": "wiktionary:Sohn",
+    "meaningVi": "con trai (der Sohn)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:18739d0708db542a",
@@ -2887,7 +3091,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Sonne.",
     "level": "A1",
-    "source": "wiktionary:Sonne"
+    "source": "wiktionary:Sonne",
+    "meaningVi": "mặt trời (die Sonne)",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:d2a5ce52ae9aa374",
@@ -2908,7 +3116,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Sport.",
     "level": "A1",
-    "source": "wiktionary:Sport"
+    "source": "wiktionary:Sport",
+    "meaningVi": "thể thao (der Sport)",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:f984855ac9e9d440",
@@ -2981,7 +3193,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Student, số nhiều -en.",
     "level": "A1",
-    "source": "wiktionary:Student"
+    "source": "wiktionary:Student",
+    "meaningVi": "sinh viên nam (der Student; nữ: die Studentin)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:f87afa95e3d5c3f4",
@@ -3002,7 +3218,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Stunde, số nhiều -n.",
     "level": "A1",
-    "source": "wiktionary:Stunde"
+    "source": "wiktionary:Stunde",
+    "meaningVi": "tiếng đồng hồ (die Stunde)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:f08f6a4e6e05ccd9",
@@ -3056,7 +3276,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Telefon.",
     "level": "A1",
-    "source": "wiktionary:Telefon"
+    "source": "wiktionary:Telefon",
+    "meaningVi": "điện thoại (das Telefon)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:4365b4c95a3e4ca7",
@@ -3067,7 +3291,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Termin, số nhiều -e.",
     "level": "A1",
-    "source": "wiktionary:Termin"
+    "source": "wiktionary:Termin",
+    "meaningVi": "cuộc hẹn (der Termin)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:522b845926d5bf86",
@@ -3120,7 +3348,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Tisch, số nhiều -e.",
     "level": "A1",
-    "source": "wiktionary:Tisch"
+    "source": "wiktionary:Tisch",
+    "meaningVi": "cái bàn (der Tisch)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:a97382bd1479e8d6",
@@ -3131,7 +3363,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Tochter, số nhiều -ö.",
     "level": "A1",
-    "source": "wiktionary:Tochter"
+    "source": "wiktionary:Tochter",
+    "meaningVi": "con gái (die Tochter)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:0e3890f70aa08c47",
@@ -3172,7 +3408,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Uhr.",
     "level": "A1",
-    "source": "wiktionary:Uhr"
+    "source": "wiktionary:Uhr",
+    "meaningVi": "giờ; đồng hồ (die Uhr)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:74ef2e6580b6cc94",
@@ -3215,7 +3455,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Vater, số nhiều -ä.",
     "level": "A1",
-    "source": "wiktionary:Vater"
+    "source": "wiktionary:Vater",
+    "meaningVi": "bố (der Vater)",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:41c9055c71c48aef",
@@ -3302,7 +3546,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Wasser.",
     "level": "A1",
-    "source": "wiktionary:Wasser"
+    "source": "wiktionary:Wasser",
+    "meaningVi": "nước (das Wasser)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:741313e2586050b8",
@@ -3334,7 +3582,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Wetter.",
     "level": "A1",
-    "source": "wiktionary:Wetter"
+    "source": "wiktionary:Wetter",
+    "meaningVi": "thời tiết (das Wetter)",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:42fa5a8e7a83d95b",
@@ -3367,7 +3619,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Wind.",
     "level": "A1",
-    "source": "wiktionary:Wind"
+    "source": "wiktionary:Wind",
+    "meaningVi": "gió (der Wind)",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:0512dcd89daf48ff",
@@ -3378,7 +3634,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Wohnung, số nhiều -en.",
     "level": "A1",
-    "source": "wiktionary:Wohnung"
+    "source": "wiktionary:Wohnung",
+    "meaningVi": "căn hộ (die Wohnung)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:4ff75167fc960b5e",
@@ -3400,7 +3660,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống cái: die Zeit.",
     "level": "A1",
-    "source": "wiktionary:Zeit"
+    "source": "wiktionary:Zeit",
+    "meaningVi": "thời gian (die Zeit)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:8a935bdc1f421727",
@@ -3432,7 +3696,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống trung: das Zimmer.",
     "level": "A1",
-    "source": "wiktionary:Zimmer"
+    "source": "wiktionary:Zimmer",
+    "meaningVi": "phòng (das Zimmer)",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:00d9cf80f5791df2",
@@ -3454,7 +3722,11 @@
     "partOfSpeech": "noun",
     "explanationVi": "Danh từ giống đực: der Zug, số nhiều -ü, e.",
     "level": "A1",
-    "source": "wiktionary:Zug"
+    "source": "wiktionary:Zug",
+    "meaningVi": "tàu hỏa (der Zug)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:5855963a1d06529f",
@@ -3554,7 +3826,11 @@
     "reading": "/alt/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:alt"
+    "source": "wiktionary:alt",
+    "meaningVi": "già, cũ; (bao nhiêu) tuổi",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:df8a34df4d05c259",
@@ -3592,7 +3868,11 @@
     "reading": "/ˈanˌfaŋən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:anfangen"
+    "source": "wiktionary:anfangen",
+    "meaningVi": "bắt đầu",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:c74905ea9bf2248e",
@@ -3661,7 +3941,11 @@
     "reading": "/ˈaʁbaɪ̯tən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:arbeiten"
+    "source": "wiktionary:arbeiten",
+    "meaningVi": "làm việc",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:54384a73e0a7a146",
@@ -3764,7 +4048,11 @@
     "reading": "/ˈʔaʊ̯sʃtaɪ̯ɡŋ̩/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:aussteigen"
+    "source": "wiktionary:aussteigen",
+    "meaningVi": "xuống xe",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:d22a0954cbecf6b4",
@@ -3940,7 +4228,11 @@
     "reading": "/bəˈtsaːlən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:bezahlen"
+    "source": "wiktionary:bezahlen",
+    "meaningVi": "trả tiền",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:3ca380345bd37aaa",
@@ -3950,7 +4242,11 @@
     "reading": "[ˈbɪlɪç]",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:billig"
+    "source": "wiktionary:billig",
+    "meaningVi": "rẻ",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:4c66cb95962a3dcd",
@@ -4135,7 +4431,11 @@
     "reading": "/ˈdaʊ̯ɐn/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:dauern"
+    "source": "wiktionary:dauern",
+    "meaningVi": "kéo dài",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:a75f018ba63ff85e",
@@ -4215,7 +4515,11 @@
     "reading": "/ˈdraʊ̯sən/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:draußen"
+    "source": "wiktionary:draußen",
+    "meaningVi": "bên ngoài",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:44a0227c1a06fd0e",
@@ -4409,7 +4713,11 @@
     "reading": "/ˈɛsən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:essen"
+    "source": "wiktionary:essen",
+    "meaningVi": "ăn",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:edb9d12893210998",
@@ -4429,7 +4737,11 @@
     "reading": "[ˈfaːʁən]",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:fahren"
+    "source": "wiktionary:fahren",
+    "meaningVi": "đi (bằng xe), lái",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:2e01cc59ed45016c",
@@ -4600,7 +4912,11 @@
     "reading": "/ˈɡeːən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:gehen"
+    "source": "wiktionary:gehen",
+    "meaningVi": "đi (bộ)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:dbfbc4cecc71aa37",
@@ -4628,7 +4944,11 @@
     "kind": "word",
     "text": "gern(e)",
     "level": "A1",
-    "source": "wiktionary:gern(e)"
+    "source": "wiktionary:gern(e)",
+    "meaningVi": "thích (làm gì), sẵn lòng",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:677242bbabc1ebab",
@@ -4648,7 +4968,11 @@
     "reading": "/ˈɡɛstərn/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:gestern"
+    "source": "wiktionary:gestern",
+    "meaningVi": "hôm qua",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:e5217b83d42dffc2",
@@ -4737,7 +5061,11 @@
     "reading": "/ɡʁoːs/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:groß"
+    "source": "wiktionary:groß",
+    "meaningVi": "to, lớn",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:b068ca4843a3fb83",
@@ -4777,7 +5105,11 @@
     "reading": "/ˈhaːbən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:haben"
+    "source": "wiktionary:haben",
+    "meaningVi": "có",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:a92594ab2ac9ba6b",
@@ -4837,7 +5169,11 @@
     "reading": "/hɛl/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:hell"
+    "source": "wiktionary:hell",
+    "meaningVi": "sáng sủa",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:4095718464211567",
@@ -4857,7 +5193,11 @@
     "reading": "/ˈhɔʏ̯tə/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:heute"
+    "source": "wiktionary:heute",
+    "meaningVi": "hôm nay",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:8e8690f2b0e81497",
@@ -4983,7 +5323,11 @@
     "reading": "/jɛtst/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:jetzt"
+    "source": "wiktionary:jetzt",
+    "meaningVi": "bây giờ",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:4f100cd08da7136c",
@@ -4993,7 +5337,11 @@
     "reading": "/jʊŋ(k)/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:jung"
+    "source": "wiktionary:jung",
+    "meaningVi": "trẻ",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:048b95e21b7cef5e",
@@ -5011,7 +5359,11 @@
     "reading": "[ˈkaʊ̯fn̩]",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:kaufen"
+    "source": "wiktionary:kaufen",
+    "meaningVi": "mua",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:36dc6cdf55fb5e7e",
@@ -5061,7 +5413,11 @@
     "reading": "/klaɪ̯n/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:klein"
+    "source": "wiktionary:klein",
+    "meaningVi": "nhỏ",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "de:word:529cf7baed799fa7",
@@ -5071,7 +5427,11 @@
     "reading": "/ˈkɔχən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:kochen"
+    "source": "wiktionary:kochen",
+    "meaningVi": "nấu ăn",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:97d29708d45100ee",
@@ -5095,7 +5455,11 @@
     "reading": "/ˈkɔstən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:kosten"
+    "source": "wiktionary:kosten",
+    "meaningVi": "có giá",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:703886528a72fc5a",
@@ -5222,7 +5586,11 @@
     "reading": "/ˈleːdɪç/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:ledig"
+    "source": "wiktionary:ledig",
+    "meaningVi": "độc thân",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:be5ebc4ed91993bf",
@@ -5272,7 +5640,11 @@
     "reading": "/ˈlɛrnən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:lernen"
+    "source": "wiktionary:lernen",
+    "meaningVi": "học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:65204a98ece7f2a8",
@@ -5282,7 +5654,11 @@
     "reading": "/ˈleːzn̩/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:lesen"
+    "source": "wiktionary:lesen",
+    "meaningVi": "đọc",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:c64f75e9bc5a6aad",
@@ -5341,7 +5717,11 @@
     "reading": "/lɪŋks/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:links"
+    "source": "wiktionary:links",
+    "meaningVi": "bên trái",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:f037b5cb65efe01c",
@@ -5469,7 +5849,11 @@
     "kind": "word",
     "text": "morgen",
     "level": "A1",
-    "source": "wiktionary:morgen"
+    "source": "wiktionary:morgen",
+    "meaningVi": "ngày mai",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:e9e6db9c0a068986",
@@ -5489,7 +5873,11 @@
     "reading": "/ˈmœçtn̩/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:möchten"
+    "source": "wiktionary:möchten",
+    "meaningVi": "muốn (lịch sự)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:ba3eae080e636869",
@@ -5547,7 +5935,11 @@
     "reading": "/ˈneːmən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:nehmen"
+    "source": "wiktionary:nehmen",
+    "meaningVi": "lấy",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:f87d0928d6f8c9b8",
@@ -5707,7 +6099,11 @@
     "reading": "/ʁɛçt͡s/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:rechts"
+    "source": "wiktionary:rechts",
+    "meaningVi": "bên phải",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:c2994b679e9cc6bc",
@@ -5717,7 +6113,11 @@
     "reading": "/ˈʁeː.ɡnən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:regnen"
+    "source": "wiktionary:regnen",
+    "meaningVi": "mưa (động từ)",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:f1932ae44de56e63",
@@ -5787,7 +6187,11 @@
     "reading": "/ˈʃaɪnən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:scheinen"
+    "source": "wiktionary:scheinen",
+    "meaningVi": "chiếu sáng",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:084584eaad4e339f",
@@ -5817,7 +6221,11 @@
     "reading": "/ʃlɛçt/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:schlecht"
+    "source": "wiktionary:schlecht",
+    "meaningVi": "xấu, tệ",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:f28624943129f698",
@@ -5837,7 +6245,11 @@
     "reading": "[ˈʃmɛkn̩]",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:schmecken"
+    "source": "wiktionary:schmecken",
+    "meaningVi": "có vị, ngon",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:fd71856866b3f8ba",
@@ -5887,7 +6299,11 @@
     "reading": "/ˈʃvɪmən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:schwimmen"
+    "source": "wiktionary:schwimmen",
+    "meaningVi": "bơi",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:2c87dd5153b0b6d6",
@@ -5897,7 +6313,11 @@
     "reading": "/ʃøːn/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:schön"
+    "source": "wiktionary:schön",
+    "meaningVi": "đẹp",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:fd76f2dc9f369279",
@@ -5927,7 +6347,11 @@
     "reading": "/zaɪ̯n/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:sein"
+    "source": "wiktionary:sein",
+    "meaningVi": "là, thì, ở",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:c74eb2b7309bf657",
@@ -6017,7 +6441,11 @@
     "reading": "/ˈʃpiːlən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:spielen"
+    "source": "wiktionary:spielen",
+    "meaningVi": "chơi",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:e65c72a52fda8c49",
@@ -6035,7 +6463,11 @@
     "reading": "/ʃpɛːt/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:spät"
+    "source": "wiktionary:spät",
+    "meaningVi": "muộn",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:4a2de8d20133fc69",
@@ -6073,7 +6505,11 @@
     "kind": "word",
     "text": "studieren",
     "level": "A1",
-    "source": "wiktionary:studieren"
+    "source": "wiktionary:studieren",
+    "meaningVi": "học đại học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "de:word:2ed819d118f065eb",
@@ -6093,7 +6529,11 @@
     "reading": "/ˈtan(t)sən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:tanzen"
+    "source": "wiktionary:tanzen",
+    "meaningVi": "nhảy, khiêu vũ",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "de:word:5a98c5ac5bbdc555",
@@ -6113,7 +6553,11 @@
     "reading": "/tɔʏ̯ɐ/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:teuer"
+    "source": "wiktionary:teuer",
+    "meaningVi": "đắt",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "de:word:51a329d7a6fb5c82",
@@ -6133,7 +6577,11 @@
     "reading": "/ˈtʁɪŋkən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:trinken"
+    "source": "wiktionary:trinken",
+    "meaningVi": "uống",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "de:word:69ad23332c014e93",
@@ -6255,7 +6703,11 @@
     "reading": "/fɛɐ̯ˈhaɪ̯ʁaːtət/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:verheiratet"
+    "source": "wiktionary:verheiratet",
+    "meaningVi": "đã kết hôn",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:4520a4f19b35412a",
@@ -6293,7 +6745,11 @@
     "reading": "/fiːl/",
     "partOfSpeech": "pron",
     "level": "A1",
-    "source": "wiktionary:viel"
+    "source": "wiktionary:viel",
+    "meaningVi": "nhiều",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:c246e1303fa9ff1a",
@@ -6341,7 +6797,11 @@
     "reading": "/van/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:wann"
+    "source": "wiktionary:wann",
+    "meaningVi": "khi nào",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "de:word:361aca565ef79a27",
@@ -6391,7 +6851,11 @@
     "reading": "/vaɪ̯t/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:weit"
+    "source": "wiktionary:weit",
+    "meaningVi": "xa",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "de:word:3107ead69bd5817f",
@@ -6461,7 +6925,11 @@
     "reading": "/viː/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:wie"
+    "source": "wiktionary:wie",
+    "meaningVi": "thế nào, bao nhiêu",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "de:word:50f74a5ac5877ea9",
@@ -6541,7 +7009,11 @@
     "reading": "/ˈvoːnən/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:wohnen"
+    "source": "wiktionary:wohnen",
+    "meaningVi": "sống, ở",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "de:word:33b9449870325647",
@@ -10492,7 +10964,11 @@
     "reading": "/kalt/",
     "partOfSpeech": "adj",
     "level": "A2",
-    "source": "wiktionary:kalt"
+    "source": "wiktionary:kalt",
+    "meaningVi": "lạnh",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:847e0978008e5f2d",
@@ -11187,7 +11663,11 @@
     "reading": "[ˈʃnaɪən]",
     "partOfSpeech": "verb",
     "level": "A2",
-    "source": "wiktionary:schneien"
+    "source": "wiktionary:schneien",
+    "meaningVi": "có tuyết rơi",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:cb67a6cd5c8834dd",
@@ -11804,7 +12284,11 @@
     "reading": "/varm/",
     "partOfSpeech": "adj",
     "level": "A2",
-    "source": "wiktionary:warm"
+    "source": "wiktionary:warm",
+    "meaningVi": "ấm",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "de:word:eb8a9252e64b8b15",

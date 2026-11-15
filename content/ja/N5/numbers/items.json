@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ja:sentence:5531280b1bb20294",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "おいくつですか。",
+    "meaningVi": "Bạn bao nhiêu tuổi ạ?",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:3c74afa3c1aa633b",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "私は二十歳です。",
+    "meaningVi": "Tôi hai mươi tuổi.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:aec01594ebdfa44f",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "子供は三歳です。",
+    "meaningVi": "Con tôi ba tuổi.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:f2e54e11c9eb0410",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "りんごを三つください。",
+    "meaningVi": "Cho tôi ba quả táo.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:c836638de616e829",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "パンを一つと、コーヒーを二つください。",
+    "meaningVi": "Cho tôi một cái bánh mì và hai cốc cà phê.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:240bda36cdd6375b",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "電話番号は何番ですか。",
+    "meaningVi": "Số điện thoại của bạn là số mấy?",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:93d8ad27440441a5",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "この本は千五百円です。",
+    "meaningVi": "Cuốn sách này giá 1500 yên.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:97c6b8be3782672f",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "学生が百人います。",
+    "meaningVi": "Có một trăm sinh viên.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:5eee82fe1041a486",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "かばんは一万円でした。",
+    "meaningVi": "Cái cặp giá mười nghìn yên.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:338dafe2b3b27394",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "一人で来ました。",
+    "meaningVi": "Tôi đến một mình.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:sentence:0f42af240c29259a",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "二人で行きましょう。",
+    "meaningVi": "Hai chúng ta cùng đi nhé.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:grammar:38d40a0c798f7ae1",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "Đếm đồ vật: N を + số ～つ + V",
+    "explanationVi": "Tiếng Việt đặt số trước danh từ (ba quả táo), tiếng Nhật đặt số sau danh từ + を: りんごを三つください. Số đếm chung ひとつ, ふたつ, みっつ dùng cho đồ vật từ 1 đến 10.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:grammar:2ec95912b24b397d",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "Tuổi: số + 歳 (さい), hỏi おいくつですか",
+    "explanationVi": "Nói tuổi: số + 歳 + です. 20 tuổi đọc đặc biệt là はたち. Hỏi lịch sự dùng おいくつですか, không hỏi thẳng 何歳 với người lớn tuổi hơn.",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:slang:11108663512a8289",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "タメ",
+    "meaningVi": "Bằng tuổi.",
+    "explanationVi": "Giới trẻ nói タメだね khi biết hai người bằng tuổi. Không dùng với người lớn hay trong công việc.",
+    "register": "slang",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ja:slang:2ad24b90634068e7",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "アラサー",
+    "meaningVi": "Khoảng ba mươi tuổi (around thirty).",
+    "explanationVi": "Hay dùng để nói đùa về tuổi của chính mình; không dùng để gọi người khác.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "numbers"
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ko:exercise:558f2d9e03e05453",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "이거 ___예요? (bao nhiêu)",
+    "answers": [
+      "얼마"
+    ]
+  },
+  {
+    "id": "ko:exercise:425220b155e45442",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "좀 깎아 ___. (làm ơn)",
+    "choices": [
+      "주세요",
+      "드세요",
+      "있어요"
+    ],
+    "answers": [
+      "주세요"
+    ]
+  },
+  {
+    "id": "ko:exercise:22a0770faa42e13c",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "카드___ 계산해도 돼요? (bằng)",
+    "choices": [
+      "로",
+      "으로",
+      "에",
+      "를"
+    ],
+    "answers": [
+      "로"
+    ],
+    "explanationVi": "카드 tận cùng nguyên âm nên dùng 로."
+  },
+  {
+    "id": "ko:exercise:9e2b624a8965e2c5",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "샀어요 / 가방을 / 백화점에서",
+    "answers": [
+      "백화점에서 가방을 샀어요."
+    ],
+    "explanationVi": "Động từ luôn đứng cuối câu."
+  },
+  {
+    "id": "ko:exercise:b6df13173eebdec5",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Cái này bao nhiêu tiền?",
+    "answers": [
+      "이거 얼마예요?",
+      "이것은 얼마예요?",
+      "이건 얼마예요?"
+    ]
+  },
+  {
+    "id": "ko:exercise:0374e180b2ec3924",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "너무 비싸요. 좀 깎아 주세요.",
+    "answers": [
+      "너무 비싸요. 좀 깎아 주세요."
+    ]
+  },
+  {
+    "id": "ko:exercise:dfe6d1ff9ff169d5",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "이 신발 다른 색깔 있어요?",
+    "answers": [
+      "이 신발 다른 색깔 있어요?"
+    ]
+  },
+  {
+    "id": "ko:exercise:c146f300258eb556",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "만 오천 원",
+    "choices": [
+      "만 오천 원",
+      "오만 천 원",
+      "오천 원"
+    ],
+    "answers": [
+      "만 오천 원"
+    ],
+    "explanationVi": "만 = vạn (10.000): 만 오천 = 15.000. Người Việt đếm theo nghìn nên dễ nhầm."
+  },
+  {
+    "id": "ko:exercise:00c92085ec6d2268",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Ở chợ, bạn thấy giá hơi đắt và muốn mặc cả. Câu nào tự nhiên?",
+    "choices": [
+      "좀 깎아 주세요.",
+      "포장해 주세요.",
+      "카드로 계산해도 돼요?"
+    ],
+    "answers": [
+      "좀 깎아 주세요."
+    ]
+  },
+  {
+    "id": "ko:exercise:b806d39ae2e83fc7",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "주인: 이 가방은 오만 원이에요.\n민: 너무 비싸요. 좀 깎아 주세요.\n주인: 그럼 사만 원에 드릴게요.\n\n민 씨는 가방을 얼마에 사요?",
+    "choices": [
+      "오만 원",
+      "사만 원",
+      "만 원"
+    ],
+    "answers": [
+      "사만 원"
+    ]
+  }
+]

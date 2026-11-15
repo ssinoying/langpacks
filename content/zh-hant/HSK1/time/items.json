@@ -1,0 +1,151 @@
+[
+  {
+    "id": "zh-hant:sentence:d75c7ddb416a4d80",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "現在幾點？",
+    "meaningVi": "Bây giờ mấy giờ?",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:3d8d5a6098593f97",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "現在八點半。",
+    "meaningVi": "Bây giờ là tám giờ rưỡi.",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:a351c13ae29e9c33",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "今天星期幾？",
+    "meaningVi": "Hôm nay thứ mấy?",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:613a14f73c91149b",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "今天星期三。",
+    "meaningVi": "Hôm nay thứ Tư.",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:5f22d8677df6af57",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "明天是我的生日。",
+    "meaningVi": "Ngày mai là sinh nhật tôi.",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:deff87a331c7bb02",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "你的生日是幾月幾號？",
+    "meaningVi": "Sinh nhật bạn là ngày mấy tháng mấy?",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:a854288c1db7595a",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我早上六點起床。",
+    "meaningVi": "Tôi thức dậy lúc sáu giờ sáng.",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:7870383957765d74",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "昨天晚上你做什麼了？",
+    "meaningVi": "Tối hôm qua bạn đã làm gì?",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:c8447d383b8ed1be",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我五月十號去北京。",
+    "meaningVi": "Ngày 10 tháng 5 tôi đi Bắc Kinh.",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:bd90bb7c8e9b97b7",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "Thời gian đứng trước động từ",
+    "explanationVi": "Tiếng Việt hay nói \"Tôi dậy lúc sáu giờ sáng\", thời gian ở cuối. Tiếng Trung đặt thời gian trước động từ và từ lớn đến nhỏ: 我早上六點起床 (sáng → sáu giờ → dậy). Ngày tháng cũng vậy: 五月十號 = tháng 5 ngày 10.",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:eb7204ea10d57486",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "Thứ trong tuần: 星期 + số",
+    "explanationVi": "星期 (tinh kỳ) + số, nhưng lệch một so với tiếng Việt: 星期一 = thứ Hai, 星期三 = thứ Tư, 星期天 = Chủ nhật. Hỏi thứ: 星期幾？ Không cần 是: 今天星期三.",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:slang:016bd4eecd22b153",
+    "lang": "zh-hant",
+    "kind": "slang",
+    "text": "早！",
+    "meaningVi": "Chào buổi sáng! (nói gọn)",
+    "explanationVi": "Gặp người quen buổi sáng chỉ cần nói 早！ thay vì 早上好. Không dùng sau buổi trưa.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "zh-hant:slang:7eb417189181d893",
+    "lang": "zh-hant",
+    "kind": "slang",
+    "text": "夜貓子",
+    "meaningVi": "Cú đêm, người hay thức khuya.",
+    "explanationVi": "Trêu người thức khuya: 你是夜貓子. Dùng thân mật, không có ý xấu.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "time"
+    ]
+  }
+]

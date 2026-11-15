@@ -1,0 +1,139 @@
+[
+  {
+    "id": "zh-hant:exercise:46ada7f17f38e3a2",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我___弟弟。(không có)",
+    "choices": [
+      "沒有",
+      "不有",
+      "不是"
+    ],
+    "answers": [
+      "沒有"
+    ],
+    "explanationVi": "Phủ định của 有 là 沒有."
+  },
+  {
+    "id": "zh-hant:exercise:f71c8ab9c7797a43",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "你家有幾___人？(lượng từ đếm người trong nhà)",
+    "answers": [
+      "口"
+    ],
+    "explanationVi": "Hỏi số người trong gia đình dùng lượng từ 口 (khẩu): 幾口人."
+  },
+  {
+    "id": "zh-hant:exercise:f75dc09bf09244fe",
+    "lang": "zh-hant",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "有 / 一個 / 他 / 女兒",
+    "answers": [
+      "他有一個女兒。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:c9eb4aa97a5993bd",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Bố tôi là bác sĩ.",
+    "answers": [
+      "我爸爸是醫生。",
+      "我的爸爸是醫生。"
+    ],
+    "explanationVi": "\"Bố tôi\" là 我爸爸: người sở hữu đứng trước."
+  },
+  {
+    "id": "zh-hant:exercise:12fc281f5f66bb01",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Bạn có em gái không?",
+    "answers": [
+      "你有妹妹嗎？",
+      "你有沒有妹妹？"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:a162a85489760ff1",
+    "lang": "zh-hant",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "這是我奶奶，那是我爺爺。",
+    "answers": [
+      "這是我奶奶，那是我爺爺。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:2ce5cf53a3b7eca8",
+    "lang": "zh-hant",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "我很愛我的家人。",
+    "answers": [
+      "我很愛我的家人。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:bc7d03173fae06fd",
+    "lang": "zh-hant",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "妹妹",
+    "choices": [
+      "妹妹",
+      "姐姐",
+      "弟弟",
+      "哥哥"
+    ],
+    "answers": [
+      "妹妹"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:9505a943997c5319",
+    "lang": "zh-hant",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Kể với bạn thân về bố mình, giọng thân mật. Câu nào tự nhiên nhất?",
+    "choices": [
+      "我老爸是醫生。",
+      "我父親是醫生。",
+      "您爸爸是醫生。"
+    ],
+    "answers": [
+      "我老爸是醫生。"
+    ],
+    "explanationVi": "老爸 thân mật; 父親 trang trọng, dùng trong văn viết."
+  },
+  {
+    "id": "zh-hant:exercise:056f4841fa5152ab",
+    "lang": "zh-hant",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "我叫小明。我家有四口人：爸爸、媽媽、姐姐和我。\n\n小明有幾個姐姐？",
+    "choices": [
+      "一個",
+      "兩個",
+      "沒有"
+    ],
+    "answers": [
+      "一個"
+    ]
+  }
+]

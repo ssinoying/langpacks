@@ -1,0 +1,162 @@
+[
+  {
+    "id": "de:sentence:6fdd48307159d59d",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Das ist meine Familie.",
+    "meaningVi": "Đây là gia đình tôi.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:sentence:9e6d67f5ed9e6c62",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Meine Mutter heißt Hoa.",
+    "meaningVi": "Mẹ tôi tên là Hoa.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:sentence:c1d001512d153e50",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Mein Vater ist Lehrer.",
+    "meaningVi": "Bố tôi là giáo viên.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:sentence:51cd0be0aafb50ab",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich habe einen Bruder und eine Schwester.",
+    "meaningVi": "Tôi có một anh/em trai và một chị/em gái.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:sentence:d8e35d22e139e4b2",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Meine Schwester ist verheiratet.",
+    "meaningVi": "Chị tôi đã lập gia đình.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:sentence:1770ecfb73b066c8",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Mein Bruder ist noch ledig.",
+    "meaningVi": "Anh tôi vẫn còn độc thân.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:sentence:d334ca6bbdd56d9f",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Sie haben einen Sohn und eine Tochter.",
+    "meaningVi": "Họ có một con trai và một con gái.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:sentence:36f55617b87f813f",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Meine Oma und mein Opa wohnen in Hanoi.",
+    "meaningVi": "Bà và ông tôi sống ở Hà Nội.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:sentence:e4773baabd53b1e1",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wo wohnt deine Familie?",
+    "meaningVi": "Gia đình bạn sống ở đâu?",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:sentence:e168b5ffb0ee2e84",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wir haben kein Kind.",
+    "meaningVi": "Chúng tôi không có con.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:grammar:782fd90cf0c90087",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "mein / meine: đổi theo giống của danh từ",
+    "explanationVi": "\"Của tôi\" trong tiếng Đức đứng trước danh từ và đổi theo giống: mein Vater, mein Bruder (der); meine Mutter, meine Schwester (die); mein Kind (das). Tiếng Việt nói \"mẹ tôi\" (tôi đứng sau), tiếng Đức nói meine Mutter (của tôi đứng trước). dein/deine (của bạn) đổi y như vậy.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:grammar:523339d4db81b064",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "kein: phủ định danh từ",
+    "explanationVi": "Muốn nói \"không có\" + danh từ thì dùng kein thay cho ein, không dùng nicht: Wir haben kein Kind. Tiếng Việt chỉ thêm \"không\" trước động từ; tiếng Đức phủ định ngay ở danh từ. kein đổi đuôi như ein: kein Kind, keine Schwester.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:slang:86cf27625f0b0f28",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Mama",
+    "meaningVi": "mẹ",
+    "explanationVi": "Cách gọi mẹ thân mật, ai cũng dùng khi nói chuyện trong nhà và với bạn bè. Trong giấy tờ dùng Mutter.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "de:slang:ff8d82187b899488",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Papa",
+    "meaningVi": "bố",
+    "explanationVi": "Cách gọi bố thân mật, giống \"ba\" trong tiếng Việt. Trong giấy tờ dùng Vater.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  }
+]

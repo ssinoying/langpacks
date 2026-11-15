@@ -1,0 +1,137 @@
+[
+  {
+    "id": "zh-hant:sentence:7513b8163a5788c0",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "你住在哪兒？",
+    "meaningVi": "Bạn sống ở đâu?",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:da8123069549dc8f",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我住在河內。",
+    "meaningVi": "Tôi sống ở Hà Nội.",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:b2ddc4a841da0155",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我家的房子不大。",
+    "meaningVi": "Nhà tôi không lớn.",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:43ef5e46c549fb10",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我的房間裡有一張床和一張桌子。",
+    "meaningVi": "Trong phòng tôi có một cái giường và một cái bàn.",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:7618bca9c4286689",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "電腦在桌子上。",
+    "meaningVi": "Máy tính ở trên bàn.",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:ec44ab51e5064ffb",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "洗手間在哪兒？",
+    "meaningVi": "Nhà vệ sinh ở đâu?",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:c0526858775a4103",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "洗手間在我房間旁邊。",
+    "meaningVi": "Nhà vệ sinh ở cạnh phòng tôi.",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:af294e5f1e70702f",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "家裡有電視嗎？",
+    "meaningVi": "Trong nhà có tivi không?",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:ebb8ae33a0d5fd4d",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我奶奶住在樓上。",
+    "meaningVi": "Bà tôi sống ở tầng trên.",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:f812568c0c4a1688",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "在 + nơi chốn + từ chỉ vị trí",
+    "explanationVi": "\"Ở trên bàn\" là 在桌子上: từ chỉ vị trí 上, 裡, 旁邊 đứng SAU danh từ, ngược tiếng Việt. Lỗi hay gặp: nói *在上桌子.",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:03ed4c25b4cc69a6",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "Nơi chốn + 有 + vật: ở đâu có gì",
+    "explanationVi": "Câu tồn tại đặt nơi chốn lên đầu: 我的房間裡有一張床 = Trong phòng tôi có một cái giường. Giống tiếng Việt \"Trong phòng có…\", nhưng 裡 (trong) đứng sau danh từ. Giường, bàn dùng lượng từ 張.",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "zh-hant:slang:73d953ac545cb6e4",
+    "lang": "zh-hant",
+    "kind": "slang",
+    "text": "宅",
+    "meaningVi": "Ở lì trong nhà.",
+    "explanationVi": "宅 (zhái, Hán Việt: trạch) chỉ người thích ở nhà, ít ra ngoài: 我很宅, 宅男, 宅女. Nói vui với bạn bè, đôi khi hơi chê.",
+    "register": "slang",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "home"
+    ]
+  }
+]

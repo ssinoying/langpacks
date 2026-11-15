@@ -1,0 +1,162 @@
+[
+  {
+    "id": "zh-hans:sentence:28ecc1f6fa8393b5",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你在哪儿工作？",
+    "meaningVi": "Bạn làm việc ở đâu?",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:c6ff276db7322ee0",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我在医院工作，我是医生。",
+    "meaningVi": "Tôi làm việc ở bệnh viện, tôi là bác sĩ.",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:89344ba13d9d9dd9",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "他是我们学校的学生。",
+    "meaningVi": "Cậu ấy là học sinh trường chúng tôi.",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:dea62f3d183ea080",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你是学生吗？",
+    "meaningVi": "Bạn là học sinh à?",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:305b1918bd3f47a1",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我们的汉语老师是中国人。",
+    "meaningVi": "Giáo viên tiếng Trung của chúng tôi là người Trung Quốc.",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:b48864328cec0fcf",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我每天八点上课。",
+    "meaningVi": "Mỗi ngày tôi vào học lúc tám giờ.",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:27f446c392369213",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你工作忙吗？",
+    "meaningVi": "Công việc của bạn có bận không?",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:b97d23621dfb941e",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我们明天有考试。",
+    "meaningVi": "Ngày mai chúng tôi có bài kiểm tra.",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:ec6935dba7aa33f4",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我和同学一起学习汉语。",
+    "meaningVi": "Tôi cùng bạn học học tiếng Trung.",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:4c84fb7af2b82a1f",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我爸爸每天早上七点上班。",
+    "meaningVi": "Bố tôi đi làm lúc bảy giờ sáng mỗi ngày.",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:e298d6794790c16c",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "在 + nơi chốn + động từ: làm gì ở đâu",
+    "explanationVi": "\"Làm việc ở bệnh viện\" là 我在医院工作: nơi chốn đứng TRƯỚC động từ, tiếng Việt để sau. Lỗi hay gặp: nói *我工作在医院.",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:ad3da48afd82096f",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "Câu hỏi có/không với 吗",
+    "explanationVi": "Thêm 吗 vào cuối câu trần thuật để hỏi, không đổi trật tự từ, giống \"không\", \"à\" cuối câu tiếng Việt: 你是学生吗？ Trả lời lặp lại động từ: 是 / 不是, 忙 / 不忙.",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:0839cd658678b538",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "学霸",
+    "meaningVi": "Học bá, người học siêu giỏi.",
+    "explanationVi": "学霸 (Hán Việt: học bá) dùng để khen vui bạn học giỏi. Ngược lại là 学渣 (học dốt), chỉ nói đùa với bạn thân.",
+    "register": "slang",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:9123d941431dd5bd",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "打工人",
+    "meaningVi": "Dân đi làm công ăn lương.",
+    "explanationVi": "Người trẻ tự gọi mình là 打工人 khi than đi làm vất vả, giọng tự trào. Dùng thân mật.",
+    "register": "slang",
+    "status": "trending",
+    "level": "HSK1",
+    "topics": [
+      "school-work"
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "from": "ko:word:1e57d9fc6df46c04",
+    "to": "ko:sentence:b96379375846c53c",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:1a450672afdc7daf",
+    "to": "ko:sentence:9602fd1e39e0d2cf",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:3c6b487aa271b907",
+    "to": "ko:sentence:8c4056ddb289492f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:f09f77103b945db2",
+    "to": "ko:sentence:e9897a1efc8902a8",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:ee24811a53ea74f5",
+    "to": "ko:sentence:c5eb76a88ee2d6a6",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:7fcb8ae540e9eb22",
+    "to": "ko:sentence:c5eb76a88ee2d6a6",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:ce2e321dc0bc525d",
+    "to": "ko:sentence:ff2ab0c77c3a2a71",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:5ebbaf85997dfc6e",
+    "to": "ko:sentence:ff2ab0c77c3a2a71",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:438bdb7dbc66e4b6",
+    "to": "ko:sentence:1b288a6104e7cd1c",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:d4874931571ea16d",
+    "to": "ko:sentence:96e44353c1b37b13",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:7f41cb27bc73fe36",
+    "to": "ko:sentence:55384e8cf0c7c56c",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:0b4b46fad9426a18",
+    "to": "ko:sentence:b2200912ac0f6e5f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:7ee7c2bb88db8b07",
+    "to": "ko:sentence:b2200912ac0f6e5f",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:sentence:9602fd1e39e0d2cf",
+    "to": "ko:grammar:5195b9d6b4d4240a",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:8c4056ddb289492f",
+    "to": "ko:grammar:5195b9d6b4d4240a",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:b2200912ac0f6e5f",
+    "to": "ko:grammar:5195b9d6b4d4240a",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:e9897a1efc8902a8",
+    "to": "ko:grammar:9a10085f2a1c38b4",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:c5eb76a88ee2d6a6",
+    "to": "ko:grammar:9a10085f2a1c38b4",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:b2200912ac0f6e5f",
+    "to": "ko:slang:b3876536b96e2ce7",
+    "kind": "book-reallife"
+  }
+]

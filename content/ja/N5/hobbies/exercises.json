@@ -1,0 +1,141 @@
+[
+  {
+    "id": "ja:exercise:a40f104d50d97efb",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "私は音楽___好きです。",
+    "choices": [
+      "が",
+      "を",
+      "に",
+      "で"
+    ],
+    "answers": [
+      "が"
+    ],
+    "explanationVi": "好き đi với が, không dùng を."
+  },
+  {
+    "id": "ja:exercise:6db18d7c0df590f7",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "スポーツはあまり好き___。(không... lắm)",
+    "answers": [
+      "じゃありません",
+      "ではありません"
+    ],
+    "explanationVi": "あまり luôn đi với thể phủ định."
+  },
+  {
+    "id": "ja:exercise:3daa3e1c9e91660e",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "兄はギターがとても___です。(giỏi)",
+    "answers": [
+      "上手",
+      "じょうず"
+    ],
+    "explanationVi": "Khen người khác giỏi dùng 上手; tự nói mình 上手 nghe như khoe khoang."
+  },
+  {
+    "id": "ja:exercise:67d57107651bd4b8",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "読みます / 本を / 寝る前に",
+    "answers": [
+      "寝る前に本を読みます。"
+    ]
+  },
+  {
+    "id": "ja:exercise:e0ed7e90bb2a99f5",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Bạn thích môn thể thao nào?",
+    "answers": [
+      "どんなスポーツが好きですか。",
+      "何のスポーツが好きですか。",
+      "どんなスポーツがすきですか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:54457e6ad3c8b46a",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "夏休みに海で泳ぎました。",
+    "answers": [
+      "夏休みに海で泳ぎました。",
+      "なつやすみにうみでおよぎました。"
+    ]
+  },
+  {
+    "id": "ja:exercise:97c31de71918f178",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "写真を撮るのが好きです。",
+    "answers": [
+      "写真を撮るのが好きです。"
+    ]
+  },
+  {
+    "id": "ja:exercise:2aaa1f0cc4a478bb",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "えいが",
+    "choices": [
+      "映画",
+      "音楽",
+      "写真"
+    ],
+    "answers": [
+      "映画"
+    ]
+  },
+  {
+    "id": "ja:exercise:773b82e708629551",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "ミンさんは音楽が大好きです。毎日ギターを弾きます。でも、スポーツはあまり好きじゃありません。\n\nミンさんがあまり好きじゃないものは何ですか。",
+    "choices": [
+      "音楽",
+      "ギター",
+      "スポーツ"
+    ],
+    "answers": [
+      "スポーツ"
+    ]
+  },
+  {
+    "id": "ja:exercise:e65b458fad98c14c",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Bạn thân hỏi ca sĩ bạn hâm mộ nhất là ai. Câu nào tự nhiên giữa bạn bè?",
+    "choices": [
+      "私の推しはこの人！",
+      "私はこの人が嫌いです。",
+      "この人は上手ですか。"
+    ],
+    "answers": [
+      "私の推しはこの人！"
+    ]
+  }
+]

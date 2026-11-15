@@ -1,0 +1,23 @@
+{
+  "id": "de-A1-hobbies",
+  "lang": "de",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "hobbies",
+  "title": "Sở thích",
+  "requires": [],
+  "itemIds": [
+    "de:word:63742c2a1222dcac",
+    "de:word:48f6c082b98a8119",
+    "de:word:87d8795c2a3b1625",
+    "de:word:04ae89b890e121c7",
+    "de:word:ee901db78204fc53",
+    "de:word:65204a98ece7f2a8",
+    "de:word:66375dbe834d1b21",
+    "de:word:36503f85ac321e86",
+    "de:word:d5b1680f0655c5dc",
+    "de:word:37e35f3476e63c21",
+    "de:word:80087f7c25312386",
+    "de:word:529cf7baed799fa7"
+  ]
+}

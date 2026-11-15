@@ -1,0 +1,139 @@
+[
+  {
+    "id": "en:exercise:9b96b7bf8558e772",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "I go to work ___ bus.",
+    "choices": [
+      "by",
+      "on",
+      "in"
+    ],
+    "answers": [
+      "by"
+    ],
+    "explanationVi": "Phương tiện dùng by, không có a/the."
+  },
+  {
+    "id": "en:exercise:a8fdd2fb56406920",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "I walk ___ school every day. (đến)",
+    "answers": [
+      "to"
+    ],
+    "explanationVi": "Tiếng Việt \"đi bộ đến trường\", tiếng Anh cần to trước nơi chốn."
+  },
+  {
+    "id": "en:exercise:d3a070f43653f46f",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "Is there a bus ___ near here? (trạm dừng)",
+    "answers": [
+      "stop"
+    ]
+  },
+  {
+    "id": "en:exercise:f6783fbc873b1338",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "you / how / get / do / to school",
+    "answers": [
+      "How do you get to school?"
+    ]
+  },
+  {
+    "id": "en:exercise:e9333d8c9a648fbb",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi đi làm bằng xe buýt.",
+    "answers": [
+      "I go to work by bus.",
+      "I take the bus to work.",
+      "I get to work by bus."
+    ],
+    "explanationVi": "by bus không có a/the; go to work cần to."
+  },
+  {
+    "id": "en:exercise:68c6227d2c0571bb",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Is there a bus stop near here?",
+    "answers": [
+      "Is there a bus stop near here?"
+    ]
+  },
+  {
+    "id": "en:exercise:2e6cae78ac4b2a9d",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Excuse me, where is Le Loi Street?",
+    "answers": [
+      "Excuse me, where is Le Loi Street?"
+    ]
+  },
+  {
+    "id": "en:exercise:daca601ba298a4fb",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "walk",
+    "choices": [
+      "walk",
+      "work",
+      "woke"
+    ],
+    "answers": [
+      "walk"
+    ],
+    "explanationVi": "walk /wɔːk/ có l câm; work /wɜːk/ là làm việc."
+  },
+  {
+    "id": "en:exercise:45cac74e710c9c21",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Nam lives near his office, so he walks to work. His wife works far away. She drives to work, and it takes forty minutes.\n\nVợ Nam đi làm bằng gì?",
+    "choices": [
+      "She walks.",
+      "She drives.",
+      "She takes the bus."
+    ],
+    "answers": [
+      "She drives."
+    ]
+  },
+  {
+    "id": "en:exercise:737c57977ab5d4a7",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn đi xe máy, thấy bạn thân đứng chờ xe buýt dưới mưa. Hỏi thế nào cho tự nhiên?",
+    "choices": [
+      "Need a ride?",
+      "Do you want a drive?",
+      "You need carry?"
+    ],
+    "answers": [
+      "Need a ride?"
+    ],
+    "explanationVi": "Chở ai đi là give someone a ride; không nói *a drive."
+  }
+]

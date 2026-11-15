@@ -1,0 +1,173 @@
+[
+  {
+    "id": "en:sentence:29a2a1871e74b6f7",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "How do you get to school?",
+    "meaningVi": "Bạn đến trường bằng gì?",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:c41cf4005b23eb53",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I go to work by bus.",
+    "meaningVi": "Tôi đi làm bằng xe buýt.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:9af27662b529f5b5",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My father drives to work.",
+    "meaningVi": "Bố tôi lái xe đi làm.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:1ace881015362f33",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I walk to school every day.",
+    "meaningVi": "Ngày nào tôi cũng đi bộ đến trường.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:b6ffd4cc9e4a6794",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "We don't have a car.",
+    "meaningVi": "Nhà tôi không có ô tô.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:ba1252d8c3d3d8d7",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "She rides her bike to the park.",
+    "meaningVi": "Cô ấy đạp xe đến công viên.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:ebb2c79b40870ed3",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Let's take a taxi.",
+    "meaningVi": "Mình đi taxi đi.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:7d28aaa608a7999b",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Is there a bus stop near here?",
+    "meaningVi": "Gần đây có trạm xe buýt không?",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:ba920ddd75703e80",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Excuse me, where is Le Loi Street?",
+    "meaningVi": "Xin lỗi, đường Lê Lợi ở đâu?",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:8963cd835993ddd6",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "The bank is on the corner.",
+    "meaningVi": "Ngân hàng ở góc phố.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:sentence:a9ce57127332d2bd",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's a ten-minute walk.",
+    "meaningVi": "Đi bộ mất mười phút.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:grammar:2b516da33b40f314",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Phương tiện: by bus, by car (không có a/the)",
+    "explanationVi": "Tiếng Việt \"đi bằng xe buýt\" = by bus. Sau by không thêm a/the: *by a bus. Nếu dùng động từ take thì có mạo từ: take a taxi, take the bus. Đi bộ không nói *by foot mà dùng walk hoặc on foot.",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:grammar:a2e54a6a6cea67f9",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Đi đến đâu: go / walk / drive / get + to + nơi chốn",
+    "explanationVi": "Tiếng Việt nói \"đi làm\", \"đến trường\" không cần giới từ. Tiếng Anh cần to: go to work, walk to school, drive to work. Lỗi hay gặp: *I go school. (Ngoại lệ: go home không có to.)",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:slang:425199cf3a692931",
+    "lang": "en",
+    "kind": "slang",
+    "text": "Need a ride?",
+    "meaningVi": "Cần mình chở không?",
+    "explanationVi": "Hỏi khi muốn chở ai bằng xe máy, ô tô. Kiểu Mỹ; người Anh còn nói Do you need a lift?",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en:slang:209de36b984a9654",
+    "lang": "en",
+    "kind": "slang",
+    "text": "Hop in!",
+    "meaningVi": "Lên xe đi!",
+    "explanationVi": "Mời ai lên xe (ô tô, taxi) một cách thân mật, nhanh gọn.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "transport"
+    ]
+  }
+]

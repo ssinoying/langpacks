@@ -1,0 +1,23 @@
+{
+  "id": "zh-hant-HSK1-shopping",
+  "lang": "zh-hant",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "shopping",
+  "title": "Mua sắm",
+  "requires": [],
+  "itemIds": [
+    "zh-hant:word:a8a0c723b2732ee5",
+    "zh-hant:word:9f54b2494434b5b8",
+    "zh-hant:word:e46e1d612400d836",
+    "zh-hant:word:2104fda8a54894a1",
+    "zh-hant:word:49ceed144ba6b5ce",
+    "zh-hant:word:5456e1d1a63c6157",
+    "zh-hant:word:10891393e570036d",
+    "zh-hant:word:e0fc09385dfc50f2",
+    "zh-hant:word:213687c669908cec",
+    "zh-hant:word:702ed1332b5fb1e0",
+    "zh-hant:word:fec37af53192ec31",
+    "zh-hant:word:fd14ca6a866d64d1"
+  ]
+}

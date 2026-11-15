@@ -1,0 +1,74 @@
+[
+  {
+    "id": "zh-hant:dialogue:ed2305262844fa6f",
+    "lang": "zh-hant",
+    "level": "HSK1",
+    "title": "Hỏi về công việc",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "王老師",
+        "text": "你在學校學習還是工作？",
+        "translationVi": "Em đang đi học hay đi làm?",
+        "options": [
+          {
+            "answers": [
+              "我是學生。",
+              "我在學校學習。",
+              "學習。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "我工作了。",
+              "我在工作。",
+              "我上班了。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "王老師",
+        "text": "你學習什麼？",
+        "translationVi": "Em học gì?",
+        "options": [
+          {
+            "answers": [
+              "我學習漢語。",
+              "漢語。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "王老師",
+        "text": "你工作忙不忙？",
+        "translationVi": "Công việc có bận không?",
+        "options": [
+          {
+            "answers": [
+              "很忙。",
+              "非常忙。"
+            ],
+            "next": "end"
+          },
+          {
+            "answers": [
+              "不太忙。",
+              "不忙。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "王老師",
+        "text": "加油！",
+        "translationVi": "Cố lên!"
+      }
+    }
+  }
+]

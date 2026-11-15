@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ko:dialogue:ba8ebc06da4b5aa2",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Gọi món ở quán ăn",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "직원",
+        "text": "어서 오세요! 메뉴 여기 있어요.",
+        "translationVi": "Mời vào! Thực đơn đây ạ.",
+        "options": [
+          {
+            "answers": [
+              "비빔밥 하나 주세요.",
+              "비빔밥 주세요."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "김치찌개 하나 주세요.",
+              "김치찌개 주세요."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "직원",
+        "text": "고추장 많이 드릴까요?",
+        "translationVi": "Cho nhiều tương ớt không ạ?",
+        "options": [
+          {
+            "answers": [
+              "조금만 주세요.",
+              "네, 많이 주세요."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "직원",
+        "text": "김치찌개는 좀 매워요. 괜찮으세요?",
+        "translationVi": "Canh kim chi hơi cay ạ. Có sao không ạ?",
+        "options": [
+          {
+            "answers": [
+              "네, 괜찮아요.",
+              "네, 매운 음식 좋아해요."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "직원",
+        "text": "음료수는요?",
+        "translationVi": "Còn đồ uống ạ?",
+        "options": [
+          {
+            "answers": [
+              "물 주세요.",
+              "콜라 하나 주세요.",
+              "괜찮아요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "직원",
+        "text": "네, 잠시만 기다리세요.",
+        "translationVi": "Vâng, xin đợi một chút ạ."
+      }
+    }
+  }
+]

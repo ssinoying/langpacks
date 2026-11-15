@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ko:dialogue:4f1921bb6b58094a",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Hỏi đường đến ga",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "아주머니",
+        "text": "뭘 도와줄까요?",
+        "translationVi": "Tôi giúp gì được cho cháu?",
+        "options": [
+          {
+            "answers": [
+              "지하철역이 어디에 있어요?",
+              "실례합니다. 지하철역이 어디예요?"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "버스 정류장이 어디에 있어요?",
+              "버스 정류장이 어디예요?"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "아주머니",
+        "text": "이 길로 쭉 가서 왼쪽으로 가세요.",
+        "translationVi": "Đi thẳng đường này rồi rẽ trái.",
+        "options": [
+          {
+            "answers": [
+              "여기에서 멀어요?",
+              "멀어요?"
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "아주머니",
+        "text": "은행 앞에 있어요. 저기 보여요?",
+        "translationVi": "Ở trước ngân hàng. Thấy chỗ kia không?",
+        "options": [
+          {
+            "answers": [
+              "네, 보여요. 감사합니다.",
+              "아, 감사합니다."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "아주머니",
+        "text": "아니요, 걸어서 오 분 걸려요.",
+        "translationVi": "Không, đi bộ mất năm phút.",
+        "options": [
+          {
+            "answers": [
+              "감사합니다!",
+              "정말 감사합니다."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "아주머니",
+        "text": "조심해서 가세요!",
+        "translationVi": "Đi cẩn thận nhé!"
+      }
+    }
+  }
+]

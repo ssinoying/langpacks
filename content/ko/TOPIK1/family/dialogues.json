@@ -1,0 +1,81 @@
+[
+  {
+    "id": "ko:dialogue:64ab0a720f8320df",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Hỏi về gia đình",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "하나",
+        "text": "민 씨, 가족이 몇 명이에요?",
+        "translationVi": "Minh ơi, nhà bạn có mấy người?",
+        "options": [
+          {
+            "answers": [
+              "네 명이에요.",
+              "우리 가족은 네 명이에요.",
+              "저희 가족은 네 명이에요."
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "하나",
+        "text": "형제가 있어요?",
+        "translationVi": "Bạn có anh chị em không?",
+        "options": [
+          {
+            "answers": [
+              "네, 여동생이 있어요.",
+              "여동생이 한 명 있어요."
+            ],
+            "next": "c"
+          },
+          {
+            "answers": [
+              "아니요, 없어요.",
+              "아니요, 형제가 없어요."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "하나",
+        "text": "여동생은 몇 살이에요?",
+        "translationVi": "Em gái bạn mấy tuổi?",
+        "options": [
+          {
+            "answers": [
+              "열일곱 살이에요.",
+              "고등학생이에요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "하나",
+        "text": "아, 그래요? 부모님하고 같이 살아요?",
+        "translationVi": "Ồ, vậy à? Bạn sống cùng bố mẹ không?",
+        "options": [
+          {
+            "answers": [
+              "네, 같이 살아요.",
+              "네, 부모님하고 살아요.",
+              "아니요, 혼자 살아요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "하나",
+        "text": "다음에 가족 사진 보여 주세요!",
+        "translationVi": "Lần sau cho mình xem ảnh gia đình nhé!"
+      }
+    }
+  }
+]

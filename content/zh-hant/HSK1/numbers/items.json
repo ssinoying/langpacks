@@ -1,0 +1,162 @@
+[
+  {
+    "id": "zh-hant:sentence:989626bcd691a631",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "你今年多大？",
+    "meaningVi": "Năm nay bạn bao nhiêu tuổi?",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:4133f15e23446ac7",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我今年二十歲。",
+    "meaningVi": "Năm nay tôi hai mươi tuổi.",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:018a7e9cf999afaf",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "他今年十九歲。",
+    "meaningVi": "Năm nay anh ấy mười chín tuổi.",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:348c2007fcda6932",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "她的孩子八歲了。",
+    "meaningVi": "Con của cô ấy tám tuổi rồi.",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:483b801bd86a9d39",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我爺爺今年七十歲。",
+    "meaningVi": "Năm nay ông tôi bảy mươi tuổi.",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:d2bf0959be743fe4",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "一、二、三、四、五！",
+    "meaningVi": "Một, hai, ba, bốn, năm!",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:8c1c27084be5b2ff",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "你們班有多少學生？",
+    "meaningVi": "Lớp các bạn có bao nhiêu học sinh?",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:5315b6c0718330c3",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我們班有三十六個學生。",
+    "meaningVi": "Lớp chúng tôi có ba mươi sáu học sinh.",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:48002dcbfc5ae06e",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我有兩個中國朋友。",
+    "meaningVi": "Tôi có hai người bạn Trung Quốc.",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:a97c12eab4171304",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "你的電話是多少？",
+    "meaningVi": "Số điện thoại của bạn là bao nhiêu?",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:9fe5184948a932e3",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "Số + lượng từ + danh từ (兩個朋友)",
+    "explanationVi": "Giống tiếng Việt \"hai người bạn\", giữa số và danh từ phải có lượng từ, hay gặp nhất là 個: 三十六個學生. Số 2 đứng trước lượng từ đọc là 兩 (lưỡng), không nói *二個. Đếm số thì vẫn dùng 二: 一、二、三.",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:28b53614b67ff079",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "Nói tuổi: 今年 + số + 歲",
+    "explanationVi": "Nói tuổi không cần 是: 我今年二十歲 = Năm nay tôi hai mươi tuổi, giống tiếng Việt. 今年 (kim niên) đứng trước số. Hỏi người lớn: 你今年多大？; hỏi trẻ em: 你幾歲了？",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:slang:8d23696810a771ed",
+    "lang": "zh-hant",
+    "kind": "slang",
+    "text": "666",
+    "meaningVi": "Đỉnh quá, giỏi quá!",
+    "explanationVi": "Đọc liùliùliù, gần âm 溜 (trôi chảy). Hay gõ khi xem game, livestream để khen. Chỉ dùng khi nhắn tin, với bạn bè.",
+    "register": "slang",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "zh-hant:slang:47c84176498472c7",
+    "lang": "zh-hant",
+    "kind": "slang",
+    "text": "520",
+    "meaningVi": "Anh yêu em / Em yêu anh.",
+    "explanationVi": "Đọc wǔ'èrlíng, gần âm 我愛你. Dùng khi nhắn tin với người yêu; ngày 20/5 là ngày tỏ tình ở Trung Quốc.",
+    "register": "slang",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "numbers"
+    ]
+  }
+]

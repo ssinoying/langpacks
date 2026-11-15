@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ko:dialogue:9b47e64c0f89d015",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Hẹn gặp cuối tuần",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "지수",
+        "text": "민 씨, 주말에 시간 있어요?",
+        "translationVi": "Minh ơi, cuối tuần bạn rảnh không?",
+        "options": [
+          {
+            "answers": [
+              "네, 토요일에 시간 있어요.",
+              "네, 있어요."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "토요일은 바빠요. 일요일은 괜찮아요.",
+              "일요일은 괜찮아요."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "지수",
+        "text": "그럼 토요일 오후 두 시에 만나요.",
+        "translationVi": "Vậy hai giờ chiều thứ bảy gặp nhé.",
+        "options": [
+          {
+            "answers": [
+              "좋아요!",
+              "네, 좋아요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "지수",
+        "text": "그럼 일요일 아침 열 시 어때요?",
+        "translationVi": "Vậy mười giờ sáng chủ nhật thì sao?",
+        "options": [
+          {
+            "answers": [
+              "좋아요!",
+              "네, 그때 만나요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "지수",
+        "text": "그때 봐요!",
+        "translationVi": "Hẹn gặp lúc đó nhé!"
+      }
+    }
+  }
+]

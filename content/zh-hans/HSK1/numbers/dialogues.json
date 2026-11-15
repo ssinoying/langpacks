@@ -1,0 +1,67 @@
+[
+  {
+    "id": "zh-hans:dialogue:73762e665ba51737",
+    "lang": "zh-hans",
+    "level": "HSK1",
+    "title": "Hỏi tuổi bạn mới",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "小王",
+        "text": "你今年多大？",
+        "translationVi": "Năm nay bạn bao nhiêu tuổi?",
+        "options": [
+          {
+            "answers": [
+              "我今年二十岁。",
+              "我二十岁。",
+              "二十岁。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "我今年十九岁。",
+              "我十九岁。",
+              "十九岁。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "小王",
+        "text": "二十岁？我也是！",
+        "translationVi": "Hai mươi à? Mình cũng vậy!",
+        "options": [
+          {
+            "answers": [
+              "是吗？太好了！",
+              "太好了！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "小王",
+        "text": "你比我小一岁。",
+        "translationVi": "Bạn nhỏ hơn mình một tuổi.",
+        "options": [
+          {
+            "answers": [
+              "是吗？",
+              "你今年二十岁吗？"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "小王",
+        "text": "以后我们一起学习吧！",
+        "translationVi": "Sau này mình cùng học nhé!"
+      }
+    }
+  }
+]

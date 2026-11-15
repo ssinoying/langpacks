@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ko:sentence:6bf88a8a88a950fb",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "오늘 날씨가 어때요?",
+    "meaningVi": "Hôm nay thời tiết thế nào?",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:sentence:db33574afb16efb0",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "날씨가 맑고 따뜻해요.",
+    "meaningVi": "Trời quang và ấm.",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:sentence:cf30da651ac96f99",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "봄은 따뜻하고 가을은 시원해요.",
+    "meaningVi": "Mùa xuân ấm, còn mùa thu mát.",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:sentence:6b317209ca394427",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "한국의 여름은 정말 더워요.",
+    "meaningVi": "Mùa hè ở Hàn Quốc rất nóng.",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:sentence:0c53d127f642962f",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "겨울에는 너무 추워요.",
+    "meaningVi": "Mùa đông lạnh quá.",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:sentence:8021dd9c85aa5dc7",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "비가 와요. 우산 있어요?",
+    "meaningVi": "Trời mưa. Bạn có ô không?",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:sentence:a8f0438df24aa365",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "바람이 불어서 시원해요.",
+    "meaningVi": "Có gió thổi nên mát.",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:sentence:cb7586a4f9644ba9",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "어느 계절을 좋아해요?",
+    "meaningVi": "Bạn thích mùa nào?",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:sentence:713984841bbffdc8",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저는 봄하고 가을을 좋아해요.",
+    "meaningVi": "Tôi thích mùa xuân và mùa thu.",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:sentence:898493591e38cdac",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "내일은 비가 올 거예요.",
+    "meaningVi": "Mai trời sẽ mưa.",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:grammar:d93bbd4f990df1c0",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "Bất quy tắc ㅂ: 덥다 → 더워요, 춥다 → 추워요",
+    "explanationVi": "Nhiều tính từ tận cùng ㅂ đổi ㅂ thành 우 trước đuôi bắt đầu bằng nguyên âm: 덥다 → 더워요, 춥다 → 추워요, 맵다 → 매워요. Lỗi hay gặp: *덥어요.",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:grammar:d07d6a4eb78a9ac9",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "A/V-고 (và)",
+    "explanationVi": "Nối hai tính từ hoặc hai việc, như \"và\": 맑고 따뜻해요 = quang và ấm. Thì và đuôi lịch sự chỉ để ở vế cuối.",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ko:slang:516afee2579a0cca",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "날씨 미쳤다",
+    "meaningVi": "Thời tiết điên rồ thật.",
+    "explanationVi": "Cường điệu khi trời quá đẹp hoặc quá tệ, nghĩa tùy ngữ cảnh. Chỉ nói với bạn bè, không dùng với người lớn.",
+    "register": "slang",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "weather"
+    ]
+  }
+]

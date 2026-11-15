@@ -1,0 +1,143 @@
+[
+  {
+    "id": "zh-hant:exercise:1718378db011e61a",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我有___個中國朋友。(hai)",
+    "choices": [
+      "兩",
+      "二"
+    ],
+    "answers": [
+      "兩"
+    ],
+    "explanationVi": "Trước lượng từ 個 dùng 兩, không dùng 二."
+  },
+  {
+    "id": "zh-hant:exercise:886f458e2a0c5beb",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我們班有三十六___學生。(lượng từ)",
+    "answers": [
+      "個"
+    ],
+    "explanationVi": "Giữa số và danh từ cần lượng từ."
+  },
+  {
+    "id": "zh-hant:exercise:7062ba18f1b7feda",
+    "lang": "zh-hant",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "二十 / 今年 / 歲 / 我",
+    "answers": [
+      "我今年二十歲。"
+    ],
+    "explanationVi": "今年 đứng sau chủ ngữ, trước số tuổi."
+  },
+  {
+    "id": "zh-hant:exercise:d90b15f56b7cc8e2",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Năm nay bạn bao nhiêu tuổi?",
+    "answers": [
+      "你今年多大？",
+      "你多大？",
+      "你今年多大了？",
+      "你多大了？",
+      "你今年幾歲？",
+      "你幾歲？",
+      "你幾歲了？"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:5dcbb910a259855c",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Tôi có hai người bạn Trung Quốc.",
+    "answers": [
+      "我有兩個中國朋友。"
+    ],
+    "explanationVi": "Không nói *二個."
+  },
+  {
+    "id": "zh-hant:exercise:64f32c14cc20dded",
+    "lang": "zh-hant",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "我爺爺今年七十歲。",
+    "answers": [
+      "我爺爺今年七十歲。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:8f632c202bc9659a",
+    "lang": "zh-hant",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "他今年十九歲。",
+    "answers": [
+      "他今年十九歲。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:41595ef002a98a4b",
+    "lang": "zh-hant",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "六",
+    "choices": [
+      "六",
+      "九",
+      "七",
+      "四"
+    ],
+    "answers": [
+      "六"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:46fcfd562b313f59",
+    "lang": "zh-hant",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Hỏi tuổi một bé năm tuổi. Câu nào tự nhiên?",
+    "choices": [
+      "你幾歲了？",
+      "您今年多大年紀？",
+      "你的電話是多少？"
+    ],
+    "answers": [
+      "你幾歲了？"
+    ],
+    "explanationVi": "Với trẻ em hỏi 幾歲; 多大年紀 dùng cho người già."
+  },
+  {
+    "id": "zh-hant:exercise:be8361cb71b47f57",
+    "lang": "zh-hant",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "小明今年十九歲。他有兩個中國朋友。\n\n小明今年多大？",
+    "choices": [
+      "十九歲",
+      "九歲",
+      "二十歲"
+    ],
+    "answers": [
+      "十九歲"
+    ]
+  }
+]

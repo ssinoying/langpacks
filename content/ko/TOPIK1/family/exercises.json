@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ko:exercise:8d9cbdece8e42f03",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "아버지는 회사에 ___. (đi làm, kính ngữ)",
+    "choices": [
+      "다니세요",
+      "다녀요",
+      "다니다"
+    ],
+    "answers": [
+      "다니세요"
+    ],
+    "explanationVi": "Nói về bố (người lớn) dùng kính ngữ -(으)세요."
+  },
+  {
+    "id": "ko:exercise:d7071b98eaee82ee",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "저는 남자예요. ___가 한 명 있어요. (chị gái)",
+    "choices": [
+      "누나",
+      "언니",
+      "오빠",
+      "형"
+    ],
+    "answers": [
+      "누나"
+    ],
+    "explanationVi": "Em trai gọi chị gái là 누나; em gái mới gọi là 언니."
+  },
+  {
+    "id": "ko:exercise:eb46d5739c099675",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "여동생___ 있어요? (có em gái không)",
+    "choices": [
+      "이",
+      "가",
+      "을",
+      "는"
+    ],
+    "answers": [
+      "이"
+    ],
+    "explanationVi": "여동생 có patchim ㅇ nên dùng 이. Thứ được \"có\" mang 이/가, không dùng 을."
+  },
+  {
+    "id": "ko:exercise:5a3bac6dc52be04d",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "있어요 / 한 명 / 형이 / 저는",
+    "answers": [
+      "저는 형이 한 명 있어요."
+    ]
+  },
+  {
+    "id": "ko:exercise:2979d6f68ba7a11d",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Nhà tôi có bốn người.",
+    "answers": [
+      "우리 가족은 네 명이에요.",
+      "저희 가족은 네 명이에요.",
+      "우리 가족은 네 명입니다.",
+      "저희 가족은 네 명입니다."
+    ],
+    "explanationVi": "Trước 명, 넷 rút thành 네."
+  },
+  {
+    "id": "ko:exercise:b6962f8260a4dce5",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "누나는 작년에 결혼했어요.",
+    "answers": [
+      "누나는 작년에 결혼했어요."
+    ]
+  },
+  {
+    "id": "ko:exercise:dd91e308654652a7",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "할머니는 부모님하고 같이 사세요.",
+    "answers": [
+      "할머니는 부모님하고 같이 사세요."
+    ]
+  },
+  {
+    "id": "ko:exercise:7882d7ed22787c9a",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "여동생",
+    "choices": [
+      "여동생",
+      "남동생",
+      "동생"
+    ],
+    "answers": [
+      "여동생"
+    ],
+    "explanationVi": "여 (nữ) = em gái, 남 (nam) = em trai."
+  },
+  {
+    "id": "ko:exercise:89528627012f5c44",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Một bạn nữ giới thiệu anh trai mình. Câu nào đúng?",
+    "choices": [
+      "형이 한 명 있어요.",
+      "오빠가 한 명 있어요.",
+      "누나가 한 명 있어요."
+    ],
+    "answers": [
+      "오빠가 한 명 있어요."
+    ],
+    "explanationVi": "Nữ gọi anh trai là 오빠; 형 là cách nam gọi."
+  },
+  {
+    "id": "ko:exercise:8bd7670b11315184",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "저는 민이에요. 우리 가족은 네 명이에요. 아버지, 어머니, 여동생, 그리고 저예요.\n\n민 씨는 형이 있어요?",
+    "choices": [
+      "네, 있어요.",
+      "아니요, 없어요."
+    ],
+    "answers": [
+      "아니요, 없어요."
+    ]
+  }
+]

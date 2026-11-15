@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ja:exercise:a8661018c04821ec",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "兄は銀行で働い___。(đang)",
+    "choices": [
+      "ています",
+      "ます",
+      "ました"
+    ],
+    "answers": [
+      "ています"
+    ],
+    "explanationVi": "Nghề nghiệp, công việc hiện tại dùng ています."
+  },
+  {
+    "id": "ja:exercise:92eb35ab2eff1e38",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "授業は九時___始まります。(từ)",
+    "choices": [
+      "から",
+      "まで",
+      "に",
+      "で"
+    ],
+    "answers": [
+      "から"
+    ]
+  },
+  {
+    "id": "ja:exercise:36983d7ff2b53a72",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "今週は仕事が___です。(bận)",
+    "answers": [
+      "忙しい",
+      "いそがしい"
+    ]
+  },
+  {
+    "id": "ja:exercise:a8f32f75486e98c1",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "英語を / 大学で / 習っています / 私は",
+    "answers": [
+      "私は大学で英語を習っています。"
+    ]
+  },
+  {
+    "id": "ja:exercise:14bea5839ba57e65",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Ngày mai có bài kiểm tra.",
+    "answers": [
+      "明日、テストがあります。",
+      "あしたテストがあります。"
+    ]
+  },
+  {
+    "id": "ja:exercise:73b5e9425af30b59",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "宿題はもう終わりましたか。",
+    "answers": [
+      "宿題はもう終わりましたか。",
+      "しゅくだいはもうおわりましたか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:857c36847cc0be15",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "仕事は何時に終わりますか。",
+    "answers": [
+      "仕事は何時に終わりますか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:2690f1c4027b0b33",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "かいしゃ",
+    "choices": [
+      "会社",
+      "学校",
+      "教室"
+    ],
+    "answers": [
+      "会社"
+    ]
+  },
+  {
+    "id": "ja:exercise:6c2dcc065fb46d0b",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "ランさんは大学生です。月曜日から金曜日まで授業があります。土曜日はレストランでバイトをしています。\n\nランさんは土曜日に何をしますか。",
+    "choices": [
+      "授業",
+      "バイト",
+      "テスト"
+    ],
+    "answers": [
+      "バイト"
+    ]
+  },
+  {
+    "id": "ja:exercise:70fe7a9a28e5f442",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Trong lớp, bạn muốn xin thầy cho dùng từ điển. Câu nào lịch sự?",
+    "choices": [
+      "辞書を使ってもいいですか。",
+      "辞書を使え。",
+      "辞書は何ですか。"
+    ],
+    "answers": [
+      "辞書を使ってもいいですか。"
+    ],
+    "explanationVi": "V てもいいですか = xin phép lịch sự; 使え là mệnh lệnh thô."
+  }
+]

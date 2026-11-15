@@ -1,0 +1,112 @@
+[
+  {
+    "from": "ko:word:a6e12136e46bc169",
+    "to": "ko:sentence:d20ddbaa27f0abd7",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:a6e12136e46bc169",
+    "to": "ko:sentence:cc7adfcad5311fe0",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:6caf5369a2dce9f4",
+    "to": "ko:sentence:cc7adfcad5311fe0",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:a7921d3dc2bff06a",
+    "to": "ko:sentence:d0ffeccccc0a3d69",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:4f1834b73af89555",
+    "to": "ko:sentence:17da748c2aa02af5",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:87d0f7e091892acf",
+    "to": "ko:sentence:17da748c2aa02af5",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:55f4fc2e94de79ac",
+    "to": "ko:sentence:184e08a161af6a16",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:01fde29b45befefc",
+    "to": "ko:sentence:fb4e275a05fbc051",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:87dc169184f9a904",
+    "to": "ko:sentence:aac8aa2f4493f1a5",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:6596b49fc6e60767",
+    "to": "ko:sentence:aac8aa2f4493f1a5",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:87d0f7e091892acf",
+    "to": "ko:sentence:aac8aa2f4493f1a5",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:635747cd6b8c71f8",
+    "to": "ko:sentence:aac8aa2f4493f1a5",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:1402002159c2fb3c",
+    "to": "ko:sentence:196cb7271a3b7463",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:fcb3a84519cfa88d",
+    "to": "ko:sentence:8f2d45ed30371ad8",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:fd66e7a38b51eb2a",
+    "to": "ko:sentence:445893a881b441d4",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:87d0f7e091892acf",
+    "to": "ko:sentence:445893a881b441d4",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:sentence:cc7adfcad5311fe0",
+    "to": "ko:grammar:7f370f8a12cdd9b4",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:17da748c2aa02af5",
+    "to": "ko:grammar:7f370f8a12cdd9b4",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:8f2d45ed30371ad8",
+    "to": "ko:grammar:e291cc0d3b681ad4",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:d1753e3284e0a889",
+    "to": "ko:grammar:e291cc0d3b681ad4",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:17da748c2aa02af5",
+    "to": "ko:slang:76249199162d792b",
+    "kind": "book-reallife"
+  },
+  {
+    "from": "ko:sentence:8f2d45ed30371ad8",
+    "to": "ko:slang:43746b2bdff12f91",
+    "kind": "book-reallife"
+  }
+]

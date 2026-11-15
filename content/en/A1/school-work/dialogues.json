@@ -1,0 +1,69 @@
+[
+  {
+    "id": "en:dialogue:fc057628fce0356c",
+    "lang": "en",
+    "level": "A1",
+    "title": "Hỏi về công việc",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Emma",
+        "text": "So, what do you do?",
+        "translationVi": "Vậy bạn làm nghề gì?",
+        "options": [
+          {
+            "answers": [
+              "I'm a student.",
+              "I am a student.",
+              "I'm a student at university."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "I'm a nurse.",
+              "I work in a hospital.",
+              "I'm a nurse. I work in a hospital."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Emma",
+        "text": "Oh nice! What do you study?",
+        "translationVi": "Hay quá! Bạn học ngành gì?",
+        "options": [
+          {
+            "answers": [
+              "I study English.",
+              "English.",
+              "I study business."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Emma",
+        "text": "Wow! Do you like your job?",
+        "translationVi": "Ồ! Bạn có thích công việc không?",
+        "options": [
+          {
+            "answers": [
+              "Yes, I love it.",
+              "Yes, I do.",
+              "It's OK."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Emma",
+        "text": "That's great. Good luck!",
+        "translationVi": "Tuyệt quá. Chúc bạn may mắn!"
+      }
+    }
+  }
+]

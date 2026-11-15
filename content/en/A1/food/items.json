@@ -1,0 +1,151 @@
+[
+  {
+    "id": "en:sentence:caea3bc3295717e4",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I'm hungry. Let's eat!",
+    "meaningVi": "Tôi đói rồi. Ăn thôi!",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:sentence:6619d1929b1b7072",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I usually have bread and eggs for breakfast.",
+    "meaningVi": "Tôi thường ăn bánh mì và trứng vào bữa sáng.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:sentence:010cf02bdb35e1a8",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What do you want for lunch?",
+    "meaningVi": "Bạn muốn ăn gì vào bữa trưa?",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:sentence:48b26a726d8b2bf1",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "We eat rice every day.",
+    "meaningVi": "Chúng tôi ăn cơm mỗi ngày.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:sentence:59a9809f788b172b",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Can I have a glass of water, please?",
+    "meaningVi": "Cho tôi một cốc nước được không?",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:sentence:330ec6f3280d1292",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I don't drink coffee at night.",
+    "meaningVi": "Tôi không uống cà phê vào buổi tối.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:sentence:26d5ba24e95667c3",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "She doesn't eat meat.",
+    "meaningVi": "Cô ấy không ăn thịt.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:sentence:8c95feaf6ebeff53",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "This chicken is delicious!",
+    "meaningVi": "Món gà này ngon quá!",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:sentence:77f3bc697a33940c",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Dinner is ready.",
+    "meaningVi": "Bữa tối xong rồi.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:grammar:df5bb4583debc050",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Danh từ không đếm được: water, rice, bread, coffee",
+    "explanationVi": "Những từ này không thêm -s và không dùng a: không nói *a water, *rices. Muốn đếm thì dùng đơn vị: a glass of water, a cup of coffee. Điểm này giống tiếng Việt \"một cốc nước\".",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:grammar:0556dfa038696eb2",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Phủ định hiện tại đơn: don't / doesn't + động từ nguyên mẫu",
+    "explanationVi": "Tiếng Việt chỉ thêm \"không\". Tiếng Anh thêm don't (I, you, we, they) hoặc doesn't (he, she, it) trước động từ, và động từ giữ nguyên: She doesn't eat. Lỗi hay gặp: *I not drink, *She doesn't eats.",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:slang:223c7df956b253f0",
+    "lang": "en",
+    "kind": "slang",
+    "text": "I'm starving!",
+    "meaningVi": "Tôi đói lả rồi!",
+    "explanationVi": "Nói quá cho vui, nghĩa là rất đói, không phải chết đói thật. Rất phổ biến với bạn bè, gia đình.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "en:slang:143f17f6b353254d",
+    "lang": "en",
+    "kind": "slang",
+    "text": "Yummy!",
+    "meaningVi": "Ngon quá!",
+    "explanationVi": "Hay dùng với trẻ con hoặc nói vui với bạn bè. Ở nhà hàng lịch sự nên nói It's delicious.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "food"
+    ]
+  }
+]

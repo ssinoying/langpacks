@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ja:sentence:3609953fb6b217dd",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "今、何時ですか。",
+    "meaningVi": "Bây giờ là mấy giờ?",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:sentence:3d62a1c5c9566b52",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "午後三時半です。",
+    "meaningVi": "Ba giờ rưỡi chiều.",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:sentence:4938a2fd924ecc88",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "午前九時に会社へ行きます。",
+    "meaningVi": "Tôi đến công ty lúc chín giờ sáng.",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:sentence:04ba18302df71348",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "今日は何曜日ですか。",
+    "meaningVi": "Hôm nay là thứ mấy?",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:sentence:510b6d38bd773364",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "今日は月曜日です。",
+    "meaningVi": "Hôm nay là thứ Hai.",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:sentence:b8e5e09a7f6834c4",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "明日は休みです。",
+    "meaningVi": "Ngày mai tôi được nghỉ.",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:sentence:502e70618e9f2079",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "昨日は日曜日でした。",
+    "meaningVi": "Hôm qua là Chủ nhật.",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:sentence:8a42d16aa71c9c12",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "土曜日に映画を見ます。",
+    "meaningVi": "Thứ Bảy tôi đi xem phim.",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:sentence:0812116c5af2a56e",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "時間がありません。",
+    "meaningVi": "Tôi không có thời gian.",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:sentence:daf867d68db8e5c0",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "誕生日はいつですか。",
+    "meaningVi": "Sinh nhật bạn là khi nào?",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:grammar:f02e56e9469f9be6",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "Thời điểm + に: 九時に (lúc chín giờ)",
+    "explanationVi": "Giờ, thứ, ngày cụ thể thêm に: 九時に, 土曜日に. Tiếng Việt là \"lúc\", \"vào\". Riêng 今日, 明日, 昨日, 毎日 không thêm に.",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:grammar:05339bc5442b6d9a",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "Quá khứ của です: でした",
+    "explanationVi": "Tiếng Việt chỉ thêm \"đã\" hoặc dựa vào ngữ cảnh; tiếng Nhật đổi đuôi: 日曜日です (là Chủ nhật) → 日曜日でした (đã là Chủ nhật).",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:slang:66a7793d13e85a3a",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "ドタキャン",
+    "meaningVi": "Hủy hẹn vào phút chót.",
+    "explanationVi": "Ghép từ 土壇場 (phút chót) và キャンセル. Dùng khi kể với bạn bè: 友達にドタキャンされた. Không dùng trong thư công việc.",
+    "register": "slang",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja:slang:81b792a68a04d626",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "花金",
+    "meaningVi": "Tối thứ Sáu vui vẻ.",
+    "explanationVi": "Nói về tối thứ Sáu sau giờ làm, được đi chơi vì mai nghỉ. Nay nghe hơi cũ, giới trẻ ít dùng.",
+    "register": "casual",
+    "status": "dated",
+    "level": "N5",
+    "topics": [
+      "time"
+    ]
+  }
+]

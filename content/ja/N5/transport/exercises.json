@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ja:exercise:23adb1e644d95962",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "電車___学校へ行きます。(bằng)",
+    "choices": [
+      "で",
+      "に",
+      "を",
+      "へ"
+    ],
+    "answers": [
+      "で"
+    ],
+    "explanationVi": "Phương tiện dùng で."
+  },
+  {
+    "id": "ja:exercise:6ec720a37de4311d",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "地下鉄___乗りましょう。",
+    "choices": [
+      "に",
+      "を",
+      "で"
+    ],
+    "answers": [
+      "に"
+    ],
+    "explanationVi": "乗る đi với に: 電車に乗る. Người Việt hay nhầm thành を."
+  },
+  {
+    "id": "ja:exercise:0445501c6afade8c",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "ここから駅まで___十分です。(đi bộ)",
+    "answers": [
+      "歩いて",
+      "あるいて"
+    ],
+    "explanationVi": "Đi bộ là 歩いて, không nói 足で."
+  },
+  {
+    "id": "ja:exercise:a52590042754e081",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "曲がって / 右に / ください",
+    "answers": [
+      "右に曲がってください。"
+    ]
+  },
+  {
+    "id": "ja:exercise:cf1599d5000fea19",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Xin lỗi, nhà ga ở đâu ạ?",
+    "answers": [
+      "すみません、駅はどこですか。",
+      "駅はどこですか。",
+      "すみません、えきはどこですか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:00608a51d752856e",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "次の駅で降ります。",
+    "answers": [
+      "次の駅で降ります。",
+      "つぎのえきでおります。"
+    ]
+  },
+  {
+    "id": "ja:exercise:8dbc4741e734ea71",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "まっすぐ行って、二つ目の交差点を右に曲がってください。",
+    "answers": [
+      "まっすぐ行って、二つ目の交差点を右に曲がってください。"
+    ]
+  },
+  {
+    "id": "ja:exercise:f91769a4927fb835",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "ひだり",
+    "choices": [
+      "右",
+      "左",
+      "駅"
+    ],
+    "answers": [
+      "左"
+    ]
+  },
+  {
+    "id": "ja:exercise:5c66e88f5f2c775b",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "ミンさんの家から駅まで歩いて二十分です。ミンさんは自転車で駅へ行きます。そこから電車に乗ります。\n\nミンさんは駅まで何で行きますか。",
+    "choices": [
+      "歩いて",
+      "自転車で",
+      "電車で"
+    ],
+    "answers": [
+      "自転車で"
+    ],
+    "explanationVi": "Đến ga đi xe đạp, từ ga mới đi tàu điện."
+  },
+  {
+    "id": "ja:exercise:583af103aaec8112",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Lên xe buýt, bạn muốn chắc xe có đi sân bay. Bạn hỏi tài xế thế nào?",
+    "choices": [
+      "このバスは空港へ行きますか。",
+      "空港はバスですか。",
+      "バスに乗りましょう。"
+    ],
+    "answers": [
+      "このバスは空港へ行きますか。"
+    ]
+  }
+]

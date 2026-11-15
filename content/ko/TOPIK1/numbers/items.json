@@ -1,0 +1,151 @@
+[
+  {
+    "id": "ko:sentence:2dbc92664b573c74",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "하나, 둘, 셋, 넷, 다섯!",
+    "meaningVi": "Một, hai, ba, bốn, năm!",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:sentence:b86de6f6be31a6ad",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "나이가 어떻게 되세요?",
+    "meaningVi": "Anh/chị bao nhiêu tuổi ạ?",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:sentence:92ed8cb17c6bcc74",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저는 스무 살이에요.",
+    "meaningVi": "Tôi hai mươi tuổi.",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:sentence:d89d5169cc95775c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "동생은 몇 살이에요?",
+    "meaningVi": "Em bạn mấy tuổi?",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:sentence:7ac19c043b2c0f02",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "형은 서른 살이에요.",
+    "meaningVi": "Anh trai tôi ba mươi tuổi.",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:sentence:2f3332751b91c4ff",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "우리 반에 학생이 열 명 있어요.",
+    "meaningVi": "Lớp tôi có mười học sinh.",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:sentence:a95f862ab0341540",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "사과 다섯 개 주세요.",
+    "meaningVi": "Cho tôi năm quả táo.",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:sentence:5cae29f04ee239c6",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "전화번호가 몇 번이에요?",
+    "meaningVi": "Số điện thoại của bạn là số mấy?",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:sentence:c2514e204156aea9",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "공일공, 일이삼사, 오육칠팔이에요.",
+    "meaningVi": "Là 010-1234-5678.",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:grammar:544f2a2cb2cb5ca3",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "Hai hệ số đếm: thuần Hàn (하나, 둘) và Hán Hàn (일, 이)",
+    "explanationVi": "Tiếng Hàn có hai bộ số. Số thuần Hàn (하나, 둘, 셋...) dùng để đếm đồ vật, người, tuổi. Số Hán Hàn đọc gần giống Hán Việt (일 nhất, 이 nhị, 삼 tam, 사 tứ, 오 ngũ) dùng cho số điện thoại, tiền, ngày tháng. Tiếng Việt chỉ có một bộ số, nên người Việt hay nói nhầm *이십 살 thay vì 스무 살.",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:grammar:51b3ddadeaeb5680",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "Số + đơn vị đếm: 열 명, 스무 살",
+    "explanationVi": "Giống tiếng Việt \"mười người\", số đứng trước đơn vị đếm (명 người, 살 tuổi, 개 cái). Khác tiếng Việt: danh từ đứng trước cả cụm: 학생이 열 명 = học sinh mười người. Trước đơn vị đếm, 하나 → 한, 둘 → 두, 셋 → 세, 넷 → 네, 스물 → 스무.",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:slang:824bf2f5a43703b1",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "몇 살이야?",
+    "meaningVi": "Mấy tuổi thế?",
+    "explanationVi": "Nói trống không (반말) với bạn bè hoặc người nhỏ tuổi hơn. Hỏi người lớn hay người mới gặp phải nói 나이가 어떻게 되세요?",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "ko:slang:766ad8fc90178b25",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "동갑이네!",
+    "meaningVi": "Bằng tuổi nhau à!",
+    "explanationVi": "Người Hàn hỏi tuổi để biết cách xưng hô. Bằng tuổi (동갑) thì dễ chuyển sang nói trống không làm bạn.",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "numbers"
+    ]
+  }
+]

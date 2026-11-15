@@ -1,0 +1,147 @@
+[
+  {
+    "id": "en:exercise:3068986d61c13164",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "I ___ twenty years old. (là)",
+    "answers": [
+      "am"
+    ],
+    "explanationVi": "Tiếng Việt không có động từ ở đây, tiếng Anh bắt buộc có am."
+  },
+  {
+    "id": "en:exercise:5dff9de8760d3cd3",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "There are thirty ___ in my class. (học sinh)",
+    "answers": [
+      "students"
+    ],
+    "explanationVi": "Sau số từ hai trở lên danh từ thêm -s."
+  },
+  {
+    "id": "en:exercise:ee284362863371ac",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "How ___ students are in your class? (bao nhiêu)",
+    "choices": [
+      "many",
+      "much",
+      "old"
+    ],
+    "answers": [
+      "many"
+    ],
+    "explanationVi": "many đi với danh từ đếm được số nhiều; much đi với danh từ không đếm được."
+  },
+  {
+    "id": "en:exercise:10fcd6235b419e4e",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "you / old / are / how",
+    "answers": [
+      "How old are you?"
+    ]
+  },
+  {
+    "id": "en:exercise:cfabcb9ca4cdbefd",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi hai mươi tuổi.",
+    "answers": [
+      "I'm twenty years old.",
+      "I am twenty years old.",
+      "I'm twenty.",
+      "I am twenty.",
+      "I'm 20 years old.",
+      "I am 20 years old.",
+      "I'm 20.",
+      "I am 20."
+    ],
+    "explanationVi": "Không nói *I have twenty years: tuổi đi với be, không đi với have."
+  },
+  {
+    "id": "en:exercise:6ce45f24d1a09e20",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "What's your phone number?",
+    "answers": [
+      "What's your phone number?",
+      "What is your phone number?"
+    ]
+  },
+  {
+    "id": "en:exercise:97fa476dc9b6ea54",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "She is five years old.",
+    "answers": [
+      "She is five years old.",
+      "She's five years old."
+    ]
+  },
+  {
+    "id": "en:exercise:19f8d5892310d290",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "thirty",
+    "choices": [
+      "thirty",
+      "thirteen",
+      "three"
+    ],
+    "answers": [
+      "thirty"
+    ],
+    "explanationVi": "thirty nhấn âm đầu (THIR-ty), thirteen nhấn âm sau (thir-TEEN)."
+  },
+  {
+    "id": "en:exercise:00cfc3888dd0c51e",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Hi, I'm Linh. I'm nineteen years old. My brother Nam is twelve, and my sister Mai is five.\n\nNam bao nhiêu tuổi?",
+    "choices": [
+      "five",
+      "twelve",
+      "nineteen"
+    ],
+    "answers": [
+      "twelve"
+    ]
+  },
+  {
+    "id": "en:exercise:4b44874acd7cd1f9",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Một người bạn mới hỏi tuổi, bạn không muốn nói số chính xác. Câu nào tự nhiên?",
+    "choices": [
+      "I'm in my twenties.",
+      "I have twenty years.",
+      "I'm twenty years."
+    ],
+    "answers": [
+      "I'm in my twenties."
+    ],
+    "explanationVi": "I have twenty years sai vì tuổi đi với be; I'm twenty years thiếu old."
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "ja-N5-home",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "home",
+  "title": "Nhà cửa",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:5c449aff73c8e0aa",
+    "ja:word:f8e086d7afbc8e9d",
+    "ja:word:ba41de9d5658ef4d",
+    "ja:word:ebc82daf651020dc",
+    "ja:word:f3dd0b481192db2e",
+    "ja:word:070799499511c228",
+    "ja:word:d10009729eef748b",
+    "ja:word:b6efef507b9f4ff2",
+    "ja:word:532070bc8b36e2d3",
+    "ja:word:388d3a644f8d1da8",
+    "ja:word:ed45145c755b6342",
+    "ja:word:1a879fd0b9728286"
+  ]
+}

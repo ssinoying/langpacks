@@ -1,0 +1,24 @@
+{
+  "id": "zh-hant-HSK1-food",
+  "lang": "zh-hant",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "food",
+  "title": "Ăn uống",
+  "requires": [],
+  "itemIds": [
+    "zh-hant:word:f642c609b886e686",
+    "zh-hant:word:df4d3ea7833fbd49",
+    "zh-hant:word:8632000a3b486dbf",
+    "zh-hant:word:62f6f50d54556bcb",
+    "zh-hant:word:68719710e7f3a990",
+    "zh-hant:word:7491d05ad01ddfd3",
+    "zh-hant:word:e9bad614fe91bc41",
+    "zh-hant:word:069f4e90db7ebc3c",
+    "zh-hant:word:7d1712a8fdb96daa",
+    "zh-hant:word:cbe5d53514550523",
+    "zh-hant:word:5cdcb2b25f16c2c6",
+    "zh-hant:word:7217ea7951ef8f5d",
+    "zh-hant:word:0f5067b6a26fb2d7"
+  ]
+}

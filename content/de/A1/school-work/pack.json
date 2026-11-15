@@ -1,0 +1,23 @@
+{
+  "id": "de-A1-school-work",
+  "lang": "de",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "school-work",
+  "title": "Trường học và công việc",
+  "requires": [],
+  "itemIds": [
+    "de:word:64e558886500a35d",
+    "de:word:12e589cbb1edd959",
+    "de:word:2161cb0ecd2d5446",
+    "de:word:d8328355c11976bb",
+    "de:word:3f7f80b79965caaa",
+    "de:word:98dfff219ac25541",
+    "de:word:686229297eb53262",
+    "de:word:b81f34d2a912b0d4",
+    "de:word:e4778fbdc941eb22",
+    "de:word:7a26343f55c1a3d0",
+    "de:word:8134219b8f3f0b01",
+    "de:word:13f0234b1d481583"
+  ]
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "en:exercise:876b6fe75de753db",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "There ___ four chairs in the living room.",
+    "choices": [
+      "is",
+      "are",
+      "have"
+    ],
+    "answers": [
+      "are"
+    ],
+    "explanationVi": "chairs số nhiều nên There are; không dùng have cho nghĩa \"có\" ở đây."
+  },
+  {
+    "id": "en:exercise:740a07568eab6c4c",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "There ___ a big table in the kitchen.",
+    "choices": [
+      "is",
+      "are",
+      "has"
+    ],
+    "answers": [
+      "is"
+    ],
+    "explanationVi": "a table số ít nên There is."
+  },
+  {
+    "id": "en:exercise:87ddab73b2da1cf7",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "The bathroom is ___ to my bedroom. (cạnh)",
+    "answers": [
+      "next"
+    ]
+  },
+  {
+    "id": "en:exercise:ff9667d41f259da4",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "small / in / live / I / a / flat",
+    "answers": [
+      "I live in a small flat."
+    ],
+    "explanationVi": "Tính từ đứng trước danh từ (small flat), ngược với tiếng Việt (căn hộ nhỏ)."
+  },
+  {
+    "id": "en:exercise:89f8386630a80470",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Nhà chúng tôi có ba phòng ngủ.",
+    "answers": [
+      "Our house has three bedrooms.",
+      "There are three bedrooms in our house.",
+      "Our house has got three bedrooms."
+    ],
+    "explanationVi": "bedrooms thêm -s vì có ba phòng."
+  },
+  {
+    "id": "en:exercise:146adc791ddf7c61",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "We have a small garden behind the house.",
+    "answers": [
+      "We have a small garden behind the house."
+    ]
+  },
+  {
+    "id": "en:exercise:8cc5a42d1ae9bac2",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Can you open the window? It's hot.",
+    "answers": [
+      "Can you open the window? It's hot.",
+      "Can you open the window? It is hot."
+    ]
+  },
+  {
+    "id": "en:exercise:b891b107aded93f8",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "kitchen",
+    "choices": [
+      "kitchen",
+      "chicken",
+      "kitten"
+    ],
+    "answers": [
+      "kitchen"
+    ],
+    "explanationVi": "kitchen (nhà bếp) và chicken (gà) dễ lẫn: kitchen bắt đầu bằng /k/, chicken bằng /tʃ/."
+  },
+  {
+    "id": "en:exercise:68f2c14fe45382ca",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "I live in a flat with my sister. It has two bedrooms, a kitchen and a small bathroom. There is no garden, but there is a big window in the living room.\n\nCăn hộ có vườn không?",
+    "choices": [
+      "Yes, there is.",
+      "No, there isn't."
+    ],
+    "answers": [
+      "No, there isn't."
+    ]
+  },
+  {
+    "id": "en:exercise:dd03eba2c2484148",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn muốn rủ bạn thân tối nay đến nhà mình xem phim. Câu nào tự nhiên?",
+    "choices": [
+      "Come over to my place tonight!",
+      "Please visit my house at night time.",
+      "You come my home tonight."
+    ],
+    "answers": [
+      "Come over to my place tonight!"
+    ],
+    "explanationVi": "You come my home sai ngữ pháp; Please visit my house nghe cứng. my place tự nhiên khi rủ bạn."
+  }
+]

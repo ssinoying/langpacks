@@ -1,0 +1,151 @@
+[
+  {
+    "id": "zh-hans:sentence:1a4f9c52fc4007b5",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "今天天气怎么样？",
+    "meaningVi": "Hôm nay thời tiết thế nào?",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:37e01c342b71c6a9",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "外边下雨了。",
+    "meaningVi": "Bên ngoài mưa rồi.",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:22547e046d3c03a9",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "河内的夏天很热。",
+    "meaningVi": "Mùa hè ở Hà Nội rất nóng.",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:e06f54658b2117a7",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "北京的冬天非常冷。",
+    "meaningVi": "Mùa đông ở Bắc Kinh vô cùng lạnh.",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:9a2c721813f70af2",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我最喜欢春天。",
+    "meaningVi": "Tôi thích mùa xuân nhất.",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:ae1e0d2ce93e62f2",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "今天风很大。",
+    "meaningVi": "Hôm nay gió rất to.",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:c28c426284dd9841",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "明天会下雨吗？",
+    "meaningVi": "Ngày mai có mưa không?",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:4e92c14d49e8ff2a",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "秋天不冷也不热。",
+    "meaningVi": "Mùa thu không lạnh cũng không nóng.",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:b201eab0dcf0153a",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "雨很大，我们别出去了。",
+    "meaningVi": "Mưa to lắm, chúng ta đừng ra ngoài nữa.",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:cfad3625aa9b6b80",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "Tính từ làm vị ngữ: dùng 很, không dùng 是",
+    "explanationVi": "\"Mùa hè rất nóng\" là 夏天很热, không nói *夏天是热. 很 ở đây thường không nhấn mạnh như \"rất\"; muốn nhấn thì dùng 非常 (phi thường). Giống tiếng Việt, tính từ đứng ngay sau chủ ngữ.",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:44a5bbf86446536c",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "下雨了 và 会下雨: đã mưa / sẽ mưa",
+    "explanationVi": "下雨了 = trời mưa rồi (vừa bắt đầu, 了 báo thay đổi). 会 + động từ = dự đoán sẽ xảy ra: 明天会下雨吗？ = Mai có mưa không?",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:9ab827f3e49e1c37",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "热死了",
+    "meaningVi": "Nóng chết mất!",
+    "explanationVi": "Than nóng với bạn bè. 死了 sau tính từ chỉ là cường điệu, giống \"chết mất\" của tiếng Việt.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:750a19b00cd657f6",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "冷死了",
+    "meaningVi": "Lạnh chết mất!",
+    "explanationVi": "Than lạnh kiểu thân mật. Không dùng trong văn viết hay khi nói lịch sự.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "weather"
+    ]
+  }
+]

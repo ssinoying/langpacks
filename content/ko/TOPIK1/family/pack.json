@@ -1,0 +1,26 @@
+{
+  "id": "ko-TOPIK1-family",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "family",
+  "title": "Gia đình",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:1e57d9fc6df46c04",
+    "ko:word:1a450672afdc7daf",
+    "ko:word:3c6b487aa271b907",
+    "ko:word:f09f77103b945db2",
+    "ko:word:ce2e321dc0bc525d",
+    "ko:word:ee24811a53ea74f5",
+    "ko:word:7fcb8ae540e9eb22",
+    "ko:word:7f41cb27bc73fe36",
+    "ko:word:438bdb7dbc66e4b6",
+    "ko:word:d4874931571ea16d",
+    "ko:word:0b4b46fad9426a18",
+    "ko:word:7ee7c2bb88db8b07",
+    "ko:word:5ebbaf85997dfc6e"
+  ]
+}

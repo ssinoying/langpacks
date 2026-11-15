@@ -1,0 +1,141 @@
+[
+  {
+    "id": "en:exercise:0c8c18653ca54005",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "I ___ drink coffee at night. (không)",
+    "answers": [
+      "don't",
+      "do not"
+    ],
+    "explanationVi": "Thêm don't trước động từ; không nói *I not drink."
+  },
+  {
+    "id": "en:exercise:b767440d49a4020f",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "She ___ eat meat. (không)",
+    "choices": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "not"
+    ],
+    "answers": [
+      "doesn't"
+    ],
+    "explanationVi": "She là ngôi thứ ba số ít nên dùng doesn't; động từ sau giữ nguyên eat."
+  },
+  {
+    "id": "en:exercise:e16a718e20a3220f",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "Can I have a glass of ___, please? (nước)",
+    "answers": [
+      "water"
+    ],
+    "explanationVi": "water không đếm được nên dùng a glass of water, không nói *a water."
+  },
+  {
+    "id": "en:exercise:a6230a8a1efb937f",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "for / what / want / lunch / you / do",
+    "answers": [
+      "What do you want for lunch?"
+    ]
+  },
+  {
+    "id": "en:exercise:f2732098746865f9",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Chúng tôi ăn cơm mỗi ngày.",
+    "answers": [
+      "We eat rice every day.",
+      "We have rice every day."
+    ],
+    "explanationVi": "rice không thêm -s; every day viết rời khi chỉ \"mỗi ngày\"."
+  },
+  {
+    "id": "en:exercise:f4ab2547482e2239",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "I usually have bread and eggs for breakfast.",
+    "answers": [
+      "I usually have bread and eggs for breakfast."
+    ]
+  },
+  {
+    "id": "en:exercise:36bc0d36bb511f9b",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "This chicken is delicious!",
+    "answers": [
+      "This chicken is delicious!"
+    ]
+  },
+  {
+    "id": "en:exercise:a2f534b3bbb8a193",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "rice",
+    "choices": [
+      "rice",
+      "lice",
+      "rise"
+    ],
+    "answers": [
+      "rice"
+    ],
+    "explanationVi": "Người Việt hay lẫn r và l: rice (cơm) khác lice (chấy)."
+  },
+  {
+    "id": "en:exercise:2a1c66446af439e3",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Minh gets up at six. He has bread and an egg for breakfast. He has rice and chicken for lunch. He doesn't drink coffee; he drinks tea.\n\nMinh uống gì?",
+    "choices": [
+      "coffee",
+      "tea",
+      "water"
+    ],
+    "answers": [
+      "tea"
+    ]
+  },
+  {
+    "id": "en:exercise:ae4255d8dca1d077",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn vừa đá bóng về và rất đói. Nói với bạn cùng phòng thế nào cho tự nhiên?",
+    "choices": [
+      "I'm starving!",
+      "I am hunger.",
+      "I have hungry."
+    ],
+    "answers": [
+      "I'm starving!"
+    ],
+    "explanationVi": "hungry là tính từ đi với be: I'm hungry. Không nói *I have hungry."
+  }
+]

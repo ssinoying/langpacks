@@ -1,0 +1,173 @@
+[
+  {
+    "id": "en:sentence:5baf19e11beaee5d",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "There are four people in my family.",
+    "meaningVi": "Nhà tôi có bốn người.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:4f4becab65eb69bd",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My father is a doctor.",
+    "meaningVi": "Bố tôi là bác sĩ.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:a3d36c9dd1dc5db8",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My mother works in a bank.",
+    "meaningVi": "Mẹ tôi làm việc ở ngân hàng.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:92c025857b47d73e",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I have an older sister and a younger brother.",
+    "meaningVi": "Tôi có một chị gái và một em trai.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:5a1df5c547fb6ada",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Do you have any brothers or sisters?",
+    "meaningVi": "Bạn có anh chị em không?",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:de232edbb2f8346f",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My parents live in Da Nang.",
+    "meaningVi": "Bố mẹ tôi sống ở Đà Nẵng.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:8833f3d56a62807c",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "They have two children, a son and a daughter.",
+    "meaningVi": "Họ có hai con, một trai một gái.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:1883bd0d8e9bd16d",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "This is my wife, Hoa.",
+    "meaningVi": "Đây là vợ tôi, Hoa.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:0a2a3feb43d12a34",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Her husband is very kind.",
+    "meaningVi": "Chồng cô ấy rất tốt bụng.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:5650eafc797f0663",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My grandmother lives with us.",
+    "meaningVi": "Bà tôi sống cùng chúng tôi.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:sentence:52616388f0dfe71a",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Their baby is one year old.",
+    "meaningVi": "Em bé nhà họ được một tuổi.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:grammar:10726cbe56cd92a7",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Ngôi thứ ba số ít: động từ thêm -s (works, lives)",
+    "explanationVi": "Tiếng Việt động từ không đổi. Tiếng Anh, chủ ngữ là he/she/một người (my mother, my grandmother) thì động từ thêm -s: My mother works. Chủ ngữ số nhiều thì không: My parents live. Lỗi hay gặp: *My mother work.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:grammar:2ebe4223bb24b47c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "a / an trước danh từ đếm được số ít",
+    "explanationVi": "Tiếng Việt nói \"Bố tôi là bác sĩ\", không cần \"một\". Tiếng Anh danh từ đếm được số ít cần a/an, kể cả khi nói nghề: a doctor. Dùng an trước âm nguyên âm: an older sister.",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:slang:ea7dbd4b2558a9a2",
+    "lang": "en",
+    "kind": "slang",
+    "text": "folks",
+    "meaningVi": "bố mẹ, gia đình",
+    "explanationVi": "my folks = bố mẹ tôi, kiểu Mỹ, thân mật. Không dùng trong văn viết trang trọng.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "en:slang:905d69d47e404eab",
+    "lang": "en",
+    "kind": "slang",
+    "text": "sis",
+    "meaningVi": "chị/em gái (gọi thân mật)",
+    "explanationVi": "Gọi hoặc nhắc tới chị em gái kiểu thân mật, giống bro cho anh em trai. Chỉ dùng trong gia đình, bạn bè.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "family"
+    ]
+  }
+]

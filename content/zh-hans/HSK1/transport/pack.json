@@ -1,0 +1,23 @@
+{
+  "id": "zh-hans-HSK1-transport",
+  "lang": "zh-hans",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "transport",
+  "title": "Đi lại và hỏi đường",
+  "requires": [],
+  "itemIds": [
+    "zh-hans:word:bb1aae040432a4b1",
+    "zh-hans:word:ae81c78f31081c74",
+    "zh-hans:word:da1385c960865f5e",
+    "zh-hans:word:b141f0e40ab46a4d",
+    "zh-hans:word:a9da16be5fef4e71",
+    "zh-hans:word:1fd9685db9526131",
+    "zh-hans:word:efc0cbc29be6b93f",
+    "zh-hans:word:2806306e824231f2",
+    "zh-hans:word:dea9cd9a1e1efce5",
+    "zh-hans:word:dbfa20d7b30c870d",
+    "zh-hans:word:962ab45e37bb12bb",
+    "zh-hans:word:fe2b4e82476328e1"
+  ]
+}

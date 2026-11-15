@@ -1,0 +1,151 @@
+[
+  {
+    "id": "ko:exercise:06cfbfbdc7bc1949",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "저기에서 오른쪽___ 가세요. (về phía)",
+    "choices": [
+      "으로",
+      "로",
+      "에서",
+      "을"
+    ],
+    "answers": [
+      "으로"
+    ],
+    "explanationVi": "오른쪽 có patchim ㄱ nên dùng 으로."
+  },
+  {
+    "id": "ko:exercise:6e4ac5302b5d0043",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "다음 역에서 ___. (xuống xe)",
+    "choices": [
+      "내리세요",
+      "타세요",
+      "가세요"
+    ],
+    "answers": [
+      "내리세요"
+    ]
+  },
+  {
+    "id": "ko:exercise:4ba7e43b572e193e",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "학교까지 버스___ 타요. (đi xe buýt)",
+    "choices": [
+      "를",
+      "을",
+      "에",
+      "로"
+    ],
+    "answers": [
+      "를"
+    ],
+    "explanationVi": "Xe là tân ngữ của 타다: 버스를 타요. 버스 tận cùng nguyên âm nên dùng 를."
+  },
+  {
+    "id": "ko:exercise:cc0cbea4f9888d42",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "걸려요 / 얼마나 / 택시로 / 명동까지",
+    "answers": [
+      "명동까지 택시로 얼마나 걸려요?"
+    ]
+  },
+  {
+    "id": "ko:exercise:163b729f1a9e2fd5",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Ga tàu điện ngầm ở đâu?",
+    "answers": [
+      "지하철역이 어디에 있어요?",
+      "지하철역이 어디예요?",
+      "지하철역 어디에 있어요?",
+      "지하철역은 어디에 있어요?"
+    ]
+  },
+  {
+    "id": "ko:exercise:29d3657de49cca81",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "은행 왼쪽에 버스 정류장이 있어요.",
+    "answers": [
+      "은행 왼쪽에 버스 정류장이 있어요."
+    ]
+  },
+  {
+    "id": "ko:exercise:7171b3c8d6117256",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "아니요, 가까워요. 걸어가도 돼요.",
+    "answers": [
+      "아니요, 가까워요. 걸어가도 돼요."
+    ],
+    "explanationVi": "가깝다 là bất quy tắc ㅂ: 가까워요."
+  },
+  {
+    "id": "ko:exercise:9042a38aacef170d",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "왼쪽",
+    "choices": [
+      "왼쪽",
+      "오른쪽",
+      "앞쪽"
+    ],
+    "answers": [
+      "왼쪽"
+    ]
+  },
+  {
+    "id": "ko:exercise:86d5711393430d27",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "민: 실례합니다. 도서관이 여기에서 멀어요?\n아저씨: 아니요, 가까워요. 이 길로 쭉 가서 오른쪽으로 가세요.\n\n도서관은 어때요?",
+    "choices": [
+      "멀어요",
+      "가까워요",
+      "없어요"
+    ],
+    "answers": [
+      "가까워요"
+    ]
+  },
+  {
+    "id": "ko:exercise:960ff83a556e9eca",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Bạn muốn hỏi đường một người lạ trên phố. Mở đầu thế nào?",
+    "choices": [
+      "실례합니다. 지하철역이 어디에 있어요?",
+      "야, 지하철역 어디야?",
+      "다음 역에서 내리세요."
+    ],
+    "answers": [
+      "실례합니다. 지하철역이 어디에 있어요?"
+    ],
+    "explanationVi": "Với người lạ nên mở đầu bằng 실례합니다 (thất lễ = xin lỗi, làm phiền)."
+  }
+]

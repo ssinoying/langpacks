@@ -1,0 +1,26 @@
+{
+  "id": "ko-TOPIK1-home",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "home",
+  "title": "Nhà cửa",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:cc21ab9f7818eb00",
+    "ko:word:41f0e23e3dd6f641",
+    "ko:word:080ad5a4004c2f24",
+    "ko:word:0923397dadc59a3b",
+    "ko:word:8f2a554ef76fedf4",
+    "ko:word:2976fc300c4cb794",
+    "ko:word:dbd5d22fad7c25cc",
+    "ko:word:c77bb511056fd53d",
+    "ko:word:77e3dd8311270e61",
+    "ko:word:3dba99bafa973a37",
+    "ko:word:f4a1d2f5d3c32312",
+    "ko:word:3473c31a2ea7e50c",
+    "ko:word:5374698d8291f18d"
+  ]
+}

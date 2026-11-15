@@ -1,0 +1,154 @@
+[
+  {
+    "id": "en:exercise:47efa7bb071b71f0",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "My mother ___ in a bank. (work)",
+    "answers": [
+      "works"
+    ],
+    "explanationVi": "My mother là ngôi thứ ba số ít nên động từ thêm -s."
+  },
+  {
+    "id": "en:exercise:06010272bf8053a5",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "My father is ___ doctor.",
+    "choices": [
+      "a",
+      "an",
+      "the"
+    ],
+    "answers": [
+      "a"
+    ],
+    "explanationVi": "Nói nghề nghiệp cần a/an; doctor bắt đầu bằng phụ âm nên dùng a."
+  },
+  {
+    "id": "en:exercise:2e3c292d87fcc8ed",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "This is my ___, Hoa. (vợ)",
+    "answers": [
+      "wife"
+    ]
+  },
+  {
+    "id": "en:exercise:14b7755c44bf1bec",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "parents / in / my / live / Da Nang",
+    "answers": [
+      "My parents live in Da Nang."
+    ],
+    "explanationVi": "parents số nhiều nên live không thêm -s."
+  },
+  {
+    "id": "en:exercise:1f6043e474c2288d",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Bạn có anh chị em không?",
+    "answers": [
+      "Do you have any brothers or sisters?",
+      "Do you have brothers or sisters?",
+      "Do you have any siblings?",
+      "Have you got any brothers or sisters?"
+    ],
+    "explanationVi": "Tiếng Anh nói brothers or sisters (siblings trang trọng hơn); không dịch từng chữ \"anh chị em\"."
+  },
+  {
+    "id": "en:exercise:cca75d972a37ffb1",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Họ có một con trai và một con gái.",
+    "answers": [
+      "They have a son and a daughter.",
+      "They've got a son and a daughter.",
+      "They have got a son and a daughter."
+    ]
+  },
+  {
+    "id": "en:exercise:f0651e8d86022079",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "There are four people in my family.",
+    "answers": [
+      "There are four people in my family."
+    ]
+  },
+  {
+    "id": "en:exercise:2c4db0a0c824bac5",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "I have an older sister and a younger brother.",
+    "answers": [
+      "I have an older sister and a younger brother."
+    ]
+  },
+  {
+    "id": "en:exercise:629f59545011167b",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "daughter",
+    "choices": [
+      "daughter",
+      "doctor",
+      "water"
+    ],
+    "answers": [
+      "daughter"
+    ],
+    "explanationVi": "daughter đọc /ˈdɔːtə/, gh không đọc."
+  },
+  {
+    "id": "en:exercise:56c1909dfbab0e0b",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "My name is Lan. There are five people in my family: my father, my mother, my two brothers and me. My father is a teacher.\n\nLan có mấy anh em trai?",
+    "choices": [
+      "one",
+      "two",
+      "three"
+    ],
+    "answers": [
+      "two"
+    ]
+  },
+  {
+    "id": "en:exercise:5823d2f196d112d4",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Nói với bạn thân là cuối tuần này bạn về thăm bố mẹ. Câu nào tự nhiên nhất?",
+    "choices": [
+      "I'm visiting my folks this weekend.",
+      "I'm visiting my parent this weekend.",
+      "I visit the parents of me."
+    ],
+    "answers": [
+      "I'm visiting my folks this weekend."
+    ],
+    "explanationVi": "parent số ít chỉ một người; the parents of me sai trật tự. my folks là cách nói thân mật."
+  }
+]

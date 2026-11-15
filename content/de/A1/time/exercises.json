@@ -1,0 +1,145 @@
+[
+  {
+    "id": "de:exercise:ea66137cd283c592",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Der Kurs fängt ___ neun Uhr an. (lúc)",
+    "choices": [
+      "um",
+      "am",
+      "im"
+    ],
+    "answers": [
+      "um"
+    ],
+    "explanationVi": "Với giờ dùng um."
+  },
+  {
+    "id": "de:exercise:53e1852c3ea1bac9",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Ich habe ___ Montag einen Termin. (vào)",
+    "choices": [
+      "um",
+      "am",
+      "im"
+    ],
+    "answers": [
+      "am"
+    ],
+    "explanationVi": "Với thứ trong tuần dùng am."
+  },
+  {
+    "id": "de:exercise:8a386f8b70987e8c",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Wann fängt der Kurs ___? (bắt đầu)",
+    "answers": [
+      "an"
+    ],
+    "explanationVi": "anfangen tách ra: fängt … an, an đứng cuối câu."
+  },
+  {
+    "id": "de:exercise:bb039a153b823af7",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Es ist halb vier.",
+    "choices": [
+      "3:30",
+      "4:30",
+      "3:15"
+    ],
+    "answers": [
+      "3:30"
+    ],
+    "explanationVi": "halb vier = nửa tiếng trước bốn giờ = 3:30."
+  },
+  {
+    "id": "de:exercise:b42aa31b71bd0fd8",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "habe / morgen / keine Zeit / ich",
+    "answers": [
+      "Morgen habe ich keine Zeit.",
+      "Ich habe morgen keine Zeit."
+    ],
+    "explanationVi": "Động từ habe luôn ở vị trí thứ hai."
+  },
+  {
+    "id": "de:exercise:caa25b7d107ccd10",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Mấy giờ rồi?",
+    "answers": [
+      "Wie spät ist es?",
+      "Wie viel Uhr ist es?"
+    ]
+  },
+  {
+    "id": "de:exercise:1e81d35f4ee9fc74",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Der Film dauert zwei Stunden.",
+    "answers": [
+      "Der Film dauert zwei Stunden."
+    ]
+  },
+  {
+    "id": "de:exercise:e1fadb08e49914fc",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Heute ist Freitag.",
+    "answers": [
+      "Heute ist Freitag."
+    ]
+  },
+  {
+    "id": "de:exercise:210600fc4b791038",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn gọi cho bạn thân, năm phút nữa sẽ gặp. Chào thế nào khi cúp máy?",
+    "choices": [
+      "Bis gleich!",
+      "Auf Wiedersehen!",
+      "Gestern war Sonntag."
+    ],
+    "answers": [
+      "Bis gleich!"
+    ],
+    "explanationVi": "Auf Wiedersehen trang trọng và không cho biết sắp gặp lại."
+  },
+  {
+    "id": "de:exercise:42aafb6691b5a52f",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Lisa arbeitet von Montag bis Freitag. Am Samstag hat sie frei. Am Sonntag besucht sie ihre Oma.\n\nWann besucht Lisa ihre Oma?",
+    "choices": [
+      "am Sonntag",
+      "am Samstag",
+      "am Montag"
+    ],
+    "answers": [
+      "am Sonntag"
+    ]
+  }
+]

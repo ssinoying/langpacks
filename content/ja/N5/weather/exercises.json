@@ -1,0 +1,139 @@
+[
+  {
+    "id": "ja:exercise:cd0363ab8844050a",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "今朝は寒___です。(quá khứ)",
+    "choices": [
+      "かった",
+      "でした",
+      "くない"
+    ],
+    "answers": [
+      "かった"
+    ],
+    "explanationVi": "Tính từ い: quá khứ đổi い thành かった; không nói 寒いでした."
+  },
+  {
+    "id": "ja:exercise:c4622baf9080f2ea",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "明日は雨が___。(rơi)",
+    "answers": [
+      "降ります",
+      "ふります"
+    ],
+    "explanationVi": "Mưa trong tiếng Nhật là 雨が降る."
+  },
+  {
+    "id": "ja:exercise:b8c6379a41099a84",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "北海道は___に雪がたくさん降ります。(mùa đông)",
+    "answers": [
+      "冬",
+      "ふゆ"
+    ]
+  },
+  {
+    "id": "ja:exercise:872083adbb040137",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "暑いです / 夏は / とても / 東京の",
+    "answers": [
+      "東京の夏はとても暑いです。"
+    ]
+  },
+  {
+    "id": "ja:exercise:2bf34fdd757c282c",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Hôm nay trời đẹp nhỉ.",
+    "answers": [
+      "今日はいい天気ですね。",
+      "きょうはいいてんきですね。"
+    ]
+  },
+  {
+    "id": "ja:exercise:e15c89586b68b85a",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "春は暖かいです。",
+    "answers": [
+      "春は暖かいです。",
+      "はるはあたたかいです。"
+    ]
+  },
+  {
+    "id": "ja:exercise:5e80d7ab818365d0",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "秋は涼しくて、いい季節です。",
+    "answers": [
+      "秋は涼しくて、いい季節です。"
+    ]
+  },
+  {
+    "id": "ja:exercise:9fea457825033bd8",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "ゆき",
+    "choices": [
+      "雪",
+      "雨",
+      "秋"
+    ],
+    "answers": [
+      "雪"
+    ]
+  },
+  {
+    "id": "ja:exercise:ffae22bf29ea42c7",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "ハノイの夏はとても暑いです。冬は少し寒いですが、雪は降りません。\n\nハノイの冬はどうですか。",
+    "choices": [
+      "とても暑い",
+      "少し寒い",
+      "雪がたくさん降る"
+    ],
+    "answers": [
+      "少し寒い"
+    ]
+  },
+  {
+    "id": "ja:exercise:f3d5e9445fc7e08e",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Sáng ra gặp hàng xóm, trời nắng đẹp. Câu mở lời nào tự nhiên nhất?",
+    "choices": [
+      "いい天気ですね。",
+      "天気は何ですか。",
+      "あつっ！"
+    ],
+    "answers": [
+      "いい天気ですね。"
+    ],
+    "explanationVi": "Người Nhật hay mở lời bằng chuyện thời tiết; あつっ！ chỉ là tiếng thốt lên một mình."
+  }
+]

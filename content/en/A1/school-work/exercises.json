@@ -1,0 +1,151 @@
+[
+  {
+    "id": "en:exercise:dd215e8ad58c5625",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "She is ___ engineer.",
+    "choices": [
+      "a",
+      "an",
+      "the"
+    ],
+    "answers": [
+      "an"
+    ],
+    "explanationVi": "engineer bắt đầu bằng âm nguyên âm nên dùng an; nói nghề luôn cần a/an."
+  },
+  {
+    "id": "en:exercise:d331374b2c43750b",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "What do you ___? (Bạn làm nghề gì?)",
+    "answers": [
+      "do"
+    ],
+    "explanationVi": "Hỏi nghề dùng What do you do?; What are you doing? là hỏi việc đang làm lúc này."
+  },
+  {
+    "id": "en:exercise:77b46ba182717757",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "I have a lot of ___ tonight. (bài tập về nhà)",
+    "answers": [
+      "homework"
+    ],
+    "explanationVi": "homework không đếm được: không nói *homeworks hay *a homework."
+  },
+  {
+    "id": "en:exercise:6e26474354549a17",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "do / what / you / do",
+    "answers": [
+      "What do you do?"
+    ]
+  },
+  {
+    "id": "en:exercise:36b475cd5906c952",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi là sinh viên.",
+    "answers": [
+      "I'm a student.",
+      "I am a student."
+    ],
+    "explanationVi": "Cần a trước nghề, không nói *I am student."
+  },
+  {
+    "id": "en:exercise:bec843881676699e",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Bạn có thích công việc của mình không?",
+    "answers": [
+      "Do you like your job?",
+      "Do you like your work?"
+    ]
+  },
+  {
+    "id": "en:exercise:8a32ec57375ae8b1",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Open your books, please.",
+    "answers": [
+      "Open your books, please."
+    ]
+  },
+  {
+    "id": "en:exercise:a3438ddbf0996f3c",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "I'm a nurse. I work in a hospital.",
+    "answers": [
+      "I'm a nurse. I work in a hospital.",
+      "I am a nurse. I work in a hospital."
+    ]
+  },
+  {
+    "id": "en:exercise:a5a9cef694745e81",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "class",
+    "choices": [
+      "class",
+      "glass",
+      "grass"
+    ],
+    "answers": [
+      "class"
+    ]
+  },
+  {
+    "id": "en:exercise:ed8658922a5beb82",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Linh is a teacher at a primary school. Her husband, Duc, is a doctor. He works in a big hospital in Hanoi.\n\nDuc làm nghề gì?",
+    "choices": [
+      "teacher",
+      "doctor",
+      "nurse"
+    ],
+    "answers": [
+      "doctor"
+    ]
+  },
+  {
+    "id": "en:exercise:0b31e3322b3d7071",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn kể với bạn thân rằng tối qua bạn thức trắng để ôn thi. Câu nào tự nhiên?",
+    "choices": [
+      "I pulled an all-nighter.",
+      "I studied all the night white.",
+      "I didn't sleep the night."
+    ],
+    "answers": [
+      "I pulled an all-nighter."
+    ],
+    "explanationVi": "\"Thức trắng\" không dịch từng chữ; người bản xứ nói pull an all-nighter."
+  }
+]

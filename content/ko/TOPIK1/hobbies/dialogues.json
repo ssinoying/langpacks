@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ko:dialogue:9ab5e12afc50bfea",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Nói về sở thích",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "지수",
+        "text": "민 씨는 취미가 뭐예요?",
+        "translationVi": "Minh ơi, sở thích của bạn là gì?",
+        "options": [
+          {
+            "answers": [
+              "제 취미는 축구예요.",
+              "축구를 좋아해요."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "음악 듣는 것을 좋아해요.",
+              "제 취미는 음악 듣기예요."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "지수",
+        "text": "와, 저도 축구 좋아해요! 이번 주말에 같이 할까요?",
+        "translationVi": "Ồ, mình cũng thích bóng đá! Cuối tuần này đá cùng nhé?",
+        "options": [
+          {
+            "answers": [
+              "좋아요!",
+              "네, 같이 해요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "지수",
+        "text": "어떤 음악을 좋아해요?",
+        "translationVi": "Bạn thích nhạc gì?",
+        "options": [
+          {
+            "answers": [
+              "케이팝을 좋아해요.",
+              "발라드를 좋아해요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "지수",
+        "text": "다음에 같이 놀아요!",
+        "translationVi": "Lần sau đi chơi cùng nhé!"
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "zh-hans-HSK1-hobbies",
+  "lang": "zh-hans",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "hobbies",
+  "title": "Sở thích",
+  "requires": [],
+  "itemIds": [
+    "zh-hans:word:4d54d3b3393d7cb0",
+    "zh-hans:word:22b048007385d63c",
+    "zh-hans:word:b842d5ecff53fb7c",
+    "zh-hans:word:04e6a130c807f682",
+    "zh-hans:word:e48163acf880fe80",
+    "zh-hans:word:195308487941328d",
+    "zh-hans:word:3f9a42b3805e0019",
+    "zh-hans:word:31cbab0758e1fb89",
+    "zh-hans:word:bcaecbe81ba592cf",
+    "zh-hans:word:4763b35fa0acb94a",
+    "zh-hans:word:1afe49401716ee1d"
+  ]
+}

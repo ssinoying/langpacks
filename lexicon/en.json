@@ -217,10 +217,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "numbers",
       "personal-identification",
       "personal-information"
     ],
-    "source": "wiktionary:age"
+    "source": "wiktionary:age",
+    "meaningVi": "tuổi"
   },
   {
     "id": "en:word:114c38f5a48730e4",
@@ -678,7 +680,11 @@
     "reading": "/ˈɔtəm/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:autumn"
+    "source": "wiktionary:autumn",
+    "meaningVi": "mùa thu",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:a9b0b0e3b4e24348",
@@ -709,10 +715,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:baby"
+    "source": "wiktionary:baby",
+    "meaningVi": "em bé"
   },
   {
     "id": "en:word:24b01434fbc290df",
@@ -894,10 +902,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:bathroom"
+    "source": "wiktionary:bathroom",
+    "meaningVi": "phòng tắm"
   },
   {
     "id": "en:word:9d1f3c1451723371",
@@ -986,10 +996,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:bed"
+    "source": "wiktionary:bed",
+    "meaningVi": "giường"
   },
   {
     "id": "en:word:9ca3e5942d0bdc09",
@@ -1000,10 +1012,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:bedroom"
+    "source": "wiktionary:bedroom",
+    "meaningVi": "phòng ngủ"
   },
   {
     "id": "en:word:540e16f50a163b05",
@@ -1209,10 +1223,12 @@
     "level": "A1",
     "topics": [
       "leisure-activities",
+      "transport",
       "travel",
       "ways-of-travelling"
     ],
-    "source": "wiktionary:bike"
+    "source": "wiktionary:bike",
+    "meaningVi": "xe đạp"
   },
   {
     "id": "en:word:607f23efbee6c00b",
@@ -1407,9 +1423,11 @@
     "level": "A1",
     "topics": [
       "free-time-entertainment",
-      "objects-and-rooms"
+      "objects-and-rooms",
+      "school-work"
     ],
-    "source": "wiktionary:book"
+    "source": "wiktionary:book",
+    "meaningVi": "sách"
   },
   {
     "id": "en:word:36e4ee7e098eb6d0",
@@ -1576,9 +1594,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "food",
       "food-and-drink"
     ],
-    "source": "wiktionary:bread"
+    "source": "wiktionary:bread",
+    "meaningVi": "bánh mì"
   },
   {
     "id": "en:word:b0472cb71d29d450",
@@ -1599,9 +1619,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "food",
       "food-and-drink"
     ],
-    "source": "wiktionary:breakfast"
+    "source": "wiktionary:breakfast",
+    "meaningVi": "bữa sáng"
   },
   {
     "id": "en:word:01577d969c607424",
@@ -1666,10 +1688,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:brother"
+    "source": "wiktionary:brother",
+    "meaningVi": "anh trai, em trai"
   },
   {
     "id": "en:word:293729f5a4614236",
@@ -1767,10 +1791,12 @@
     "level": "A1",
     "topics": [
       "things-in-the-town-shops-and-shopping",
+      "transport",
       "travel",
       "ways-of-travelling"
     ],
-    "source": "wiktionary:bus"
+    "source": "wiktionary:bus",
+    "meaningVi": "xe buýt"
   },
   {
     "id": "en:word:8de70abb116f5581",
@@ -1851,7 +1877,11 @@
     "reading": "[baɪ]",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:buy"
+    "source": "wiktionary:buy",
+    "meaningVi": "mua",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "en:word:ebe1a0133afa043e",
@@ -2016,10 +2046,12 @@
     "level": "A1",
     "topics": [
       "things-in-the-town-shops-and-shopping",
+      "transport",
       "travel",
       "ways-of-travelling"
     ],
-    "source": "wiktionary:car"
+    "source": "wiktionary:car",
+    "meaningVi": "ô tô"
   },
   {
     "id": "en:word:8d203f7e2bf0f884",
@@ -2194,10 +2226,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:chair"
+    "source": "wiktionary:chair",
+    "meaningVi": "cái ghế"
   },
   {
     "id": "en:word:22235856fc665873",
@@ -2267,9 +2301,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "food",
       "food-and-drink"
     ],
-    "source": "wiktionary:chicken"
+    "source": "wiktionary:chicken",
+    "meaningVi": "thịt gà, con gà"
   },
   {
     "id": "en:word:a977e26fb27bedf4",
@@ -2280,10 +2316,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:child"
+    "source": "wiktionary:child",
+    "meaningVi": "đứa trẻ, đứa con"
   },
   {
     "id": "en:word:9bc8fd32deef52b1",
@@ -2368,9 +2406,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
-      "education"
+      "education",
+      "school-work"
     ],
-    "source": "wiktionary:class"
+    "source": "wiktionary:class",
+    "meaningVi": "lớp học, buổi học"
   },
   {
     "id": "en:word:5037e4deef60f415",
@@ -2531,7 +2571,11 @@
     "reading": "/ˈklaʊ̯diː/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:cloudy"
+    "source": "wiktionary:cloudy",
+    "meaningVi": "nhiều mây",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:5ccad2f1a476eec4",
@@ -2594,9 +2638,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "food",
       "food-and-drink"
     ],
-    "source": "wiktionary:coffee"
+    "source": "wiktionary:coffee",
+    "meaningVi": "cà phê"
   },
   {
     "id": "en:word:485b3c5945c5a83b",
@@ -2633,7 +2679,11 @@
     "reading": "/koʊld/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:cold"
+    "source": "wiktionary:cold",
+    "meaningVi": "lạnh",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:23c2501ccf4c23ec",
@@ -2879,9 +2929,11 @@
     "level": "A1",
     "topics": [
       "house-and-home-environment",
-      "objects-and-rooms"
+      "objects-and-rooms",
+      "transport"
     ],
-    "source": "wiktionary:corner"
+    "source": "wiktionary:corner",
+    "meaningVi": "góc (phố)"
   },
   {
     "id": "en:word:fadbc753814c0091",
@@ -3085,7 +3137,11 @@
     "reading": "/dæns/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:dance"
+    "source": "wiktionary:dance",
+    "meaningVi": "nhảy, khiêu vũ",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "en:word:93c07b4f350f604f",
@@ -3147,10 +3203,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:daughter"
+    "source": "wiktionary:daughter",
+    "meaningVi": "con gái"
   },
   {
     "id": "en:word:d8fb6eccdb6fb35c",
@@ -3160,7 +3218,11 @@
     "reading": "/deɪ̯/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:day"
+    "source": "wiktionary:day",
+    "meaningVi": "ngày",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:118b6f7aad72cfd6",
@@ -3189,7 +3251,11 @@
     "reading": "/dɪˈlɪ.ʃəs/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:delicious"
+    "source": "wiktionary:delicious",
+    "meaningVi": "ngon",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "en:word:762b0f78464496f4",
@@ -3316,9 +3382,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "food",
       "food-and-drink"
     ],
-    "source": "wiktionary:dinner"
+    "source": "wiktionary:dinner",
+    "meaningVi": "bữa tối"
   },
   {
     "id": "en:word:a1f79f2789b2dcf0",
@@ -3374,9 +3442,11 @@
     "level": "A1",
     "topics": [
       "personal-identification",
+      "school-work",
       "work-and-jobs"
     ],
-    "source": "wiktionary:doctor"
+    "source": "wiktionary:doctor",
+    "meaningVi": "bác sĩ"
   },
   {
     "id": "en:word:7fe59e4979e843b5",
@@ -3433,7 +3503,8 @@
     "topics": [
       "shopping"
     ],
-    "source": "wiktionary:dollar"
+    "source": "wiktionary:dollar",
+    "meaningVi": "đô la"
   },
   {
     "id": "en:word:8d83eeb895817fa1",
@@ -3444,10 +3515,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:door"
+    "source": "wiktionary:door",
+    "meaningVi": "cửa ra vào"
   },
   {
     "id": "en:word:70d5cd5061172601",
@@ -3541,7 +3614,11 @@
     "reading": "/ˈdɹɪŋk/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:drink"
+    "source": "wiktionary:drink",
+    "meaningVi": "uống",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "en:word:5a15fcbb03ed2440",
@@ -3715,7 +3792,11 @@
     "reading": "/it/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:eat"
+    "source": "wiktionary:eat",
+    "meaningVi": "ăn",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "en:word:fae3fe24d55e14b9",
@@ -3726,9 +3807,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "food",
       "food-and-drink"
     ],
-    "source": "wiktionary:egg"
+    "source": "wiktionary:egg",
+    "meaningVi": "trứng"
   },
   {
     "id": "en:word:2b4d61412e77e070",
@@ -4004,7 +4087,11 @@
     "reading": "/ɪkˈspɛn.sɪv/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:expensive"
+    "source": "wiktionary:expensive",
+    "meaningVi": "đắt",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "en:word:4f2dad873d339b8e",
@@ -4088,10 +4175,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:family"
+    "source": "wiktionary:family",
+    "meaningVi": "gia đình"
   },
   {
     "id": "en:word:7b70f50ca2a5dce8",
@@ -4184,10 +4273,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:father"
+    "source": "wiktionary:father",
+    "meaningVi": "bố"
   },
   {
     "id": "en:word:0071d4e180286e61",
@@ -4484,7 +4575,11 @@
     "reading": "/ˈfaːv/",
     "partOfSpeech": "num",
     "level": "A1",
-    "source": "wiktionary:five"
+    "source": "wiktionary:five",
+    "meaningVi": "năm (số 5)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:a95c19077c833b0f",
@@ -4508,10 +4603,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "things-in-the-town-shops-and-shopping"
     ],
-    "source": "wiktionary:flat"
+    "source": "wiktionary:flat",
+    "meaningVi": "căn hộ"
   },
   {
     "id": "en:word:c7bb8d0322523a69",
@@ -4613,9 +4710,11 @@
     "level": "A1",
     "topics": [
       "free-time-entertainment",
+      "hobbies",
       "hobbies-and-pastimes"
     ],
-    "source": "wiktionary:football"
+    "source": "wiktionary:football",
+    "meaningVi": "bóng đá"
   },
   {
     "id": "en:word:38885c8b8190a9d6",
@@ -4708,7 +4807,11 @@
     "reading": "/fɹi/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:free"
+    "source": "wiktionary:free",
+    "meaningVi": "rảnh; miễn phí",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "en:word:5e9ddbb5e1384ac9",
@@ -4873,10 +4976,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:garden"
+    "source": "wiktionary:garden",
+    "meaningVi": "vườn"
   },
   {
     "id": "en:word:e571b9c8d01d5112",
@@ -4886,7 +4991,11 @@
     "reading": "/ɡɛt/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:get"
+    "source": "wiktionary:get",
+    "meaningVi": "đến (nơi nào); nhận, lấy",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "en:word:c71f5f9050f7c4c7",
@@ -5135,10 +5244,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:grandmother"
+    "source": "wiktionary:grandmother",
+    "meaningVi": "bà"
   },
   {
     "id": "en:word:981a21a14b098fda",
@@ -5350,9 +5461,11 @@
     "level": "A1",
     "topics": [
       "free-time-entertainment",
+      "hobbies",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:guitar"
+    "source": "wiktionary:guitar",
+    "meaningVi": "đàn ghi-ta"
   },
   {
     "id": "en:word:baab3b302ea908e2",
@@ -5426,7 +5539,11 @@
     "reading": "/ˈhæf/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:half"
+    "source": "wiktionary:half",
+    "meaningVi": "một nửa; rưỡi",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:0095f0ccc8ecf1ad",
@@ -5831,9 +5948,11 @@
     "level": "A1",
     "topics": [
       "free-time-entertainment",
+      "hobbies",
       "hobbies-and-pastimes"
     ],
-    "source": "wiktionary:hobby"
+    "source": "wiktionary:hobby",
+    "meaningVi": "sở thích"
   },
   {
     "id": "en:word:35a63c9921a45ea2",
@@ -5910,9 +6029,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
-      "education"
+      "education",
+      "school-work"
     ],
-    "source": "wiktionary:homework"
+    "source": "wiktionary:homework",
+    "meaningVi": "bài tập về nhà"
   },
   {
     "id": "en:word:35896d2998f650a6",
@@ -5956,7 +6077,11 @@
     "reading": "/hɑt/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:hot"
+    "source": "wiktionary:hot",
+    "meaningVi": "nóng",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:84fd13f441d8c8af",
@@ -5966,7 +6091,11 @@
     "reading": "/aʊɚ/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:hour"
+    "source": "wiktionary:hour",
+    "meaningVi": "giờ, tiếng (60 phút)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:66cbb06012054342",
@@ -5977,10 +6106,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "things-in-the-town-shops-and-shopping"
     ],
-    "source": "wiktionary:house"
+    "source": "wiktionary:house",
+    "meaningVi": "ngôi nhà"
   },
   {
     "id": "en:word:ef2933dfdfbba880",
@@ -6000,7 +6131,11 @@
     "reading": "/ˈhʌŋ.ɡɹi/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:hungry"
+    "source": "wiktionary:hungry",
+    "meaningVi": "đói",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "en:word:138caa3562894494",
@@ -6031,10 +6166,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:husband"
+    "source": "wiktionary:husband",
+    "meaningVi": "chồng"
   },
   {
     "id": "en:word:e7aed355521c7a38",
@@ -6390,9 +6527,11 @@
     "level": "A1",
     "topics": [
       "personal-identification",
+      "school-work",
       "work-and-jobs"
     ],
-    "source": "wiktionary:job"
+    "source": "wiktionary:job",
+    "meaningVi": "công việc, nghề"
   },
   {
     "id": "en:word:15539d06c687eab0",
@@ -6586,10 +6725,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:kitchen"
+    "source": "wiktionary:kitchen",
+    "meaningVi": "nhà bếp"
   },
   {
     "id": "en:word:77f870497ea83aa1",
@@ -6764,7 +6905,11 @@
     "reading": "/lɝn/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:learn"
+    "source": "wiktionary:learn",
+    "meaningVi": "học (để biết điều mới)",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "en:word:6fb0cdd546db9cfe",
@@ -6901,7 +7046,11 @@
     "reading": "/laɪ̯k/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:like"
+    "source": "wiktionary:like",
+    "meaningVi": "thích",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "en:word:56bc708cf8db212e",
@@ -6984,7 +7133,11 @@
     "reading": "/ˈlɪv/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:live"
+    "source": "wiktionary:live",
+    "meaningVi": "sống, ở",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "en:word:e73499a4f3d02d48",
@@ -7086,7 +7239,11 @@
     "reading": "/lʌv/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:love"
+    "source": "wiktionary:love",
+    "meaningVi": "yêu, rất thích",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "en:word:962aaf39415adfb3",
@@ -7127,9 +7284,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "food",
       "food-and-drink"
     ],
-    "source": "wiktionary:lunch"
+    "source": "wiktionary:lunch",
+    "meaningVi": "bữa trưa"
   },
   {
     "id": "en:word:f7c559b59af4bd24",
@@ -7205,7 +7364,11 @@
     "reading": "/ˈmɛni/",
     "partOfSpeech": "det",
     "level": "A1",
-    "source": "wiktionary:many"
+    "source": "wiktionary:many",
+    "meaningVi": "nhiều (danh từ đếm được)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:5fc254109b461916",
@@ -7478,7 +7641,12 @@
     "reading": "/ˈmɪnɪt/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:minute"
+    "source": "wiktionary:minute",
+    "meaningVi": "phút",
+    "topics": [
+      "time",
+      "transport"
+    ]
   },
   {
     "id": "en:word:a2100ec186c6db38",
@@ -7581,7 +7749,11 @@
     "reading": "/ˈmʌn.deɪ/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:Monday"
+    "source": "wiktionary:Monday",
+    "meaningVi": "thứ Hai",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:08d4620520914fd6",
@@ -7594,7 +7766,8 @@
     "topics": [
       "shopping"
     ],
-    "source": "wiktionary:money"
+    "source": "wiktionary:money",
+    "meaningVi": "tiền"
   },
   {
     "id": "en:word:c0ee857c9fd285cf",
@@ -7679,10 +7852,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:mother"
+    "source": "wiktionary:mother",
+    "meaningVi": "mẹ"
   },
   {
     "id": "en:word:6ac407a79953cbcf",
@@ -7742,9 +7917,11 @@
     "topics": [
       "film",
       "free-time-entertainment",
+      "hobbies",
       "hobbies-and-pastimes"
     ],
-    "source": "wiktionary:movie"
+    "source": "wiktionary:movie",
+    "meaningVi": "bộ phim"
   },
   {
     "id": "en:word:2ba53f6c5168fe3c",
@@ -7826,9 +8003,11 @@
     "level": "A1",
     "topics": [
       "free-time-entertainment",
+      "hobbies",
       "hobbies-and-pastimes"
     ],
-    "source": "wiktionary:music"
+    "source": "wiktionary:music",
+    "meaningVi": "âm nhạc"
   },
   {
     "id": "en:word:b8ef87acfaa35332",
@@ -7902,7 +8081,11 @@
     "reading": "/nɪɹ/",
     "partOfSpeech": "prep",
     "level": "A1",
-    "source": "wiktionary:near"
+    "source": "wiktionary:near",
+    "meaningVi": "gần",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "en:word:a1ffdb330f9949c2",
@@ -8186,9 +8369,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "numbers",
       "personal-identification"
     ],
-    "source": "wiktionary:number"
+    "source": "wiktionary:number",
+    "meaningVi": "số"
   },
   {
     "id": "en:word:116cc33e3eb52739",
@@ -8200,10 +8385,12 @@
     "level": "A1",
     "topics": [
       "personal-identification",
+      "school-work",
       "travel-and-services-vocab",
       "work-and-jobs"
     ],
-    "source": "wiktionary:nurse"
+    "source": "wiktionary:nurse",
+    "meaningVi": "y tá"
   },
   {
     "id": "en:word:7ce0f12baebc3fde",
@@ -8213,7 +8400,11 @@
     "reading": "/əˈklɑk/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:o'clock"
+    "source": "wiktionary:o'clock",
+    "meaningVi": "giờ (đúng)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:83d9bcb7a6dba50d",
@@ -8254,10 +8445,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "school-work",
       "services",
       "things-in-the-town-shops-and-shopping"
     ],
-    "source": "wiktionary:office"
+    "source": "wiktionary:office",
+    "meaningVi": "văn phòng"
   },
   {
     "id": "en:word:d67850e3d03a05ef",
@@ -8331,7 +8524,11 @@
     "reading": "/ˈoʊld/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:old"
+    "source": "wiktionary:old",
+    "meaningVi": "già, cũ; (bao nhiêu) tuổi",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:aa0e9493cfe33efb",
@@ -8384,7 +8581,11 @@
     "reading": "/wʌn/",
     "partOfSpeech": "num",
     "level": "A1",
-    "source": "wiktionary:one"
+    "source": "wiktionary:one",
+    "meaningVi": "một",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:2ea52d40a80dc00c",
@@ -8716,10 +8917,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:parent"
+    "source": "wiktionary:parent",
+    "meaningVi": "bố hoặc mẹ (parents: bố mẹ)"
   },
   {
     "id": "en:word:05307e4674b22456",
@@ -8791,7 +8994,11 @@
     "reading": "/peɪ/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:pay"
+    "source": "wiktionary:pay",
+    "meaningVi": "trả tiền",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "en:word:c0bec5312af1655f",
@@ -9095,7 +9302,11 @@
     "reading": "/pleɪ̯/ [pɫ̥eɪ̯ ~ pʰɫeɪ̯]",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:play"
+    "source": "wiktionary:play",
+    "meaningVi": "chơi",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "en:word:86679c41ebb2d559",
@@ -9351,7 +9562,8 @@
     "topics": [
       "shopping"
     ],
-    "source": "wiktionary:price"
+    "source": "wiktionary:price",
+    "meaningVi": "giá"
   },
   {
     "id": "en:word:a9274564cf2fcba5",
@@ -9463,7 +9675,11 @@
     "reading": "/ˈk(w)oɹ.tɚ/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:quarter"
+    "source": "wiktionary:quarter",
+    "meaningVi": "một phần tư; mười lăm phút",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:afe02a2d59d734d5",
@@ -9544,7 +9760,11 @@
     "reading": "/ɹeɪn/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:rain"
+    "source": "wiktionary:rain",
+    "meaningVi": "mưa",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:e82aeacd137601fa",
@@ -9574,7 +9794,11 @@
     "reading": "/ɹid/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:read"
+    "source": "wiktionary:read",
+    "meaningVi": "đọc",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "en:word:f691b30ca2de4ef3",
@@ -9755,9 +9979,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "food",
       "food-and-drink"
     ],
-    "source": "wiktionary:rice"
+    "source": "wiktionary:rice",
+    "meaningVi": "cơm, gạo"
   },
   {
     "id": "en:word:4b84a31f3983be79",
@@ -9846,10 +10072,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:room"
+    "source": "wiktionary:room",
+    "meaningVi": "phòng"
   },
   {
     "id": "en:word:b9b8113d5c9f04d4",
@@ -10076,9 +10304,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "school-work",
       "things-in-the-town-shops-and-shopping"
     ],
-    "source": "wiktionary:school"
+    "source": "wiktionary:school",
+    "meaningVi": "trường học"
   },
   {
     "id": "en:word:ec6ab6c693b9c521",
@@ -10327,7 +10557,8 @@
       "clothes",
       "shopping"
     ],
-    "source": "wiktionary:shirt"
+    "source": "wiktionary:shirt",
+    "meaningVi": "áo sơ mi"
   },
   {
     "id": "en:word:d57737cfcf7bc69a",
@@ -10341,7 +10572,8 @@
       "clothes",
       "shopping"
     ],
-    "source": "wiktionary:shoe"
+    "source": "wiktionary:shoe",
+    "meaningVi": "giày (một chiếc)"
   },
   {
     "id": "en:word:1c1a8919941d96fd",
@@ -10353,9 +10585,11 @@
     "level": "A1",
     "topics": [
       "daily-life",
+      "shopping",
       "things-in-the-town-shops-and-shopping"
     ],
-    "source": "wiktionary:shop"
+    "source": "wiktionary:shop",
+    "meaningVi": "cửa hàng"
   },
   {
     "id": "en:word:b4e2b7de34a9d6ab",
@@ -10499,7 +10733,11 @@
     "reading": "/ˈsɪŋ/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:sing"
+    "source": "wiktionary:sing",
+    "meaningVi": "hát",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "en:word:2fd262edc2d0d3c2",
@@ -10539,10 +10777,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:sister"
+    "source": "wiktionary:sister",
+    "meaningVi": "chị gái, em gái"
   },
   {
     "id": "en:word:eeca42c10111e5c2",
@@ -10604,9 +10844,11 @@
     "level": "A1",
     "topics": [
       "clothes",
-      "free-time-entertainment"
+      "free-time-entertainment",
+      "shopping"
     ],
-    "source": "wiktionary:size"
+    "source": "wiktionary:size",
+    "meaningVi": "cỡ, kích thước"
   },
   {
     "id": "en:word:d4c7e7faece86faa",
@@ -10771,7 +11013,8 @@
       "media",
       "weather"
     ],
-    "source": "wiktionary:snow"
+    "source": "wiktionary:snow",
+    "meaningVi": "tuyết"
   },
   {
     "id": "en:word:3a9c9ef63153fbd2",
@@ -10890,10 +11133,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:son"
+    "source": "wiktionary:son",
+    "meaningVi": "con trai"
   },
   {
     "id": "en:word:78f5196f2872d287",
@@ -11031,7 +11276,11 @@
     "reading": "/ˈspɹɪŋ/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:spring"
+    "source": "wiktionary:spring",
+    "meaningVi": "mùa xuân",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:80eab078c6f9b680",
@@ -11161,7 +11410,11 @@
     "reading": "/stɒp/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:stop"
+    "source": "wiktionary:stop",
+    "meaningVi": "trạm dừng, điểm dừng",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "en:word:61e4b5a3e8d5bf6a",
@@ -11210,9 +11463,11 @@
     "level": "A1",
     "topics": [
       "house-and-home-environment",
-      "things-in-the-town-shops-and-shopping"
+      "things-in-the-town-shops-and-shopping",
+      "transport"
     ],
-    "source": "wiktionary:street"
+    "source": "wiktionary:street",
+    "meaningVi": "đường phố"
   },
   {
     "id": "en:word:4b633f1c2089b128",
@@ -11243,9 +11498,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
-      "education"
+      "education",
+      "school-work"
     ],
-    "source": "wiktionary:student"
+    "source": "wiktionary:student",
+    "meaningVi": "học sinh, sinh viên"
   },
   {
     "id": "en:word:2d490cd68a264fa8",
@@ -11255,7 +11512,11 @@
     "reading": "/ˈstʌd.i/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:study"
+    "source": "wiktionary:study",
+    "meaningVi": "học (bài), nghiên cứu",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "en:word:b40efebbe32d235d",
@@ -11335,7 +11596,11 @@
     "reading": "/ˈsʌmɚ/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:summer"
+    "source": "wiktionary:summer",
+    "meaningVi": "mùa hè",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:b5974ff294677071",
@@ -11358,7 +11623,11 @@
     "reading": "/ˈsʌn.deɪ/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:Sunday"
+    "source": "wiktionary:Sunday",
+    "meaningVi": "Chủ nhật",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:c8361bbbea22bc52",
@@ -11368,7 +11637,11 @@
     "reading": "/ˈsʌni/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:sunny"
+    "source": "wiktionary:sunny",
+    "meaningVi": "nắng",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:d4c6e652d65b3ee2",
@@ -11468,7 +11741,11 @@
     "reading": "/swɪm/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:swim"
+    "source": "wiktionary:swim",
+    "meaningVi": "bơi",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "en:word:a2ebb168b3083f4a",
@@ -11535,10 +11812,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:table"
+    "source": "wiktionary:table",
+    "meaningVi": "cái bàn"
   },
   {
     "id": "en:word:a07d7d88f143d088",
@@ -11579,10 +11858,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "transport",
       "travel",
       "ways-of-travelling"
     ],
-    "source": "wiktionary:taxi"
+    "source": "wiktionary:taxi",
+    "meaningVi": "taxi"
   },
   {
     "id": "en:word:858639c2fbeb1a9a",
@@ -11617,9 +11898,11 @@
     "level": "A1",
     "topics": [
       "education",
+      "school-work",
       "work-and-jobs"
     ],
-    "source": "wiktionary:teacher"
+    "source": "wiktionary:teacher",
+    "meaningVi": "giáo viên"
   },
   {
     "id": "en:word:81da98fbddd51874",
@@ -11720,7 +12003,11 @@
     "reading": "/tɛn/",
     "partOfSpeech": "num",
     "level": "A1",
-    "source": "wiktionary:ten"
+    "source": "wiktionary:ten",
+    "meaningVi": "mười",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:564e9193438ce71b",
@@ -11998,7 +12285,11 @@
     "reading": "/ˈθɝti/",
     "partOfSpeech": "num",
     "level": "A1",
-    "source": "wiktionary:thirty"
+    "source": "wiktionary:thirty",
+    "meaningVi": "ba mươi",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:3a45394d51b558bc",
@@ -12048,7 +12339,11 @@
     "reading": "/θɹiː/",
     "partOfSpeech": "num",
     "level": "A1",
-    "source": "wiktionary:three"
+    "source": "wiktionary:three",
+    "meaningVi": "ba",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:33aaf49be6f9bbef",
@@ -12108,7 +12403,11 @@
     "reading": "/taɪm/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:time"
+    "source": "wiktionary:time",
+    "meaningVi": "thời gian; giờ",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:0d2c695670802b99",
@@ -12157,7 +12456,11 @@
     "reading": "/təˈdeɪ/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:today"
+    "source": "wiktionary:today",
+    "meaningVi": "hôm nay",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:abc4bf14d3716032",
@@ -12204,7 +12507,11 @@
     "reading": "/təˈmɑɹoʊ/",
     "partOfSpeech": "adv",
     "level": "A1",
-    "source": "wiktionary:tomorrow"
+    "source": "wiktionary:tomorrow",
+    "meaningVi": "ngày mai",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:f88386d6c8095467",
@@ -12524,7 +12831,11 @@
     "reading": "/twɛlv/",
     "partOfSpeech": "num",
     "level": "A1",
-    "source": "wiktionary:twelve"
+    "source": "wiktionary:twelve",
+    "meaningVi": "mười hai",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:a37bce4af9cbfb5e",
@@ -12534,7 +12845,11 @@
     "reading": "/ˈtwɛnti/ [-ɛɾ̃i]",
     "partOfSpeech": "num",
     "level": "A1",
-    "source": "wiktionary:twenty"
+    "source": "wiktionary:twenty",
+    "meaningVi": "hai mươi",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:f0b6d5d8aa7480b0",
@@ -12544,7 +12859,11 @@
     "reading": "/tu/",
     "partOfSpeech": "num",
     "level": "A1",
-    "source": "wiktionary:two"
+    "source": "wiktionary:two",
+    "meaningVi": "hai",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:f9eefd995fde000e",
@@ -12845,7 +13164,11 @@
     "reading": "/wɔk/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:walk"
+    "source": "wiktionary:walk",
+    "meaningVi": "đi bộ",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "en:word:ec3d6d0a1c9cd20c",
@@ -12893,7 +13216,11 @@
     "reading": "/wɔɹm/",
     "partOfSpeech": "adj",
     "level": "A1",
-    "source": "wiktionary:warm"
+    "source": "wiktionary:warm",
+    "meaningVi": "ấm",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:69526aa0c66a25c8",
@@ -12961,9 +13288,11 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "food",
       "food-and-drink"
     ],
-    "source": "wiktionary:water"
+    "source": "wiktionary:water",
+    "meaningVi": "nước"
   },
   {
     "id": "en:word:c1b975baaaaf63ea",
@@ -13009,7 +13338,8 @@
     "topics": [
       "weather"
     ],
-    "source": "wiktionary:weather"
+    "source": "wiktionary:weather",
+    "meaningVi": "thời tiết"
   },
   {
     "id": "en:word:ef34fc89727d917a",
@@ -13029,7 +13359,11 @@
     "reading": "/wiːk/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:week"
+    "source": "wiktionary:week",
+    "meaningVi": "tuần",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:41e045e1b363a462",
@@ -13039,7 +13373,11 @@
     "reading": "/ˈwiˌkɛnd/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:weekend"
+    "source": "wiktionary:weekend",
+    "meaningVi": "cuối tuần",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "en:word:275aa4258476e89f",
@@ -13256,10 +13594,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "family",
       "family-life",
       "personal-identification"
     ],
-    "source": "wiktionary:wife"
+    "source": "wiktionary:wife",
+    "meaningVi": "vợ"
   },
   {
     "id": "en:word:649dfb77a5ae8a8f",
@@ -13292,7 +13632,8 @@
     "topics": [
       "weather"
     ],
-    "source": "wiktionary:wind"
+    "source": "wiktionary:wind",
+    "meaningVi": "gió"
   },
   {
     "id": "en:word:eaf26f789200086e",
@@ -13303,10 +13644,12 @@
     "partOfSpeech": "noun",
     "level": "A1",
     "topics": [
+      "home",
       "house-and-home-environment",
       "objects-and-rooms"
     ],
-    "source": "wiktionary:window"
+    "source": "wiktionary:window",
+    "meaningVi": "cửa sổ"
   },
   {
     "id": "en:word:483184f9061d2963",
@@ -13316,7 +13659,11 @@
     "reading": "/ˈwɪntɚ/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:winter"
+    "source": "wiktionary:winter",
+    "meaningVi": "mùa đông",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "en:word:7f0047ad1dbcdaea",
@@ -13383,7 +13730,11 @@
     "reading": "/wɝk/",
     "partOfSpeech": "verb",
     "level": "A1",
-    "source": "wiktionary:work"
+    "source": "wiktionary:work",
+    "meaningVi": "làm việc",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "en:word:cc44973ee3deb39d",
@@ -13504,7 +13855,11 @@
     "reading": "/ˈjɪɚ/",
     "partOfSpeech": "noun",
     "level": "A1",
-    "source": "wiktionary:year"
+    "source": "wiktionary:year",
+    "meaningVi": "năm (thời gian)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "en:word:38681bdb11e989d0",
@@ -16182,7 +16537,11 @@
     "reading": "/ˈt͡ʃiːp/",
     "partOfSpeech": "adj",
     "level": "A2",
-    "source": "wiktionary:cheap"
+    "source": "wiktionary:cheap",
+    "meaningVi": "rẻ",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "en:word:8f6680bc57ba2c80",
@@ -17073,7 +17432,11 @@
     "reading": "/kɔst/",
     "partOfSpeech": "verb",
     "level": "A2",
-    "source": "wiktionary:cost"
+    "source": "wiktionary:cost",
+    "meaningVi": "có giá, tốn",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "en:word:6b5cdc6b7451bae5",
@@ -18175,7 +18538,11 @@
     "reading": "/dɹaɪv/",
     "partOfSpeech": "verb",
     "level": "A2",
-    "source": "wiktionary:drive"
+    "source": "wiktionary:drive",
+    "meaningVi": "lái xe",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "en:word:c1b0b1583be0e7d5",

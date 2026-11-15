@@ -1,0 +1,72 @@
+[
+  {
+    "id": "zh-hans:dialogue:6df8722f4d6aebcf",
+    "lang": "zh-hans",
+    "level": "HSK1",
+    "title": "Hỏi về gia đình",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "小李",
+        "text": "你家有几口人？",
+        "translationVi": "Nhà bạn có mấy người?",
+        "options": [
+          {
+            "answers": [
+              "四口人。",
+              "我家有四口人。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "三口人。",
+              "我家有三口人。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "小李",
+        "text": "你有哥哥吗？",
+        "translationVi": "Bạn có anh trai không?",
+        "options": [
+          {
+            "answers": [
+              "有，我有一个哥哥。",
+              "有。"
+            ],
+            "next": "end"
+          },
+          {
+            "answers": [
+              "没有。",
+              "我没有哥哥。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "小李",
+        "text": "爸爸、妈妈和你？",
+        "translationVi": "Bố, mẹ và bạn à?",
+        "options": [
+          {
+            "answers": [
+              "对，爸爸、妈妈和我。",
+              "对。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "小李",
+        "text": "真好！",
+        "translationVi": "Thật tốt!"
+      }
+    }
+  }
+]

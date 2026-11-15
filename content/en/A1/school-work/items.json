@@ -1,0 +1,184 @@
+[
+  {
+    "id": "en:sentence:747443bb8a77bedb",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I'm a student at Hanoi University.",
+    "meaningVi": "Tôi là sinh viên Đại học Hà Nội.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:d33f79953ad4ba2b",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Our teacher is very friendly.",
+    "meaningVi": "Cô giáo của chúng tôi rất thân thiện.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:1b868b60dfb0bbe6",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Our English class is on Tuesday.",
+    "meaningVi": "Lớp tiếng Anh của chúng tôi vào thứ Ba.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:6e2bf944e026eabf",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I have a lot of homework tonight.",
+    "meaningVi": "Tối nay tôi có nhiều bài tập về nhà.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:d34a9d09f77763e4",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "We study English at school.",
+    "meaningVi": "Chúng tôi học tiếng Anh ở trường.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:7644774f490fa790",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I want to learn Japanese.",
+    "meaningVi": "Tôi muốn học tiếng Nhật.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:241b017111ff813c",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Open your books, please.",
+    "meaningVi": "Các em mở sách ra nhé.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:8af156fdd9fd6808",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What do you do?",
+    "meaningVi": "Bạn làm nghề gì?",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:89675b0d8dda41cd",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I'm a nurse. I work in a hospital.",
+    "meaningVi": "Tôi là y tá. Tôi làm việc ở bệnh viện.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:3caa0f7b2a9f4998",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "She has a new job in an office.",
+    "meaningVi": "Cô ấy có công việc mới ở một văn phòng.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:0023b98f29550c7a",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Do you like your job?",
+    "meaningVi": "Bạn có thích công việc của mình không?",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:sentence:f1d53e589591c718",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "He wants to be a doctor.",
+    "meaningVi": "Cậu ấy muốn trở thành bác sĩ.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:grammar:79854807c6851941",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Hỏi nghề: What do you do?",
+    "explanationVi": "What do you do? nghĩa là \"Bạn làm nghề gì?\", không phải \"Bạn đang làm gì?\" (What are you doing?). Trả lời bằng I'm a/an + nghề hoặc I work in/at + nơi làm: I'm a nurse. I work in a hospital.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:grammar:36b3e4e2d2cc7e37",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "study và learn: hai kiểu \"học\"",
+    "explanationVi": "Tiếng Việt chỉ có \"học\". study = ngồi học, ôn bài, học ở trường (quá trình): We study English at school. learn = học để biết, để làm được (kết quả, kỹ năng mới): I want to learn Japanese, learn to swim.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:slang:390e14f269d2907c",
+    "lang": "en",
+    "kind": "slang",
+    "text": "pull an all-nighter",
+    "meaningVi": "thức trắng đêm (để học, làm việc)",
+    "explanationVi": "Học sinh, sinh viên hay dùng khi thức cả đêm ôn thi hay làm bài. Thân mật.",
+    "register": "slang",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "en:slang:525940b57f712bf4",
+    "lang": "en",
+    "kind": "slang",
+    "text": "I'm swamped.",
+    "meaningVi": "Tôi ngập đầu việc.",
+    "explanationVi": "Nói khi quá bận. Thân mật nhưng dùng được với đồng nghiệp.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  }
+]

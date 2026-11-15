@@ -1,0 +1,88 @@
+[
+  {
+    "id": "zh-hans:dialogue:2e69d25c1cfbabed",
+    "lang": "zh-hans",
+    "level": "HSK1",
+    "title": "Mặc cả ở cửa hàng",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "老板",
+        "text": "你好，你想买什么？",
+        "translationVi": "Chào bạn, bạn muốn mua gì?",
+        "options": [
+          {
+            "answers": [
+              "我想买衣服。",
+              "买衣服。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "我想买杯子。",
+              "买杯子。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "老板",
+        "text": "这件衣服很好看，一百块。",
+        "translationVi": "Cái áo này rất đẹp, một trăm tệ.",
+        "options": [
+          {
+            "answers": [
+              "太贵了！便宜一点儿吧。",
+              "太贵了！"
+            ],
+            "next": "d"
+          },
+          {
+            "answers": [
+              "好，我买了。",
+              "我买。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "老板",
+        "text": "这个杯子五块钱。",
+        "translationVi": "Cái cốc này năm tệ.",
+        "options": [
+          {
+            "answers": [
+              "好，我买一个。",
+              "我买一个。",
+              "我买。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "老板",
+        "text": "好吧，八十块。",
+        "translationVi": "Thôi được, tám mươi tệ.",
+        "options": [
+          {
+            "answers": [
+              "好，我买了。",
+              "我买。",
+              "谢谢！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "老板",
+        "text": "谢谢！欢迎再来！",
+        "translationVi": "Cảm ơn! Lần sau lại ghé nhé!"
+      }
+    }
+  }
+]

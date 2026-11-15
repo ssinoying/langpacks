@@ -1,0 +1,23 @@
+{
+  "id": "zh-hans-HSK1-shopping",
+  "lang": "zh-hans",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "shopping",
+  "title": "Mua sắm",
+  "requires": [],
+  "itemIds": [
+    "zh-hans:word:491a0eac7262d61f",
+    "zh-hans:word:43bdcd1ef00820ab",
+    "zh-hans:word:3074d78ba4c75ad3",
+    "zh-hans:word:807db3d1cac6d4bf",
+    "zh-hans:word:18cd3da8b8d27b42",
+    "zh-hans:word:1ff5bde52286c7fd",
+    "zh-hans:word:1237cd0dbd94cc99",
+    "zh-hans:word:b624a9e9d1c8147b",
+    "zh-hans:word:3d34a9b406fdf51d",
+    "zh-hans:word:1e20ed07c771c989",
+    "zh-hans:word:e2a060d0899820d0",
+    "zh-hans:word:4a59f9af5aafb1c1"
+  ]
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "de:sentence:178c2688681f978e",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Was sind Sie von Beruf?",
+    "meaningVi": "Ông/bà làm nghề gì?",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:017a7d940832de13",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich bin Student.",
+    "meaningVi": "Tôi là sinh viên.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:41e761c9e6c312bf",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Herr Braun ist unser Lehrer.",
+    "meaningVi": "Thầy Braun là giáo viên của chúng tôi.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:9f2f9a6794dd2b53",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Meine Schwester studiert Medizin.",
+    "meaningVi": "Chị tôi học ngành y.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:c23fb05994975d2e",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich arbeite bei einer Firma in Berlin.",
+    "meaningVi": "Tôi làm việc ở một công ty tại Berlin.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:bde18034fa886513",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wo arbeitest du?",
+    "meaningVi": "Bạn làm việc ở đâu?",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:76066b2c6a0fc11e",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Mein Kollege ist sehr nett.",
+    "meaningVi": "Đồng nghiệp của tôi rất dễ mến.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:0fa07ddafed10fc3",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Die Schüler machen Hausaufgaben.",
+    "meaningVi": "Các học sinh làm bài tập về nhà.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:884ce1892ae54a8a",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Morgen habe ich eine Prüfung.",
+    "meaningVi": "Ngày mai tôi có bài thi.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:40ce7ba32dd69b66",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich lerne jeden Tag Deutsch.",
+    "meaningVi": "Ngày nào tôi cũng học tiếng Đức.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:sentence:deeac0984c93e1f8",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Die Schule beginnt um acht.",
+    "meaningVi": "Trường bắt đầu học lúc tám giờ.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:grammar:ce635171c325ddc0",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Nghề nghiệp: không dùng ein; nữ thêm -in",
+    "explanationVi": "Nói nghề thì không có mạo từ: Ich bin Student, không nói *Ich bin ein Student. Giống tiếng Việt \"tôi là sinh viên\". Người nữ thêm -in: Studentin, Lehrerin, Schülerin.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:grammar:4006b361b0b26664",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Động từ đứng thứ hai (V2)",
+    "explanationVi": "Trong câu kể, động từ đã chia luôn ở vị trí thứ hai. Đưa Morgen lên đầu thì chủ ngữ ra sau động từ: Morgen habe ich eine Prüfung. Tiếng Việt giữ nguyên \"ngày mai tôi có\", nên người Việt hay nói sai *Morgen ich habe.",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:slang:224cd33e0c8d3987",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Uni",
+    "meaningVi": "trường đại học",
+    "explanationVi": "Viết tắt của Universität, ai cũng dùng khi nói: Ich gehe zur Uni.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  },
+  {
+    "id": "de:slang:05f16ba5aa0eaac0",
+    "lang": "de",
+    "kind": "slang",
+    "text": "büffeln",
+    "meaningVi": "học gạo, học dồn",
+    "explanationVi": "Học rất chăm trước kỳ thi: Ich muss büffeln. Dùng khi nói chuyện thân mật.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "school-work"
+    ]
+  }
+]

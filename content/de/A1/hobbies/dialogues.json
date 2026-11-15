@@ -1,0 +1,65 @@
+[
+  {
+    "id": "de:dialogue:5a0765d7a1c6f0b0",
+    "lang": "de",
+    "level": "A1",
+    "title": "Rủ đi chơi cuối tuần",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Lukas",
+        "text": "Was machst du am Wochenende?",
+        "translationVi": "Cuối tuần bạn làm gì?",
+        "options": [
+          {
+            "answers": [
+              "Ich habe noch keinen Plan.",
+              "Nichts."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Ich spiele Fußball.",
+              "Ich spiele am Samstag Fußball."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Lukas",
+        "text": "Hast du Bock auf Kino?",
+        "translationVi": "Có hứng đi xem phim không?",
+        "options": [
+          {
+            "answers": [
+              "Ja, gern!",
+              "Gute Idee!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Lukas",
+        "text": "Cool! Kann ich mitspielen?",
+        "translationVi": "Hay đấy! Mình chơi cùng được không?",
+        "options": [
+          {
+            "answers": [
+              "Klar!",
+              "Ja, natürlich!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Lukas",
+        "text": "Super, bis Samstag!",
+        "translationVi": "Tuyệt, hẹn thứ Bảy!"
+      }
+    }
+  }
+]

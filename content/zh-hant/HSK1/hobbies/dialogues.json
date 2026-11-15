@@ -1,0 +1,65 @@
+[
+  {
+    "id": "zh-hant:dialogue:1973e76e8ab11356",
+    "lang": "zh-hant",
+    "level": "HSK1",
+    "title": "Rủ đi chơi cuối tuần",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "小雨",
+        "text": "週末你想做什麼？",
+        "translationVi": "Cuối tuần bạn muốn làm gì?",
+        "options": [
+          {
+            "answers": [
+              "我想看電影。",
+              "看電影。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "我想去打球。",
+              "打球。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "小雨",
+        "text": "好啊，星期六晚上一起去吧！",
+        "translationVi": "Được đó, tối thứ Bảy cùng đi nhé!",
+        "options": [
+          {
+            "answers": [
+              "好，星期六見！",
+              "好！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "小雨",
+        "text": "我不太會打球，你教我吧！",
+        "translationVi": "Mình không giỏi chơi bóng lắm, bạn dạy mình nhé!",
+        "options": [
+          {
+            "answers": [
+              "沒問題！",
+              "好啊！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "小雨",
+        "text": "太好了！",
+        "translationVi": "Tuyệt quá!"
+      }
+    }
+  }
+]

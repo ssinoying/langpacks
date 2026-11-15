@@ -1,0 +1,97 @@
+[
+  {
+    "from": "ja:word:bb239e20e970cd53",
+    "to": "ja:sentence:3609953fb6b217dd",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:49c6185a0ea1577e",
+    "to": "ja:sentence:3d62a1c5c9566b52",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:6296490c6ae0c62c",
+    "to": "ja:sentence:3d62a1c5c9566b52",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:ae4cbd070ad36f39",
+    "to": "ja:sentence:4938a2fd924ecc88",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:0d5ac91a205de2df",
+    "to": "ja:sentence:04ba18302df71348",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:0d5ac91a205de2df",
+    "to": "ja:sentence:510b6d38bd773364",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:a6f743efcc2dae85",
+    "to": "ja:sentence:510b6d38bd773364",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:c0d726c0e8bac2a6",
+    "to": "ja:sentence:b8e5e09a7f6834c4",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:c9ae3e55eeb7e78c",
+    "to": "ja:sentence:502e70618e9f2079",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:34326abcaef3ff3f",
+    "to": "ja:sentence:502e70618e9f2079",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:1575ac12776bc097",
+    "to": "ja:sentence:8a42d16aa71c9c12",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:961083416040afaf",
+    "to": "ja:sentence:0812116c5af2a56e",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:word:192500ef5de37789",
+    "to": "ja:sentence:daf867d68db8e5c0",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ja:sentence:4938a2fd924ecc88",
+    "to": "ja:grammar:f02e56e9469f9be6",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ja:sentence:8a42d16aa71c9c12",
+    "to": "ja:grammar:f02e56e9469f9be6",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ja:sentence:502e70618e9f2079",
+    "to": "ja:grammar:05339bc5442b6d9a",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ja:sentence:510b6d38bd773364",
+    "to": "ja:grammar:05339bc5442b6d9a",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ja:sentence:8a42d16aa71c9c12",
+    "to": "ja:slang:66a7793d13e85a3a",
+    "kind": "book-reallife"
+  },
+  {
+    "from": "ja:sentence:b8e5e09a7f6834c4",
+    "to": "ja:slang:81b792a68a04d626",
+    "kind": "book-reallife"
+  }
+]

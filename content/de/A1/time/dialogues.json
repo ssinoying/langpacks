@@ -1,0 +1,65 @@
+[
+  {
+    "id": "de:dialogue:337539f1c804125f",
+    "lang": "de",
+    "level": "A1",
+    "title": "Hẹn ngày gặp",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Tom",
+        "text": "Hast du morgen Zeit?",
+        "translationVi": "Mai bạn rảnh không?",
+        "options": [
+          {
+            "answers": [
+              "Ja, ich habe Zeit.",
+              "Ja."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Nein, morgen habe ich keine Zeit.",
+              "Nein, leider nicht."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Tom",
+        "text": "Super! Um wie viel Uhr?",
+        "translationVi": "Tuyệt! Mấy giờ?",
+        "options": [
+          {
+            "answers": [
+              "Um drei Uhr.",
+              "Um drei."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Tom",
+        "text": "Schade. Und am Samstag?",
+        "translationVi": "Tiếc quá. Thế thứ Bảy?",
+        "options": [
+          {
+            "answers": [
+              "Am Samstag habe ich Zeit.",
+              "Ja, am Samstag geht es."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Tom",
+        "text": "Gut, bis dann!",
+        "translationVi": "Được, hẹn gặp nhé!"
+      }
+    }
+  }
+]

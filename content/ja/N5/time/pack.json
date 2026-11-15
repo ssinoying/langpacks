@@ -1,0 +1,25 @@
+{
+  "id": "ja-N5-time",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "time",
+  "title": "Giờ, ngày, thứ",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:bb239e20e970cd53",
+    "ja:word:961083416040afaf",
+    "ja:word:ae4cbd070ad36f39",
+    "ja:word:49c6185a0ea1577e",
+    "ja:word:0d5ac91a205de2df",
+    "ja:word:c0d726c0e8bac2a6",
+    "ja:word:c9ae3e55eeb7e78c",
+    "ja:word:a6f743efcc2dae85",
+    "ja:word:1575ac12776bc097",
+    "ja:word:34326abcaef3ff3f",
+    "ja:word:6296490c6ae0c62c",
+    "ja:word:192500ef5de37789"
+  ]
+}

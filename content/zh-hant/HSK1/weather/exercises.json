@@ -1,0 +1,139 @@
+[
+  {
+    "id": "zh-hant:exercise:5898064e6779e94e",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "今天___冷。(rất)",
+    "choices": [
+      "很",
+      "是",
+      "非常"
+    ],
+    "answers": [
+      "很",
+      "非常"
+    ],
+    "explanationVi": "Trước tính từ dùng 很 hoặc 非常, không dùng 是."
+  },
+  {
+    "id": "zh-hant:exercise:c3a0782a0947bd8c",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "外邊___了。(trời mưa)",
+    "answers": [
+      "下雨"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:9b32177dc8357a5b",
+    "lang": "zh-hant",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "夏天 / 很 / 河內的 / 熱",
+    "answers": [
+      "河內的夏天很熱。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:4e9e4af44f56cb8a",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Hôm nay thời tiết thế nào?",
+    "answers": [
+      "今天天氣怎麼樣？",
+      "今天的天氣怎麼樣？"
+    ],
+    "explanationVi": "天氣 (thiên khí) = thời tiết."
+  },
+  {
+    "id": "zh-hant:exercise:12283f5fa3121daa",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Ngày mai có mưa không?",
+    "answers": [
+      "明天會下雨嗎？",
+      "明天下雨嗎？",
+      "明天會不會下雨？"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:2a396e3fca7462a8",
+    "lang": "zh-hant",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "秋天不冷也不熱。",
+    "answers": [
+      "秋天不冷也不熱。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:d8288eaf0bed7d7f",
+    "lang": "zh-hant",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "我最喜歡春天。",
+    "answers": [
+      "我最喜歡春天。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:acbb3b24600eedb3",
+    "lang": "zh-hant",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "冬天",
+    "choices": [
+      "冬天",
+      "春天",
+      "夏天",
+      "秋天"
+    ],
+    "answers": [
+      "冬天"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:83542c6f898446ae",
+    "lang": "zh-hant",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Trưa hè 38 độ, nói với bạn thân. Câu nào tự nhiên?",
+    "choices": [
+      "熱死了！",
+      "今天很冷。",
+      "我最喜歡冬天。"
+    ],
+    "answers": [
+      "熱死了！"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:07413660ec636af2",
+    "lang": "zh-hant",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "北京的冬天很冷，夏天很熱。小李最喜歡秋天。\n\n小李最喜歡什麼季節？",
+    "choices": [
+      "秋天",
+      "冬天",
+      "夏天"
+    ],
+    "answers": [
+      "秋天"
+    ]
+  }
+]

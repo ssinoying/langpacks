@@ -1,0 +1,23 @@
+{
+  "id": "de-A1-time",
+  "lang": "de",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "time",
+  "title": "Giờ, ngày, thứ",
+  "requires": [],
+  "itemIds": [
+    "de:word:38aad91694c0ed58",
+    "de:word:aeff1619e6233f92",
+    "de:word:bf6452a5d0b23642",
+    "de:word:4365b4c95a3e4ca7",
+    "de:word:07f8832ab213e142",
+    "de:word:26f537740aaa4285",
+    "de:word:578e215d486908aa",
+    "de:word:8624b1cb90d9701f",
+    "de:word:e5bb06c7adee9f0e",
+    "de:word:0d1fb13b94ac1a0b",
+    "de:word:122e78afc0f14e41",
+    "de:word:f6daadfd11125e0e"
+  ]
+}

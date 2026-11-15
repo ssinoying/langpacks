@@ -1,0 +1,87 @@
+[
+  {
+    "id": "en:dialogue:add9acf7907d9a6c",
+    "lang": "en",
+    "level": "A1",
+    "title": "Hỏi trạm xe buýt",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Man",
+        "text": "You look lost. Can I help?",
+        "translationVi": "Trông bạn như bị lạc. Tôi giúp được không?",
+        "options": [
+          {
+            "answers": [
+              "Yes, please. Is there a bus stop near here?",
+              "Is there a bus stop near here?",
+              "Where is the bus stop?"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Yes. Where can I get a taxi?",
+              "I need a taxi."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Man",
+        "text": "Yes, it's on the corner of this street.",
+        "translationVi": "Có, ở góc đường này.",
+        "options": [
+          {
+            "answers": [
+              "Is it far?",
+              "How far is it?"
+            ],
+            "next": "d"
+          },
+          {
+            "answers": [
+              "Thank you!",
+              "Thanks a lot."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Man",
+        "text": "There are taxis at the hotel over there.",
+        "translationVi": "Có taxi ở khách sạn đằng kia.",
+        "options": [
+          {
+            "answers": [
+              "Thank you!",
+              "Thanks."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "Man",
+        "text": "No, it's a two-minute walk.",
+        "translationVi": "Không, đi bộ hai phút thôi.",
+        "options": [
+          {
+            "answers": [
+              "Great, thank you!",
+              "Thanks!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Man",
+        "text": "You're welcome. Have a good day!",
+        "translationVi": "Không có gì. Chúc một ngày tốt lành!"
+      }
+    }
+  }
+]

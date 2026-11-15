@@ -1,0 +1,133 @@
+[
+  {
+    "id": "de:exercise:aaf6960bea72ef86",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Heute regnet ___. (trời)",
+    "answers": [
+      "es"
+    ],
+    "explanationVi": "Động từ thời tiết luôn đi với es."
+  },
+  {
+    "id": "de:exercise:9b4e9d9b96fb8e8b",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Im Winter ___ es oft. (schneien)",
+    "answers": [
+      "schneit"
+    ],
+    "explanationVi": "Với es, động từ thêm -t: es schneit."
+  },
+  {
+    "id": "de:exercise:d682d48a73368364",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "ist / im Sommer / es / warm",
+    "answers": [
+      "Im Sommer ist es warm.",
+      "Es ist im Sommer warm."
+    ],
+    "explanationVi": "Động từ ist đứng thứ hai."
+  },
+  {
+    "id": "de:exercise:dbde354a0dc25070",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Trời mưa.",
+    "answers": [
+      "Es regnet."
+    ],
+    "explanationVi": "Cần chủ ngữ es."
+  },
+  {
+    "id": "de:exercise:920a9f133c581ec4",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Hôm nay trời rất lạnh.",
+    "answers": [
+      "Heute ist es sehr kalt.",
+      "Es ist heute sehr kalt."
+    ]
+  },
+  {
+    "id": "de:exercise:aa1e2a7bd99effb0",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Die Sonne scheint.",
+    "answers": [
+      "Die Sonne scheint."
+    ]
+  },
+  {
+    "id": "de:exercise:f1d436d77d7c768b",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Wie ist das Wetter heute?",
+    "answers": [
+      "Wie ist das Wetter heute?"
+    ]
+  },
+  {
+    "id": "de:exercise:d6e62dd8d47a97f1",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Wind",
+    "choices": [
+      "Wind",
+      "Winter",
+      "Wein"
+    ],
+    "answers": [
+      "Wind"
+    ]
+  },
+  {
+    "id": "de:exercise:423fd32833fabca2",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Mưa lạnh suốt tuần, bạn than với bạn thân. Câu nào tự nhiên?",
+    "choices": [
+      "So ein Sauwetter!",
+      "Die Sonne scheint.",
+      "Im Sommer ist es warm."
+    ],
+    "answers": [
+      "So ein Sauwetter!"
+    ]
+  },
+  {
+    "id": "de:exercise:26e3bfb28ee83c0a",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "In Hanoi ist es im Sommer sehr warm und es regnet oft. Im Winter ist es kühl, aber es schneit nie.\n\nSchneit es in Hanoi?",
+    "choices": [
+      "Nein, nie.",
+      "Ja, oft.",
+      "Ja, im Sommer."
+    ],
+    "answers": [
+      "Nein, nie."
+    ]
+  }
+]

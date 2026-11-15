@@ -1,0 +1,151 @@
+[
+  {
+    "id": "zh-hans:sentence:947134c73aed2d5c",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我饿了，我们去吃饭吧。",
+    "meaningVi": "Tôi đói rồi, chúng ta đi ăn cơm thôi.",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:49defb86a41ccbd5",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你渴吗？喝点儿水吧。",
+    "meaningVi": "Bạn khát không? Uống chút nước đi.",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:f6f3173bb9621bb3",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我想喝一杯茶。",
+    "meaningVi": "Tôi muốn uống một cốc trà.",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:5e7e3031027e3e05",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你想吃什么？",
+    "meaningVi": "Bạn muốn ăn gì?",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:cc4a063b903120bf",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我吃米饭，你呢？",
+    "meaningVi": "Tôi ăn cơm, còn bạn?",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:d50c2e58cd8ce9cc",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "这个菜很好吃。",
+    "meaningVi": "Món này rất ngon.",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:c1f8b32cde4c71b2",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "早上我喝牛奶。",
+    "meaningVi": "Buổi sáng tôi uống sữa.",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:df499f472f04715a",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我很喜欢吃水果。",
+    "meaningVi": "Tôi rất thích ăn hoa quả.",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:f03cea69848e0703",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "中国菜好吃吗？",
+    "meaningVi": "Món Trung Quốc có ngon không?",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:76baf087769787ee",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "了 cuối câu: tình huống mới",
+    "explanationVi": "了 cuối câu báo một trạng thái mới xuất hiện, giống \"rồi\" trong tiếng Việt: 我饿了 = Tôi đói rồi.",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:994eede975729cbe",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "想 + động từ: muốn làm gì",
+    "explanationVi": "想 (tưởng) + động từ = muốn làm gì, trật tự giống tiếng Việt: 我想喝一杯茶 = Tôi muốn uống một cốc trà. Hỏi thì đặt 什么 vào chỗ món ăn: 你想吃什么？",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:4b94e4a2953f4092",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "干饭",
+    "meaningVi": "Ăn (cơm) hết mình.",
+    "explanationVi": "Giới trẻ nói 干饭 (gànfàn) khi tới giờ ăn, kiểu \"đi chén thôi\". 干饭人 = người mê ăn. Chỉ dùng với bạn bè.",
+    "register": "slang",
+    "status": "trending",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:77a5d5189dcb3468",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "吃货",
+    "meaningVi": "Người ham ăn, tín đồ ăn uống.",
+    "explanationVi": "Tự nhận hoặc trêu bạn thích ăn: 我是吃货. Nghĩa vui, không chê bai; tránh dùng với người lớn tuổi.",
+    "register": "slang",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "food"
+    ]
+  }
+]

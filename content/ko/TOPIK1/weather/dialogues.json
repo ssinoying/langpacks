@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ko:dialogue:4053a84b087b8e8d",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Nói chuyện thời tiết",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "지수",
+        "text": "오늘 정말 덥죠?",
+        "translationVi": "Hôm nay nóng thật nhỉ?",
+        "options": [
+          {
+            "answers": [
+              "네, 정말 더워요.",
+              "네, 너무 더워요."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "아니요, 괜찮아요. 베트남은 더 더워요.",
+              "베트남은 더 더워요."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "지수",
+        "text": "아이스크림 먹으러 갈까요?",
+        "translationVi": "Đi ăn kem không?",
+        "options": [
+          {
+            "answers": [
+              "좋아요!",
+              "네, 가요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "지수",
+        "text": "아, 그래요? 베트남은 겨울이 없어요?",
+        "translationVi": "Ồ, vậy à? Việt Nam không có mùa đông à?",
+        "options": [
+          {
+            "answers": [
+              "남쪽은 겨울이 없어요.",
+              "하노이는 겨울이 있어요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "지수",
+        "text": "저는 한국 가을을 제일 좋아해요. 시원하거든요.",
+        "translationVi": "Mình thích mùa thu Hàn Quốc nhất. Mát mẻ mà."
+      }
+    }
+  }
+]

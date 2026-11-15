@@ -1,0 +1,80 @@
+[
+  {
+    "id": "de:dialogue:ca632ee8de146a23",
+    "lang": "de",
+    "level": "A1",
+    "title": "Hỏi tuổi và số điện thoại",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Jonas",
+        "text": "Hey, ich bin Jonas. Wie alt bist du?",
+        "translationVi": "Chào, mình là Jonas. Bạn bao nhiêu tuổi?",
+        "options": [
+          {
+            "answers": [
+              "Ich bin zwanzig.",
+              "Ich bin zwanzig Jahre alt.",
+              "Zwanzig."
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Jonas",
+        "text": "Ich auch! Hast du ein Handy?",
+        "translationVi": "Mình cũng vậy! Bạn có điện thoại không?",
+        "options": [
+          {
+            "answers": [
+              "Ja, ich habe ein Handy.",
+              "Ja."
+            ],
+            "next": "c"
+          },
+          {
+            "answers": [
+              "Nein, ich habe kein Handy.",
+              "Nein."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Jonas",
+        "text": "Super! Wie ist deine Nummer?",
+        "translationVi": "Tuyệt! Số của bạn là gì?",
+        "options": [
+          {
+            "answers": [
+              "Meine Nummer ist null eins fünf eins.",
+              "Null eins fünf eins."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "Jonas",
+        "text": "Kein Problem. Dann bis morgen im Kurs!",
+        "translationVi": "Không sao. Vậy mai gặp ở lớp nhé!",
+        "options": [
+          {
+            "answers": [
+              "Bis morgen!",
+              "Tschüss!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Jonas",
+        "text": "Tschüss!",
+        "translationVi": "Chào nhé!"
+      }
+    }
+  }
+]

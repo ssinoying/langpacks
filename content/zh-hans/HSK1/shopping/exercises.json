@@ -1,0 +1,134 @@
+[
+  {
+    "id": "zh-hans:exercise:f06d19d913b8d14d",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "这___衣服多少钱？(lượng từ cho áo)",
+    "choices": [
+      "件",
+      "个",
+      "本"
+    ],
+    "answers": [
+      "件"
+    ],
+    "explanationVi": "Quần áo dùng lượng từ 件."
+  },
+  {
+    "id": "zh-hans:exercise:2ed1df13d8a5e7a6",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "太贵___！便宜一点儿吧。(quá)",
+    "answers": [
+      "了"
+    ],
+    "explanationVi": "Cấu trúc 太…了."
+  },
+  {
+    "id": "zh-hans:exercise:0d4825e47d4a834e",
+    "lang": "zh-hans",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "手机 / 买 / 想 / 我 / 一个",
+    "answers": [
+      "我想买一个手机。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:cade12bdcb55bb4e",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Cái áo này bao nhiêu tiền?",
+    "answers": [
+      "这件衣服多少钱？"
+    ],
+    "explanationVi": "\"Cái áo này\" = 这件衣服."
+  },
+  {
+    "id": "zh-hans:exercise:e98b345567e86208",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Đắt quá!",
+    "answers": [
+      "太贵了！"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:ffab86248f51a6cd",
+    "lang": "zh-hans",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "我们去商场买东西吧。",
+    "answers": [
+      "我们去商场买东西吧。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:58d4d53bcdb32148",
+    "lang": "zh-hans",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "这个杯子五块钱，很便宜。",
+    "answers": [
+      "这个杯子五块钱，很便宜。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:d93b8baf0f92fa8a",
+    "lang": "zh-hans",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "一百二十块",
+    "choices": [
+      "一百二十块",
+      "一百块",
+      "二十块"
+    ],
+    "answers": [
+      "一百二十块"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:b9bcbda48c1e8a59",
+    "lang": "zh-hans",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Ở chợ thấy giá đắt, muốn mặc cả. Câu nào tự nhiên?",
+    "choices": [
+      "便宜一点儿吧！",
+      "谢谢，再见。",
+      "这个菜很好吃。"
+    ],
+    "answers": [
+      "便宜一点儿吧！"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:c282e16a00087b10",
+    "lang": "zh-hans",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "小红去商店买衣服。一件衣服一百块，太贵了，她没买。\n\n小红买衣服了吗？",
+    "choices": [
+      "没买",
+      "买了"
+    ],
+    "answers": [
+      "没买"
+    ]
+  }
+]

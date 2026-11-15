@@ -1,0 +1,151 @@
+[
+  {
+    "id": "zh-hans:sentence:f58afd355a25f303",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "这件衣服多少钱？",
+    "meaningVi": "Cái áo này bao nhiêu tiền?",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:f06a0d3d954a9438",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "一百二十块。",
+    "meaningVi": "Một trăm hai mươi tệ.",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:f0e923cfa2132d92",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "太贵了！便宜一点儿吧。",
+    "meaningVi": "Đắt quá! Bớt chút đi.",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:7e8c0bfe0037b464",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我想买一个新手机。",
+    "meaningVi": "Tôi muốn mua một chiếc điện thoại mới.",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:123c129aa7b0321d",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我们去商场买东西吧。",
+    "meaningVi": "Chúng ta đi trung tâm thương mại mua đồ đi.",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:cda23746e817d03c",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "这家商店的衣服很贵。",
+    "meaningVi": "Quần áo của cửa hàng này rất đắt.",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:a09293ad8707e95d",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "这个杯子五块钱，很便宜。",
+    "meaningVi": "Cái cốc này năm tệ, rất rẻ.",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:848306df91bb9cb1",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "这本书三十元。",
+    "meaningVi": "Quyển sách này ba mươi tệ.",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:d1f7c83d929c531b",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你买什么了？",
+    "meaningVi": "Bạn đã mua gì?",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:6f9f061201dd5af6",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "太 + tính từ + 了: quá",
+    "explanationVi": "太贵了 = đắt quá. 太 (thái) đứng trước tính từ, 了 ở cuối; tiếng Việt chỉ cần \"quá\" sau tính từ. Đừng quên 了: nói *太贵 nghe cụt.",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:ef5678d6b976269f",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "这/那 + lượng từ + danh từ",
+    "explanationVi": "\"Cái áo này\" là 这件衣服: 这 đứng đầu, rồi lượng từ, rồi danh từ, ngược tiếng Việt. Áo dùng 件, sách dùng 本, đa số đồ vật khác dùng 个.",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:6d9b24e0a97ed832",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "剁手",
+    "meaningVi": "Chặt tay (vì mua sắm quá tay).",
+    "explanationVi": "Người trẻ nói 我要剁手 khi lỡ mua online quá nhiều, ý là phải dừng lại. Nói đùa với bạn bè.",
+    "register": "slang",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:657ea618e6e551ac",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "买买买",
+    "meaningVi": "Mua, mua, mua!",
+    "explanationVi": "Hô vui khi đi mua sắm thoả thích. Dùng khi nhắn tin hay đi chơi với bạn, không dùng nơi trang trọng.",
+    "register": "slang",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "shopping"
+    ]
+  }
+]

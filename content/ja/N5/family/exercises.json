@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ja:exercise:f492896160178054",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "兄が一人___。(có)",
+    "choices": [
+      "います",
+      "あります",
+      "です"
+    ],
+    "answers": [
+      "います"
+    ],
+    "explanationVi": "Người và con vật dùng います, đồ vật dùng あります."
+  },
+  {
+    "id": "ja:exercise:80bb1cc5b288cc6a",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "___はお元気ですか。(bố của bạn)",
+    "answers": [
+      "お父さん",
+      "おとうさん"
+    ],
+    "explanationVi": "Nói về bố người khác dùng お父さん, không dùng 父."
+  },
+  {
+    "id": "ja:exercise:e74b01d77a5a5780",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "私の___は医者です。(bố tôi)",
+    "answers": [
+      "父",
+      "ちち"
+    ],
+    "explanationVi": "Nói về bố mình với người ngoài dùng 父."
+  },
+  {
+    "id": "ja:exercise:9015d7d10195f47e",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "東京に / 姉は / 住んでいます",
+    "answers": [
+      "姉は東京に住んでいます。"
+    ]
+  },
+  {
+    "id": "ja:exercise:de6e6e5dea6794b9",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Gia đình tôi có bốn người.",
+    "answers": [
+      "私の家族は四人です。",
+      "わたしのかぞくはよにんです。",
+      "家族は四人です。",
+      "うちは四人家族です。"
+    ],
+    "explanationVi": "Bốn người đọc là よにん, không phải しにん."
+  },
+  {
+    "id": "ja:exercise:acc03b4e3f781717",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "兄弟はいますか。",
+    "answers": [
+      "兄弟はいますか。",
+      "きょうだいはいますか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:48458544b001e707",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "両親はベトナムに住んでいます。",
+    "answers": [
+      "両親はベトナムに住んでいます。"
+    ]
+  },
+  {
+    "id": "ja:exercise:559401ac78a90100",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "いもうと",
+    "choices": [
+      "妹",
+      "弟",
+      "姉"
+    ],
+    "answers": [
+      "妹"
+    ],
+    "explanationVi": "いもうと là em gái, おとうと là em trai."
+  },
+  {
+    "id": "ja:exercise:f6dab69ca4ed4712",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "ランさんの家族は五人です。父と母と兄と弟がいます。\n\nランさんは兄弟が何人いますか。",
+    "choices": [
+      "二人",
+      "三人",
+      "四人"
+    ],
+    "answers": [
+      "二人"
+    ],
+    "explanationVi": "Anh trai và em trai: hai người."
+  },
+  {
+    "id": "ja:exercise:2c5b627de5fd84c8",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Nói với sếp về mẹ của mình. Câu nào đúng?",
+    "choices": [
+      "母は元気です。",
+      "お母さんは元気です。",
+      "おかんは元気です。"
+    ],
+    "answers": [
+      "母は元気です。"
+    ],
+    "explanationVi": "Với người ngoài, gọi mẹ mình là 母; お母さん dùng cho mẹ người khác, おかん chỉ nói với bạn bè."
+  }
+]

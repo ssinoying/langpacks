@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ja:dialogue:54fa2ee73d386802",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Hỏi về công việc",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "先輩",
+        "text": "ミンさんは学生ですか。それとも、働いていますか。",
+        "translationVi": "Minh là sinh viên hay đi làm rồi?",
+        "options": [
+          {
+            "answers": [
+              "学生です。",
+              "大学生です。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "会社で働いています。",
+              "会社員です。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "先輩",
+        "text": "授業は大変ですか。",
+        "translationVi": "Học có vất vả không?",
+        "options": [
+          {
+            "answers": [
+              "はい、宿題が多いです。",
+              "少し大変です。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "先輩",
+        "text": "仕事は忙しいですか。",
+        "translationVi": "Công việc có bận không?",
+        "options": [
+          {
+            "answers": [
+              "はい、とても忙しいです。",
+              "あまり忙しくないです。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "先輩",
+        "text": "がんばってくださいね。",
+        "translationVi": "Cố gắng lên nhé."
+      }
+    }
+  }
+]

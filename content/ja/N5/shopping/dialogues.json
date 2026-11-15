@@ -1,0 +1,78 @@
+[
+  {
+    "id": "ja:dialogue:e4a5a43ef4ef0d4b",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Mua áo",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "店員",
+        "text": "いらっしゃいませ。",
+        "translationVi": "Xin mời quý khách.",
+        "options": [
+          {
+            "answers": [
+              "このシャツはいくらですか。",
+              "すみません、これはいくらですか。"
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "店員",
+        "text": "四千円です。",
+        "translationVi": "4000 yên ạ.",
+        "options": [
+          {
+            "answers": [
+              "じゃあ、これを買います。",
+              "これをください。"
+            ],
+            "next": "c"
+          },
+          {
+            "answers": [
+              "ちょっと高いですね。",
+              "もう少し安いのはありますか。"
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "店員",
+        "text": "ありがとうございます。",
+        "translationVi": "Cảm ơn quý khách.",
+        "options": [
+          {
+            "answers": [
+              "カードでもいいですか。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "店員",
+        "text": "こちらは二千円です。",
+        "translationVi": "Cái này 2000 yên ạ.",
+        "options": [
+          {
+            "answers": [
+              "じゃあ、それをください。",
+              "それを買います。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "店員",
+        "text": "はい、大丈夫です。",
+        "translationVi": "Vâng, được ạ."
+      }
+    }
+  }
+]

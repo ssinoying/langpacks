@@ -81,7 +81,11 @@
     "hanViet": "tại",
     "level": "HSK1",
     "frequencyRank": 5,
-    "source": "cc-cedict:在"
+    "source": "cc-cedict:在",
+    "meaningVi": "ở, tại",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:df095f80286e340e",
@@ -244,7 +248,11 @@
     "hanViet": "nhất",
     "level": "HSK1",
     "frequencyRank": 21,
-    "source": "cc-cedict:一"
+    "source": "cc-cedict:一",
+    "meaningVi": "một",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:0a25939cc30709d2",
@@ -399,7 +407,11 @@
     "hanViet": "tưởng",
     "level": "HSK1",
     "frequencyRank": 44,
-    "source": "cc-cedict:想"
+    "source": "cc-cedict:想",
+    "meaningVi": "muốn; nghĩ",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:7963913a1c30e3c9",
@@ -411,7 +423,11 @@
     "hanViet": "mốt hữu",
     "level": "HSK1",
     "frequencyRank": 46,
-    "source": "cc-cedict:没有"
+    "source": "cc-cedict:没有",
+    "meaningVi": "không có",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:75b93ec5270d54a7",
@@ -522,7 +538,11 @@
     "hanViet": "điểm",
     "level": "HSK1",
     "frequencyRank": 58,
-    "source": "cc-cedict:点"
+    "source": "cc-cedict:点",
+    "meaningVi": "giờ (đồng hồ)",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:367b85456a75186e",
@@ -629,7 +649,11 @@
     "hanViet": "hiện tại",
     "level": "HSK1",
     "frequencyRank": 77,
-    "source": "cc-cedict:现在"
+    "source": "cc-cedict:现在",
+    "meaningVi": "bây giờ",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:c49a4094c5e8e650",
@@ -677,7 +701,11 @@
     "hanViet": "lưỡng",
     "level": "HSK1",
     "frequencyRank": 81,
-    "source": "cc-cedict:两"
+    "source": "cc-cedict:两",
+    "meaningVi": "hai (trước lượng từ)",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:4f6f9a206589edd2",
@@ -737,7 +765,11 @@
     "hanViet": "thái",
     "level": "HSK1",
     "frequencyRank": 87,
-    "source": "cc-cedict:太"
+    "source": "cc-cedict:太",
+    "meaningVi": "quá",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:9a3c323aa3bff85a",
@@ -845,7 +877,11 @@
     "hanViet": "công tác",
     "level": "HSK1",
     "frequencyRank": 111,
-    "source": "cc-cedict:工作"
+    "source": "cc-cedict:工作",
+    "meaningVi": "làm việc; công việc",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:439296e720e0d7b7",
@@ -928,7 +964,11 @@
     "hanViet": "chẩn mô",
     "level": "HSK1",
     "frequencyRank": 128,
-    "source": "cc-cedict:怎么"
+    "source": "cc-cedict:怎么",
+    "meaningVi": "thế nào, sao",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:8a0a4fb6a7d509eb",
@@ -987,7 +1027,11 @@
     "hanViet": "hỉ hoan",
     "level": "HSK1",
     "frequencyRank": 139,
-    "source": "cc-cedict:喜欢"
+    "source": "cc-cedict:喜欢",
+    "meaningVi": "thích",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:e52bacf917465e6a",
@@ -999,7 +1043,11 @@
     "hanViet": "khật",
     "level": "HSK1",
     "frequencyRank": 142,
-    "source": "cc-cedict:吃"
+    "source": "cc-cedict:吃",
+    "meaningVi": "ăn",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:64928e368e1517e2",
@@ -1081,7 +1129,11 @@
     "hanViet": "kim thiên",
     "level": "HSK1",
     "frequencyRank": 155,
-    "source": "cc-cedict:今天"
+    "source": "cc-cedict:今天",
+    "meaningVi": "hôm nay",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:483d1d80457bbc8a",
@@ -1129,7 +1181,11 @@
     "hanViet": "nguyệt",
     "level": "HSK1",
     "frequencyRank": 161,
-    "source": "cc-cedict:月"
+    "source": "cc-cedict:月",
+    "meaningVi": "tháng",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:a1a1d207f8196b5a",
@@ -1165,7 +1221,11 @@
     "hanViet": "nhất khởi",
     "level": "HSK1",
     "frequencyRank": 172,
-    "source": "cc-cedict:一起"
+    "source": "cc-cedict:一起",
+    "meaningVi": "cùng nhau",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:f9f6d9865cde7aef",
@@ -1284,7 +1344,11 @@
     "hanViet": "phi thường",
     "level": "HSK1",
     "frequencyRank": 194,
-    "source": "cc-cedict:非常"
+    "source": "cc-cedict:非常",
+    "meaningVi": "vô cùng, rất",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:44aceb57d589a07f",
@@ -1372,7 +1436,11 @@
     "hanViet": "tiền",
     "level": "HSK1",
     "frequencyRank": 218,
-    "source": "cc-cedict:钱"
+    "source": "cc-cedict:钱",
+    "meaningVi": "tiền",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:de8a2efea08c6675",
@@ -1420,7 +1488,11 @@
     "hanViet": "tam",
     "level": "HSK1",
     "frequencyRank": 233,
-    "source": "cc-cedict:三"
+    "source": "cc-cedict:三",
+    "meaningVi": "ba",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:34ba64aab1f4f516",
@@ -1444,7 +1516,11 @@
     "hanViet": "mãi",
     "level": "HSK1",
     "frequencyRank": 240,
-    "source": "cc-cedict:买"
+    "source": "cc-cedict:买",
+    "meaningVi": "mua",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:b21bb15bf9b22a47",
@@ -1571,7 +1647,11 @@
     "hanViet": "trú",
     "level": "HSK1",
     "frequencyRank": 280,
-    "source": "cc-cedict:住"
+    "source": "cc-cedict:住",
+    "meaningVi": "ở, sống",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:02c5ef572b0c03a8",
@@ -1691,7 +1771,11 @@
     "hanViet": "thuỷ",
     "level": "HSK1",
     "frequencyRank": 335,
-    "source": "cc-cedict:水"
+    "source": "cc-cedict:水",
+    "meaningVi": "nước",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:32be553629470ba2",
@@ -1937,7 +2021,11 @@
     "hanViet": "hát",
     "level": "HSK1",
     "frequencyRank": 428,
-    "source": "cc-cedict:喝"
+    "source": "cc-cedict:喝",
+    "meaningVi": "uống",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:d2ebf357c7b91fac",
@@ -1949,7 +2037,11 @@
     "hanViet": "học chò",
     "level": "HSK1",
     "frequencyRank": 430,
-    "source": "cc-cedict:学校"
+    "source": "cc-cedict:学校",
+    "meaningVi": "trường học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:73ed6ae0c46fa7a5",
@@ -1972,7 +2064,11 @@
     "partOfSpeech": "verb",
     "level": "HSK1",
     "frequencyRank": 435,
-    "source": "cc-cedict:坐"
+    "source": "cc-cedict:坐",
+    "meaningVi": "ngồi; đi (xe, tàu…)",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:0ebe7b80feae1ceb",
@@ -2067,7 +2163,11 @@
     "hanViet": "minh thiên",
     "level": "HSK1",
     "frequencyRank": 469,
-    "source": "cc-cedict:明天"
+    "source": "cc-cedict:明天",
+    "meaningVi": "ngày mai",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:36cab76dc8932060",
@@ -2091,7 +2191,11 @@
     "hanViet": "tứ",
     "level": "HSK1",
     "frequencyRank": 481,
-    "source": "cc-cedict:四"
+    "source": "cc-cedict:四",
+    "meaningVi": "bốn",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:3074d78ba4c75ad3",
@@ -2103,7 +2207,11 @@
     "hanViet": "khối",
     "level": "HSK1",
     "frequencyRank": 483,
-    "source": "cc-cedict:块"
+    "source": "cc-cedict:块",
+    "meaningVi": "đồng, tệ (khẩu ngữ)",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:05c2c5332302c096",
@@ -2125,7 +2233,11 @@
     "hanViet": "vãn thượng",
     "level": "HSK1",
     "frequencyRank": 502,
-    "source": "cc-cedict:晚上"
+    "source": "cc-cedict:晚上",
+    "meaningVi": "buổi tối",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:e179ba72185a8686",
@@ -2189,7 +2301,11 @@
     "hanViet": "đa thiểu",
     "level": "HSK1",
     "frequencyRank": 526,
-    "source": "cc-cedict:多少"
+    "source": "cc-cedict:多少",
+    "meaningVi": "bao nhiêu",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:e4449f5f09a00776",
@@ -2201,7 +2317,11 @@
     "hanViet": "má má",
     "level": "HSK1",
     "frequencyRank": 527,
-    "source": "cc-cedict:妈妈"
+    "source": "cc-cedict:妈妈",
+    "meaningVi": "mẹ",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:1704753c9ef8985b",
@@ -2272,7 +2392,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 546,
-    "source": "cc-cedict:电影"
+    "source": "cc-cedict:电影",
+    "meaningVi": "phim",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:d240056ebb7f6915",
@@ -2329,7 +2453,11 @@
     "reading": "zuó tiān",
     "level": "HSK1",
     "frequencyRank": 557,
-    "source": "cc-cedict:昨天"
+    "source": "cc-cedict:昨天",
+    "meaningVi": "hôm qua",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:676fe651c51a0870",
@@ -2365,7 +2493,11 @@
     "hanViet": "ngũ",
     "level": "HSK1",
     "frequencyRank": 563,
-    "source": "cc-cedict:五"
+    "source": "cc-cedict:五",
+    "meaningVi": "năm",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:b7eccc46d32d957c",
@@ -2460,7 +2592,11 @@
     "hanViet": "viễn",
     "level": "HSK1",
     "frequencyRank": 635,
-    "source": "cc-cedict:远"
+    "source": "cc-cedict:远",
+    "meaningVi": "xa",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:f0436c0b4162fd02",
@@ -2484,7 +2620,11 @@
     "hanViet": "học sinh",
     "level": "HSK1",
     "frequencyRank": 651,
-    "source": "cc-cedict:学生"
+    "source": "cc-cedict:学生",
+    "meaningVi": "học sinh, sinh viên",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:31ce5df30af18685",
@@ -2496,7 +2636,11 @@
     "hanViet": "nhì",
     "level": "HSK1",
     "frequencyRank": 664,
-    "source": "cc-cedict:二"
+    "source": "cc-cedict:二",
+    "meaningVi": "hai",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:698751100c0f7eeb",
@@ -2507,7 +2651,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 665,
-    "source": "cc-cedict:儿子"
+    "source": "cc-cedict:儿子",
+    "meaningVi": "con trai",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:66e2e4fc9229e788",
@@ -2531,7 +2679,11 @@
     "hanViet": "bôi",
     "level": "HSK1",
     "frequencyRank": 684,
-    "source": "cc-cedict:杯"
+    "source": "cc-cedict:杯",
+    "meaningVi": "cốc, ly (lượng từ)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:b8e687c139f22063",
@@ -2567,7 +2719,11 @@
     "hanViet": "bán",
     "level": "HSK1",
     "frequencyRank": 727,
-    "source": "cc-cedict:半"
+    "source": "cc-cedict:半",
+    "meaningVi": "rưỡi, một nửa",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:c9fbdfc40ce1b843",
@@ -2603,7 +2759,11 @@
     "hanViet": "nguyên",
     "level": "HSK1",
     "frequencyRank": 744,
-    "source": "cc-cedict:元"
+    "source": "cc-cedict:元",
+    "meaningVi": "nhân dân tệ",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:ea5aa520f018728f",
@@ -2674,7 +2834,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 779,
-    "source": "cc-cedict:电视"
+    "source": "cc-cedict:电视",
+    "meaningVi": "tivi",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:1fc825503227d4e2",
@@ -2721,7 +2885,11 @@
     "hanViet": "học tập",
     "level": "HSK1",
     "frequencyRank": 789,
-    "source": "cc-cedict:学习"
+    "source": "cc-cedict:学习",
+    "meaningVi": "học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:bc4c2562dc146fcc",
@@ -2733,7 +2901,11 @@
     "hanViet": "lão sư",
     "level": "HSK1",
     "frequencyRank": 799,
-    "source": "cc-cedict:老师"
+    "source": "cc-cedict:老师",
+    "meaningVi": "giáo viên",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:524a12a2e1fce9bd",
@@ -2745,7 +2917,11 @@
     "hanViet": "lục",
     "level": "HSK1",
     "frequencyRank": 802,
-    "source": "cc-cedict:六"
+    "source": "cc-cedict:六",
+    "meaningVi": "sáu",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:9bb28dbc17c4b847",
@@ -2781,7 +2957,11 @@
     "hanViet": "y sinh",
     "level": "HSK1",
     "frequencyRank": 827,
-    "source": "cc-cedict:医生"
+    "source": "cc-cedict:医生",
+    "meaningVi": "bác sĩ",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:1ee1411559840531",
@@ -2844,7 +3024,11 @@
     "hanViet": "kim nên",
     "level": "HSK1",
     "frequencyRank": 851,
-    "source": "cc-cedict:今年"
+    "source": "cc-cedict:今年",
+    "meaningVi": "năm nay",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:e2a060d0899820d0",
@@ -2856,7 +3040,11 @@
     "hanViet": "thủ cơ",
     "level": "HSK1",
     "frequencyRank": 857,
-    "source": "cc-cedict:手机"
+    "source": "cc-cedict:手机",
+    "meaningVi": "điện thoại di động",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:bb1af6446181acf4",
@@ -2868,7 +3056,11 @@
     "hanViet": "mang",
     "level": "HSK1",
     "frequencyRank": 859,
-    "source": "cc-cedict:忙"
+    "source": "cc-cedict:忙",
+    "meaningVi": "bận",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:e81b520ff8b4c7b0",
@@ -2880,7 +3072,11 @@
     "hanViet": "thập",
     "level": "HSK1",
     "frequencyRank": 865,
-    "source": "cc-cedict:十"
+    "source": "cc-cedict:十",
+    "meaningVi": "mười",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:6f3b25cd1f3e078a",
@@ -2915,7 +3111,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 879,
-    "source": "cc-cedict:女儿"
+    "source": "cc-cedict:女儿",
+    "meaningVi": "con gái",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:e5fdf127a0e18bc8",
@@ -2949,7 +3149,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 908,
-    "source": "cc-cedict:爸爸"
+    "source": "cc-cedict:爸爸",
+    "meaningVi": "bố",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:796c9cfb446b5450",
@@ -3012,7 +3216,11 @@
     "hanViet": "nhiệt",
     "level": "HSK1",
     "frequencyRank": 938,
-    "source": "cc-cedict:热"
+    "source": "cc-cedict:热",
+    "meaningVi": "nóng",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:3351ecbbba0fe0d0",
@@ -3058,7 +3266,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 946,
-    "source": "cc-cedict:电脑"
+    "source": "cc-cedict:电脑",
+    "meaningVi": "máy tính",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:662f50d10c8834a5",
@@ -3093,7 +3305,11 @@
     "hanViet": "sàng",
     "level": "HSK1",
     "frequencyRank": 961,
-    "source": "cc-cedict:床"
+    "source": "cc-cedict:床",
+    "meaningVi": "cái giường",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:3ce11902fdcdf2a6",
@@ -3141,7 +3357,11 @@
     "hanViet": "gia lịa",
     "level": "HSK1",
     "frequencyRank": 973,
-    "source": "cc-cedict:家里"
+    "source": "cc-cedict:家里",
+    "meaningVi": "trong nhà",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:f1140182daa84527",
@@ -3213,7 +3433,11 @@
     "hanViet": "lạnh",
     "level": "HSK1",
     "frequencyRank": 1027,
-    "source": "cc-cedict:冷"
+    "source": "cc-cedict:冷",
+    "meaningVi": "lạnh",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:5fe8994080f476f7",
@@ -3225,7 +3449,11 @@
     "hanViet": "phòng tí",
     "level": "HSK1",
     "frequencyRank": 1027,
-    "source": "cc-cedict:房子"
+    "source": "cc-cedict:房子",
+    "meaningVi": "ngôi nhà",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:f97d2d88b2099ef9",
@@ -3272,7 +3500,11 @@
     "hanViet": "phi cơ",
     "level": "HSK1",
     "frequencyRank": 1067,
-    "source": "cc-cedict:飞机"
+    "source": "cc-cedict:飞机",
+    "meaningVi": "máy bay",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:b5c108d374444766",
@@ -3283,7 +3515,11 @@
     "hanViet": "tảo thượng",
     "level": "HSK1",
     "frequencyRank": 1092,
-    "source": "cc-cedict:早上"
+    "source": "cc-cedict:早上",
+    "meaningVi": "buổi sáng",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:da0dcc4f2bf16337",
@@ -3354,7 +3590,11 @@
     "hanViet": "phong",
     "level": "HSK1",
     "frequencyRank": 1150,
-    "source": "cc-cedict:风"
+    "source": "cc-cedict:风",
+    "meaningVi": "gió",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:b088409ee8a8f574",
@@ -3532,7 +3772,11 @@
     "hanViet": "phòng gian",
     "level": "HSK1",
     "frequencyRank": 1357,
-    "source": "cc-cedict:房间"
+    "source": "cc-cedict:房间",
+    "meaningVi": "phòng",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:08ae5357c9befdc0",
@@ -3544,7 +3788,11 @@
     "hanViet": "bát",
     "level": "HSK1",
     "frequencyRank": 1362,
-    "source": "cc-cedict:八"
+    "source": "cc-cedict:八",
+    "meaningVi": "tám",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:5839cad7fdf23e4d",
@@ -3591,7 +3839,11 @@
     "hanViet": "thất",
     "level": "HSK1",
     "frequencyRank": 1419,
-    "source": "cc-cedict:七"
+    "source": "cc-cedict:七",
+    "meaningVi": "bảy",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:b7fa4e82468935d9",
@@ -3602,7 +3854,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 1448,
-    "source": "cc-cedict:菜"
+    "source": "cc-cedict:菜",
+    "meaningVi": "món ăn; rau",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:1e20ed07c771c989",
@@ -3614,7 +3870,11 @@
     "hanViet": "y phục",
     "level": "HSK1",
     "frequencyRank": 1472,
-    "source": "cc-cedict:衣服"
+    "source": "cc-cedict:衣服",
+    "meaningVi": "quần áo",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:fa035aed5e3411a3",
@@ -3625,7 +3885,11 @@
     "partOfSpeech": "verb",
     "level": "HSK1",
     "frequencyRank": 1477,
-    "source": "cc-cedict:饿"
+    "source": "cc-cedict:饿",
+    "meaningVi": "đói",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:2ae71b9e60763f2f",
@@ -3661,7 +3925,11 @@
     "hanViet": "thượng ban",
     "level": "HSK1",
     "frequencyRank": 1495,
-    "source": "cc-cedict:上班"
+    "source": "cc-cedict:上班",
+    "meaningVi": "đi làm",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:20c606de14cf9860",
@@ -3673,7 +3941,11 @@
     "hanViet": "sinh nhật",
     "level": "HSK1",
     "frequencyRank": 1506,
-    "source": "cc-cedict:生日"
+    "source": "cc-cedict:生日",
+    "meaningVi": "sinh nhật",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:cee97b109b1285f2",
@@ -3696,7 +3968,11 @@
     "hanViet": "thư thư",
     "level": "HSK1",
     "frequencyRank": 1513,
-    "source": "cc-cedict:姐姐"
+    "source": "cc-cedict:姐姐",
+    "meaningVi": "chị gái",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:61bdb315ecff8f5e",
@@ -3755,7 +4031,11 @@
     "hanViet": "gia nhân",
     "level": "HSK1",
     "frequencyRank": 1562,
-    "source": "cc-cedict:家人"
+    "source": "cc-cedict:家人",
+    "meaningVi": "người nhà, gia đình",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:02f3a19bb6ffec37",
@@ -3815,7 +4095,11 @@
     "hanViet": "ca ca",
     "level": "HSK1",
     "frequencyRank": 1655,
-    "source": "cc-cedict:哥哥"
+    "source": "cc-cedict:哥哥",
+    "meaningVi": "anh trai",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:2866afc080fffe6d",
@@ -3850,7 +4134,11 @@
     "hanViet": "thiên khí",
     "level": "HSK1",
     "frequencyRank": 1675,
-    "source": "cc-cedict:天气"
+    "source": "cc-cedict:天气",
+    "meaningVi": "thời tiết",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:23f85bbbb9b65f3c",
@@ -3885,7 +4173,11 @@
     "hanViet": "khảo thí",
     "level": "HSK1",
     "frequencyRank": 1718,
-    "source": "cc-cedict:考试"
+    "source": "cc-cedict:考试",
+    "meaningVi": "thi, bài kiểm tra",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:7d58d91bd2b4ed94",
@@ -3920,7 +4212,11 @@
     "hanViet": "bàng biên",
     "level": "HSK1",
     "frequencyRank": 1815,
-    "source": "cc-cedict:旁边"
+    "source": "cc-cedict:旁边",
+    "meaningVi": "bên cạnh",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:4fa9cd0c3bbde5d4",
@@ -3932,7 +4228,11 @@
     "hanViet": "đồng học",
     "level": "HSK1",
     "frequencyRank": 1828,
-    "source": "cc-cedict:同学"
+    "source": "cc-cedict:同学",
+    "meaningVi": "bạn học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:e137aed858173fb6",
@@ -4024,7 +4324,11 @@
     "hanViet": "trà",
     "level": "HSK1",
     "frequencyRank": 1910,
-    "source": "cc-cedict:茶"
+    "source": "cc-cedict:茶",
+    "meaningVi": "trà",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:447762bae373c1b2",
@@ -4048,7 +4352,11 @@
     "hanViet": "vũ",
     "level": "HSK1",
     "frequencyRank": 1929,
-    "source": "cc-cedict:雨"
+    "source": "cc-cedict:雨",
+    "meaningVi": "mưa",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:ee688650e5f6cbef",
@@ -4060,7 +4368,11 @@
     "hanViet": "tinh kì",
     "level": "HSK1",
     "frequencyRank": 1956,
-    "source": "cc-cedict:星期"
+    "source": "cc-cedict:星期",
+    "meaningVi": "tuần, thứ",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:4dc2e9cd36dc8444",
@@ -4095,7 +4407,11 @@
     "hanViet": "cửu",
     "level": "HSK1",
     "frequencyRank": 2040,
-    "source": "cc-cedict:九"
+    "source": "cc-cedict:九",
+    "meaningVi": "chín",
+    "topics": [
+      "numbers"
+    ]
   },
   {
     "id": "zh-hans:word:cc0a0eb71872e422",
@@ -4107,7 +4423,11 @@
     "hanViet": "muội muội",
     "level": "HSK1",
     "frequencyRank": 2093,
-    "source": "cc-cedict:妹妹"
+    "source": "cc-cedict:妹妹",
+    "meaningVi": "em gái",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:fdd79895d88cd985",
@@ -4163,7 +4483,11 @@
     "hanViet": "quý",
     "level": "HSK1",
     "frequencyRank": 2239,
-    "source": "cc-cedict:贵"
+    "source": "cc-cedict:贵",
+    "meaningVi": "đắt",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:32f3f406cc2dc82a",
@@ -4209,7 +4533,11 @@
     "hanViet": "cơ trường",
     "level": "HSK1",
     "frequencyRank": 2308,
-    "source": "cc-cedict:机场"
+    "source": "cc-cedict:机场",
+    "meaningVi": "sân bay",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:26d9f9af384cf08f",
@@ -4280,7 +4608,11 @@
     "hanViet": "đệ đệ",
     "level": "HSK1",
     "frequencyRank": 2424,
-    "source": "cc-cedict:弟弟"
+    "source": "cc-cedict:弟弟",
+    "meaningVi": "em trai",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:e493bd3545d4f6be",
@@ -4338,7 +4670,11 @@
     "hanViet": "háo khật",
     "level": "HSK1",
     "frequencyRank": 2484,
-    "source": "cc-cedict:好吃"
+    "source": "cc-cedict:好吃",
+    "meaningVi": "ngon",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:3310904d7355d199",
@@ -4434,7 +4770,11 @@
     "hanViet": "khởi sàng",
     "level": "HSK1",
     "frequencyRank": 2645,
-    "source": "cc-cedict:起床"
+    "source": "cc-cedict:起床",
+    "meaningVi": "thức dậy",
+    "topics": [
+      "time"
+    ]
   },
   {
     "id": "zh-hans:word:2bc3f02738c9e2dc",
@@ -4505,7 +4845,11 @@
     "hanViet": "thường thường",
     "level": "HSK1",
     "frequencyRank": 2773,
-    "source": "cc-cedict:常常"
+    "source": "cc-cedict:常常",
+    "meaningVi": "thường thường",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:416c2ad0c99cb838",
@@ -4541,7 +4885,11 @@
     "hanViet": "hoả xa",
     "level": "HSK1",
     "frequencyRank": 2791,
-    "source": "cc-cedict:火车"
+    "source": "cc-cedict:火车",
+    "meaningVi": "tàu hỏa",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:9a8df5d1b0b53d47",
@@ -4553,7 +4901,11 @@
     "hanViet": "nái nái",
     "level": "HSK1",
     "frequencyRank": 2809,
-    "source": "cc-cedict:奶奶"
+    "source": "cc-cedict:奶奶",
+    "meaningVi": "bà nội",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:4296e69aeccf84d7",
@@ -4576,7 +4928,11 @@
     "hanViet": "xướng ca",
     "level": "HSK1",
     "frequencyRank": 2876,
-    "source": "cc-cedict:唱歌"
+    "source": "cc-cedict:唱歌",
+    "meaningVi": "hát",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:dbfa20d7b30c870d",
@@ -4587,7 +4943,11 @@
     "hanViet": "hữu biên",
     "level": "HSK1",
     "frequencyRank": 2906,
-    "source": "cc-cedict:右边"
+    "source": "cc-cedict:右边",
+    "meaningVi": "bên phải",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:b62423b828f62a21",
@@ -4611,7 +4971,11 @@
     "hanViet": "ngưu nái",
     "level": "HSK1",
     "frequencyRank": 2986,
-    "source": "cc-cedict:牛奶"
+    "source": "cc-cedict:牛奶",
+    "meaningVi": "sữa (bò)",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:4654b5a28de84eb5",
@@ -4635,7 +4999,11 @@
     "hanViet": "thượng khoá",
     "level": "HSK1",
     "frequencyRank": 3042,
-    "source": "cc-cedict:上课"
+    "source": "cc-cedict:上课",
+    "meaningVi": "lên lớp, vào học",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:5a8193b7924b4d29",
@@ -4646,7 +5014,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 3099,
-    "source": "cc-cedict:爷爷"
+    "source": "cc-cedict:爷爷",
+    "meaningVi": "ông nội",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "zh-hans:word:e7d2a438171a8954",
@@ -4705,7 +5077,11 @@
     "hanViet": "thuỷ quả",
     "level": "HSK1",
     "frequencyRank": 3271,
-    "source": "cc-cedict:水果"
+    "source": "cc-cedict:水果",
+    "meaningVi": "hoa quả",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:195308487941328d",
@@ -4717,7 +5093,11 @@
     "hanViet": "độc thư",
     "level": "HSK1",
     "frequencyRank": 3285,
-    "source": "cc-cedict:读书"
+    "source": "cc-cedict:读书",
+    "meaningVi": "đọc sách; đi học",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:8c4205149350b708",
@@ -4740,7 +5120,11 @@
     "hanViet": "thương điếm",
     "level": "HSK1",
     "frequencyRank": 3479,
-    "source": "cc-cedict:商店"
+    "source": "cc-cedict:商店",
+    "meaningVi": "cửa hàng",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:00f99f1066b641e7",
@@ -4821,7 +5205,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 3639,
-    "source": "cc-cedict:桌子"
+    "source": "cc-cedict:桌子",
+    "meaningVi": "cái bàn",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:2f9e493390a1818e",
@@ -4843,7 +5231,11 @@
     "partOfSpeech": "verb",
     "level": "HSK1",
     "frequencyRank": 3689,
-    "source": "cc-cedict:请问"
+    "source": "cc-cedict:请问",
+    "meaningVi": "xin hỏi",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:99513a7aeee5add2",
@@ -4959,7 +5351,11 @@
     "hanViet": "thượng võng",
     "level": "HSK1",
     "frequencyRank": 4061,
-    "source": "cc-cedict:上网"
+    "source": "cc-cedict:上网",
+    "meaningVi": "lên mạng",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:3d34a9b406fdf51d",
@@ -4971,7 +5367,11 @@
     "hanViet": "thương trường",
     "level": "HSK1",
     "frequencyRank": 4093,
-    "source": "cc-cedict:商场"
+    "source": "cc-cedict:商场",
+    "meaningVi": "trung tâm thương mại",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:7a9cbc9a3be54aba",
@@ -5029,7 +5429,11 @@
     "hanViet": "háo thính",
     "level": "HSK1",
     "frequencyRank": 4355,
-    "source": "cc-cedict:好听"
+    "source": "cc-cedict:好听",
+    "meaningVi": "hay (nghe)",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:78ebadbd752e0a62",
@@ -5077,7 +5481,11 @@
     "hanViet": "xa trạm",
     "level": "HSK1",
     "frequencyRank": 4480,
-    "source": "cc-cedict:车站"
+    "source": "cc-cedict:车站",
+    "meaningVi": "bến xe, nhà ga",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:762019db0c52a83a",
@@ -5112,7 +5520,11 @@
     "hanViet": "tả biên",
     "level": "HSK1",
     "frequencyRank": 4584,
-    "source": "cc-cedict:左边"
+    "source": "cc-cedict:左边",
+    "meaningVi": "bên trái",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:9855a327fd98b725",
@@ -5147,7 +5559,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 4902,
-    "source": "cc-cedict:爱好"
+    "source": "cc-cedict:爱好",
+    "meaningVi": "sở thích",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:21833a18fe6168f2",
@@ -5229,7 +5645,11 @@
     "hanViet": "lầu thượng",
     "level": "HSK1",
     "frequencyRank": 5267,
-    "source": "cc-cedict:楼上"
+    "source": "cc-cedict:楼上",
+    "meaningVi": "tầng trên",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:e48163acf880fe80",
@@ -5241,7 +5661,11 @@
     "hanViet": "đả cầu",
     "level": "HSK1",
     "frequencyRank": 5476,
-    "source": "cc-cedict:打球"
+    "source": "cc-cedict:打球",
+    "meaningVi": "chơi bóng",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:437ec1ed7ab0933e",
@@ -5253,7 +5677,11 @@
     "hanViet": "hạ vũ",
     "level": "HSK1",
     "frequencyRank": 5648,
-    "source": "cc-cedict:下雨"
+    "source": "cc-cedict:下雨",
+    "meaningVi": "mưa (trời mưa)",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:ba821eef9dbd9060",
@@ -5277,7 +5705,11 @@
     "hanViet": "bôi tí",
     "level": "HSK1",
     "frequencyRank": 6162,
-    "source": "cc-cedict:杯子"
+    "source": "cc-cedict:杯子",
+    "meaningVi": "cái cốc",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:f7e6e9ca7b9d87bc",
@@ -5300,7 +5732,11 @@
     "hanViet": "lộ khẩu",
     "level": "HSK1",
     "frequencyRank": 6184,
-    "source": "cc-cedict:路口"
+    "source": "cc-cedict:路口",
+    "meaningVi": "ngã tư, giao lộ",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:5152a7fa9800cd59",
@@ -5368,7 +5804,11 @@
     "reading": "yī diǎn r",
     "level": "HSK1",
     "frequencyRank": 6921,
-    "source": "cc-cedict:一点儿"
+    "source": "cc-cedict:一点儿",
+    "meaningVi": "một chút",
+    "topics": [
+      "shopping"
+    ]
   },
   {
     "id": "zh-hans:word:24ee1c057bf85b5d",
@@ -5415,7 +5855,11 @@
     "partOfSpeech": "verb",
     "level": "HSK1",
     "frequencyRank": 7297,
-    "source": "cc-cedict:玩儿"
+    "source": "cc-cedict:玩儿",
+    "meaningVi": "chơi",
+    "topics": [
+      "hobbies"
+    ]
   },
   {
     "id": "zh-hans:word:eee37395415c7b2e",
@@ -5508,7 +5952,11 @@
     "hanViet": "khát",
     "level": "HSK1",
     "frequencyRank": 9442,
-    "source": "cc-cedict:渴"
+    "source": "cc-cedict:渴",
+    "meaningVi": "khát",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:7d0bc31a9d09a364",
@@ -5520,7 +5968,11 @@
     "hanViet": "tẩy thủ gian",
     "level": "HSK1",
     "frequencyRank": 9674,
-    "source": "cc-cedict:洗手间"
+    "source": "cc-cedict:洗手间",
+    "meaningVi": "nhà vệ sinh",
+    "topics": [
+      "home"
+    ]
   },
   {
     "id": "zh-hans:word:b19e2188e6ce5f60",
@@ -5554,7 +6006,11 @@
     "partOfSpeech": "noun",
     "level": "HSK1",
     "frequencyRank": 10194,
-    "source": "cc-cedict:米饭"
+    "source": "cc-cedict:米饭",
+    "meaningVi": "cơm",
+    "topics": [
+      "food"
+    ]
   },
   {
     "id": "zh-hans:word:50eae8518c8867a4",
@@ -5634,7 +6090,11 @@
     "hanViet": "ngoại biên",
     "level": "HSK1",
     "frequencyRank": 12319,
-    "source": "cc-cedict:外边"
+    "source": "cc-cedict:外边",
+    "meaningVi": "bên ngoài",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:cd57be2d7bbf0591",
@@ -5693,7 +6153,11 @@
     "hanViet": "hán ngữ",
     "level": "HSK1",
     "frequencyRank": 13422,
-    "source": "cc-cedict:汉语"
+    "source": "cc-cedict:汉语",
+    "meaningVi": "tiếng Hán, tiếng Trung",
+    "topics": [
+      "school-work"
+    ]
   },
   {
     "id": "zh-hans:word:cc8bced78c21bae6",
@@ -5740,7 +6204,11 @@
     "hanViet": "đả xa",
     "level": "HSK1",
     "frequencyRank": 15698,
-    "source": "cc-cedict:打车"
+    "source": "cc-cedict:打车",
+    "meaningVi": "bắt taxi",
+    "topics": [
+      "transport"
+    ]
   },
   {
     "id": "zh-hans:word:8c640ee5e69aa940",
@@ -11617,7 +12085,11 @@
     "reading": "xià tiān",
     "level": "HSK2",
     "frequencyRank": 2925,
-    "source": "cc-cedict:夏天"
+    "source": "cc-cedict:夏天",
+    "meaningVi": "mùa hè",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:47c4d9533c3ce3f9",
@@ -11920,7 +12392,11 @@
     "hanViet": "đông thiên",
     "level": "HSK2",
     "frequencyRank": 3291,
-    "source": "cc-cedict:冬天"
+    "source": "cc-cedict:冬天",
+    "meaningVi": "mùa đông",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:815099a41d53ee03",
@@ -12601,7 +13077,11 @@
     "reading": "chūn tiān",
     "level": "HSK2",
     "frequencyRank": 4411,
-    "source": "cc-cedict:春天"
+    "source": "cc-cedict:春天",
+    "meaningVi": "mùa xuân",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:86e9efa196c5f698",
@@ -13399,7 +13879,11 @@
     "hanViet": "thu thiên",
     "level": "HSK2",
     "frequencyRank": 7055,
-    "source": "cc-cedict:秋天"
+    "source": "cc-cedict:秋天",
+    "meaningVi": "mùa thu",
+    "topics": [
+      "weather"
+    ]
   },
   {
     "id": "zh-hans:word:e5d6bde6f9802c95",

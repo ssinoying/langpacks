@@ -1,0 +1,132 @@
+[
+  {
+    "id": "zh-hans:exercise:6796d5a36162378f",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我___飞机去北京。(đi bằng)",
+    "answers": [
+      "坐"
+    ],
+    "explanationVi": "Đi phương tiện dùng 坐."
+  },
+  {
+    "id": "zh-hans:exercise:1e519d08764d75ae",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "请问，车站___走？(thế nào)",
+    "answers": [
+      "怎么"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:cd601d7edf6f7af7",
+    "lang": "zh-hans",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "去 / 我 / 北京 / 坐飞机",
+    "answers": [
+      "我坐飞机去北京。"
+    ],
+    "explanationVi": "Phương tiện đứng trước 去."
+  },
+  {
+    "id": "zh-hans:exercise:4128cde4ddcd6490",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Sân bay có xa không?",
+    "answers": [
+      "机场远吗？",
+      "机场远不远？"
+    ],
+    "explanationVi": "机场 (cơ trường) = sân bay."
+  },
+  {
+    "id": "zh-hans:exercise:090bde390ef66df1",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Bạn đến trường bằng gì?",
+    "answers": [
+      "你怎么去学校？"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:8015c3b0cf9a4f87",
+    "lang": "zh-hans",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "车站在路口左边。",
+    "answers": [
+      "车站在路口左边。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:69ce17f0a3e72528",
+    "lang": "zh-hans",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "请问，车站怎么走？",
+    "answers": [
+      "请问，车站怎么走？"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:6ff4df55727558dc",
+    "lang": "zh-hans",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "右边",
+    "choices": [
+      "右边",
+      "左边",
+      "旁边"
+    ],
+    "answers": [
+      "右边"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:6f55b0bf25443822",
+    "lang": "zh-hans",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Lạc đường, muốn hỏi một người lạ. Câu mở đầu nào lịch sự?",
+    "choices": [
+      "请问，车站怎么走？",
+      "喂，车站呢？",
+      "我是路痴。"
+    ],
+    "answers": [
+      "请问，车站怎么走？"
+    ],
+    "explanationVi": "请问 mở đầu câu hỏi lịch sự."
+  },
+  {
+    "id": "zh-hans:exercise:7428e324bf9dc1c8",
+    "lang": "zh-hans",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "小王家离机场很远。他打车去机场，要一个小时。\n\n小王怎么去机场？",
+    "choices": [
+      "打车",
+      "坐火车",
+      "走路"
+    ],
+    "answers": [
+      "打车"
+    ]
+  }
+]

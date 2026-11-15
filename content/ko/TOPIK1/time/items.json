@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ko:sentence:54cd4dc661765a10",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "지금 몇 시예요?",
+    "meaningVi": "Bây giờ là mấy giờ?",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:sentence:9196c9844c1505a3",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "오후 세 시 반이에요.",
+    "meaningVi": "Ba giờ rưỡi chiều.",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:sentence:fe383f4d350b12b9",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "오늘은 무슨 요일이에요?",
+    "meaningVi": "Hôm nay là thứ mấy?",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:sentence:dee4aeaf67ed6c3c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "오늘이 며칠이에요?",
+    "meaningVi": "Hôm nay là ngày bao nhiêu?",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:sentence:a582fc40c248e63a",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "내일은 금요일이에요.",
+    "meaningVi": "Mai là thứ sáu.",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:sentence:5d9ae064a0204cff",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "어제 저녁에 친구를 만났어요.",
+    "meaningVi": "Tối qua tôi gặp bạn.",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:sentence:b86e42578af737eb",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저는 아침 일곱 시에 일어나요.",
+    "meaningVi": "Tôi dậy lúc bảy giờ sáng.",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:sentence:b8ab0f3b3bcafbf5",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "월요일부터 금요일까지 일해요.",
+    "meaningVi": "Tôi làm việc từ thứ hai đến thứ sáu.",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:sentence:a2cbe1a69939744b",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "주말에 시간 있어요?",
+    "meaningVi": "Cuối tuần bạn có rảnh không?",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:sentence:870e93077ab78e84",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "제 생일은 오월 십일이에요.",
+    "meaningVi": "Sinh nhật tôi là ngày mười tháng năm.",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:grammar:e5711e33cf6d4990",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "Giờ dùng số thuần Hàn, phút và ngày tháng dùng số Hán Hàn",
+    "explanationVi": "Giờ: 한 시, 두 시, 세 시 (thuần Hàn). Phút, ngày, tháng: 십 분, 오월 십일 (Hán Hàn, như Hán Việt: 오월 = ngũ nguyệt, tháng năm). 반 = rưỡi. Người Việt hay nói nhầm *삼 시.",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:grammar:36ba5648aadcf2e8",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "Trợ từ thời gian 에, 부터 ... 까지",
+    "explanationVi": "에 sau mốc thời gian = \"lúc, vào\": 일곱 시에, 주말에. 오늘, 내일, 어제 không thêm 에. 부터 ... 까지 = từ ... đến ...; trợ từ đứng sau danh từ, ngược với tiếng Việt.",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:slang:2fb5df90ec65adf1",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "불금",
+    "meaningVi": "Thứ sáu rực lửa (불타는 금요일).",
+    "explanationVi": "Tối thứ sáu đi chơi xả hơi sau tuần làm việc. Dùng với bạn bè, đồng nghiệp trẻ.",
+    "register": "slang",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko:slang:4ddb3375d614adea",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "월요병",
+    "meaningVi": "Bệnh thứ hai (uể oải đầu tuần).",
+    "explanationVi": "Từ rất phổ biến, nói được cả với đồng nghiệp.",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "time"
+    ]
+  }
+]

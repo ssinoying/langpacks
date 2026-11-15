@@ -1,0 +1,26 @@
+{
+  "id": "ko-TOPIK1-weather",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "weather",
+  "title": "Thời tiết và mùa",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:c13a6a343974984c",
+    "ko:word:d078b63abb93a48f",
+    "ko:word:1e3333ad279ba27f",
+    "ko:word:0d0e6f42df26b076",
+    "ko:word:7f93be05ab3a88b1",
+    "ko:word:7759c7d079da78e9",
+    "ko:word:17471b21e0456be2",
+    "ko:word:b3aa64a2ba69bbbc",
+    "ko:word:8a41f630d650a19e",
+    "ko:word:967b250416301b20",
+    "ko:word:1d20837d07bb2420",
+    "ko:word:3fe7de1542e405de",
+    "ko:word:3aba522699d9be85"
+  ]
+}

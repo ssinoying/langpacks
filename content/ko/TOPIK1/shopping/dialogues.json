@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ko:dialogue:84fa3f3b02130683",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Mua áo ở chợ",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "주인",
+        "text": "어서 오세요! 뭘 찾으세요?",
+        "translationVi": "Mời vào! Bạn tìm gì ạ?",
+        "options": [
+          {
+            "answers": [
+              "티셔츠 있어요?",
+              "옷 좀 보여 주세요."
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "주인",
+        "text": "이거 어때요? 만 오천 원이에요.",
+        "translationVi": "Cái này thế nào? Mười lăm nghìn won.",
+        "options": [
+          {
+            "answers": [
+              "좋아요. 이걸로 주세요.",
+              "이걸로 주세요."
+            ],
+            "next": "d"
+          },
+          {
+            "answers": [
+              "너무 비싸요. 좀 깎아 주세요.",
+              "좀 깎아 주세요."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "주인",
+        "text": "그럼 만 삼천 원에 드릴게요.",
+        "translationVi": "Vậy tôi để cho mười ba nghìn won.",
+        "options": [
+          {
+            "answers": [
+              "감사합니다. 이걸로 주세요.",
+              "좋아요, 살게요."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "주인",
+        "text": "현금이에요, 카드예요?",
+        "translationVi": "Tiền mặt hay thẻ ạ?",
+        "options": [
+          {
+            "answers": [
+              "카드로 할게요.",
+              "카드로 계산할게요.",
+              "현금이에요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "주인",
+        "text": "감사합니다. 또 오세요!",
+        "translationVi": "Cảm ơn. Lần sau lại đến nhé!"
+      }
+    }
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "zh-hant:dialogue:60ff01675ebc1277",
+    "lang": "zh-hant",
+    "level": "HSK1",
+    "title": "Gọi món ở quán",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "服務員",
+        "text": "你好！你們想吃什麼？",
+        "translationVi": "Chào! Các bạn muốn ăn gì?",
+        "options": [
+          {
+            "answers": [
+              "我想吃米飯。",
+              "我要米飯。",
+              "米飯。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "我想吃麵條兒。",
+              "我要麵條兒。",
+              "麵條兒。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "服務員",
+        "text": "好的。你們想喝什麼？",
+        "translationVi": "Vâng. Các bạn muốn uống gì?",
+        "options": [
+          {
+            "answers": [
+              "我想喝茶。",
+              "茶。",
+              "一杯茶。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "服務員",
+        "text": "對不起，今天沒有麵條兒。米飯可以嗎？",
+        "translationVi": "Xin lỗi, hôm nay hết mì. Cơm được không?",
+        "options": [
+          {
+            "answers": [
+              "可以。",
+              "好的。",
+              "行。"
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "服務員",
+        "text": "好的，請等一下。",
+        "translationVi": "Vâng, xin đợi một chút."
+      }
+    }
+  }
+]

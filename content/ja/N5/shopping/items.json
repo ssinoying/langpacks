@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ja:sentence:1942de03fa6c78f0",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "これはいくらですか。",
+    "meaningVi": "Cái này bao nhiêu tiền?",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:sentence:acbfb4436cb15c58",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "そのシャツは三千円です。",
+    "meaningVi": "Cái áo sơ mi đó giá 3000 yên.",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:sentence:48ae4e2993fbbe0b",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "ちょっと高いですね。",
+    "meaningVi": "Hơi đắt nhỉ.",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:sentence:a344fb97c21fe132",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "もう少し安いのはありますか。",
+    "meaningVi": "Có cái nào rẻ hơn một chút không?",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:sentence:780238088270df2d",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "この靴を買います。",
+    "meaningVi": "Tôi mua đôi giày này.",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:sentence:ca66041059eb57b9",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "デパートで買い物をしました。",
+    "meaningVi": "Tôi đã đi mua sắm ở trung tâm thương mại.",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:sentence:21a2f3e063668744",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "駅の前に店がたくさんあります。",
+    "meaningVi": "Trước ga có nhiều cửa hàng.",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:sentence:3d93382a8d14ffb6",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "財布を忘れました。",
+    "meaningVi": "Tôi quên ví rồi.",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:sentence:ac25aacf05f323a5",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "お金がありません。",
+    "meaningVi": "Tôi không có tiền.",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:sentence:4747e0d1b3a10d0c",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "カードでもいいですか。",
+    "meaningVi": "Trả bằng thẻ cũng được chứ?",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:grammar:f57649b98aa46263",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "これ / それ và この / その + danh từ",
+    "explanationVi": "これ, それ, あれ đứng một mình; この, その, あの phải đi kèm danh từ. Tiếng Việt đặt \"này\" sau danh từ (giày này), tiếng Nhật đặt trước: この靴.",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:grammar:8d7161d7d73ec03a",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "Địa điểm + で: nơi diễn ra hành động",
+    "explanationVi": "で = \"ở, tại\" khi có hành động: デパートで買い物をしました. Chỉ sự tồn tại (có ở đâu) thì dùng に: 駅の前に店があります. Tiếng Việt dùng chung \"ở\".",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:slang:2184febe734213fb",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "爆買い",
+    "meaningVi": "Mua sắm thả ga, mua một lúc rất nhiều.",
+    "explanationVi": "Báo chí và người trẻ hay dùng; nói đùa về mình: 昨日、爆買いしちゃった.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "ja:slang:fe8668095d0717df",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "高っ！",
+    "meaningVi": "Đắt thế!",
+    "explanationVi": "Rút gọn 高い khi ngạc nhiên, chỉ nói với bạn bè. Trước người bán nên nói ちょっと高いですね.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "shopping"
+    ]
+  }
+]

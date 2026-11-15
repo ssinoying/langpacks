@@ -1,0 +1,83 @@
+[
+  {
+    "id": "en:dialogue:160ac71488ea2027",
+    "lang": "en",
+    "level": "A1",
+    "title": "Xem phòng thuê",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Mrs Brown",
+        "text": "Hi! Come in. This is the living room.",
+        "translationVi": "Chào bạn! Mời vào. Đây là phòng khách.",
+        "options": [
+          {
+            "answers": [
+              "It's nice!",
+              "Wow, it's big.",
+              "Nice!"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Where is the bedroom?",
+              "Can I see the bedroom?"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Mrs Brown",
+        "text": "Thanks. The kitchen is over there.",
+        "translationVi": "Cảm ơn. Bếp ở đằng kia.",
+        "options": [
+          {
+            "answers": [
+              "Is there a bathroom?",
+              "Where is the bathroom?",
+              "And the bathroom?"
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Mrs Brown",
+        "text": "It's next to the kitchen. It has a big window.",
+        "translationVi": "Nó ở cạnh bếp. Có một cửa sổ lớn.",
+        "options": [
+          {
+            "answers": [
+              "Great. Is there a bathroom?",
+              "Is there a bathroom?",
+              "Where is the bathroom?"
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "Mrs Brown",
+        "text": "Yes, there is. It's next to the bedroom.",
+        "translationVi": "Có. Nó ở cạnh phòng ngủ.",
+        "options": [
+          {
+            "answers": [
+              "I like it!",
+              "OK, I'll take it.",
+              "I love it."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Mrs Brown",
+        "text": "Wonderful! Welcome home.",
+        "translationVi": "Tuyệt! Chào mừng về nhà mới."
+      }
+    }
+  }
+]

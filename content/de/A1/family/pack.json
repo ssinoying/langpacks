@@ -1,0 +1,23 @@
+{
+  "id": "de-A1-family",
+  "lang": "de",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "family",
+  "title": "Gia đình",
+  "requires": [],
+  "itemIds": [
+    "de:word:81bef24734654a31",
+    "de:word:406fd79483a95c34",
+    "de:word:93413e66b85a8aa4",
+    "de:word:3c949876de55a8e3",
+    "de:word:5ade8aabc89b98e6",
+    "de:word:f023eb7c7b7c6bcf",
+    "de:word:a97382bd1479e8d6",
+    "de:word:7013c082246be56f",
+    "de:word:26c8620409f43a5d",
+    "de:word:86c611d1095750d5",
+    "de:word:d5aded9d67a5603b",
+    "de:word:9d3e19af9012a2eb"
+  ]
+}

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "de:exercise:fb2ce0fbcf2fe3f2",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Ich spiele ___ Fußball. (thích)",
+    "answers": [
+      "gern",
+      "gerne"
+    ],
+    "explanationVi": "gern đứng sau động từ đã chia."
+  },
+  {
+    "id": "de:exercise:a9d5f54f8e158ac3",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "___ du gern? (lesen)",
+    "answers": [
+      "Liest"
+    ],
+    "explanationVi": "Với du, lesen đổi e → ie: du liest."
+  },
+  {
+    "id": "de:exercise:c045014762f8071e",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "gern / ich / Fußball / spiele",
+    "answers": [
+      "Ich spiele gern Fußball.",
+      "Fußball spiele ich gern."
+    ],
+    "explanationVi": "Động từ spiele đứng thứ hai, gern đứng sau."
+  },
+  {
+    "id": "de:exercise:789a559e3b2e3b32",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi thích nấu ăn.",
+    "answers": [
+      "Ich koche gern.",
+      "Ich koche gerne."
+    ],
+    "explanationVi": "Không dịch từng chữ *Ich mag kochen; nói Ich koche gern."
+  },
+  {
+    "id": "de:exercise:220c8874d0e93a52",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Sở thích của bạn là gì?",
+    "answers": [
+      "Was ist dein Hobby?",
+      "Was sind deine Hobbys?"
+    ]
+  },
+  {
+    "id": "de:exercise:6347b026a8f20100",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Wir gehen am Wochenende ins Kino.",
+    "answers": [
+      "Wir gehen am Wochenende ins Kino."
+    ]
+  },
+  {
+    "id": "de:exercise:af92cfbc7e976a30",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Was machst du in deiner Freizeit?",
+    "answers": [
+      "Was machst du in deiner Freizeit?"
+    ]
+  },
+  {
+    "id": "de:exercise:9b4a486bc6a76638",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "tanzen",
+    "choices": [
+      "tanzen",
+      "tanken",
+      "danken"
+    ],
+    "answers": [
+      "tanzen"
+    ]
+  },
+  {
+    "id": "de:exercise:dffa833b0a7d52a1",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Rủ bạn thân đi xem phim tối nay. Câu nào tự nhiên?",
+    "choices": [
+      "Hast du Bock auf Kino?",
+      "Der Film ist sehr gut.",
+      "Ich schwimme nicht gern."
+    ],
+    "answers": [
+      "Hast du Bock auf Kino?"
+    ]
+  },
+  {
+    "id": "de:exercise:9e8eb632b532376c",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Ben hat viele Hobbys. Er spielt gern Fußball und schwimmt gern. Aber er liest nicht gern.\n\nWas macht Ben nicht gern?",
+    "choices": [
+      "lesen",
+      "schwimmen",
+      "Fußball spielen"
+    ],
+    "answers": [
+      "lesen"
+    ]
+  }
+]

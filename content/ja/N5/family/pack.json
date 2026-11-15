@@ -1,0 +1,25 @@
+{
+  "id": "ja-N5-family",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "family",
+  "title": "Gia đình",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:050690cc5906ceea",
+    "ja:word:787218a89daee181",
+    "ja:word:af489f649bcd6394",
+    "ja:word:d83cb3b055b139e3",
+    "ja:word:c361079e9a4c05d6",
+    "ja:word:f7a496c5bcd9523c",
+    "ja:word:b33cf1b27fa1ad36",
+    "ja:word:28f2f98ad22c7116",
+    "ja:word:f71cf873eac38684",
+    "ja:word:3dd853c602dfb424",
+    "ja:word:f68f110ca8779597",
+    "ja:word:a3b0b9a267bc1bda"
+  ]
+}

@@ -1,0 +1,195 @@
+[
+  {
+    "id": "en:sentence:543a7d75064b786b",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What time is it?",
+    "meaningVi": "Mấy giờ rồi?",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:930de3add031adf3",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's seven o'clock.",
+    "meaningVi": "Bảy giờ đúng.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:d7dad90426eb6e8b",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's half past nine.",
+    "meaningVi": "Chín giờ rưỡi.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:c90767f03fa090f2",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's a quarter to six.",
+    "meaningVi": "Sáu giờ kém mười lăm.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:2f0af52479e86072",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I get up at six o'clock.",
+    "meaningVi": "Tôi dậy lúc sáu giờ.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:e88eb20f3832c07e",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "The class starts in five minutes.",
+    "meaningVi": "Năm phút nữa lớp học bắt đầu.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:f0c71c4dedcb5933",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I work eight hours a day.",
+    "meaningVi": "Tôi làm việc tám tiếng một ngày.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:2ba259681cb9fcd6",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What day is it today?",
+    "meaningVi": "Hôm nay là thứ mấy?",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:caeb314f9ca2d630",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "It's Monday today.",
+    "meaningVi": "Hôm nay là thứ Hai.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:ed21b487a0eec7d7",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I don't work on Sundays.",
+    "meaningVi": "Tôi không làm việc vào Chủ nhật.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:b92bdc1d5785900a",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I have an English class tomorrow.",
+    "meaningVi": "Ngày mai tôi có lớp tiếng Anh.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:3b6847e7d93bfca1",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "What are you doing this weekend?",
+    "meaningVi": "Cuối tuần này bạn làm gì?",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:sentence:77acb932dc762408",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "The meeting is next week.",
+    "meaningVi": "Cuộc họp vào tuần sau.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:grammar:75e4671313d294bc",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Nói giờ: It's + o'clock / half past / a quarter to",
+    "explanationVi": "Tiếng Việt nói \"Bảy giờ rồi\", không cần chủ ngữ. Tiếng Anh phải có It: It's seven o'clock. past = hơn (half past nine = 9 giờ rưỡi), to = kém (a quarter to six = 6 giờ kém 15).",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:grammar:df48984805069379",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Giới từ thời gian: at + giờ, on + thứ, in + khoảng thời gian",
+    "explanationVi": "Tiếng Việt dùng \"lúc\", \"vào\" khá tự do. Tiếng Anh: at six o'clock, on Sundays, in five minutes (= năm phút nữa). Trước today, tomorrow, this weekend, next week thì không dùng giới từ.",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:slang:ab02e6a41f77829e",
+    "lang": "en",
+    "kind": "slang",
+    "text": "in a sec",
+    "meaningVi": "chờ chút, ngay đây",
+    "explanationVi": "Viết tắt của in a second. Dùng với bạn bè; với khách hàng nên nói Just a moment, please.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  },
+  {
+    "id": "en:slang:29defb5d3992a9a7",
+    "lang": "en",
+    "kind": "slang",
+    "text": "TGIF",
+    "meaningVi": "Ơn trời, thứ Sáu rồi!",
+    "explanationVi": "Viết tắt của Thank God it's Friday, nói hoặc nhắn tin khi sắp tới cuối tuần. Không dùng trong email công việc trang trọng.",
+    "register": "slang",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "time"
+    ]
+  }
+]

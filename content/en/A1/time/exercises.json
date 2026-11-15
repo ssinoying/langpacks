@@ -1,0 +1,165 @@
+[
+  {
+    "id": "en:exercise:6bb017428ab9937d",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "It's half ___ nine. (9:30)",
+    "choices": [
+      "past",
+      "to",
+      "at"
+    ],
+    "answers": [
+      "past"
+    ],
+    "explanationVi": "half past = hơn 30 phút; to = kém."
+  },
+  {
+    "id": "en:exercise:454d0d4a4f637a57",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "I get up ___ six o'clock.",
+    "choices": [
+      "at",
+      "on",
+      "in"
+    ],
+    "answers": [
+      "at"
+    ],
+    "explanationVi": "Giờ dùng at; thứ dùng on."
+  },
+  {
+    "id": "en:exercise:8425e2341e18211b",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "I don't work ___ Sundays.",
+    "choices": [
+      "at",
+      "on",
+      "in"
+    ],
+    "answers": [
+      "on"
+    ],
+    "explanationVi": "Thứ trong tuần dùng on."
+  },
+  {
+    "id": "en:exercise:e74cd44ce6e67ae6",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "is / time / what / it",
+    "answers": [
+      "What time is it?"
+    ]
+  },
+  {
+    "id": "en:exercise:5127419c179082d8",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Hôm nay là thứ mấy?",
+    "answers": [
+      "What day is it today?",
+      "What day is today?",
+      "What day is it?"
+    ]
+  },
+  {
+    "id": "en:exercise:d860601bd37f88f9",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Sáu giờ kém mười lăm.",
+    "answers": [
+      "It's a quarter to six.",
+      "It is a quarter to six.",
+      "It's quarter to six.",
+      "It is quarter to six.",
+      "It's five forty-five.",
+      "It is five forty-five."
+    ],
+    "explanationVi": "\"Kém\" là to; cần chủ ngữ It."
+  },
+  {
+    "id": "en:exercise:ca33ed972e462c0c",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "What are you doing this weekend?",
+    "answers": [
+      "What are you doing this weekend?"
+    ]
+  },
+  {
+    "id": "en:exercise:e80836fbccf0cd21",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "I work eight hours a day.",
+    "answers": [
+      "I work eight hours a day."
+    ]
+  },
+  {
+    "id": "en:exercise:29c8c32787567e21",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "Monday",
+    "choices": [
+      "Monday",
+      "Sunday",
+      "Friday"
+    ],
+    "answers": [
+      "Monday"
+    ]
+  },
+  {
+    "id": "en:exercise:b40c2f375ca736f5",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Hi Tom! The English class is on Saturday at half past eight. It's two hours long. See you there!\n\nLớp học bắt đầu lúc mấy giờ?",
+    "choices": [
+      "8:00",
+      "8:30",
+      "10:30"
+    ],
+    "answers": [
+      "8:30"
+    ],
+    "explanationVi": "half past eight = 8 giờ rưỡi."
+  },
+  {
+    "id": "en:exercise:9830a81cd5e29f4c",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Chiều thứ Sáu, bạn nhắn tin cho bạn thân vì vui sắp được nghỉ. Câu nào tự nhiên?",
+    "choices": [
+      "TGIF!",
+      "Today is the day five.",
+      "Good weekend to you."
+    ],
+    "answers": [
+      "TGIF!"
+    ]
+  }
+]

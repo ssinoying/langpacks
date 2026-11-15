@@ -1,0 +1,23 @@
+{
+  "id": "zh-hans-HSK1-time",
+  "lang": "zh-hans",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "time",
+  "title": "Giờ, ngày, thứ",
+  "requires": [],
+  "itemIds": [
+    "zh-hans:word:9621db7d95a1492c",
+    "zh-hans:word:420f715d6dfaa882",
+    "zh-hans:word:107aea61d73f8a49",
+    "zh-hans:word:f24ee503195673ed",
+    "zh-hans:word:24ced71c054541b6",
+    "zh-hans:word:bb4fd021a0d667ed",
+    "zh-hans:word:ee688650e5f6cbef",
+    "zh-hans:word:a6cce30e1d77c0fa",
+    "zh-hans:word:b5c108d374444766",
+    "zh-hans:word:9c4662aed181dacf",
+    "zh-hans:word:20c606de14cf9860",
+    "zh-hans:word:c860a3eee14a7ec9"
+  ]
+}

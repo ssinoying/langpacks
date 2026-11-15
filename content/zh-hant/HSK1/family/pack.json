@@ -1,0 +1,23 @@
+{
+  "id": "zh-hant-HSK1-family",
+  "lang": "zh-hant",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "family",
+  "title": "Gia đình",
+  "requires": [],
+  "itemIds": [
+    "zh-hant:word:05d0a6d47123d59d",
+    "zh-hant:word:c8c03df48620f4b0",
+    "zh-hant:word:39a9b3abaef90c28",
+    "zh-hant:word:6c14ca40cb01cc2f",
+    "zh-hant:word:a84a1f809a1ea6e8",
+    "zh-hant:word:f65ad6800afd6b96",
+    "zh-hant:word:bdeb38fa87b99e4a",
+    "zh-hant:word:ceea33c6d53044cb",
+    "zh-hant:word:422a89acd7b32fc7",
+    "zh-hant:word:3e496ad25474eb8b",
+    "zh-hant:word:280b860b4aec99ed",
+    "zh-hant:word:46584c07331fc3bc"
+  ]
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "en:dialogue:8da9d24245dcc2a2",
+    "lang": "en",
+    "level": "A1",
+    "title": "Mua áo ở cửa hàng",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Assistant",
+        "text": "Hello! Can I help you?",
+        "translationVi": "Xin chào! Tôi giúp gì được ạ?",
+        "options": [
+          {
+            "answers": [
+              "Yes, how much is this shirt?",
+              "How much is this shirt?",
+              "Yes, please. How much is this?"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "No, thanks. I'm just looking.",
+              "I'm just looking, thanks."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Assistant",
+        "text": "It's twenty dollars.",
+        "translationVi": "Hai mươi đô ạ.",
+        "options": [
+          {
+            "answers": [
+              "OK, I'll take it.",
+              "I'll take it.",
+              "Can I pay by card?"
+            ],
+            "next": "end"
+          },
+          {
+            "answers": [
+              "That's too expensive.",
+              "Hmm, that's expensive."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Assistant",
+        "text": "No problem. Let me know if you need anything.",
+        "translationVi": "Không sao ạ. Cần gì cứ gọi tôi nhé.",
+        "options": [
+          {
+            "answers": [
+              "Thank you.",
+              "Thanks."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "Assistant",
+        "text": "This one is cheaper. It's twelve dollars.",
+        "translationVi": "Cái này rẻ hơn. Mười hai đô ạ.",
+        "options": [
+          {
+            "answers": [
+              "Great, I'll take it.",
+              "OK, I'll take this one."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Assistant",
+        "text": "Thank you! Have a nice day!",
+        "translationVi": "Cảm ơn bạn! Chúc một ngày tốt lành!"
+      }
+    }
+  }
+]

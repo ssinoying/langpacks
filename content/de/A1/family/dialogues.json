@@ -1,0 +1,72 @@
+[
+  {
+    "id": "de:dialogue:bbab23f95026e39d",
+    "lang": "de",
+    "level": "A1",
+    "title": "Hỏi về anh chị em",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Paul",
+        "text": "Hast du Geschwister?",
+        "translationVi": "Bạn có anh chị em không?",
+        "options": [
+          {
+            "answers": [
+              "Ja, ich habe einen Bruder.",
+              "Ja, einen Bruder."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Nein, ich habe keine Geschwister.",
+              "Nein."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Paul",
+        "text": "Wie alt ist dein Bruder?",
+        "translationVi": "Anh/em trai bạn bao nhiêu tuổi?",
+        "options": [
+          {
+            "answers": [
+              "Er ist zwanzig.",
+              "Er ist zwanzig Jahre alt."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Paul",
+        "text": "Ich auch nicht. Wohnst du bei deinen Eltern?",
+        "translationVi": "Mình cũng không. Bạn sống với bố mẹ à?",
+        "options": [
+          {
+            "answers": [
+              "Ja, ich wohne bei meinen Eltern.",
+              "Ja."
+            ],
+            "next": "end"
+          },
+          {
+            "answers": [
+              "Nein, ich wohne allein.",
+              "Nein."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Paul",
+        "text": "Schön! Das ist meine Familie auf dem Foto.",
+        "translationVi": "Hay quá! Đây là gia đình mình trong ảnh."
+      }
+    }
+  }
+]

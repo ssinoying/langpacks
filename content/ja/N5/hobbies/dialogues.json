@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ja:dialogue:485a262ffddc9beb",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Nói về sở thích",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "鈴木",
+        "text": "ミンさんは週末、何をしますか。",
+        "translationVi": "Cuối tuần anh Minh làm gì?",
+        "options": [
+          {
+            "answers": [
+              "よく映画を見ます。",
+              "映画を見ます。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "スポーツをします。",
+              "サッカーをします。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "鈴木",
+        "text": "どんな映画が好きですか。",
+        "translationVi": "Anh thích phim gì?",
+        "options": [
+          {
+            "answers": [
+              "アニメが好きです。",
+              "日本の映画が好きです。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "鈴木",
+        "text": "いいですね。私は泳ぐのが好きです。",
+        "translationVi": "Hay nhỉ. Tôi thích bơi.",
+        "options": [
+          {
+            "answers": [
+              "一緒に泳ぎませんか。",
+              "今度一緒に行きましょう。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "鈴木",
+        "text": "じゃあ、今度ぜひ！",
+        "translationVi": "Vậy lần tới nhất định nhé!"
+      }
+    }
+  }
+]

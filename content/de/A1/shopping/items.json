@@ -1,0 +1,184 @@
+[
+  {
+    "id": "de:sentence:70b33fe6b3545366",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Was kostet die Jacke?",
+    "meaningVi": "Áo khoác này giá bao nhiêu?",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:0a27e32ab39b4c4e",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Die Jacke kostet fünfzig Euro.",
+    "meaningVi": "Áo khoác giá năm mươi euro.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:a3c7583bc6302cba",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Die Jacke ist schön, aber sie ist teuer.",
+    "meaningVi": "Áo khoác đẹp nhưng đắt.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:7e3c6b437e590003",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Die Schuhe sind zu teuer.",
+    "meaningVi": "Đôi giày đắt quá.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:ee62fb30c192f6a9",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Das ist sehr billig!",
+    "meaningVi": "Rẻ quá!",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:8ccbb41863fa4746",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Haben Sie die Jacke in Größe M?",
+    "meaningVi": "Áo khoác này có cỡ M không?",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:0d40ece37ce3d0c2",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Welche Farbe möchten Sie?",
+    "meaningVi": "Ông/bà muốn màu nào?",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:c9d820836dd2cd3b",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich nehme die Jacke.",
+    "meaningVi": "Tôi lấy cái áo khoác.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:dc66fa03c08510d9",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wo ist die Kasse?",
+    "meaningVi": "Quầy thu ngân ở đâu?",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:42641e85ae16457b",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Kann ich mit Karte bezahlen?",
+    "meaningVi": "Tôi trả bằng thẻ được không?",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:36660d1e4dce35e5",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich habe nicht genug Geld.",
+    "meaningVi": "Tôi không đủ tiền.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:sentence:6d49af098a34a978",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich möchte Schuhe kaufen.",
+    "meaningVi": "Tôi muốn mua giày.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:grammar:d89f0f06f1e11439",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Hỏi giá: Was kostet …? / Was kosten …?",
+    "explanationVi": "kosten chia theo đồ vật: một món thì kostet (Die Jacke kostet …), nhiều món thì kosten (Die Schuhe kosten …). Tiếng Việt chỉ hỏi \"bao nhiêu tiền\", không đổi gì; người Việt hay quên đổi đuôi.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:grammar:43340b54b344ac2b",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "er / sie / es thay cho đồ vật theo giống",
+    "explanationVi": "Tiếng Việt gọi mọi đồ vật là \"nó\". Tiếng Đức chọn theo giống: die Jacke → sie, der Schuh → er, das Handy → es. Nên học danh từ kèm der/die/das.",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:slang:05ae651597e7ba2c",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Das ist ja geschenkt!",
+    "meaningVi": "Rẻ như cho!",
+    "explanationVi": "Nói khi giá rất rẻ, giọng vui vẻ; không phải được tặng thật.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "de:slang:294f4a387fc8274b",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Abzocke!",
+    "meaningVi": "Chặt chém!",
+    "explanationVi": "Chê giá đắt vô lý, nói với bạn bè. Đừng nói thẳng với người bán.",
+    "register": "slang",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "shopping"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ja:dialogue:379dfd962f4457f8",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Gọi món ở quán",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "店員",
+        "text": "いらっしゃいませ。何にしますか。",
+        "translationVi": "Xin mời quý khách. Quý khách dùng gì ạ?",
+        "options": [
+          {
+            "answers": [
+              "ラーメンをください。",
+              "ラーメンを一つください。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "カレーをください。",
+              "カレーを一つください。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "店員",
+        "text": "お飲み物は？",
+        "translationVi": "Đồ uống thì sao ạ?",
+        "options": [
+          {
+            "answers": [
+              "お茶をください。",
+              "水をください。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "店員",
+        "text": "カレーは少し辛いですが、大丈夫ですか。",
+        "translationVi": "Cà ri hơi cay, có được không ạ?",
+        "options": [
+          {
+            "answers": [
+              "はい、大丈夫です。",
+              "大丈夫です。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "店員",
+        "text": "かしこまりました。",
+        "translationVi": "Vâng ạ."
+      }
+    }
+  }
+]

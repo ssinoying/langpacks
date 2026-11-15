@@ -1,0 +1,140 @@
+[
+  {
+    "id": "zh-hant:exercise:d6e31dbd2e705d84",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我餓___，我們去吃飯吧。(rồi)",
+    "answers": [
+      "了"
+    ],
+    "explanationVi": "了 cuối câu = \"rồi\": trạng thái mới."
+  },
+  {
+    "id": "zh-hant:exercise:a5fa05861e89e7a6",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "我想喝一___茶。(cốc)",
+    "answers": [
+      "杯"
+    ],
+    "explanationVi": "杯 (bôi) là lượng từ cho đồ uống trong cốc."
+  },
+  {
+    "id": "zh-hant:exercise:9d994ec001d4e74e",
+    "lang": "zh-hant",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我吃米飯，你___？(còn bạn)",
+    "choices": [
+      "呢",
+      "嗎",
+      "吧"
+    ],
+    "answers": [
+      "呢"
+    ],
+    "explanationVi": "呢 hỏi lại \"còn bạn thì sao\"; 嗎 hỏi có/không, không dùng sau một chủ ngữ trơ trọi."
+  },
+  {
+    "id": "zh-hant:exercise:d39e59209219b306",
+    "lang": "zh-hant",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "吃 / 想 / 你 / 什麼",
+    "answers": [
+      "你想吃什麼？"
+    ],
+    "explanationVi": "什麼 đứng sau động từ, đúng chỗ món ăn."
+  },
+  {
+    "id": "zh-hant:exercise:f0b54c203f75c8bc",
+    "lang": "zh-hant",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Món này rất ngon.",
+    "answers": [
+      "這個菜很好吃。",
+      "這個菜真好吃。",
+      "這菜很好吃。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:8c931ee79c9bae94",
+    "lang": "zh-hant",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "早上我喝牛奶。",
+    "answers": [
+      "早上我喝牛奶。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:b2f2344788bc3b82",
+    "lang": "zh-hant",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "你渴嗎？喝點兒水吧。",
+    "answers": [
+      "你渴嗎？喝點兒水吧。"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:d90cc99e2c4c2044",
+    "lang": "zh-hant",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "水果",
+    "choices": [
+      "水果",
+      "水",
+      "茶",
+      "菜"
+    ],
+    "answers": [
+      "水果"
+    ]
+  },
+  {
+    "id": "zh-hant:exercise:3ef8c218e989ccc2",
+    "lang": "zh-hant",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Trưa đói bụng, rủ bạn thân đi ăn. Câu nào tự nhiên nhất?",
+    "choices": [
+      "走，幹飯去！",
+      "請問，您吃飯了嗎？",
+      "我想喝一杯茶。"
+    ],
+    "answers": [
+      "走，幹飯去！"
+    ],
+    "explanationVi": "Với bạn thân, 幹飯 vui và tự nhiên."
+  },
+  {
+    "id": "zh-hant:exercise:30f1e1694be08012",
+    "lang": "zh-hant",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "小王餓了。他想吃米飯，不想吃麵條兒。\n\n小王想吃什麼？",
+    "choices": [
+      "米飯",
+      "麵條兒",
+      "水果"
+    ],
+    "answers": [
+      "米飯"
+    ]
+  }
+]

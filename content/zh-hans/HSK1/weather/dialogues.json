@@ -1,0 +1,65 @@
+[
+  {
+    "id": "zh-hans:dialogue:e5aa02f7f1bf3db7",
+    "lang": "zh-hans",
+    "level": "HSK1",
+    "title": "Nói chuyện thời tiết",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "小林",
+        "text": "今天天气真好！",
+        "translationVi": "Hôm nay trời đẹp quá!",
+        "options": [
+          {
+            "answers": [
+              "是啊，不冷也不热。",
+              "是啊！"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "可是明天会下雨。",
+              "明天会下雨。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "小林",
+        "text": "我们去公园吧！",
+        "translationVi": "Mình đi công viên đi!",
+        "options": [
+          {
+            "answers": [
+              "好啊！",
+              "好！走吧！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "小林",
+        "text": "真的吗？那我们今天出去吧！",
+        "translationVi": "Thật à? Vậy hôm nay mình ra ngoài đi!",
+        "options": [
+          {
+            "answers": [
+              "好啊！",
+              "好！走吧！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "小林",
+        "text": "走吧！",
+        "translationVi": "Đi thôi!"
+      }
+    }
+  }
+]

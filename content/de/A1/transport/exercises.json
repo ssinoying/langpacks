@@ -1,0 +1,138 @@
+[
+  {
+    "id": "de:exercise:05667518def41869",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "___ du mit dem Bus? (fahren)",
+    "answers": [
+      "Fährst"
+    ],
+    "explanationVi": "Với du, fahren đổi a → ä: du fährst."
+  },
+  {
+    "id": "de:exercise:6623d15eec6b34c5",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Sie steigen an der nächsten Haltestelle ___. (xuống xe)",
+    "answers": [
+      "aus"
+    ],
+    "explanationVi": "aussteigen tách ra, aus đứng cuối câu."
+  },
+  {
+    "id": "de:exercise:a0b80acf9f86b6dd",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Ich fahre ___ dem Zug. (bằng)",
+    "choices": [
+      "mit",
+      "zu",
+      "in"
+    ],
+    "answers": [
+      "mit"
+    ],
+    "explanationVi": "Đi bằng phương tiện gì dùng mit."
+  },
+  {
+    "id": "de:exercise:012a8ccbedf52a97",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "komme / zum Bahnhof / wie / ich",
+    "answers": [
+      "Wie komme ich zum Bahnhof?"
+    ]
+  },
+  {
+    "id": "de:exercise:402f2e8c73792cdc",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi đi làm bằng xe buýt.",
+    "answers": [
+      "Ich fahre mit dem Bus zur Arbeit.",
+      "Ich fahre zur Arbeit mit dem Bus."
+    ],
+    "explanationVi": "Đi bằng xe là fahren, không phải gehen."
+  },
+  {
+    "id": "de:exercise:db4073ebdd4628b9",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Wo kann ich eine Fahrkarte kaufen?",
+    "answers": [
+      "Wo kann ich eine Fahrkarte kaufen?"
+    ]
+  },
+  {
+    "id": "de:exercise:caa4c1f619c503b6",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Gehen Sie hier links.",
+    "answers": [
+      "Gehen Sie hier links."
+    ]
+  },
+  {
+    "id": "de:exercise:76ac059ea240335a",
+    "lang": "de",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "rechts",
+    "choices": [
+      "rechts",
+      "links",
+      "geradeaus"
+    ],
+    "answers": [
+      "rechts"
+    ]
+  },
+  {
+    "id": "de:exercise:750a3d414f485d43",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn lạc đường, hỏi một người lạ trên phố. Câu nào lịch sự?",
+    "choices": [
+      "Entschuldigung, wie komme ich zum Bahnhof?",
+      "Hey du, Bahnhof wo?",
+      "Der Bahnhof ist nicht weit."
+    ],
+    "answers": [
+      "Entschuldigung, wie komme ich zum Bahnhof?"
+    ],
+    "explanationVi": "Với người lạ, mở đầu bằng Entschuldigung và hỏi trọn câu."
+  },
+  {
+    "id": "de:exercise:b321787fe8ea8bd3",
+    "lang": "de",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Lan wohnt nicht weit von der Schule. Sie fährt jeden Tag mit dem Fahrrad. Bei Regen nimmt sie den Bus.\n\nWas nimmt Lan bei Regen?",
+    "choices": [
+      "den Bus",
+      "das Fahrrad",
+      "das Auto"
+    ],
+    "answers": [
+      "den Bus"
+    ]
+  }
+]

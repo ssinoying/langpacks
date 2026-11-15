@@ -1,0 +1,162 @@
+[
+  {
+    "id": "en:sentence:1c00fd77de41612f",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "I live in a small flat.",
+    "meaningVi": "Tôi sống trong một căn hộ nhỏ.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:sentence:0cbdf00cd53734b4",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Our house has three bedrooms.",
+    "meaningVi": "Nhà chúng tôi có ba phòng ngủ.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:sentence:499f70c77deaa7a9",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "There is a big table in the kitchen.",
+    "meaningVi": "Trong bếp có một cái bàn lớn.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:sentence:6695dd756ae0f576",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "There are four chairs in the living room.",
+    "meaningVi": "Phòng khách có bốn cái ghế.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:sentence:41d2af505306ee9d",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Is there a TV in your room?",
+    "meaningVi": "Phòng bạn có ti vi không?",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:sentence:528cec2a6428c0ee",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "The bathroom is next to my bedroom.",
+    "meaningVi": "Phòng tắm ở cạnh phòng ngủ của tôi.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:sentence:be369ff87cc8dc93",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "My cat sleeps on my bed.",
+    "meaningVi": "Con mèo của tôi ngủ trên giường của tôi.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:sentence:03e43464bcb70dc7",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "We have a small garden behind the house.",
+    "meaningVi": "Chúng tôi có một khu vườn nhỏ sau nhà.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:sentence:648c12ded577e621",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Please close the door.",
+    "meaningVi": "Làm ơn đóng cửa lại.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:sentence:a178d1751bb81088",
+    "lang": "en",
+    "kind": "sentence",
+    "text": "Can you open the window? It's hot.",
+    "meaningVi": "Bạn mở cửa sổ được không? Nóng quá.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:grammar:c2d53ddd16fa01a6",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "There is / There are: có (cái gì ở đâu)",
+    "explanationVi": "Tiếng Việt nói \"Trong bếp có một cái bàn\". Tiếng Anh dùng There is + số ít, There are + số nhiều; không dịch \"có\" thành have: *In the kitchen have a table. Câu hỏi đảo is/are lên trước: Is there...?",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:grammar:45d6579da162b988",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Giới từ chỉ vị trí: in, on, next to, behind",
+    "explanationVi": "in = trong, on = trên (mặt), next to = cạnh, behind = sau. Trật tự giống tiếng Việt (in the kitchen = trong bếp), nhưng người Việt hay dùng in cho mọi thứ: nằm trên giường là on the bed, không phải *in the bed khi chỉ nằm trên mặt.",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:slang:b09e5ddbf27e7158",
+    "lang": "en",
+    "kind": "slang",
+    "text": "my place",
+    "meaningVi": "nhà tôi, chỗ tôi",
+    "explanationVi": "Come over to my place = đến nhà mình chơi. Dùng cho nhà, căn hộ hay phòng trọ đều được.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  },
+  {
+    "id": "en:slang:4d069000a339e06f",
+    "lang": "en",
+    "kind": "slang",
+    "text": "crash",
+    "meaningVi": "ngủ nhờ, ngủ tạm",
+    "explanationVi": "Can I crash at your place? = Cho mình ngủ nhờ được không? Chỉ dùng với bạn thân.",
+    "register": "slang",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "home"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "id": "ko-TOPIK1-shopping",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "shopping",
+  "title": "Mua sắm",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:c27dafe0040f4d91",
+    "ko:word:ce1dcab2e2d239c6",
+    "ko:word:12e1802be6226008",
+    "ko:word:babe9f0be4b7a794",
+    "ko:word:4c79acf8daf19463",
+    "ko:word:31811295add31e79",
+    "ko:word:52dc954efc1c6c9f",
+    "ko:word:17df07fcd1bad689",
+    "ko:word:ae97418fbb85e618",
+    "ko:word:7b99b9b89764d0a2",
+    "ko:word:acb00ec5575a2d7e",
+    "ko:word:ea4c8db95061966a",
+    "ko:word:9421e00cd6fa790b",
+    "ko:word:1e1608fd027a9546"
+  ]
+}

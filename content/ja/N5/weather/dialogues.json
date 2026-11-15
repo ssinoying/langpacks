@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ja:dialogue:58f4be147f9d8cb5",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Chuyện thời tiết",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "山田",
+        "text": "今日は寒いですね。",
+        "translationVi": "Hôm nay lạnh nhỉ.",
+        "options": [
+          {
+            "answers": [
+              "そうですね。寒いですね。",
+              "本当に寒いですね。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "私は寒くないです。",
+              "いいえ、寒くないです。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "山田",
+        "text": "ベトナムの冬も寒いですか。",
+        "translationVi": "Mùa đông ở Việt Nam cũng lạnh à?",
+        "options": [
+          {
+            "answers": [
+              "ハノイは少し寒いです。",
+              "いいえ、あまり寒くないです。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "山田",
+        "text": "えっ、すごいですね！",
+        "translationVi": "Ồ, giỏi thật!",
+        "options": [
+          {
+            "answers": [
+              "ハノイの冬も寒いですから。",
+              "大丈夫です。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "山田",
+        "text": "明日は雪が降るでしょう。",
+        "translationVi": "Ngày mai có lẽ sẽ có tuyết."
+      }
+    }
+  }
+]

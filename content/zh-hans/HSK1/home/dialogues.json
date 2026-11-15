@@ -1,0 +1,65 @@
+[
+  {
+    "id": "zh-hans:dialogue:8440f36da47f111f",
+    "lang": "zh-hans",
+    "level": "HSK1",
+    "title": "Thăm nhà bạn",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "小美",
+        "text": "请进！这是我家。",
+        "translationVi": "Mời vào! Đây là nhà mình.",
+        "options": [
+          {
+            "answers": [
+              "你家真大！",
+              "你的房子真大！"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "洗手间在哪儿？",
+              "请问，洗手间在哪儿？"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "小美",
+        "text": "不大，只有两个房间。",
+        "translationVi": "Không lớn đâu, chỉ có hai phòng.",
+        "options": [
+          {
+            "answers": [
+              "很好看！",
+              "你的房间很好看！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "小美",
+        "text": "在那边，我房间旁边。",
+        "translationVi": "Ở đằng kia, cạnh phòng mình.",
+        "options": [
+          {
+            "answers": [
+              "谢谢！",
+              "好的，谢谢！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "小美",
+        "text": "请坐，喝点儿茶吧。",
+        "translationVi": "Mời ngồi, uống chút trà nhé."
+      }
+    }
+  }
+]

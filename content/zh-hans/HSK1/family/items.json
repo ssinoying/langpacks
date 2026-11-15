@@ -1,0 +1,162 @@
+[
+  {
+    "id": "zh-hans:sentence:1d3c992452672395",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你家有几口人？",
+    "meaningVi": "Nhà bạn có mấy người?",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:44051c0fb2793914",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我家有五口人：爸爸、妈妈、哥哥、妹妹和我。",
+    "meaningVi": "Nhà tôi có năm người: bố, mẹ, anh trai, em gái và tôi.",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:b19fd4ad9f6342ad",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我没有姐姐，也没有弟弟。",
+    "meaningVi": "Tôi không có chị gái, cũng không có em trai.",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:ef6ca523cfe13999",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我爸爸是医生，我妈妈是老师。",
+    "meaningVi": "Bố tôi là bác sĩ, mẹ tôi là giáo viên.",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:320532801088bbec",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "这是我奶奶，那是我爷爷。",
+    "meaningVi": "Đây là bà nội tôi, kia là ông nội tôi.",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:621334ce90090770",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "他有一个儿子和一个女儿。",
+    "meaningVi": "Anh ấy có một con trai và một con gái.",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:25f542f399f45d4a",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你弟弟多大了？",
+    "meaningVi": "Em trai bạn bao nhiêu tuổi rồi?",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:55fdebf77e7bda18",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我很爱我的家人。",
+    "meaningVi": "Tôi rất yêu gia đình mình.",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:0c5945a1da8c8b32",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我姐姐有两个孩子。",
+    "meaningVi": "Chị tôi có hai đứa con.",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:f75f7352684aff61",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你有哥哥吗？",
+    "meaningVi": "Bạn có anh trai không?",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:cce49abc76d46b92",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "有 và 没有 (có / không có)",
+    "explanationVi": "Phủ định của 有 (hữu) luôn là 没有, không bao giờ nói *不有. Hỏi: 你有哥哥吗？ Trả lời: 有 hoặc 没有.",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:9c802c28fcb93019",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "Sở hữu: 我的家人, 我爸爸",
+    "explanationVi": "Người sở hữu đứng trước, ngược tiếng Việt: \"bố tôi\" là 我爸爸, \"gia đình tôi\" là 我的家人. Với người thân và người gần gũi có thể bỏ 的: 我奶奶, 我妈妈.",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:b18ed726811dff06",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "老爸",
+    "meaningVi": "Bố (thân mật).",
+    "explanationVi": "Gọi hoặc nhắc tới bố một cách thân mật, như \"ông bô\". Dùng khi nói với bạn bè, người nhà; không dùng trong văn viết trang trọng.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:e52065f86bbe1aa7",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "老妈",
+    "meaningVi": "Mẹ (thân mật).",
+    "explanationVi": "Cách gọi mẹ thân mật, như \"bà bô\". Không dùng khi nói chuyện lịch sự với người lạ.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "family"
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ko:exercise:592adb58b873a1d0",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "책상 ___에 컴퓨터가 있어요. (trên)",
+    "choices": [
+      "위",
+      "아래",
+      "옆",
+      "안"
+    ],
+    "answers": [
+      "위"
+    ],
+    "explanationVi": "Từ chỉ vị trí đứng sau danh từ: 책상 위 = trên bàn."
+  },
+  {
+    "id": "ko:exercise:3719cce6a9a41759",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "제 방은 작___ 깨끗해요. (nhưng)",
+    "choices": [
+      "지만",
+      "아서",
+      "고"
+    ],
+    "answers": [
+      "지만"
+    ]
+  },
+  {
+    "id": "ko:exercise:c97b8d1237e40a6e",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "___ 안에 우유가 있어요. (tủ lạnh)",
+    "answers": [
+      "냉장고"
+    ]
+  },
+  {
+    "id": "ko:exercise:56ae862c7fb99f67",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "있어요 / 의자가 / 옆에 / 침대",
+    "answers": [
+      "침대 옆에 의자가 있어요."
+    ]
+  },
+  {
+    "id": "ko:exercise:da6bc2cb9ad52483",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Nhà vệ sinh ở đâu?",
+    "answers": [
+      "화장실이 어디에 있어요?",
+      "화장실이 어디예요?",
+      "화장실 어디에 있어요?",
+      "화장실은 어디에 있어요?",
+      "화장실은 어디예요?"
+    ]
+  },
+  {
+    "id": "ko:exercise:e6f70f5ed068467a",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "창문 좀 열어 주세요.",
+    "answers": [
+      "창문 좀 열어 주세요."
+    ]
+  },
+  {
+    "id": "ko:exercise:dadbabc02812bf0f",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "우리 집은 아파트 십 층이에요.",
+    "answers": [
+      "우리 집은 아파트 십 층이에요."
+    ],
+    "explanationVi": "Số tầng dùng số Hán Hàn: 십 층 (thập tầng)."
+  },
+  {
+    "id": "ko:exercise:0f74c107658689b0",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "TOPIK1",
+    "prompt": "부엌",
+    "choices": [
+      "부엌",
+      "부모",
+      "방"
+    ],
+    "answers": [
+      "부엌"
+    ],
+    "explanationVi": "ㅋ ở cuối đọc như [ㄱ]: 부엌 [부억]."
+  },
+  {
+    "id": "ko:exercise:7c0a029c23ea8562",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "제 방은 작지만 깨끗해요. 침대 옆에 책상이 있어요. 책상 위에 컴퓨터가 있어요.\n\n컴퓨터는 어디에 있어요?",
+    "choices": [
+      "침대 위",
+      "책상 위",
+      "냉장고 안"
+    ],
+    "answers": [
+      "책상 위"
+    ]
+  },
+  {
+    "id": "ko:exercise:95ac821d5ad62046",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Ở nhà bạn người Hàn, bạn muốn đi vệ sinh. Câu nào lịch sự?",
+    "choices": [
+      "화장실이 어디에 있어요?",
+      "화장실 가!",
+      "창문 좀 열어 주세요."
+    ],
+    "answers": [
+      "화장실이 어디에 있어요?"
+    ]
+  }
+]

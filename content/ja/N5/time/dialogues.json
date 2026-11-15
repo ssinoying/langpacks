@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ja:dialogue:98b69509d2957da0",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Hẹn gặp",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "友達",
+        "text": "明日、時間がありますか。",
+        "translationVi": "Ngày mai bạn có thời gian không?",
+        "options": [
+          {
+            "answers": [
+              "はい、あります。",
+              "はい、時間があります。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "すみません、明日は忙しいです。",
+              "いいえ、ありません。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "友達",
+        "text": "じゃあ、午後二時に駅で会いましょう。",
+        "translationVi": "Vậy hai giờ chiều gặp nhau ở ga nhé.",
+        "options": [
+          {
+            "answers": [
+              "はい、二時に駅ですね。",
+              "いいですよ。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "友達",
+        "text": "じゃあ、土曜日はどうですか。",
+        "translationVi": "Vậy thứ Bảy thì sao?",
+        "options": [
+          {
+            "answers": [
+              "土曜日は大丈夫です。",
+              "いいですよ。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "友達",
+        "text": "じゃあ、また。",
+        "translationVi": "Vậy hẹn gặp nhé."
+      }
+    }
+  }
+]

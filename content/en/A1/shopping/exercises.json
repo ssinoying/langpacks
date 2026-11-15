@@ -1,0 +1,144 @@
+[
+  {
+    "id": "en:exercise:9070040e8a654ecd",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "How much ___ these shoes?",
+    "choices": [
+      "is",
+      "are",
+      "am"
+    ],
+    "answers": [
+      "are"
+    ],
+    "explanationVi": "shoes số nhiều nên dùng are."
+  },
+  {
+    "id": "en:exercise:339cedd3b5b4fa36",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "___ shoes are too expensive. (này)",
+    "choices": [
+      "This",
+      "These",
+      "That"
+    ],
+    "answers": [
+      "These"
+    ],
+    "explanationVi": "shoes số nhiều nên dùng These; This chỉ dùng cho một vật."
+  },
+  {
+    "id": "en:exercise:798dd5c4a46aa881",
+    "lang": "en",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "A1",
+    "prompt": "Can I ___ by card? (trả tiền)",
+    "answers": [
+      "pay"
+    ]
+  },
+  {
+    "id": "en:exercise:cb31de369f265949",
+    "lang": "en",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "this / is / how / shirt / much",
+    "answers": [
+      "How much is this shirt?"
+    ]
+  },
+  {
+    "id": "en:exercise:125e083750d77959",
+    "lang": "en",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Đôi giày này đắt quá.",
+    "answers": [
+      "These shoes are too expensive.",
+      "These shoes are very expensive.",
+      "These shoes are so expensive."
+    ],
+    "explanationVi": "Giày đi theo đôi nên dùng shoes số nhiều và these, không nói *This shoe."
+  },
+  {
+    "id": "en:exercise:7efceed76f578bec",
+    "lang": "en",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Do you have this in a smaller size?",
+    "answers": [
+      "Do you have this in a smaller size?"
+    ]
+  },
+  {
+    "id": "en:exercise:c6e2f74661477602",
+    "lang": "en",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "I want to buy a present for my mum.",
+    "answers": [
+      "I want to buy a present for my mum."
+    ]
+  },
+  {
+    "id": "en:exercise:33f8c8a670b279c3",
+    "lang": "en",
+    "type": "listen-choose",
+    "skill": "pronunciation",
+    "level": "A1",
+    "prompt": "fifteen",
+    "choices": [
+      "fifteen",
+      "fifty",
+      "five"
+    ],
+    "answers": [
+      "fifteen"
+    ],
+    "explanationVi": "fifteen nhấn âm sau (fif-TEEN), fifty nhấn âm đầu (FIF-ty)."
+  },
+  {
+    "id": "en:exercise:7d236c0ca8c7756e",
+    "lang": "en",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "A1",
+    "prompt": "Lan goes to a clothes shop. The shirt is twelve dollars and the shoes are thirty dollars. She has forty dollars.\n\nLan có đủ tiền mua cả hai không?",
+    "choices": [
+      "Yes, she does.",
+      "No, she doesn't."
+    ],
+    "answers": [
+      "No, she doesn't."
+    ],
+    "explanationVi": "12 + 30 = 42 đô, Lan chỉ có 40 đô."
+  },
+  {
+    "id": "en:exercise:055a4acb38cc9d8d",
+    "lang": "en",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Bạn kể với bạn thân rằng cái áo bạn mua giá 100 đô mà chất lượng tệ. Câu nào tự nhiên?",
+    "choices": [
+      "It was a rip-off!",
+      "It was a bargain.",
+      "It was very cheap."
+    ],
+    "answers": [
+      "It was a rip-off!"
+    ],
+    "explanationVi": "a bargain là mua được giá hời, ngược nghĩa với a rip-off."
+  }
+]

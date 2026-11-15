@@ -1,0 +1,23 @@
+{
+  "id": "zh-hant-HSK1-time",
+  "lang": "zh-hant",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "time",
+  "title": "Giờ, ngày, thứ",
+  "requires": [],
+  "itemIds": [
+    "zh-hant:word:582687b9b18d604c",
+    "zh-hant:word:a75c676b404ad608",
+    "zh-hant:word:7fc36701b8270567",
+    "zh-hant:word:de3c46e6081f5330",
+    "zh-hant:word:d1927551b7772cd9",
+    "zh-hant:word:aea5212c37f9b632",
+    "zh-hant:word:77dbe14122fb3400",
+    "zh-hant:word:17bd2d5efbf94bae",
+    "zh-hant:word:2c1902690cadb5dd",
+    "zh-hant:word:cb66db6d4e2f3190",
+    "zh-hant:word:6779f00f2de10e19",
+    "zh-hant:word:6b5d31ac507b3c3e"
+  ]
+}

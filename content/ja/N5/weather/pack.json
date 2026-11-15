@@ -1,0 +1,26 @@
+{
+  "id": "ja-N5-weather",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "weather",
+  "title": "Thời tiết và mùa",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:a254bf5d7df21571",
+    "ja:word:ed61dd6ecced4666",
+    "ja:word:c4080e23192ca346",
+    "ja:word:b3258d27410ed646",
+    "ja:word:666f90001783d914",
+    "ja:word:e72caf0d7e538991",
+    "ja:word:a921b72a3ef5dd43",
+    "ja:word:b9c02b6394384a6f",
+    "ja:word:fe6aca901b7b6c30",
+    "ja:word:6ed377ffd96e2b28",
+    "ja:word:b643f278646bb826",
+    "ja:word:a063708b5896c6e4",
+    "ja:word:86c6f05879410bc1"
+  ]
+}

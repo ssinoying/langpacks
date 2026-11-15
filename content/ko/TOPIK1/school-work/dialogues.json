@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ko:dialogue:a8d9411f6528620c",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Hỏi về việc học và công việc",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "선배",
+        "text": "민 씨는 학생이에요? 회사원이에요?",
+        "translationVi": "Minh là sinh viên hay nhân viên công ty?",
+        "options": [
+          {
+            "answers": [
+              "학생이에요. 대학교에서 공부해요.",
+              "저는 학생이에요."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "회사원이에요. 회사에서 일해요.",
+              "저는 회사원이에요."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "선배",
+        "text": "무엇을 공부해요?",
+        "translationVi": "Bạn học ngành gì?",
+        "options": [
+          {
+            "answers": [
+              "한국어를 공부해요.",
+              "경영학을 공부해요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "선배",
+        "text": "회사가 어디에 있어요?",
+        "translationVi": "Công ty ở đâu?",
+        "options": [
+          {
+            "answers": [
+              "강남에 있어요.",
+              "서울에 있어요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "선배",
+        "text": "힘내세요! 화이팅!",
+        "translationVi": "Cố lên nhé!"
+      }
+    }
+  }
+]

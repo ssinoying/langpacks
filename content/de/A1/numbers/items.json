@@ -1,0 +1,159 @@
+[
+  {
+    "id": "de:sentence:839c9ae39e2217aa",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wie alt bist du?",
+    "meaningVi": "Bạn bao nhiêu tuổi?",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:26aae127e5e336ed",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich bin zwanzig Jahre alt.",
+    "meaningVi": "Tôi hai mươi tuổi.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:2b680f82cb517c0a",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Mein Opa ist achtzig Jahre alt.",
+    "meaningVi": "Ông tôi tám mươi tuổi.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:e970f7d7cee17782",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Meine Tochter ist noch jung.",
+    "meaningVi": "Con gái tôi còn nhỏ.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:865f49e14900e26e",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wie viele Kinder haben Sie?",
+    "meaningVi": "Ông/bà có mấy con?",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:0e58ea0e35d1bab3",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wir haben zwei Kinder.",
+    "meaningVi": "Chúng tôi có hai con.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:d9f9f53c4f6b4d4b",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Heute ist mein Geburtstag.",
+    "meaningVi": "Hôm nay là sinh nhật tôi.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:38cfc4c4a5fe427b",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Bitte schreiben Sie hier Ihr Alter.",
+    "meaningVi": "Xin ông/bà ghi tuổi vào đây.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:0fb49c29abada7f9",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Haben Sie ein Handy?",
+    "meaningVi": "Ông/bà có điện thoại di động không?",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:cccbfaf3bd69681a",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Die Nummer ist sieben, drei, neun, zwei.",
+    "meaningVi": "Số là bảy, ba, chín, hai.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:sentence:e898a4e54b2b8385",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wo ist das Telefon?",
+    "meaningVi": "Điện thoại ở đâu?",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:grammar:4e041eef299c2c2b",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Hỏi tuổi: Wie alt bist du? – Ich bin … Jahre alt",
+    "explanationVi": "Tiếng Đức nói tuổi bằng sein + alt: Ich bin zwanzig Jahre alt (nghĩa đen: tôi là 20 năm già). Tiếng Việt chỉ nói \"tôi 20 tuổi\", không có động từ; người Việt hay quên bin. Có thể bỏ Jahre alt: Ich bin zwanzig.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:grammar:33fd6227d7345179",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Chia sein và haben",
+    "explanationVi": "Hai động từ bất quy tắc dùng nhiều nhất. sein: ich bin, du bist, er/sie ist, wir/Sie sind. haben: ich habe, du hast, er/sie hat, wir/Sie haben. Tiếng Việt \"là\", \"có\" không đổi, tiếng Đức đổi theo ngôi.",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "de:slang:b05f5a6f26cbff1f",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Alter!",
+    "meaningVi": "Trời ơi! / Ê mày!",
+    "explanationVi": "Giới trẻ dùng để gọi bạn hoặc tỏ ra ngạc nhiên, không liên quan đến tuổi. Không dùng với người lớn, thầy cô.",
+    "register": "slang",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "numbers"
+    ]
+  }
+]

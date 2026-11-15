@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ko:exercise:170809126bffdc44",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "제 취미는 사진 찍___예요. (danh từ hóa)",
+    "choices": [
+      "기",
+      "고",
+      "지"
+    ],
+    "answers": [
+      "기"
+    ],
+    "explanationVi": "찍다 → 찍기 (việc chụp)."
+  },
+  {
+    "id": "ko:exercise:c559376def2bc13a",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "시간이 있___ 책을 읽어요. (nếu)",
+    "choices": [
+      "으면",
+      "면",
+      "지만"
+    ],
+    "answers": [
+      "으면"
+    ],
+    "explanationVi": "있 có patchim nên dùng -으면."
+  },
+  {
+    "id": "ko:exercise:186b0cf4081d75a3",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "___가 뭐예요? (sở thích)",
+    "answers": [
+      "취미"
+    ],
+    "explanationVi": "취미 = thú vị (趣味) Hán Việt."
+  },
+  {
+    "id": "ko:exercise:d334f231a17759d3",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "싫어해요 / 수영은 / 좋아하지만 / 축구는",
+    "answers": [
+      "축구는 좋아하지만 수영은 싫어해요."
+    ]
+  },
+  {
+    "id": "ko:exercise:17c93bc56f499fc8",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Sở thích của bạn là gì?",
+    "answers": [
+      "취미가 뭐예요?",
+      "취미가 무엇이에요?",
+      "취미는 뭐예요?"
+    ]
+  },
+  {
+    "id": "ko:exercise:726bb3e668678bcc",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "주말에 친구하고 영화를 봐요.",
+    "answers": [
+      "주말에 친구하고 영화를 봐요."
+    ]
+  },
+  {
+    "id": "ko:exercise:d4e230d11b9c4889",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "매일 아침 운동을 해요.",
+    "answers": [
+      "매일 아침 운동을 해요."
+    ]
+  },
+  {
+    "id": "ko:exercise:031837e826fe659a",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "등산",
+    "choices": [
+      "등산",
+      "수영",
+      "축구"
+    ],
+    "answers": [
+      "등산"
+    ],
+    "explanationVi": "등산 = đăng sơn (lên núi)."
+  },
+  {
+    "id": "ko:exercise:431a8aa27825e0f5",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "저는 운동을 좋아해요. 주말에는 축구를 해요. 그런데 수영은 싫어해요.\n\n이 사람이 싫어하는 운동은 뭐예요?",
+    "choices": [
+      "축구",
+      "수영",
+      "등산"
+    ],
+    "answers": [
+      "수영"
+    ]
+  },
+  {
+    "id": "ko:exercise:7672ea4fef60297b",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Bạn mới quen hỏi cuối tuần bạn thường làm gì. Câu trả lời nào hợp?",
+    "choices": [
+      "주말에 친구하고 영화를 봐요.",
+      "취미가 뭐예요?",
+      "여기에서 멀어요?"
+    ],
+    "answers": [
+      "주말에 친구하고 영화를 봐요."
+    ]
+  }
+]

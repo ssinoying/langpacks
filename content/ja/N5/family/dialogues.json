@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ja:dialogue:ef4e52cfa7361938",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Kể về gia đình",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "佐藤",
+        "text": "ミンさんは兄弟がいますか。",
+        "translationVi": "Anh Minh có anh chị em không?",
+        "options": [
+          {
+            "answers": [
+              "はい、姉が一人います。",
+              "姉が一人います。"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "いいえ、いません。",
+              "一人っ子です。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "佐藤",
+        "text": "お姉さんは何をしていますか。",
+        "translationVi": "Chị gái anh làm nghề gì?",
+        "options": [
+          {
+            "answers": [
+              "先生です。",
+              "姉は先生です。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "佐藤",
+        "text": "そうですか。ご両親はベトナムですか。",
+        "translationVi": "Vậy à. Bố mẹ anh ở Việt Nam à?",
+        "options": [
+          {
+            "answers": [
+              "はい、両親はベトナムに住んでいます。",
+              "はい、そうです。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "佐藤",
+        "text": "いいですね。",
+        "translationVi": "Hay quá nhỉ."
+      }
+    }
+  }
+]

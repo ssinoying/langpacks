@@ -1,0 +1,141 @@
+[
+  {
+    "id": "ja:exercise:6a719c89c73f38e1",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "りんごを___ください。(ba quả)",
+    "answers": [
+      "三つ",
+      "みっつ"
+    ],
+    "explanationVi": "Đồ vật đếm bằng ～つ, số đứng sau を."
+  },
+  {
+    "id": "ja:exercise:776ee9aa62a49d05",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "子供は三___です。(tuổi)",
+    "answers": [
+      "歳",
+      "さい"
+    ]
+  },
+  {
+    "id": "ja:exercise:68fcfe2f69bf72ed",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "電話___は何番ですか。(số)",
+    "answers": [
+      "番号",
+      "ばんごう"
+    ]
+  },
+  {
+    "id": "ja:exercise:a0f32911647fa578",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "ください / パンを / 一つ",
+    "answers": [
+      "パンを一つください。"
+    ],
+    "explanationVi": "Số lượng đứng sau danh từ + を, trước động từ."
+  },
+  {
+    "id": "ja:exercise:7c158bde3fddb583",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Tôi hai mươi tuổi.",
+    "answers": [
+      "私は二十歳です。",
+      "わたしは二十歳です。",
+      "私ははたちです。",
+      "わたしははたちです。",
+      "二十歳です。",
+      "はたちです。"
+    ],
+    "explanationVi": "20 tuổi đọc đặc biệt là はたち."
+  },
+  {
+    "id": "ja:exercise:31d116a322254387",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "一人で来ました。",
+    "answers": [
+      "一人で来ました。",
+      "ひとりで来ました。",
+      "ひとりできました。"
+    ]
+  },
+  {
+    "id": "ja:exercise:5e15d2ffd4101969",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "電話番号は何番ですか。",
+    "answers": [
+      "電話番号は何番ですか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:bdc1cf971bdfcbbb",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "ふたつ",
+    "choices": [
+      "一つ",
+      "二つ",
+      "三つ"
+    ],
+    "answers": [
+      "二つ"
+    ]
+  },
+  {
+    "id": "ja:exercise:c00ac8d0944459b6",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "ミンさんは二十歳です。妹は十五歳です。\n\nミンさんの妹はいくつですか。",
+    "choices": [
+      "十五歳",
+      "二十歳",
+      "三歳"
+    ],
+    "answers": [
+      "十五歳"
+    ]
+  },
+  {
+    "id": "ja:exercise:01df97a568558fae",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Ở quán cà phê, bạn muốn gọi hai cốc cà phê. Câu nào đúng?",
+    "choices": [
+      "コーヒーを二つください。",
+      "コーヒーを二人ください。",
+      "二つコーヒーです。"
+    ],
+    "answers": [
+      "コーヒーを二つください。"
+    ],
+    "explanationVi": "二人 dùng để đếm người; đồ vật đếm bằng ～つ và đặt sau を."
+  }
+]

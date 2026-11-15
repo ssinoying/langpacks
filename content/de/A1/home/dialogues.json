@@ -1,0 +1,72 @@
+[
+  {
+    "id": "de:dialogue:b2ff080ed55d1f9e",
+    "lang": "de",
+    "level": "A1",
+    "title": "Xem căn hộ thuê",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Vermieter",
+        "text": "Hier ist die Wohnung. Sie hat zwei Zimmer.",
+        "translationVi": "Đây là căn hộ. Có hai phòng.",
+        "options": [
+          {
+            "answers": [
+              "Ist die Küche groß?",
+              "Wie groß ist die Küche?"
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Wie hoch ist die Miete?",
+              "Was kostet die Wohnung?"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Vermieter",
+        "text": "Ja, und es gibt auch einen Balkon.",
+        "translationVi": "Có, và còn có ban công nữa.",
+        "options": [
+          {
+            "answers": [
+              "Toll! Wie hoch ist die Miete?",
+              "Wie hoch ist die Miete?"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Vermieter",
+        "text": "Die Miete ist siebenhundert Euro im Monat.",
+        "translationVi": "Tiền thuê là bảy trăm euro một tháng.",
+        "options": [
+          {
+            "answers": [
+              "Gut, ich nehme die Wohnung.",
+              "Das ist okay."
+            ],
+            "next": "end"
+          },
+          {
+            "answers": [
+              "Das ist zu teuer.",
+              "Zu teuer, leider."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Vermieter",
+        "text": "Gut, dann telefonieren wir morgen.",
+        "translationVi": "Được, vậy mai mình gọi điện nhé."
+      }
+    }
+  }
+]

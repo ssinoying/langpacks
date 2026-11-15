@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ko:sentence:c033a90aa27319cc",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "배고파요. 밥 먹으러 가요.",
+    "meaningVi": "Đói quá. Đi ăn cơm thôi.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:0b968f35a55e1539",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "커피 마시러 카페에 가요.",
+    "meaningVi": "Tôi đến quán cà phê để uống cà phê.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:2f85283a2af69eca",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "이 식당은 비빔밥이 맛있어요.",
+    "meaningVi": "Quán này bibimbap ngon.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:7a52370af8450ad1",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "김치가 너무 매워요.",
+    "meaningVi": "Kim chi cay quá.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:4f2c0e7645e74ad5",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "커피 한 잔 마실래요?",
+    "meaningVi": "Uống một cốc cà phê không?",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:f1aeee48208ba9f1",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "여기 물 좀 주세요.",
+    "meaningVi": "Cho tôi xin chút nước.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:caeac0addb131ade",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "메뉴 좀 보여 주세요.",
+    "meaningVi": "Cho tôi xem thực đơn.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:481ef25770f5459c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "한국 음식을 좋아해요.",
+    "meaningVi": "Tôi thích món ăn Hàn Quốc.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:88324b9ec19f00ce",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저는 매운 음식을 못 먹어요.",
+    "meaningVi": "Tôi không ăn được đồ cay.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:db85d95a0933c539",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "잘 먹겠습니다!",
+    "meaningVi": "Tôi xin phép ăn ạ! (nói trước bữa ăn)",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:sentence:4983f5b0320c7117",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "맛있게 드세요.",
+    "meaningVi": "Chúc ngon miệng.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:grammar:c03fe59044d56036",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "V-(으)러 가요 (đi để làm gì)",
+    "explanationVi": "Gắn vào động từ để nói mục đích của việc đi: 먹으러 가요 = đi (để) ăn. Có patchim dùng -으러, không có dùng -러. Thứ tự ngược tiếng Việt: việc cần làm đứng trước, 가요 đứng cuối.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:grammar:4d3983974fe539fb",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "못 + V: không thể làm",
+    "explanationVi": "못 đứng trước động từ, nghĩa là không làm được (do không có khả năng), khác 안 là không muốn làm. 못 먹어요 = không ăn được; 안 먹어요 = không ăn.",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:slang:d9b49c283a67410a",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "존맛탱",
+    "meaningVi": "Ngon bá cháy.",
+    "explanationVi": "Lóng của giới trẻ, gốc có yếu tố thô tục (존-). Chỉ dùng với bạn thân, tuyệt đối không dùng với người lớn. Hay viết tắt là JMT.",
+    "register": "slang",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko:slang:f9537adece2dc635",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "배고파 죽겠어",
+    "meaningVi": "Đói chết mất.",
+    "explanationVi": "Cường điệu giống \"đói chết đi được\" trong tiếng Việt, nói với bạn bè.",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "food"
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ko:exercise:4a6a4dc0c9c866a6",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "저는 ___ 살이에요. (20)",
+    "choices": [
+      "스무",
+      "스물",
+      "이십",
+      "두"
+    ],
+    "answers": [
+      "스무"
+    ],
+    "explanationVi": "Tuổi dùng số thuần Hàn; trước đơn vị đếm 스물 rút thành 스무."
+  },
+  {
+    "id": "ko:exercise:88ed66945eb095f1",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "동생은 ___ 살이에요? (mấy)",
+    "answers": [
+      "몇"
+    ]
+  },
+  {
+    "id": "ko:exercise:8c876d886638f3d3",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "우리 반에 학생이 열 ___ 있어요. (người)",
+    "choices": [
+      "명",
+      "살",
+      "번",
+      "개"
+    ],
+    "answers": [
+      "명"
+    ],
+    "explanationVi": "명 là đơn vị đếm người, 살 đếm tuổi, 개 đếm đồ vật."
+  },
+  {
+    "id": "ko:exercise:80c4772cd737b89c",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "있어요 / 열 명 / 학생이 / 우리 반에",
+    "answers": [
+      "우리 반에 학생이 열 명 있어요."
+    ],
+    "explanationVi": "Danh từ (학생이) đứng trước số và đơn vị đếm (열 명)."
+  },
+  {
+    "id": "ko:exercise:5b54aff9ccd12293",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Tôi hai mươi tuổi.",
+    "answers": [
+      "저는 스무 살이에요.",
+      "스무 살이에요.",
+      "저는 스무 살입니다."
+    ],
+    "explanationVi": "Không nói *이십 살: tuổi dùng số thuần Hàn."
+  },
+  {
+    "id": "ko:exercise:10774cb6a9429d20",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "전화번호가 몇 번이에요?",
+    "answers": [
+      "전화번호가 몇 번이에요?"
+    ]
+  },
+  {
+    "id": "ko:exercise:b117e47ccaedc850",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "하나, 둘, 셋, 넷, 다섯!",
+    "answers": [
+      "하나, 둘, 셋, 넷, 다섯!"
+    ]
+  },
+  {
+    "id": "ko:exercise:4322e305e556d934",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "서른",
+    "choices": [
+      "서른",
+      "스물",
+      "마흔",
+      "열"
+    ],
+    "answers": [
+      "서른"
+    ],
+    "explanationVi": "서른 = 30, 스물 = 20, 마흔 = 40."
+  },
+  {
+    "id": "ko:exercise:9a2d89ef516b4541",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Hỏi tuổi một người lớn tuổi hơn mới gặp. Câu nào lịch sự?",
+    "choices": [
+      "몇 살이야?",
+      "나이가 어떻게 되세요?",
+      "몇 명이에요?"
+    ],
+    "answers": [
+      "나이가 어떻게 되세요?"
+    ],
+    "explanationVi": "몇 살이야? là nói trống không, chỉ dùng với bạn bè."
+  },
+  {
+    "id": "ko:exercise:2b446b97e36773bb",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "저는 민이에요. 스무 살이에요. 형은 서른 살이에요.\n\n형은 몇 살이에요?",
+    "choices": [
+      "스무 살",
+      "서른 살",
+      "열 살"
+    ],
+    "answers": [
+      "서른 살"
+    ]
+  }
+]

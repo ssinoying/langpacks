@@ -1,0 +1,173 @@
+[
+  {
+    "id": "de:sentence:322d6d6a50bdd175",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wie ist das Wetter heute?",
+    "meaningVi": "Hôm nay thời tiết thế nào?",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:7e77457f813bf81b",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Heute ist schönes Wetter.",
+    "meaningVi": "Hôm nay trời đẹp.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:658a5ea7c1ee2d42",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Die Sonne scheint.",
+    "meaningVi": "Trời nắng.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:5a78ca89a2fcf33e",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Es regnet schon wieder.",
+    "meaningVi": "Lại mưa nữa rồi.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:f3d44bf103fa4109",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich mag keinen Regen.",
+    "meaningVi": "Tôi không thích mưa.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:f651bb395b0b602e",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Heute ist es sehr kalt.",
+    "meaningVi": "Hôm nay trời rất lạnh.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:30639827a805e26d",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Im Sommer ist es warm.",
+    "meaningVi": "Mùa hè trời ấm.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:ff65da98923e27be",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Im Winter schneit es oft.",
+    "meaningVi": "Mùa đông hay có tuyết.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:71a86a63bf564609",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Der Wind ist sehr stark.",
+    "meaningVi": "Gió rất mạnh.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:1364ad4b7d843e62",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Draußen ist es windig.",
+    "meaningVi": "Bên ngoài có gió.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:sentence:6ebf25f29c30341a",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Das Wetter ist schlecht, wir bleiben zu Hause.",
+    "meaningVi": "Trời xấu, chúng tôi ở nhà.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:grammar:8bbe27d5000f3c7b",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Chủ ngữ es: Es regnet. Es ist kalt.",
+    "explanationVi": "Tiếng Việt nói \"trời mưa\", \"trời lạnh\", hoặc chỉ \"mưa rồi\". Tiếng Đức bắt buộc có chủ ngữ es: Es regnet, Es ist kalt. Không nói *Ist kalt hay *Regnet.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:grammar:8d468145836fdf9b",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "im + mùa; động từ đứng thứ hai",
+    "explanationVi": "Vào mùa nào dùng im: im Sommer, im Winter. Đưa im Sommer lên đầu câu thì động từ vẫn ở vị trí thứ hai, es ra sau: Im Sommer ist es warm. Tiếng Việt không đảo như vậy.",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:slang:ea40b70f4840b34c",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Sauwetter",
+    "meaningVi": "thời tiết tệ hại",
+    "explanationVi": "Chê trời rất xấu (mưa, lạnh, gió): So ein Sauwetter! Nói với bạn bè, không dùng trong văn viết.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "de:slang:f5c279077e11bfb0",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Es schüttet!",
+    "meaningVi": "Mưa như trút!",
+    "explanationVi": "Nói khi mưa rất to, nghĩa đen là trời đang đổ nước.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "weather"
+    ]
+  }
+]

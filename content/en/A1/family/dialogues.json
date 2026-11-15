@@ -1,0 +1,85 @@
+[
+  {
+    "id": "en:dialogue:bd4cea6e8cadceeb",
+    "lang": "en",
+    "level": "A1",
+    "title": "Xem ảnh gia đình",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Sam",
+        "text": "Is this your family?",
+        "translationVi": "Đây là gia đình bạn à?",
+        "options": [
+          {
+            "answers": [
+              "Yes, it is.",
+              "Yes.",
+              "Yes, this is my family."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "No, it's my friend's family.",
+              "No, it isn't."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Sam",
+        "text": "Who is this man?",
+        "translationVi": "Người đàn ông này là ai?",
+        "options": [
+          {
+            "answers": [
+              "He's my father.",
+              "He is my father.",
+              "That's my father.",
+              "My father."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Sam",
+        "text": "Oh! And you? Do you have a big family?",
+        "translationVi": "Ồ! Còn bạn? Nhà bạn đông người không?",
+        "options": [
+          {
+            "answers": [
+              "No, there are three people.",
+              "No, it's small.",
+              "Yes, there are six people."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "Sam",
+        "text": "He looks young! What does he do?",
+        "translationVi": "Trông bác ấy trẻ quá! Bác ấy làm nghề gì?",
+        "options": [
+          {
+            "answers": [
+              "He's a doctor.",
+              "He is a doctor.",
+              "He's a teacher.",
+              "He is a teacher."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Sam",
+        "text": "Cool. Nice photo!",
+        "translationVi": "Hay quá. Ảnh đẹp ghê!"
+      }
+    }
+  }
+]

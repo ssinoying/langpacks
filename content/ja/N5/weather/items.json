@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ja:sentence:4541f1c8e707053b",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "今日はいい天気ですね。",
+    "meaningVi": "Hôm nay trời đẹp nhỉ.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:sentence:0628f05335c72cf2",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "明日は雨が降ります。",
+    "meaningVi": "Ngày mai trời mưa.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:sentence:2cffb3aad17366e0",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "北海道は冬に雪がたくさん降ります。",
+    "meaningVi": "Ở Hokkaido mùa đông tuyết rơi nhiều.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:sentence:e772874c413f1a90",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "東京の夏はとても暑いです。",
+    "meaningVi": "Mùa hè ở Tokyo rất nóng.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:sentence:16da48e9b56fcc24",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "今朝は寒かったです。",
+    "meaningVi": "Sáng nay trời lạnh.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:sentence:4678f368f7097f2b",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "春は暖かいです。",
+    "meaningVi": "Mùa xuân ấm áp.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:sentence:b0c38f4694e85fb9",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "秋は涼しくて、いい季節です。",
+    "meaningVi": "Mùa thu mát mẻ, là mùa đẹp.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:sentence:0a79446b7693618f",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "明日は晴れでしょう。",
+    "meaningVi": "Ngày mai có lẽ trời nắng.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:sentence:fa18c2c159585c80",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "ハノイは暑くないですか。",
+    "meaningVi": "Hà Nội không nóng à?",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:sentence:926016127a65f1c9",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "傘を持っていますか。",
+    "meaningVi": "Bạn có mang ô không?",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:grammar:ce5375297c552e38",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "Tính từ đuôi い: quá khứ かった, phủ định くない",
+    "explanationVi": "Tiếng Việt thêm \"đã\", \"không\"; tiếng Nhật đổi đuôi tính từ: 寒い → 寒かった (đã lạnh), 暑い → 暑くない (không nóng). Lỗi hay gặp: nói *寒いでした.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:grammar:96bedeb51a19391d",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "雨が降ります: mưa \"rơi\"",
+    "explanationVi": "Tiếng Việt có động từ \"mưa\"; tiếng Nhật nói mưa / tuyết + が + 降ります (rơi): 雨が降ります = trời mưa.",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:slang:d0714d09c7ec9333",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "あつっ！",
+    "meaningVi": "Nóng quá!",
+    "explanationVi": "Rút gọn 暑い khi thốt lên. Chỉ nói một mình hoặc với bạn bè.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  },
+  {
+    "id": "ja:slang:016b4e2232b1f59e",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "ゲリラ豪雨",
+    "meaningVi": "Mưa rào bất chợt rất to.",
+    "explanationVi": "Báo chí và người dân dùng cho mưa lớn đột ngột mùa hè: ゲリラ豪雨に降られた.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "weather"
+    ]
+  }
+]

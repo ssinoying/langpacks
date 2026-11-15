@@ -1,0 +1,134 @@
+[
+  {
+    "id": "zh-hans:exercise:3b53fe4a067dc014",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我常常___朋友打球。(với)",
+    "answers": [
+      "和",
+      "跟"
+    ],
+    "explanationVi": "\"Với ai\" đứng trước động từ."
+  },
+  {
+    "id": "zh-hans:exercise:be1e773054c4102d",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "你的___是什么？(sở thích)",
+    "answers": [
+      "爱好"
+    ],
+    "explanationVi": "爱好 (ái hảo) = sở thích."
+  },
+  {
+    "id": "zh-hans:exercise:083fb5303cf1df72",
+    "lang": "zh-hans",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "打球 / 我 / 和朋友 / 常常",
+    "answers": [
+      "我常常和朋友打球。"
+    ],
+    "explanationVi": "常常 và 和朋友 đều đứng trước 打球."
+  },
+  {
+    "id": "zh-hans:exercise:64f24eb82cecb64b",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Tôi thích hát.",
+    "answers": [
+      "我喜欢唱歌。",
+      "我爱唱歌。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:be21b4351869b411",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Chúng ta cùng đi xem phim nhé.",
+    "answers": [
+      "我们一起去看电影吧。",
+      "一起去看电影吧。",
+      "我们去看电影吧。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:ac1da92e952a49d9",
+    "lang": "zh-hans",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "这首歌很好听。",
+    "answers": [
+      "这首歌很好听。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:bf7d7f32b184bb8c",
+    "lang": "zh-hans",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "你的爱好是什么？",
+    "answers": [
+      "你的爱好是什么？"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:ca88852ef10fdb7d",
+    "lang": "zh-hans",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "唱歌",
+    "choices": [
+      "唱歌",
+      "上课",
+      "打球"
+    ],
+    "answers": [
+      "唱歌"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:7bb3938c0a95b6fd",
+    "lang": "zh-hans",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Rủ bạn thân tối nay đi hát karaoke. Câu nào tự nhiên?",
+    "choices": [
+      "今晚去K歌吧！",
+      "您喜欢唱歌吗？",
+      "这首歌很好听。"
+    ],
+    "answers": [
+      "今晚去K歌吧！"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:2a1bfb00b793e303",
+    "lang": "zh-hans",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "小明的爱好是打球。他常常和朋友一起打球，不太喜欢上网。\n\n小明不太喜欢什么？",
+    "choices": [
+      "上网",
+      "打球",
+      "朋友"
+    ],
+    "answers": [
+      "上网"
+    ]
+  }
+]

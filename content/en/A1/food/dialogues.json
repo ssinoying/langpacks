@@ -1,0 +1,75 @@
+[
+  {
+    "id": "en:dialogue:5f60fe82c7a76cb9",
+    "lang": "en",
+    "level": "A1",
+    "title": "Gọi món ở quán",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Waiter",
+        "text": "Hi! What would you like?",
+        "translationVi": "Chào bạn! Bạn muốn dùng gì?",
+        "options": [
+          {
+            "answers": [
+              "Chicken and rice, please.",
+              "I'd like chicken and rice, please.",
+              "Chicken and rice."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Can I see the menu, please?",
+              "The menu, please."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Waiter",
+        "text": "Sure. Anything to drink?",
+        "translationVi": "Vâng. Bạn uống gì không?",
+        "options": [
+          {
+            "answers": [
+              "Water, please.",
+              "A glass of water, please.",
+              "Just water, please."
+            ],
+            "next": "end"
+          },
+          {
+            "answers": [
+              "A coffee, please.",
+              "Coffee, please."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Waiter",
+        "text": "Here you are. Our chicken is very good.",
+        "translationVi": "Đây ạ. Món gà của quán rất ngon.",
+        "options": [
+          {
+            "answers": [
+              "OK, chicken and rice, please.",
+              "Chicken and rice, please.",
+              "I'll have the chicken, please."
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Waiter",
+        "text": "Great. Enjoy your meal!",
+        "translationVi": "Vâng. Chúc bạn ngon miệng!"
+      }
+    }
+  }
+]

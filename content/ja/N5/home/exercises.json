@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ja:exercise:38f0fa81c202d320",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "机の___に本があります。(trên)",
+    "choices": [
+      "上",
+      "下",
+      "横"
+    ],
+    "answers": [
+      "上"
+    ],
+    "explanationVi": "Tiếng Nhật nói \"bàn の trên\" = trên bàn."
+  },
+  {
+    "id": "ja:exercise:0222c49a9fb98000",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "椅子の下に猫が___。",
+    "choices": [
+      "います",
+      "あります"
+    ],
+    "answers": [
+      "います"
+    ],
+    "explanationVi": "Con vật dùng います."
+  },
+  {
+    "id": "ja:exercise:aadf8b664e9bee9f",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "毎晩___に入ります。(bồn tắm)",
+    "answers": [
+      "お風呂",
+      "おふろ"
+    ],
+    "explanationVi": "Tắm bồn là お風呂に入る (\"vào\" bồn tắm)."
+  },
+  {
+    "id": "ja:exercise:0cff635bc0fcb6c3",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "冷蔵庫が / 台所に / あります",
+    "answers": [
+      "台所に冷蔵庫があります。"
+    ]
+  },
+  {
+    "id": "ja:exercise:d792d6b01f910551",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Nhà vệ sinh ở đâu?",
+    "answers": [
+      "トイレはどこですか。",
+      "お手洗いはどこですか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:2c01d21011848ce5",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "窓を開けてもいいですか。",
+    "answers": [
+      "窓を開けてもいいですか。",
+      "まどをあけてもいいですか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:7d4f9860bd1dcf8c",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "毎晩お風呂に入ります。",
+    "answers": [
+      "毎晩お風呂に入ります。"
+    ]
+  },
+  {
+    "id": "ja:exercise:1c397198e04b039c",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "だいどころ",
+    "choices": [
+      "台所",
+      "部屋",
+      "窓"
+    ],
+    "answers": [
+      "台所"
+    ]
+  },
+  {
+    "id": "ja:exercise:56736f0c5301ae47",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "ミンさんのアパートは狭いですが、駅から近いです。部屋にベッドと机があります。\n\nミンさんのアパートはどうですか。",
+    "choices": [
+      "広いです",
+      "駅から近いです",
+      "駅から遠いです"
+    ],
+    "answers": [
+      "駅から近いです"
+    ],
+    "explanationVi": "狭い là hẹp, ngược với 広い."
+  },
+  {
+    "id": "ja:exercise:6cb0185ce2531cb6",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Đến chơi nhà người Nhật, thấy phòng rất rộng. Bạn khen thế nào?",
+    "choices": [
+      "広いお部屋ですね。",
+      "狭い部屋ですね。",
+      "部屋はどこですか。"
+    ],
+    "answers": [
+      "広いお部屋ですね。"
+    ]
+  }
+]

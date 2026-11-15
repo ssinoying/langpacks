@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ja:sentence:52f0989b0efe5b6b",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "私の家族は四人です。",
+    "meaningVi": "Gia đình tôi có bốn người.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:sentence:dc46a7749394a3dc",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "父は医者です。",
+    "meaningVi": "Bố tôi là bác sĩ.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:sentence:6e1bb4ae3dfe604d",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "母は料理が上手です。",
+    "meaningVi": "Mẹ tôi nấu ăn giỏi.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:sentence:313c232053da750c",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "兄弟はいますか。",
+    "meaningVi": "Bạn có anh chị em không?",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:sentence:7f679e807e034cb8",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "兄が一人と妹が一人います。",
+    "meaningVi": "Tôi có một anh trai và một em gái.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:sentence:bf55f1932a2d81f2",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "姉は東京に住んでいます。",
+    "meaningVi": "Chị gái tôi sống ở Tokyo.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:sentence:2fed6b1bf5ebf86f",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "弟はまだ高校生です。",
+    "meaningVi": "Em trai tôi vẫn còn là học sinh cấp ba.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:sentence:e161d4f0903aaf15",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "お父さんはお元気ですか。",
+    "meaningVi": "Bố bạn có khỏe không?",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:sentence:e2e791f63cd0c558",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "お母さん、ただいま。",
+    "meaningVi": "Mẹ ơi, con về rồi.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:sentence:878fff0f572bc89f",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "両親はベトナムに住んでいます。",
+    "meaningVi": "Bố mẹ tôi sống ở Việt Nam.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:grammar:5d9476d2217254d3",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "Gọi người nhà: 父, 母 và お父さん, お母さん",
+    "explanationVi": "Nói về nhà mình với người ngoài dùng 父, 母, 兄, 姉. Nói về nhà người khác hoặc gọi trực tiếp dùng お父さん, お母さん. Tiếng Việt chỉ có \"bố\", \"mẹ\" và thêm \"tôi\", \"bạn\"; tiếng Nhật đổi hẳn từ.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:grammar:ba2bca7e40605ae6",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "N が います: có (người, con vật)",
+    "explanationVi": "Tiếng Việt dùng chung \"có\". Tiếng Nhật: người và con vật dùng います, đồ vật dùng あります. 兄が一人います = Tôi có một anh trai.",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:slang:478a4a39148432db",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "おかん",
+    "meaningVi": "Mẹ (giọng Kansai, thân mật).",
+    "explanationVi": "Nam giới trẻ hay gọi mẹ mình như vậy khi nói với bạn bè. Không dùng cho mẹ người khác.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja:slang:889d6d6de974fb80",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "パパ",
+    "meaningVi": "Bố (kiểu gia đình, trẻ con).",
+    "explanationVi": "Trẻ nhỏ gọi bố là パパ. Người lớn nói với người ngoài thì dùng 父.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "family"
+    ]
+  }
+]

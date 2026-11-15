@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ja:exercise:faf96995ffff5a1e",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "___シャツはいくらですか。(này)",
+    "choices": [
+      "この",
+      "これ",
+      "ここ"
+    ],
+    "answers": [
+      "この"
+    ],
+    "explanationVi": "Trước danh từ dùng この; これ đứng một mình."
+  },
+  {
+    "id": "ja:exercise:bf08277c158293be",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "デパート___買い物をしました。",
+    "choices": [
+      "で",
+      "に",
+      "を",
+      "へ"
+    ],
+    "answers": [
+      "で"
+    ],
+    "explanationVi": "Nơi diễn ra hành động dùng で."
+  },
+  {
+    "id": "ja:exercise:174c8d34bf40c859",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "N5",
+    "prompt": "この靴を___。(mua)",
+    "answers": [
+      "買います",
+      "かいます"
+    ]
+  },
+  {
+    "id": "ja:exercise:eeb68245ce78a8a7",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "いくら / これは / ですか",
+    "answers": [
+      "これはいくらですか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:aee95c89400beea8",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Tôi mua đôi giày này.",
+    "answers": [
+      "この靴を買います。",
+      "このくつをかいます。",
+      "この靴をください。"
+    ]
+  },
+  {
+    "id": "ja:exercise:f952b87621d5aee1",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "財布を忘れました。",
+    "answers": [
+      "財布を忘れました。",
+      "さいふをわすれました。"
+    ]
+  },
+  {
+    "id": "ja:exercise:1575dfe3c747621e",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "もう少し安いのはありますか。",
+    "answers": [
+      "もう少し安いのはありますか。"
+    ]
+  },
+  {
+    "id": "ja:exercise:9fd88bc42df641ec",
+    "lang": "ja",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "やすい",
+    "choices": [
+      "安い",
+      "高い",
+      "古い"
+    ],
+    "answers": [
+      "安い"
+    ]
+  },
+  {
+    "id": "ja:exercise:af4bde3841526d58",
+    "lang": "ja",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "N5",
+    "prompt": "シャツは二千円です。靴は八千円です。ミンさんはお金が五千円あります。\n\nミンさんは何を買いますか。",
+    "choices": [
+      "シャツ",
+      "靴",
+      "シャツと靴"
+    ],
+    "answers": [
+      "シャツ"
+    ],
+    "explanationVi": "Có 5000 yên thì chỉ đủ mua áo sơ mi 2000 yên."
+  },
+  {
+    "id": "ja:exercise:b572b4377979e155",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Ở cửa hàng, giá hơi đắt và bạn muốn hỏi món rẻ hơn. Câu nào lịch sự?",
+    "choices": [
+      "高っ！",
+      "もう少し安いのはありますか。",
+      "お金がありません。"
+    ],
+    "answers": [
+      "もう少し安いのはありますか。"
+    ],
+    "explanationVi": "高っ！ chỉ nói với bạn bè, nói với người bán nghe bất lịch sự."
+  }
+]

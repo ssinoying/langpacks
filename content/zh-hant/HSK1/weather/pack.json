@@ -1,0 +1,23 @@
+{
+  "id": "zh-hant-HSK1-weather",
+  "lang": "zh-hant",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "weather",
+  "title": "Thời tiết và mùa",
+  "requires": [],
+  "itemIds": [
+    "zh-hant:word:3f1a6c65e9e59a41",
+    "zh-hant:word:11f51ebf5b2ea676",
+    "zh-hant:word:11bfd2ed8bc41f82",
+    "zh-hant:word:28993f4ce9732b84",
+    "zh-hant:word:9a3840b8a0a5d9ec",
+    "zh-hant:word:7b5a6df6b740ac20",
+    "zh-hant:word:d5864639e43ebb9a",
+    "zh-hant:word:5df423602217ed85",
+    "zh-hant:word:ad0cb0dd31a04c79",
+    "zh-hant:word:44381b99e1e2dc15",
+    "zh-hant:word:60bb58e733f23015",
+    "zh-hant:word:78b7cdfd8915793e"
+  ]
+}

@@ -1,0 +1,144 @@
+[
+  {
+    "id": "ko:exercise:a581dd28502cc5b9",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "여름은 정말 ___. (덥다)",
+    "choices": [
+      "더워요",
+      "덥어요",
+      "더와요"
+    ],
+    "answers": [
+      "더워요"
+    ],
+    "explanationVi": "덥다 là bất quy tắc ㅂ: ㅂ → 우, 더 + 워요."
+  },
+  {
+    "id": "ko:exercise:dab0acf0c23ec903",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "날씨가 맑___ 따뜻해요. (và)",
+    "choices": [
+      "고",
+      "지만",
+      "아서"
+    ],
+    "answers": [
+      "고"
+    ]
+  },
+  {
+    "id": "ko:exercise:ca178a630d3a765b",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "___가 와요. 우산 있어요? (mưa)",
+    "answers": [
+      "비"
+    ],
+    "explanationVi": "Tiếng Hàn nói \"mưa đến\": 비가 와요."
+  },
+  {
+    "id": "ko:exercise:a1da9534d213208d",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "sentence",
+    "level": "TOPIK1",
+    "prompt": "좋아해요 / 계절을 / 어느",
+    "answers": [
+      "어느 계절을 좋아해요?"
+    ]
+  },
+  {
+    "id": "ko:exercise:0c24cc0dae12972b",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Mùa đông lạnh quá.",
+    "answers": [
+      "겨울에는 너무 추워요.",
+      "겨울은 너무 추워요.",
+      "겨울에 너무 추워요.",
+      "겨울은 정말 추워요.",
+      "겨울에는 정말 추워요."
+    ]
+  },
+  {
+    "id": "ko:exercise:c40c2b0f7ecb2147",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "바람이 불어서 시원해요.",
+    "answers": [
+      "바람이 불어서 시원해요."
+    ]
+  },
+  {
+    "id": "ko:exercise:d89dac8f45eaee84",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "봄은 따뜻하고 가을은 시원해요.",
+    "answers": [
+      "봄은 따뜻하고 가을은 시원해요."
+    ]
+  },
+  {
+    "id": "ko:exercise:c27a3fb490704374",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "추워요",
+    "choices": [
+      "추워요",
+      "더워요",
+      "좋아요"
+    ],
+    "answers": [
+      "추워요"
+    ]
+  },
+  {
+    "id": "ko:exercise:27f8cb04937c0d13",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "오늘은 날씨가 맑고 따뜻해요. 그런데 내일은 비가 올 거예요.\n\n내일 날씨는 어때요?",
+    "choices": [
+      "맑아요",
+      "비가 와요",
+      "추워요"
+    ],
+    "answers": [
+      "비가 와요"
+    ],
+    "explanationVi": "-(으)ㄹ 거예요 nói về dự đoán tương lai: sẽ mưa."
+  },
+  {
+    "id": "ko:exercise:f9c8c81e71f95a34",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Bạn của bạn sắp ra về, ngoài trời đang mưa. Bạn nói gì?",
+    "choices": [
+      "비가 와요. 우산 있어요?",
+      "날씨가 맑고 따뜻해요.",
+      "어느 계절을 좋아해요?"
+    ],
+    "answers": [
+      "비가 와요. 우산 있어요?"
+    ]
+  }
+]

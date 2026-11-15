@@ -1,0 +1,151 @@
+[
+  {
+    "id": "zh-hant:sentence:c8f3e3675ca1a49a",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "你的愛好是什麼？",
+    "meaningVi": "Sở thích của bạn là gì?",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:6b5c36268fba9577",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我喜歡唱歌。",
+    "meaningVi": "Tôi thích hát.",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:5317c45c9e23f413",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "這首歌很好聽。",
+    "meaningVi": "Bài hát này rất hay.",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:e6d79cd3cba3e3f5",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我們一起去看電影吧。",
+    "meaningVi": "Chúng ta cùng đi xem phim nhé.",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:5eab23b09a1d1520",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我常常和朋友打球。",
+    "meaningVi": "Tôi thường chơi bóng với bạn.",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:fec69bcffc8b14e4",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我爸爸喜歡讀書。",
+    "meaningVi": "Bố tôi thích đọc sách.",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:92cde805e4b57fa0",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "晚上我常常上網。",
+    "meaningVi": "Buổi tối tôi thường lên mạng.",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:e26a4d9ee7146699",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "週末你想去哪兒玩兒？",
+    "meaningVi": "Cuối tuần bạn muốn đi đâu chơi?",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:6cb9e0e99a6876cf",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我不太喜歡看電影。",
+    "meaningVi": "Tôi không thích xem phim lắm.",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:ed83be75dda68c92",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "喜歡 + động từ: thích làm gì",
+    "explanationVi": "喜歡 (hỉ hoan) + động từ, trật tự giống tiếng Việt: 我喜歡唱歌 = Tôi thích hát. Phủ định: 不喜歡; nói nhẹ hơn: 不太喜歡 = không thích lắm.",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:657ee2e9b9961338",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "和 + người (+ 一起) + động từ: làm gì với ai",
+    "explanationVi": "\"Chơi bóng với bạn\" là 我常常和朋友打球: \"với ai\" đứng TRƯỚC động từ, tiếng Việt để sau. 常常 (thường thường) cũng đứng trước động từ.",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:slang:6f9c4beaf0e22b21",
+    "lang": "zh-hant",
+    "kind": "slang",
+    "text": "追劇",
+    "meaningVi": "Cày phim bộ.",
+    "explanationVi": "追劇 = theo dõi phim bộ từng tập, thường thức khuya để xem. Dùng thân mật.",
+    "register": "slang",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "zh-hant:slang:890683ee08cae8cb",
+    "lang": "zh-hant",
+    "kind": "slang",
+    "text": "K歌",
+    "meaningVi": "Đi hát karaoke.",
+    "explanationVi": "去K歌吧 = đi hát karaoke đi. Rất phổ biến trong giới trẻ, dùng khi rủ bạn bè.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "hobbies"
+    ]
+  }
+]

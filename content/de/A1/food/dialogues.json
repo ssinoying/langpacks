@@ -1,0 +1,86 @@
+[
+  {
+    "id": "de:dialogue:a713d59fbd75ec22",
+    "lang": "de",
+    "level": "A1",
+    "title": "Gọi đồ uống ở quán cà phê",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Kellner",
+        "text": "Guten Tag! Was möchten Sie?",
+        "translationVi": "Xin chào! Quý khách dùng gì?",
+        "options": [
+          {
+            "answers": [
+              "Einen Kaffee, bitte.",
+              "Ich möchte einen Kaffee."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Ein Wasser, bitte.",
+              "Ich möchte ein Wasser."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Kellner",
+        "text": "Mit Milch?",
+        "translationVi": "Có sữa không ạ?",
+        "options": [
+          {
+            "answers": [
+              "Ja, bitte.",
+              "Ja, mit Milch."
+            ],
+            "next": "d"
+          },
+          {
+            "answers": [
+              "Nein, danke.",
+              "Ohne Milch."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Kellner",
+        "text": "Groß oder klein?",
+        "translationVi": "Lớn hay nhỏ ạ?",
+        "options": [
+          {
+            "answers": [
+              "Groß, bitte.",
+              "Klein, bitte."
+            ],
+            "next": "d"
+          }
+        ]
+      },
+      "d": {
+        "speaker": "Kellner",
+        "text": "Gern. Möchten Sie auch etwas essen?",
+        "translationVi": "Vâng. Quý khách có muốn ăn gì không?",
+        "options": [
+          {
+            "answers": [
+              "Nein, danke.",
+              "Ja, ein Brot, bitte."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Kellner",
+        "text": "Kommt sofort!",
+        "translationVi": "Có ngay ạ!"
+      }
+    }
+  }
+]

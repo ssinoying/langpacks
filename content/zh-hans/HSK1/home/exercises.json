@@ -1,0 +1,133 @@
+[
+  {
+    "id": "zh-hans:exercise:ef0127924c6314f5",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "电脑在桌子___。(trên)",
+    "answers": [
+      "上"
+    ],
+    "explanationVi": "Từ chỉ vị trí đứng sau danh từ: 桌子上."
+  },
+  {
+    "id": "zh-hans:exercise:18f1c7a3cde31375",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "你住___哪儿？(ở)",
+    "answers": [
+      "在"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:788e303dd86bb43f",
+    "lang": "zh-hans",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "旁边 / 洗手间 / 在 / 我房间",
+    "answers": [
+      "洗手间在我房间旁边。"
+    ],
+    "explanationVi": "旁边 đứng sau 我房间."
+  },
+  {
+    "id": "zh-hans:exercise:a28cc804e968b096",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Tôi sống ở Hà Nội.",
+    "answers": [
+      "我住在河内。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:d907fdeba5fdf817",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Nhà vệ sinh ở đâu?",
+    "answers": [
+      "洗手间在哪儿？",
+      "洗手间在哪里？",
+      "厕所在哪儿？",
+      "厕所在哪里？"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:0783ed09dbc3833c",
+    "lang": "zh-hans",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "我的房间里有一张床和一张桌子。",
+    "answers": [
+      "我的房间里有一张床和一张桌子。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:f771634ce54fe9f1",
+    "lang": "zh-hans",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "家里有电视吗？",
+    "answers": [
+      "家里有电视吗？"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:0915d4ff3337c3c6",
+    "lang": "zh-hans",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "电脑",
+    "choices": [
+      "电脑",
+      "电视",
+      "电话"
+    ],
+    "answers": [
+      "电脑"
+    ],
+    "explanationVi": "电脑 (điện não) = máy tính, 电视 (điện thị) = tivi."
+  },
+  {
+    "id": "zh-hans:exercise:9eabaf50b7372afb",
+    "lang": "zh-hans",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Bạn rủ đi chơi cuối tuần nhưng bạn chỉ muốn ở nhà. Câu nào tự nhiên?",
+    "choices": [
+      "我想在家宅着。",
+      "我住在河内。",
+      "洗手间在哪儿？"
+    ],
+    "answers": [
+      "我想在家宅着。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:3d6466edb6f41775",
+    "lang": "zh-hans",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "HSK1",
+    "prompt": "小李住在北京。他的房子不大，有两个房间。\n\n小李的房子有几个房间？",
+    "choices": [
+      "两个",
+      "一个",
+      "三个"
+    ],
+    "answers": [
+      "两个"
+    ]
+  }
+]

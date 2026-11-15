@@ -1,0 +1,26 @@
+{
+  "id": "en-A1-weather",
+  "lang": "en",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "weather",
+  "title": "Thời tiết và mùa",
+  "requires": [
+    "en-ipa"
+  ],
+  "itemIds": [
+    "en:word:8ac1990675719696",
+    "en:word:c8361bbbea22bc52",
+    "en:word:26e29def8be98ebd",
+    "en:word:11378f8ab74d0091",
+    "en:word:72275743b38e70f1",
+    "en:word:5674b29c9dd38a86",
+    "en:word:1556a22ee896ab2a",
+    "en:word:31a7783db93d015d",
+    "en:word:c7a671aea8796ab5",
+    "en:word:76109a82e46463a1",
+    "en:word:483184f9061d2963",
+    "en:word:500869bd49bbd6c8",
+    "en:word:e4d0633f13ec61e5"
+  ]
+}

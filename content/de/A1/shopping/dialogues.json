@@ -1,0 +1,78 @@
+[
+  {
+    "id": "de:dialogue:60e10cd9771400c2",
+    "lang": "de",
+    "level": "A1",
+    "title": "Mua áo khoác",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Verkäuferin",
+        "text": "Guten Tag! Kann ich Ihnen helfen?",
+        "translationVi": "Xin chào! Tôi giúp gì được ạ?",
+        "options": [
+          {
+            "answers": [
+              "Ja, ich suche eine Jacke.",
+              "Ich suche eine Jacke."
+            ],
+            "next": "b"
+          },
+          {
+            "answers": [
+              "Nein, danke. Ich schaue nur.",
+              "Nein, danke."
+            ],
+            "next": "bye"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Verkäuferin",
+        "text": "Welche Größe haben Sie?",
+        "translationVi": "Anh/chị mặc cỡ nào?",
+        "options": [
+          {
+            "answers": [
+              "Größe M.",
+              "M, bitte.",
+              "Ich habe Größe M."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Verkäuferin",
+        "text": "Diese Jacke hier kostet sechzig Euro.",
+        "translationVi": "Cái áo này giá sáu mươi euro.",
+        "options": [
+          {
+            "answers": [
+              "Gut, ich nehme sie.",
+              "Ich nehme sie."
+            ],
+            "next": "end"
+          },
+          {
+            "answers": [
+              "Das ist zu teuer.",
+              "Zu teuer, danke."
+            ],
+            "next": "bye"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Verkäuferin",
+        "text": "Die Kasse ist dort. Vielen Dank!",
+        "translationVi": "Quầy thu ngân ở đằng kia. Cảm ơn nhiều!"
+      },
+      "bye": {
+        "speaker": "Verkäuferin",
+        "text": "Kein Problem. Einen schönen Tag noch!",
+        "translationVi": "Không sao. Chúc một ngày tốt lành!"
+      }
+    }
+  }
+]

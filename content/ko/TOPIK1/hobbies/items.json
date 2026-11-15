@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ko:sentence:d20ddbaa27f0abd7",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "취미가 뭐예요?",
+    "meaningVi": "Sở thích của bạn là gì?",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:cc7adfcad5311fe0",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "제 취미는 사진 찍기예요.",
+    "meaningVi": "Sở thích của tôi là chụp ảnh.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:d0ffeccccc0a3d69",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "주말에 친구하고 영화를 봐요.",
+    "meaningVi": "Cuối tuần tôi xem phim với bạn.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:17da748c2aa02af5",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저는 음악 듣는 것을 좋아해요.",
+    "meaningVi": "Tôi thích nghe nhạc.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:184e08a161af6a16",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "노래를 잘 못해요.",
+    "meaningVi": "Tôi hát không giỏi.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:fb4e275a05fbc051",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "매일 아침 운동을 해요.",
+    "meaningVi": "Sáng nào tôi cũng tập thể dục.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:aac8aa2f4493f1a5",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "축구는 좋아하지만 수영은 싫어해요.",
+    "meaningVi": "Tôi thích bóng đá nhưng ghét bơi.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:196cb7271a3b7463",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "일요일마다 등산을 가요.",
+    "meaningVi": "Chủ nhật nào tôi cũng đi leo núi.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:8f2d45ed30371ad8",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "시간이 있으면 책을 읽어요.",
+    "meaningVi": "Có thời gian thì tôi đọc sách.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:d1753e3284e0a889",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "날씨가 좋으면 자전거를 타요.",
+    "meaningVi": "Trời đẹp thì tôi đạp xe.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:sentence:445893a881b441d4",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "여행을 정말 좋아해요.",
+    "meaningVi": "Tôi rất thích du lịch.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:grammar:7f370f8a12cdd9b4",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "V-기 / V-는 것: biến động từ thành danh từ",
+    "explanationVi": "Tiếng Việt dùng thẳng động từ: \"sở thích là chụp ảnh\". Tiếng Hàn phải biến động từ thành danh từ: 찍다 → 찍기, 듣다 → 듣는 것. -기 hay dùng sau 취미는, -는 것 dùng trước 좋아하다.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:grammar:e291cc0d3b681ad4",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "A/V-(으)면 (nếu, hễ ... thì)",
+    "explanationVi": "Vế điều kiện đứng trước, như \"nếu ... thì\": 시간이 있으면 = nếu có thời gian. Có patchim dùng -으면, không có dùng -면.",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:slang:76249199162d792b",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "덕질",
+    "meaningVi": "Mê mẩn theo đuổi một sở thích, thần tượng.",
+    "explanationVi": "Từ 덕후 (fan cuồng, gốc từ otaku). Nói với bạn bè: 요즘 덕질해요. Không dùng khi phỏng vấn, viết trang trọng.",
+    "register": "slang",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  },
+  {
+    "id": "ko:slang:43746b2bdff12f91",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "집콕",
+    "meaningVi": "Ở lì trong nhà.",
+    "explanationVi": "Ghép 집 (nhà) + 콕 (chui rúc). Phổ biến từ thời dịch bệnh, dùng được trên báo, mạng xã hội.",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "hobbies"
+    ]
+  }
+]

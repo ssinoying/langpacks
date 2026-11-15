@@ -1,0 +1,151 @@
+[
+  {
+    "id": "zh-hans:sentence:75c5f34a76f00919",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "请问，车站怎么走？",
+    "meaningVi": "Xin hỏi, đến ga đi thế nào?",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:544e7ebee26ff19c",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "一直走，到路口往左走。",
+    "meaningVi": "Đi thẳng, đến ngã tư thì rẽ trái.",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:98cd0e95a4bb89ae",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "车站在路口左边。",
+    "meaningVi": "Nhà ga ở bên trái ngã tư.",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:d5be6b661cc1d573",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "书店在商店右边。",
+    "meaningVi": "Hiệu sách ở bên phải cửa hàng.",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:0d6b17d080f21590",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "机场远吗？",
+    "meaningVi": "Sân bay có xa không?",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:d9a277c9ab4ddd44",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "不太远，打车二十分钟。",
+    "meaningVi": "Không xa lắm, đi taxi hai mươi phút.",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:9e7cd8494199274a",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "我坐飞机去北京。",
+    "meaningVi": "Tôi đi máy bay đến Bắc Kinh.",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:e27fb7fe24b2f58e",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "你怎么去学校？",
+    "meaningVi": "Bạn đến trường bằng gì?",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:sentence:4c34f70fac29a547",
+    "lang": "zh-hans",
+    "kind": "sentence",
+    "text": "坐火车要三个小时。",
+    "meaningVi": "Đi tàu hỏa mất ba tiếng.",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:763d7bdaa963a3ce",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "坐 + phương tiện + 去 + nơi đến",
+    "explanationVi": "\"Tôi đi Bắc Kinh bằng máy bay\" là 我坐飞机去北京: phương tiện đứng TRƯỚC 去, khác tiếng Việt. Hỏi đi bằng gì: 你怎么去学校？",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:grammar:7d11268bdfe3a214",
+    "lang": "zh-hans",
+    "kind": "grammar",
+    "text": "Hỏi đường: …怎么走？",
+    "explanationVi": "怎么 + động từ hỏi cách làm: 车站怎么走？ = Đến ga đi thế nào? Chỉ đường: 一直走 (đi thẳng), 往左走 (rẽ trái); vị trí: 在路口左边 (ở bên trái ngã tư), 左边 đứng sau mốc.",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:4ad22ab6611081e8",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "路痴",
+    "meaningVi": "Người mù đường.",
+    "explanationVi": "Tự nhận mình hay lạc: 我是路痴. Nói vui, thân mật.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  },
+  {
+    "id": "zh-hans:slang:41d4cc376c714d52",
+    "lang": "zh-hans",
+    "kind": "slang",
+    "text": "打的",
+    "meaningVi": "Bắt taxi.",
+    "explanationVi": "打的 (dǎdī) là cách nói cũ, nay người trẻ nói 打车 nhiều hơn.",
+    "register": "casual",
+    "status": "dated",
+    "level": "HSK1",
+    "topics": [
+      "transport"
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "id": "ko:exercise:5e1adbae1192fab4",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "형은 회사___ 일해요. (ở)",
+    "choices": [
+      "에서",
+      "에",
+      "을",
+      "는"
+    ],
+    "answers": [
+      "에서"
+    ],
+    "explanationVi": "Nơi diễn ra hành động dùng 에서; 에 dùng với 있다, 가다."
+  },
+  {
+    "id": "ko:exercise:b643e82c9c4fe6f0",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "요즘 한국어를 배우___ 있어요. (đang)",
+    "choices": [
+      "고",
+      "어",
+      "지"
+    ],
+    "answers": [
+      "고"
+    ]
+  },
+  {
+    "id": "ko:exercise:bcce9584c1e86f4b",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "TOPIK1",
+    "prompt": "내일 ___이 있어서 바빠요. (kỳ thi)",
+    "answers": [
+      "시험"
+    ],
+    "explanationVi": "시험 = thí nghiệm (試驗) trong Hán Việt, nhưng tiếng Hàn nghĩa là kỳ thi."
+  },
+  {
+    "id": "ko:exercise:1f75f95515ce8b40",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "공부해요 / 한국어를 / 대학교에서 / 저는",
+    "answers": [
+      "저는 대학교에서 한국어를 공부해요."
+    ]
+  },
+  {
+    "id": "ko:exercise:780be82e267d84a9",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Chiều nay có cuộc họp.",
+    "answers": [
+      "오후에 회의가 있어요.",
+      "오후에 회의 있어요.",
+      "오늘 오후에 회의가 있어요."
+    ],
+    "explanationVi": "회의 = hội nghị (會議)."
+  },
+  {
+    "id": "ko:exercise:45adae44efcfc310",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "숙제를 아직 못 했어요.",
+    "answers": [
+      "숙제를 아직 못 했어요."
+    ]
+  },
+  {
+    "id": "ko:exercise:f931c195dc243f6e",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "김 선생님은 영어를 가르치세요.",
+    "answers": [
+      "김 선생님은 영어를 가르치세요."
+    ]
+  },
+  {
+    "id": "ko:exercise:f31f59c426990c0c",
+    "lang": "ko",
+    "type": "listen-choose",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "사무실",
+    "choices": [
+      "사무실",
+      "교실",
+      "화장실"
+    ],
+    "answers": [
+      "사무실"
+    ],
+    "explanationVi": "사무실 = sự vụ thất (văn phòng)."
+  },
+  {
+    "id": "ko:exercise:e2166ed72cba69a5",
+    "lang": "ko",
+    "type": "comprehension",
+    "skill": "reading",
+    "level": "TOPIK1",
+    "prompt": "저는 대학생이에요. 낮에는 학교에서 공부해요. 학교가 끝나고 카페에서 아르바이트를 해요.\n\n이 사람은 어디에서 아르바이트를 해요?",
+    "choices": [
+      "학교",
+      "카페",
+      "회사"
+    ],
+    "answers": [
+      "카페"
+    ]
+  },
+  {
+    "id": "ko:exercise:bf7d8a7b1d8130b0",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Đồng nghiệp gọi điện lúc bạn đang họp. Bạn nhắn lại thế nào?",
+    "choices": [
+      "지금 회의하고 있어요.",
+      "오후에 회의가 있어요.",
+      "칼퇴해요!"
+    ],
+    "answers": [
+      "지금 회의하고 있어요."
+    ]
+  }
+]

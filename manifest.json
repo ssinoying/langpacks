@@ -3,6 +3,34 @@
   "generatedAt": "2026-11-15",
   "packs": [
     {
+      "id": "de-A1-family",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "family",
+      "title": "Gia đình",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8060,
+      "sha256": "c358efca46b57d2a2d61abdc623657a2f92360d866ac6c5867b8da4b2cca8fbd",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-family-v1/de-A1-family-v1.zip"
+    },
+    {
+      "id": "de-A1-food",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "food",
+      "title": "Ăn uống",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8454,
+      "sha256": "a73e55cea97527077a969ed1ac0258030cedf3e9f0e6bb08753099d7a06a6f07",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-food-v1/de-A1-food-v1.zip"
+    },
+    {
       "id": "de-A1-greetings",
       "lang": "de",
       "framework": "CEFR",
@@ -15,6 +43,150 @@
       "sha256": "b2b4234b6641e81c605243edcab975dad5957df77f01ae0265df12b5a8ce909a",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-greetings-v1/de-A1-greetings-v1.zip"
+    },
+    {
+      "id": "de-A1-hobbies",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "hobbies",
+      "title": "Sở thích",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8426,
+      "sha256": "8d96762a9d314bacb6b318f4ea5ba3e32dd394de66b05a3a0bbdf4d5c0896912",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-hobbies-v1/de-A1-hobbies-v1.zip"
+    },
+    {
+      "id": "de-A1-home",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "home",
+      "title": "Nhà cửa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8081,
+      "sha256": "8a17cb1ff55ad7ed445b67b8fd54d6d3ff73bfbf99eeec9cf7d9e03028a34ce6",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-home-v1/de-A1-home-v1.zip"
+    },
+    {
+      "id": "de-A1-numbers",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "numbers",
+      "title": "Số đếm và tuổi",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8713,
+      "sha256": "087ebc892bd92a4b2833cf944e93a309c71fa0eb4e85cfd0bc6510330701edd6",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-numbers-v1/de-A1-numbers-v1.zip"
+    },
+    {
+      "id": "de-A1-school-work",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "school-work",
+      "title": "Trường học và công việc",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8256,
+      "sha256": "3a6dfb11f8f2c31b1e5bf5430137a26705cfd032d19094cbadf0b7c7f9d6528e",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-school-work-v1/de-A1-school-work-v1.zip"
+    },
+    {
+      "id": "de-A1-shopping",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "shopping",
+      "title": "Mua sắm",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8076,
+      "sha256": "69a704ccaa01ad122bb09bc9425c2793762196fa411e40f0e9e337ce9c87cd6a",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-shopping-v1/de-A1-shopping-v1.zip"
+    },
+    {
+      "id": "de-A1-time",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "time",
+      "title": "Giờ, ngày, thứ",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8503,
+      "sha256": "e0195e0c1a839901c2ff8650a0d31e9396cc33ca09418b406bb93e4c7b5fc98e",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-time-v1/de-A1-time-v1.zip"
+    },
+    {
+      "id": "de-A1-transport",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "transport",
+      "title": "Đi lại và hỏi đường",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8027,
+      "sha256": "96d9fc98b4de739d38dc0e45fd12230c01064e7992fe12c9116b93b055a506a6",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-transport-v1/de-A1-transport-v1.zip"
+    },
+    {
+      "id": "de-A1-weather",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "weather",
+      "title": "Thời tiết và mùa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8232,
+      "sha256": "e2f663d0aea7d819d92b6e46e76176bdeca9578da844bfffe9e613770ad79b3c",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-weather-v1/de-A1-weather-v1.zip"
+    },
+    {
+      "id": "en-A1-family",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "family",
+      "title": "Gia đình",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8562,
+      "sha256": "c549f2d1e14c5dabda9386dc42b582d720a530a1bd18a2403aee454737402ba2",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-family-v1/en-A1-family-v1.zip"
+    },
+    {
+      "id": "en-A1-food",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "food",
+      "title": "Ăn uống",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8719,
+      "sha256": "f1bfea26e534d71f2f2241bc7a7724cc53c4c9f4dc442db18cdf3d483e88ea60",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-food-v1/en-A1-food-v1.zip"
     },
     {
       "id": "en-A1-greetings",
@@ -31,6 +203,134 @@
         "en-ipa"
       ],
       "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-greetings-v2/en-A1-greetings-v2.zip"
+    },
+    {
+      "id": "en-A1-hobbies",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "hobbies",
+      "title": "Sở thích",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8605,
+      "sha256": "a8ec00151ea113d3f76ae9e379f779466c9f2fde52a34398adf69c0404d4dd84",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-hobbies-v1/en-A1-hobbies-v1.zip"
+    },
+    {
+      "id": "en-A1-home",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "home",
+      "title": "Nhà cửa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8482,
+      "sha256": "5e0c90afb893edc81f91f273b8aa80c1bc0ae188f526c0ec1c9dea30bc45e0d0",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-home-v1/en-A1-home-v1.zip"
+    },
+    {
+      "id": "en-A1-numbers",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "numbers",
+      "title": "Số đếm và tuổi",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8619,
+      "sha256": "35c28927a32b4ea1abe2444abdaa3f99812b0492750e6463db941d7a53aac36b",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-numbers-v1/en-A1-numbers-v1.zip"
+    },
+    {
+      "id": "en-A1-school-work",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "school-work",
+      "title": "Trường học và công việc",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8679,
+      "sha256": "6b35d38ce4b2b64119acf0cf0415c3230e210fd83a2fd5a16496c8aa369be944",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-school-work-v1/en-A1-school-work-v1.zip"
+    },
+    {
+      "id": "en-A1-shopping",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "shopping",
+      "title": "Mua sắm",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8898,
+      "sha256": "f924ebc3eaee7964b2e43a29335f5efb6eae29652d2c84303f2891d9d1335689",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-shopping-v1/en-A1-shopping-v1.zip"
+    },
+    {
+      "id": "en-A1-time",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "time",
+      "title": "Giờ, ngày, thứ",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8444,
+      "sha256": "3ab5b0890666f94dd3606e787a9b3c3292cd13ccdab9647af71645e38f32dae9",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-time-v1/en-A1-time-v1.zip"
+    },
+    {
+      "id": "en-A1-transport",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "transport",
+      "title": "Đi lại và hỏi đường",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8194,
+      "sha256": "e0fe92e4cf437accc9715dde1385f85493d5406ce5bd8f3262df3733270f99d3",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-transport-v1/en-A1-transport-v1.zip"
+    },
+    {
+      "id": "en-A1-weather",
+      "lang": "en",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "weather",
+      "title": "Thời tiết và mùa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8426,
+      "sha256": "5dea29f30169f2a72ebe6b4593da864c6fe067d13d3b07ee4514db0ac0c6ccc8",
+      "requires": [
+        "en-ipa"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-weather-v1/en-A1-weather-v1.zip"
     },
     {
       "id": "en-A2-travel",
@@ -73,6 +373,38 @@
       "url": "https://github.com/ssinoying/langpacks/releases/download/en-placement-v1/en-placement-v1.zip"
     },
     {
+      "id": "ja-N5-family",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "family",
+      "title": "Gia đình",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8022,
+      "sha256": "b2a5b0b8039d670eb3b2aff896a46c1fb89db595673b46a739a165ad81320f2b",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-family-v1/ja-N5-family-v1.zip"
+    },
+    {
+      "id": "ja-N5-food",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "food",
+      "title": "Ăn uống",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8141,
+      "sha256": "4b1bef04cb66f5f21dfbc3773d3dde6c70ce56d60f0af0a3053e7770fde7f27a",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-food-v1/ja-N5-food-v1.zip"
+    },
+    {
       "id": "ja-N5-greetings",
       "lang": "ja",
       "framework": "JLPT",
@@ -87,6 +419,134 @@
         "ja-kana"
       ],
       "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-greetings-v1/ja-N5-greetings-v1.zip"
+    },
+    {
+      "id": "ja-N5-hobbies",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "hobbies",
+      "title": "Sở thích",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8163,
+      "sha256": "b4be81fb3568f7aa14fec6958753460dbdb5b7c08ff521dee0f23c3a1c1ab646",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-hobbies-v1/ja-N5-hobbies-v1.zip"
+    },
+    {
+      "id": "ja-N5-home",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "home",
+      "title": "Nhà cửa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7743,
+      "sha256": "6ad2d50488c995cd9e0caf8914ec5f1ca828522554d22d3b4dce0d4b610b300f",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-home-v1/ja-N5-home-v1.zip"
+    },
+    {
+      "id": "ja-N5-numbers",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "numbers",
+      "title": "Số đếm và tuổi",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7921,
+      "sha256": "ceacad4987bc1370be7ef1559d84bc606a1f7386518396fd0d7a0cbc4cb03b5f",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-numbers-v1/ja-N5-numbers-v1.zip"
+    },
+    {
+      "id": "ja-N5-school-work",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "school-work",
+      "title": "Trường học và công việc",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7821,
+      "sha256": "5f8edf9f56bfd41ffa92cf85b7b13e049c6cb32e628d87ae3fa4e19de1add205",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-school-work-v1/ja-N5-school-work-v1.zip"
+    },
+    {
+      "id": "ja-N5-shopping",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "shopping",
+      "title": "Mua sắm",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7993,
+      "sha256": "057c1abf94eb1536a2f607278f27950f38cd974a0ab02257acbcd0408cf6471b",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-shopping-v1/ja-N5-shopping-v1.zip"
+    },
+    {
+      "id": "ja-N5-time",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "time",
+      "title": "Giờ, ngày, thứ",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8011,
+      "sha256": "71651b50a7fbf661a9edac1428203f352065d2b498bd6be98a1306b16b2fc1b6",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-time-v1/ja-N5-time-v1.zip"
+    },
+    {
+      "id": "ja-N5-transport",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "transport",
+      "title": "Đi lại và hỏi đường",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8065,
+      "sha256": "e9752ff4f1e412523040991ca35619368ac019dba254c073cbd6077fe87508c6",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-transport-v1/ja-N5-transport-v1.zip"
+    },
+    {
+      "id": "ja-N5-weather",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "weather",
+      "title": "Thời tiết và mùa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8033,
+      "sha256": "82fc9a5595729cd5b305d28e1e9c501d09fc2867b357503cec754dd5af48d458",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-weather-v1/ja-N5-weather-v1.zip"
     },
     {
       "id": "ja-kana",
@@ -113,6 +573,38 @@
       "url": "https://github.com/ssinoying/langpacks/releases/download/ja-kanji-strokes-v1/ja-kanji-strokes-v1.zip"
     },
     {
+      "id": "ko-TOPIK1-family",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "family",
+      "title": "Gia đình",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8384,
+      "sha256": "ac7345d890dcd06d3aa8336d01dcae8f2990119f97c4569456aab6e38ff9582d",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-family-v1/ko-TOPIK1-family-v1.zip"
+    },
+    {
+      "id": "ko-TOPIK1-food",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "food",
+      "title": "Ăn uống",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8697,
+      "sha256": "fa59eec2cf6c5a655b6bc6f351dc3c7323eb81476fc4028d8a89898d0420065e",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-food-v1/ko-TOPIK1-food-v1.zip"
+    },
+    {
       "id": "ko-TOPIK1-greetings",
       "lang": "ko",
       "framework": "TOPIK",
@@ -129,6 +621,134 @@
       "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-greetings-v1/ko-TOPIK1-greetings-v1.zip"
     },
     {
+      "id": "ko-TOPIK1-hobbies",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "hobbies",
+      "title": "Sở thích",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8252,
+      "sha256": "02edfc32f0b07c4aa783d9497bf52c9f769f616834ac60bed51999102a1e7ee1",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-hobbies-v1/ko-TOPIK1-hobbies-v1.zip"
+    },
+    {
+      "id": "ko-TOPIK1-home",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "home",
+      "title": "Nhà cửa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8283,
+      "sha256": "17ec6169146466324bf60f8b6850bace6df128017c6d3ab9b091b4ce42d0ba2a",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-home-v1/ko-TOPIK1-home-v1.zip"
+    },
+    {
+      "id": "ko-TOPIK1-numbers",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "numbers",
+      "title": "Số đếm và tuổi",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7945,
+      "sha256": "de203fb7a030ce14eed02447382d1abd49fdb3eff38dd0111cb2a269fb5a41a0",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-numbers-v1/ko-TOPIK1-numbers-v1.zip"
+    },
+    {
+      "id": "ko-TOPIK1-school-work",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "school-work",
+      "title": "Trường học và công việc",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8395,
+      "sha256": "6baa06eeb03ee55dd348b823ca1262dc90523ee292842e5158d82484d62fd66d",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-school-work-v1/ko-TOPIK1-school-work-v1.zip"
+    },
+    {
+      "id": "ko-TOPIK1-shopping",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "shopping",
+      "title": "Mua sắm",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8195,
+      "sha256": "20fbfe7b80eeab7c6fe4238ec8565e215cb03666ff1ddacce4b18c0c287a2e43",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-shopping-v1/ko-TOPIK1-shopping-v1.zip"
+    },
+    {
+      "id": "ko-TOPIK1-time",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "time",
+      "title": "Giờ, ngày, thứ",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8396,
+      "sha256": "3253d940ee763f833b78a95f5ea914831b93b82069415341e023a72649f24927",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-time-v1/ko-TOPIK1-time-v1.zip"
+    },
+    {
+      "id": "ko-TOPIK1-transport",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "transport",
+      "title": "Đi lại và hỏi đường",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8135,
+      "sha256": "852cae4780442a12391ab1f38deacf1cb17e12bd7950cbc84bd5344819c49dcf",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-transport-v1/ko-TOPIK1-transport-v1.zip"
+    },
+    {
+      "id": "ko-TOPIK1-weather",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "weather",
+      "title": "Thời tiết và mùa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7930,
+      "sha256": "981d03387b77d7ff3de34edbb0179d4ba813bc2c572600e8a3b5534a776e921a",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-weather-v1/ko-TOPIK1-weather-v1.zip"
+    },
+    {
       "id": "ko-hangul",
       "lang": "ko",
       "topic": "hangul",
@@ -139,6 +759,34 @@
       "sha256": "b256a650316b8fc7c1a9997f0f13fe292771e18e34d627874946d0eda995ef3a",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/ko-hangul-v1/ko-hangul-v1.zip"
+    },
+    {
+      "id": "zh-hans-HSK1-family",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "family",
+      "title": "Gia đình",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7569,
+      "sha256": "cb70689a319db27c4a3266e478f3aa0a2e505d34ca5111c05d508c3436d72ae8",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-family-v1/zh-hans-HSK1-family-v1.zip"
+    },
+    {
+      "id": "zh-hans-HSK1-food",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "food",
+      "title": "Ăn uống",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8137,
+      "sha256": "640f387d98512be0734d28d8e8f08d545c35a7d5b3f3abd13532b4a3f063ca38",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-food-v1/zh-hans-HSK1-food-v1.zip"
     },
     {
       "id": "zh-hans-HSK1-greetings",
@@ -155,6 +803,118 @@
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-greetings-v1/zh-hans-HSK1-greetings-v1.zip"
     },
     {
+      "id": "zh-hans-HSK1-hobbies",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "hobbies",
+      "title": "Sở thích",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7657,
+      "sha256": "14127d40a0e6d065fa913d297433896378df00cfea8466f7b92c2c96f9739916",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-hobbies-v1/zh-hans-HSK1-hobbies-v1.zip"
+    },
+    {
+      "id": "zh-hans-HSK1-home",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "home",
+      "title": "Nhà cửa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7678,
+      "sha256": "6936f018bca885826c172d78d2e85992b9706cadc35628358f783473c7d26395",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-home-v1/zh-hans-HSK1-home-v1.zip"
+    },
+    {
+      "id": "zh-hans-HSK1-numbers",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "numbers",
+      "title": "Số đếm và tuổi",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7703,
+      "sha256": "546b02e66345851f6e3feb31f2f9151e188e0a32c8559177c3070bab4af69488",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-numbers-v1/zh-hans-HSK1-numbers-v1.zip"
+    },
+    {
+      "id": "zh-hans-HSK1-school-work",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "school-work",
+      "title": "Trường học và công việc",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7766,
+      "sha256": "96aed205f73b5c294a5f2a191bc7a2cd84613938868cdb50e9efd7141266527d",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-school-work-v1/zh-hans-HSK1-school-work-v1.zip"
+    },
+    {
+      "id": "zh-hans-HSK1-shopping",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "shopping",
+      "title": "Mua sắm",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8292,
+      "sha256": "a04a80e71e38759173929fc5891cdaec8b0f2aabf9794017ccb64b8712668d95",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-shopping-v1/zh-hans-HSK1-shopping-v1.zip"
+    },
+    {
+      "id": "zh-hans-HSK1-time",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "time",
+      "title": "Giờ, ngày, thứ",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8022,
+      "sha256": "80386521a4b11a74908ffa72510d90b55a8a82af0b295bb18d19201224ae5613",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-time-v1/zh-hans-HSK1-time-v1.zip"
+    },
+    {
+      "id": "zh-hans-HSK1-transport",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "transport",
+      "title": "Đi lại và hỏi đường",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7922,
+      "sha256": "4858c0cc557a65515d912ec30c0c4694edf82c042d80df4aa16d7b596e5bd956",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-transport-v1/zh-hans-HSK1-transport-v1.zip"
+    },
+    {
+      "id": "zh-hans-HSK1-weather",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "weather",
+      "title": "Thời tiết và mùa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7867,
+      "sha256": "55017174833d80521a918da555fcdce1054a0dbeb8b9c09fa369548601ce4499",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-weather-v1/zh-hans-HSK1-weather-v1.zip"
+    },
+    {
       "id": "zh-hans-strokes",
       "lang": "zh-hans",
       "topic": "strokes",
@@ -165,6 +925,34 @@
       "sha256": "efc0a90c76acb4c2010d21450106ad684d8a1764144d442f4618cd21b94a622b",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-strokes-v1/zh-hans-strokes-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-family",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "family",
+      "title": "Gia đình",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7574,
+      "sha256": "1cf6eebf3fdaebeba5b97c408443e30b5335588ec666120e19d8ca2505386f44",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-family-v1/zh-hant-HSK1-family-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-food",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "food",
+      "title": "Ăn uống",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8151,
+      "sha256": "ec7484c4cc42d342f68616664f91accbf8a01960ae6698cea2a91fb0ff043708",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-food-v1/zh-hant-HSK1-food-v1.zip"
     },
     {
       "id": "zh-hant-HSK1-greetings",
@@ -179,6 +967,118 @@
       "sha256": "daf19d38d33cd323c608cc603430ba55b56bc523f042ee84a7f2e8d1b93323f6",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-greetings-v1/zh-hant-HSK1-greetings-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-hobbies",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "hobbies",
+      "title": "Sở thích",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7641,
+      "sha256": "8cb6e75bf17273a5098c759886ccb42f254a4527b48facc6f6987116e3559e40",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-hobbies-v1/zh-hant-HSK1-hobbies-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-home",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "home",
+      "title": "Nhà cửa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7680,
+      "sha256": "d402d23b35c7df34b40757c380ab5cda5fc53053c5a0935c5962494c9a45dca0",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-home-v1/zh-hant-HSK1-home-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-numbers",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "numbers",
+      "title": "Số đếm và tuổi",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7714,
+      "sha256": "ade8ebd399c24f666d97a55d0ddfefd24c1550569214f1d18223ebad71b55ec6",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-numbers-v1/zh-hant-HSK1-numbers-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-school-work",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "school-work",
+      "title": "Trường học và công việc",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7779,
+      "sha256": "c9a4a46f8147a1e3928fa63c58c65c8028cee28369c84a13d6c663c3fe9d60d2",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-school-work-v1/zh-hant-HSK1-school-work-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-shopping",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "shopping",
+      "title": "Mua sắm",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8307,
+      "sha256": "6feb866a9164664a1b7e6af9530a1d1624bed66655e583938939aad98b85d0ae",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-shopping-v1/zh-hant-HSK1-shopping-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-time",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "time",
+      "title": "Giờ, ngày, thứ",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 8031,
+      "sha256": "563d206ede52303cbb71d2e045ba864d7f4c253743a62a0c47364183149f14fb",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-time-v1/zh-hant-HSK1-time-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-transport",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "transport",
+      "title": "Đi lại và hỏi đường",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7913,
+      "sha256": "066b0b03822390033fd5b8e7d2ba2e3b786b4e64968deffb2acbf52960efacd2",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-transport-v1/zh-hant-HSK1-transport-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-weather",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "weather",
+      "title": "Thời tiết và mùa",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 7866,
+      "sha256": "9a332b08a49d77bd18c8d780dcd4a1ab14a7b8a2c1774487c9f0b21e9feb951b",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-weather-v1/zh-hant-HSK1-weather-v1.zip"
     }
   ]
 }
