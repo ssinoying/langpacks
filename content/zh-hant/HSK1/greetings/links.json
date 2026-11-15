@@ -1,0 +1,102 @@
+[
+  {
+    "from": "zh-hant:word:94300d86f5591219",
+    "to": "zh-hant:sentence:1aff6288ce7b475b",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:80c30e7cd2479dba",
+    "to": "zh-hant:sentence:1aff6288ce7b475b",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:f279546f068b61fd",
+    "to": "zh-hant:sentence:22b26857b246d375",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:8d63c2a771df5970",
+    "to": "zh-hant:sentence:22b26857b246d375",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:94300d86f5591219",
+    "to": "zh-hant:sentence:8681c830078ef611",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:8d63c2a771df5970",
+    "to": "zh-hant:sentence:8681c830078ef611",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:40e57337972aa815",
+    "to": "zh-hant:sentence:8681c830078ef611",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:c9dd69f7e5ff94c3",
+    "to": "zh-hant:sentence:8681c830078ef611",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:f279546f068b61fd",
+    "to": "zh-hant:sentence:4b0072ae909177eb",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:4fafb77a7a161a4a",
+    "to": "zh-hant:sentence:4b0072ae909177eb",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:e35192dee45c5a87",
+    "to": "zh-hant:sentence:4b0072ae909177eb",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:e32300a7db2db7f8",
+    "to": "zh-hant:sentence:35c3f47acff1a650",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:b357447ae8ba1754",
+    "to": "zh-hant:sentence:35c3f47acff1a650",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:963f4247ca9d3c02",
+    "to": "zh-hant:sentence:511e41c05202f408",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:word:431b55126c7ceaac",
+    "to": "zh-hant:sentence:021bb91cec0a1352",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "zh-hant:sentence:4b0072ae909177eb",
+    "to": "zh-hant:grammar:f7a7f4e5643acec5",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "zh-hant:sentence:8681c830078ef611",
+    "to": "zh-hant:grammar:5a43035ef06ef5a4",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "zh-hant:sentence:22b26857b246d375",
+    "to": "zh-hant:grammar:5a43035ef06ef5a4",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "zh-hant:sentence:1aff6288ce7b475b",
+    "to": "zh-hant:slang:d9732199224c5c94",
+    "kind": "book-reallife"
+  },
+  {
+    "from": "zh-hant:sentence:021bb91cec0a1352",
+    "to": "zh-hant:slang:6c1fd42a9a1c9108",
+    "kind": "book-reallife"
+  }
+]

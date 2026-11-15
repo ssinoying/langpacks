@@ -46,5 +46,35 @@
     "hash": "d786bddd848d4fe86a9645a2e092c96251a25cb4181ac95d8f8460c5d6ad9a68",
     "sha256": "efc0a90c76acb4c2010d21450106ad684d8a1764144d442f4618cd21b94a622b",
     "size": 89114
+  },
+  "de-A1-greetings": {
+    "version": 1,
+    "hash": "f7eecab758efeb99bec4107c40f7894f1469838ae7a8edb75490d945555e09dc",
+    "sha256": "006a3e5b05d2271a8d63355def8290a55ad79d98a42424f64da7591d0f0c7f23",
+    "size": 6918
+  },
+  "ja-N5-greetings": {
+    "version": 1,
+    "hash": "9b6cef0685f2085c9dd7b4da8b0d941af04b25792639dc25daec5652a529d750",
+    "sha256": "fa99cce12566999d2004bb0d4e0c214557974611ec570e3f6947face0e8168c6",
+    "size": 6534
+  },
+  "ko-TOPIK1-greetings": {
+    "version": 1,
+    "hash": "29db9339869c63cabb6f7340a2c6b277ff9afa1a1c30150b6850d53b0ba598de",
+    "sha256": "2eeaf7ad8b709df9b85084aac4ef44ab87e555b48cbf1abc20582e0a039fab8a",
+    "size": 6450
+  },
+  "zh-hans-HSK1-greetings": {
+    "version": 1,
+    "hash": "7841b5f7e0e93626d1bf3ed1babcedaec7d820b14e0e4e4588ac4c646aef4954",
+    "sha256": "8195f05660588aeee5ffa1187d7c96b9e554c5c947924ec83610c88dabe28a4c",
+    "size": 6965
+  },
+  "zh-hant-HSK1-greetings": {
+    "version": 1,
+    "hash": "a0d5b0d95ce918d49550f45de7f5baed8c463c331be01ff134d6987b7d739559",
+    "sha256": "5451311f6198cb04158997e1e3152163f7ff75791e26629a9c853c65865d9f35",
+    "size": 6975
   }
 }

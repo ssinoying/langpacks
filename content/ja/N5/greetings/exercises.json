@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ja:exercise:6ed54028543adb38",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "私___学生です。",
+    "choices": [
+      "は",
+      "が",
+      "を",
+      "に"
+    ],
+    "answers": [
+      "は"
+    ],
+    "explanationVi": "は đánh dấu chủ đề của câu."
+  },
+  {
+    "id": "ja:exercise:0995afb46a007623",
+    "lang": "ja",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "お名前は何です___。(câu hỏi)",
+    "answers": [
+      "か"
+    ],
+    "explanationVi": "Thêm か cuối câu để hỏi."
+  },
+  {
+    "id": "ja:exercise:0ff686e128aa1249",
+    "lang": "ja",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "N5",
+    "prompt": "です / 学生 / は / 私",
+    "answers": [
+      "私は学生です。",
+      "私は学生です"
+    ],
+    "explanationVi": "です luôn đứng cuối."
+  },
+  {
+    "id": "ja:exercise:280f352058ba8bba",
+    "lang": "ja",
+    "type": "translate",
+    "skill": "writing",
+    "level": "N5",
+    "prompt": "Tôi là Minh.",
+    "answers": [
+      "私はミンです。",
+      "わたしはミンです。",
+      "ミンです。"
+    ]
+  },
+  {
+    "id": "ja:exercise:eaf04451398fed15",
+    "lang": "ja",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "N5",
+    "prompt": "はじめまして。",
+    "answers": [
+      "はじめまして。"
+    ]
+  },
+  {
+    "id": "ja:exercise:7726a8c6f1c969ff",
+    "lang": "ja",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "N5",
+    "prompt": "よろしくお願いします。",
+    "answers": [
+      "よろしくお願いします。"
+    ]
+  },
+  {
+    "id": "ja:exercise:e424c1e2148825df",
+    "lang": "ja",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "N5",
+    "prompt": "Chia tay một người bạn, mai lại gặp. Câu nào tự nhiên?",
+    "choices": [
+      "さようなら。",
+      "じゃあね。",
+      "はじめまして。"
+    ],
+    "answers": [
+      "じゃあね。"
+    ],
+    "explanationVi": "さようなら nghe như chia tay lâu, với bạn hằng ngày dùng じゃあね."
+  }
+]

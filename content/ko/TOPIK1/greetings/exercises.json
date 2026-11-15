@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ko:exercise:12023b5335503ba9",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "저는 학생___. (là)",
+    "choices": [
+      "이에요",
+      "예요",
+      "은",
+      "는"
+    ],
+    "answers": [
+      "이에요"
+    ],
+    "explanationVi": "학생 có patchim ㅇ nên dùng 이에요."
+  },
+  {
+    "id": "ko:exercise:8476f043be397754",
+    "lang": "ko",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "저___ 민이에요. (chủ đề)",
+    "choices": [
+      "은",
+      "는",
+      "이",
+      "가"
+    ],
+    "answers": [
+      "는"
+    ],
+    "explanationVi": "저 không có patchim nên dùng 는."
+  },
+  {
+    "id": "ko:exercise:e2dd5c48e4c57fd2",
+    "lang": "ko",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "TOPIK1",
+    "prompt": "학생이에요 / 저는",
+    "answers": [
+      "저는 학생이에요.",
+      "저는 학생이에요"
+    ]
+  },
+  {
+    "id": "ko:exercise:456f72fb0a61fcad",
+    "lang": "ko",
+    "type": "translate",
+    "skill": "writing",
+    "level": "TOPIK1",
+    "prompt": "Tôi là người Việt Nam.",
+    "answers": [
+      "베트남 사람이에요.",
+      "저는 베트남 사람이에요."
+    ]
+  },
+  {
+    "id": "ko:exercise:95e550b08e8140c8",
+    "lang": "ko",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "TOPIK1",
+    "prompt": "만나서 반가워요.",
+    "answers": [
+      "만나서 반가워요."
+    ]
+  },
+  {
+    "id": "ko:exercise:4a74ec41af4fd933",
+    "lang": "ko",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "TOPIK1",
+    "prompt": "안녕하세요. 저는 민이에요.",
+    "answers": [
+      "안녕하세요. 저는 민이에요."
+    ]
+  },
+  {
+    "id": "ko:exercise:28fccf71ef6e3d3a",
+    "lang": "ko",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "TOPIK1",
+    "prompt": "Gặp giáo sư ở trường. Câu nào đúng?",
+    "choices": [
+      "안녕!",
+      "ㅎㅇ",
+      "안녕하세요."
+    ],
+    "answers": [
+      "안녕하세요."
+    ],
+    "explanationVi": "안녕 và ㅎㅇ chỉ dùng với bạn bè."
+  }
+]

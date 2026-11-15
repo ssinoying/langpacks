@@ -39,11 +39,19 @@ def make_id(lang, kind, *key_parts):
 
 
 def item_id(item):
-    """Expected id of an Item. Word = lemma + part of speech (+ reading for non-alphabetic languages)."""
+    """Expected id of an Item.
+
+    Word keys: en/de = lemma + part of speech; zh/ja = text + reading (pitch mark ꜜ ignored), since part-of-speech
+    labels differ between dictionaries; ko = text + part of speech + hanja reading (keeps homographs like
+    가구 家口 / 家具 apart). Other kinds: the text.
+    """
     lang, kind = item["lang"], item["kind"]
     if kind == "word":
-        reading = "" if lang in ALPHABETIC else item.get("reading", "")
-        return make_id(lang, kind, item["text"], item.get("partOfSpeech", ""), reading)
+        if lang in ALPHABETIC:
+            return make_id(lang, kind, item["text"], item.get("partOfSpeech", ""), "")
+        if lang == "ko":
+            return make_id(lang, kind, item["text"], item.get("partOfSpeech", ""), item.get("hanViet", ""))
+        return make_id(lang, kind, item["text"], "", item.get("reading", "").replace("ꜜ", ""))
     return make_id(lang, kind, item["text"])
 
 

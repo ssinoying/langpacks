@@ -1,0 +1,21 @@
+{
+  "id": "ko-TOPIK1-greetings",
+  "lang": "ko",
+  "framework": "TOPIK",
+  "level": "TOPIK1",
+  "topic": "greetings",
+  "title": "Chào hỏi và giới thiệu",
+  "requires": [
+    "ko-hangul"
+  ],
+  "itemIds": [
+    "ko:word:cfa88c45b84f6c0d",
+    "ko:word:bfc39df77c43b494",
+    "ko:word:d75ba8cc02ade49f",
+    "ko:word:de9fd62587c57b48",
+    "ko:word:e6fd3e04ebc3ab18",
+    "ko:word:32a50d25bd6f1943",
+    "ko:word:7d99a1837c6780b5",
+    "ko:word:2d9679133adaafbd"
+  ]
+}

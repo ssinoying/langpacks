@@ -1,0 +1,60 @@
+[
+  {
+    "id": "de:dialogue:11e0863cc8f0f9d1",
+    "lang": "de",
+    "level": "A1",
+    "title": "Làm quen",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "Anna",
+        "text": "Hallo! Ich heiße Anna. Wie heißt du?",
+        "translationVi": "Chào! Mình là Anna. Bạn tên gì?",
+        "options": [
+          {
+            "answers": [
+              "Ich heiße Lan.",
+              "Hallo, ich heiße Lan.",
+              "Ich bin Lan."
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "Anna",
+        "text": "Freut mich! Woher kommst du?",
+        "translationVi": "Rất vui! Bạn đến từ đâu?",
+        "options": [
+          {
+            "answers": [
+              "Ich komme aus Vietnam.",
+              "Aus Vietnam."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "Anna",
+        "text": "Toll! Bis später!",
+        "translationVi": "Tuyệt! Hẹn gặp lại!",
+        "options": [
+          {
+            "answers": [
+              "Tschüss!",
+              "Bis später!",
+              "Tschüss, Anna!"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "Anna",
+        "text": "Tschüss!",
+        "translationVi": "Chào nhé!"
+      }
+    }
+  }
+]

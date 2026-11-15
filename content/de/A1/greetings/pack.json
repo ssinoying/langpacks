@@ -1,0 +1,19 @@
+{
+  "id": "de-A1-greetings",
+  "lang": "de",
+  "framework": "CEFR",
+  "level": "A1",
+  "topic": "greetings",
+  "title": "Chào hỏi và giới thiệu",
+  "requires": [],
+  "itemIds": [
+    "de:word:94d01eb2cab98dde",
+    "de:word:66e1d6ec95114ec7",
+    "de:word:97d29708d45100ee",
+    "de:word:ec22ecedf38aa152",
+    "de:word:a0454b5d1864ff2f",
+    "de:word:aed951554166a53d",
+    "de:word:b068ca4843a3fb83",
+    "de:word:69ad23332c014e93"
+  ]
+}

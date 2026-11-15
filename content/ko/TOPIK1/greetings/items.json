@@ -1,0 +1,140 @@
+[
+  {
+    "id": "ko:sentence:f6fd4a00f940bc92",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "안녕하세요.",
+    "meaningVi": "Xin chào.",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:sentence:bc36705293a7fe86",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저는 민이에요.",
+    "meaningVi": "Tôi là Minh.",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:sentence:4e76b8445d8f6975",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "이름이 뭐예요?",
+    "meaningVi": "Tên bạn là gì?",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:sentence:ba22f3ec86268570",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "베트남 사람이에요.",
+    "meaningVi": "Tôi là người Việt Nam.",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:sentence:45807a36aa714cca",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "저는 학생이에요.",
+    "meaningVi": "Tôi là sinh viên.",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:sentence:a99d8cc24f6ba184",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "만나서 반가워요.",
+    "meaningVi": "Rất vui được gặp bạn.",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:sentence:93a987e8e937d69c",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "감사합니다.",
+    "meaningVi": "Cảm ơn ạ.",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:sentence:88c4b77b04f358c4",
+    "lang": "ko",
+    "kind": "sentence",
+    "text": "안녕히 가세요.",
+    "meaningVi": "Đi bình an nhé (nói với người ra về).",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:grammar:bda6748acade20e3",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "N이에요 / N예요 (là N)",
+    "explanationVi": "Gắn sau danh từ để nói \"là\": danh từ có patchim (phụ âm cuối) dùng 이에요, không có dùng 예요. 학생이에요 (sinh viên), 의사예요 (bác sĩ). \"Là\" đứng cuối câu, khác tiếng Việt.",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:grammar:7034f2b406ed7cd9",
+    "lang": "ko",
+    "kind": "grammar",
+    "text": "은/는: đánh dấu chủ đề",
+    "explanationVi": "저는 = \"còn tôi thì\". Có patchim dùng 은, không có dùng 는. Tiếng Việt không có trợ từ này, nghĩa gần với \"thì\": Tôi thì là sinh viên.",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:slang:af450df50aa25175",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "안녕!",
+    "meaningVi": "Chào!",
+    "explanationVi": "Chào bạn bè hoặc người nhỏ tuổi hơn. Với người lớn phải nói 안녕하세요.",
+    "register": "casual",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ko:slang:d2fefb9aa1a408f8",
+    "lang": "ko",
+    "kind": "slang",
+    "text": "ㅎㅇ",
+    "meaningVi": "Hi (nhắn tin).",
+    "explanationVi": "Viết tắt của 하이 (hi) khi nhắn tin, chỉ dùng với bạn thân.",
+    "register": "slang",
+    "status": "current",
+    "level": "TOPIK1",
+    "topics": [
+      "greetings"
+    ]
+  }
+]

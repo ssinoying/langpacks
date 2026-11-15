@@ -1,0 +1,60 @@
+[
+  {
+    "id": "zh-hans:dialogue:375b9ad026a709a7",
+    "lang": "zh-hans",
+    "level": "HSK1",
+    "title": "Làm quen",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "小李",
+        "text": "你好！我叫小李。你叫什么名字？",
+        "translationVi": "Chào bạn! Mình là Tiểu Lý. Bạn tên gì?",
+        "options": [
+          {
+            "answers": [
+              "我叫明。",
+              "我叫明",
+              "你好，我叫明。"
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "小李",
+        "text": "认识你很高兴。你是中国人吗？",
+        "translationVi": "Rất vui được biết bạn. Bạn là người Trung Quốc à?",
+        "options": [
+          {
+            "answers": [
+              "不是，我是越南人。",
+              "我是越南人。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "小李",
+        "text": "欢迎你！再见！",
+        "translationVi": "Chào mừng bạn! Tạm biệt!",
+        "options": [
+          {
+            "answers": [
+              "再见！",
+              "拜拜！",
+              "谢谢，再见！"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "小李",
+        "text": "拜拜！",
+        "translationVi": "Bye bye!"
+      }
+    }
+  }
+]

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Id helper for authors.
 
-  ids.py show en word "hello" intj      print the id of a word (text, part of speech[, reading])
+  ids.py show en word "hello" intj      print the id of a word: en/de text + part of speech,
+  ids.py show ja word 学生 "" がくせい     zh/ja text + reading, ko text + part of speech + Hán Việt
   ids.py show en sentence "Hi there!"   print the id of a sentence, grammar, slang or character
   ids.py fix                            recompute every id in content/ and lexicon/ after text edits,
                                         and rewrite references (links, itemIds) to the new ids
@@ -9,7 +10,7 @@
 import sys
 
 from common import (LEXICON, dialogue_id, dump_json, exercise_id, item_id, load_json,
-                    make_id, pack_dirs, ALPHABETIC)
+                    make_id, pack_dirs)
 
 COMPUTE = {"items.json": item_id, "exercises.json": exercise_id, "dialogues.json": dialogue_id}
 
@@ -54,9 +55,9 @@ def main():
     elif args[:1] == ["show"] and len(args) >= 4:
         lang, kind, text, *rest = args[1:]
         if kind == "word":
-            pos = rest[0] if rest else ""
-            reading = "" if lang in ALPHABETIC else (rest[1] if len(rest) > 1 else "")
-            print(make_id(lang, kind, text, pos, reading))
+            item = {"lang": lang, "kind": kind, "text": text, "partOfSpeech": rest[0] if rest else "",
+                    "reading": rest[1] if len(rest) > 1 else "", "hanViet": rest[1] if len(rest) > 1 else ""}
+            print(item_id(item))
         else:
             print(make_id(lang, kind, text))
     else:

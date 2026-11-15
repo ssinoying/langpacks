@@ -1,0 +1,62 @@
+[
+  {
+    "from": "ko:word:32a50d25bd6f1943",
+    "to": "ko:sentence:bc36705293a7fe86",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:cfa88c45b84f6c0d",
+    "to": "ko:sentence:4e76b8445d8f6975",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:de9fd62587c57b48",
+    "to": "ko:sentence:ba22f3ec86268570",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:32a50d25bd6f1943",
+    "to": "ko:sentence:45807a36aa714cca",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:bfc39df77c43b494",
+    "to": "ko:sentence:45807a36aa714cca",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:2d9679133adaafbd",
+    "to": "ko:sentence:a99d8cc24f6ba184",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:word:7d99a1837c6780b5",
+    "to": "ko:sentence:93a987e8e937d69c",
+    "kind": "word-sentence"
+  },
+  {
+    "from": "ko:sentence:45807a36aa714cca",
+    "to": "ko:grammar:bda6748acade20e3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:bc36705293a7fe86",
+    "to": "ko:grammar:bda6748acade20e3",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:45807a36aa714cca",
+    "to": "ko:grammar:7034f2b406ed7cd9",
+    "kind": "sentence-grammar"
+  },
+  {
+    "from": "ko:sentence:f6fd4a00f940bc92",
+    "to": "ko:slang:af450df50aa25175",
+    "kind": "book-reallife"
+  },
+  {
+    "from": "ko:sentence:f6fd4a00f940bc92",
+    "to": "ko:slang:d2fefb9aa1a408f8",
+    "kind": "book-reallife"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "id": "zh-hant:sentence:1aff6288ce7b475b",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "你好！",
+    "meaningVi": "Xin chào!",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:22b26857b246d375",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我叫明。",
+    "meaningVi": "Tôi tên là Minh.",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:8681c830078ef611",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "你叫什麼名字？",
+    "meaningVi": "Bạn tên là gì?",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:4b0072ae909177eb",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "我是越南人。",
+    "meaningVi": "Tôi là người Việt Nam.",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:35c3f47acff1a650",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "認識你很高興。",
+    "meaningVi": "Rất vui được biết bạn.",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:511e41c05202f408",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "謝謝！",
+    "meaningVi": "Cảm ơn!",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:b48f82c92b2017d7",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "不客氣。",
+    "meaningVi": "Không có gì.",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:sentence:021bb91cec0a1352",
+    "lang": "zh-hant",
+    "kind": "sentence",
+    "text": "再見！",
+    "meaningVi": "Tạm biệt!",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:f7a7f4e5643acec5",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "A 是 B (A là B)",
+    "explanationVi": "是 nối hai danh từ như \"là\" trong tiếng Việt: 我是越南人 = Tôi là người Việt Nam. Khác tiếng Việt: không dùng 是 trước tính từ. \"Tôi khỏe\" là 我很好, không nói *我是好.",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:grammar:5a43035ef06ef5a4",
+    "lang": "zh-hant",
+    "kind": "grammar",
+    "text": "Hỏi bằng 什麼: từ hỏi đứng đúng chỗ của câu trả lời",
+    "explanationVi": "Tiếng Trung giống tiếng Việt: từ hỏi nằm đúng chỗ thông tin cần hỏi. 你叫什麼名字？ = Bạn tên là gì? Trả lời thì thay 什麼 bằng thông tin: 我叫明。",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:slang:d9732199224c5c94",
+    "lang": "zh-hant",
+    "kind": "slang",
+    "text": "哈囉",
+    "meaningVi": "Chào (phiên âm từ hello).",
+    "explanationVi": "Giới trẻ hay dùng khi nhắn tin, gặp bạn bè.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "zh-hant:slang:6c1fd42a9a1c9108",
+    "lang": "zh-hant",
+    "kind": "slang",
+    "text": "拜拜",
+    "meaningVi": "Bye bye.",
+    "explanationVi": "Tạm biệt kiểu thân mật, rất phổ biến khi nói và nhắn tin.",
+    "register": "casual",
+    "status": "current",
+    "level": "HSK1",
+    "topics": [
+      "greetings"
+    ]
+  }
+]

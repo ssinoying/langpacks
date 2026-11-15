@@ -5,7 +5,7 @@ câu ví dụ, giải thích tiếng Việt, slang, hội thoại, bài tập k�
 
 ## Quy trình
 
-1. Từ vựng nằm trong `lexicon/<lang>.json`, điểm ngữ pháp trong `lexicon/<lang>-grammar.json`, do
+1. Từ vựng nằm trong `lexicon/<lang>.json` (en: `import_sources.py`; zh, ja, ko, de: `import_languages.py`), điểm ngữ pháp trong `lexicon/<lang>-grammar.json`, do
    `scripts/import_sources.py` sinh ra, đã có cấp độ và chủ đề. Gói dạy mục nào thì liệt kê ID trong `itemIds`
    của `pack.json`. `meaningVi`, `explanationVi` của mục lexicon viết thẳng vào file lexicon (một mục chỉ định
    nghĩa một chỗ); import sau giữ nguyên trường đã viết. Từ chưa có thì thêm tay với `source` trỏ về Wiktionary.
@@ -35,8 +35,9 @@ nên mỗi gói tự đủ. Trong repo, mỗi mục chỉ định nghĩa một l
 `<lang>:<kind>:<16 hex đầu của sha256("lang|kind|khoá")>`, khoá đã chuẩn hóa (NFC, chữ thường, bỏ dấu câu,
 gộp khoảng trắng).
 
-- Từ: chữ gốc + từ loại. Thêm cách đọc với zh, ja, ko. Tiếng Anh, Đức không đưa IPA vào khoá vì một từ có
-  nhiều cách phiên âm.
+- Từ: en, de = chữ gốc + từ loại (IPA không vào khoá vì một từ có nhiều cách phiên âm); zh, ja = chữ + cách đọc
+  (pinyin, kana; dấu trọng âm ꜜ bỏ qua); ko = chữ + từ loại + âm Hán Việt (tách từ đồng âm như 가구 家口 / 家具).
+- Tiếng Nhật ghi trọng âm cao thấp bằng ꜜ sau mora bị hạ giọng: はꜜし (đũa), はしꜜ (cầu), がくせい (bằng phẳng).
 - Câu, ngữ pháp, slang, ký tự: chính `text`.
 - Bài tập: `type` + `prompt`. Hội thoại: `title`.
 

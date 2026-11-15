@@ -59,7 +59,7 @@ def validate():
             errors.append(f"{where}: id should be {expected}")
         define(item["id"], where)
         if item["kind"] == "sentence":
-            sentences.append((normalize(item["text"]), item["id"]))
+            sentences.append((item["lang"], normalize(item["text"]), item["id"]))
 
     for path, item in lexicon_items():
         where = f"{rel(path)}:{item.get('text', '?')}"
@@ -125,9 +125,9 @@ def validate():
             errors.append(f"{where}: requires unknown pack {pack}")
 
     # shortcut: O(n²) over sentences, fine for a few thousand; bucket by first word if it gets slow.
-    for i, (a, ida) in enumerate(sentences):
-        for b, idb in sentences[i + 1:]:
-            if similarity(a, b) > NEAR_DUPLICATE:
+    for i, (la, a, ida) in enumerate(sentences):
+        for lb, b, idb in sentences[i + 1:]:
+            if la == lb and similarity(a, b) > NEAR_DUPLICATE:
                 warnings.append(f"near-duplicate sentences {ida} / {idb}: {a!r} ~ {b!r}")
 
     return errors, warnings, len(pack_ids), len(defined)

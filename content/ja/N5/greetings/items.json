@@ -1,0 +1,151 @@
+[
+  {
+    "id": "ja:sentence:e0d87ff15121ab47",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "こんにちは。",
+    "meaningVi": "Xin chào.",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:sentence:88caa65e58d03c41",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "はじめまして。",
+    "meaningVi": "Rất hân hạnh được gặp (lần đầu).",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:sentence:c9f2394cb15743b1",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "私はミンです。",
+    "meaningVi": "Tôi là Minh.",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:sentence:89cbf93327144e73",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "お名前は何ですか。",
+    "meaningVi": "Tên bạn là gì?",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:sentence:d4623cb069e82d2d",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "ベトナムから来ました。",
+    "meaningVi": "Tôi đến từ Việt Nam.",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:sentence:de94c13a5cfeae98",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "私は学生です。",
+    "meaningVi": "Tôi là sinh viên.",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:sentence:33241aa80cfedc34",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "よろしくお願いします。",
+    "meaningVi": "Mong được giúp đỡ.",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:sentence:07b025291ed2ed3d",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "ありがとうございます。",
+    "meaningVi": "Cảm ơn ạ.",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:sentence:d95bc2e90c10dd6f",
+    "lang": "ja",
+    "kind": "sentence",
+    "text": "さようなら。",
+    "meaningVi": "Tạm biệt.",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:grammar:0efc175f99f5f1c3",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "A は B です (A là B)",
+    "explanationVi": "は (đọc là \"wa\") đánh dấu chủ đề, です là \"là\" lịch sự, đứng cuối câu. Tiếng Việt: Tôi là sinh viên → tiếng Nhật: 私は学生です (Tôi / chủ đề / sinh viên / là). Động từ, \"là\" luôn ở cuối.",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:grammar:de05964bf63ab7de",
+    "lang": "ja",
+    "kind": "grammar",
+    "text": "Câu hỏi: thêm か cuối câu",
+    "explanationVi": "Không đảo trật tự từ, chỉ thêm か vào cuối: 学生ですか = Là sinh viên à? Giống tiếng Việt thêm \"không\", \"à\" cuối câu.",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:slang:e8dd692100f0d394",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "やあ",
+    "meaningVi": "Chào (thân mật).",
+    "explanationVi": "Chào bạn bè, nam giới hay dùng hơn.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "ja:slang:059654dc707602c8",
+    "lang": "ja",
+    "kind": "slang",
+    "text": "じゃあね",
+    "meaningVi": "Gặp lại nhé.",
+    "explanationVi": "Tạm biệt bạn bè. さようなら nghe xa cách, như chia tay lâu.",
+    "register": "casual",
+    "status": "current",
+    "level": "N5",
+    "topics": [
+      "greetings"
+    ]
+  }
+]

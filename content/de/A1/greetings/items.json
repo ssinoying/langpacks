@@ -1,0 +1,151 @@
+[
+  {
+    "id": "de:sentence:1c76ffe63c2f4c32",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Hallo! Ich heiße Lan.",
+    "meaningVi": "Xin chào! Tôi tên là Lan.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:sentence:bb629edeaaebc426",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wie heißen Sie?",
+    "meaningVi": "Ông/bà tên là gì?",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:sentence:3317b0a18a1d5997",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wie heißt du?",
+    "meaningVi": "Bạn tên gì?",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:sentence:6d4b435c8756597c",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Ich komme aus Vietnam.",
+    "meaningVi": "Tôi đến từ Việt Nam.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:sentence:b6164e91b7fcdff1",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Wie geht es Ihnen?",
+    "meaningVi": "Ông/bà có khỏe không?",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:sentence:bed4e11d97da4746",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Gut, danke.",
+    "meaningVi": "Khỏe, cảm ơn.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:sentence:c3bbe6c4b768ae9a",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Freut mich.",
+    "meaningVi": "Rất vui được gặp.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:sentence:b0f74088030c752f",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Auf Wiedersehen!",
+    "meaningVi": "Tạm biệt!",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:sentence:f2ddbcb2654d8d5f",
+    "lang": "de",
+    "kind": "sentence",
+    "text": "Tschüss!",
+    "meaningVi": "Chào nhé!",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:grammar:02780a4e046d9345",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "du và Sie",
+    "explanationVi": "du = bạn (thân mật: bạn bè, gia đình, trẻ em); Sie (viết hoa) = ông/bà/anh/chị (lịch sự: người lạ, đồng nghiệp, cấp trên). Động từ đổi theo: Wie heißt du? / Wie heißen Sie? Tiếng Việt đổi đại từ xưng hô, tiếng Đức đổi cả đuôi động từ.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:grammar:cb7faf3f01808a82",
+    "lang": "de",
+    "kind": "grammar",
+    "text": "Chia động từ: ich heiße, du heißt, Sie heißen",
+    "explanationVi": "Động từ đổi đuôi theo ngôi: ich -e, du -st (heißen → heißt), Sie/wir -en. ich komme, du kommst, Sie kommen. Tiếng Việt không chia động từ, đây là lỗi hay gặp.",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:slang:f15b12d1cf0a3c7c",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Na?",
+    "meaningVi": "Sao rồi?",
+    "explanationVi": "Chào bạn bè kiểu \"thế nào rồi?\", trả lời: Gut! hoặc Na?",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  },
+  {
+    "id": "de:slang:268f51f9b37ebae1",
+    "lang": "de",
+    "kind": "slang",
+    "text": "Servus!",
+    "meaningVi": "Chào! / Tạm biệt!",
+    "explanationVi": "Dùng ở miền Nam Đức và Áo, vừa để chào vừa để tạm biệt.",
+    "register": "casual",
+    "status": "current",
+    "level": "A1",
+    "topics": [
+      "greetings"
+    ]
+  }
+]

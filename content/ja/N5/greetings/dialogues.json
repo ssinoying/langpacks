@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ja:dialogue:7c9d0f141b21cadc",
+    "lang": "ja",
+    "level": "N5",
+    "title": "Lần đầu gặp mặt",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "田中",
+        "text": "はじめまして。田中です。",
+        "translationVi": "Rất hân hạnh. Tôi là Tanaka.",
+        "options": [
+          {
+            "answers": [
+              "はじめまして。ミンです。",
+              "はじめまして。私はミンです。",
+              "ミンです。"
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "田中",
+        "text": "ミンさんは学生ですか。",
+        "translationVi": "Anh Minh là sinh viên à?",
+        "options": [
+          {
+            "answers": [
+              "はい、学生です。",
+              "はい、そうです。"
+            ],
+            "next": "c"
+          },
+          {
+            "answers": [
+              "いいえ、先生です。"
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "田中",
+        "text": "よろしくお願いします。",
+        "translationVi": "Mong được giúp đỡ.",
+        "options": [
+          {
+            "answers": [
+              "よろしくお願いします。",
+              "こちらこそ。"
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "田中",
+        "text": "では、また。",
+        "translationVi": "Vậy hẹn gặp lại."
+      }
+    }
+  }
+]

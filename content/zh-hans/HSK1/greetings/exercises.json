@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zh-hans:exercise:abd63168d14dcff2",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "我___越南人。(là)",
+    "answers": [
+      "是"
+    ],
+    "explanationVi": "是 nối hai danh từ."
+  },
+  {
+    "id": "zh-hans:exercise:c405cc245917f127",
+    "lang": "zh-hans",
+    "type": "fill-blank",
+    "skill": "vocabulary",
+    "level": "HSK1",
+    "prompt": "你叫什么___？(tên)",
+    "answers": [
+      "名字"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:dc98df51eaacef2a",
+    "lang": "zh-hans",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "HSK1",
+    "prompt": "名字 / 你 / 什么 / 叫",
+    "answers": [
+      "你叫什么名字？",
+      "你叫什么名字"
+    ],
+    "explanationVi": "Từ hỏi 什么 đứng trước 名字."
+  },
+  {
+    "id": "zh-hans:exercise:24c0dd4e5e001849",
+    "lang": "zh-hans",
+    "type": "translate",
+    "skill": "writing",
+    "level": "HSK1",
+    "prompt": "Tôi tên là Minh.",
+    "answers": [
+      "我叫明。",
+      "我叫明",
+      "我的名字是明。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:bb43093b1dcd36ec",
+    "lang": "zh-hans",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "HSK1",
+    "prompt": "认识你很高兴。",
+    "answers": [
+      "认识你很高兴。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:11840b9ecf636b34",
+    "lang": "zh-hans",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "HSK1",
+    "prompt": "你好！我叫明。",
+    "answers": [
+      "你好！我叫明。"
+    ]
+  },
+  {
+    "id": "zh-hans:exercise:10d3d4f326cc3a4a",
+    "lang": "zh-hans",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "HSK1",
+    "prompt": "Nhắn tin chào một người bạn thân. Câu nào tự nhiên nhất?",
+    "choices": [
+      "哈喽！",
+      "您好，先生。",
+      "认识你很高兴。"
+    ],
+    "answers": [
+      "哈喽！"
+    ],
+    "explanationVi": "Với bạn thân, 哈喽 tự nhiên; 您好，先生 rất trang trọng."
+  }
+]

@@ -37,6 +37,15 @@ Gói nét chữ và bảng chữ cái (ja-kana, ko-hangul, ja-kanji-strokes, zh-
 python3 scripts/import_strokes.py
 ```
 
+Từ vựng Trung, Nhật, Hàn, Đức và gói mở đầu mỗi ngôn ngữ:
+
+```bash
+python3 scripts/import_languages.py zh ja ko
+curl -sL https://kaikki.org/dictionary/German/kaikki.org-dictionary-German.jsonl.gz | gunzip -c \
+  | python3 scripts/import_languages.py de --wiktionary -
+python3 scripts/starter_packs.py
+```
+
 Lấy IPA từ Wiktionary mà không lưu file 3,4 GB xuống đĩa:
 
 ```bash
@@ -55,5 +64,13 @@ curl -sL https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jso
   Arphic Public License và LGPL). Nét 40 chữ cái Hangul do dự án tự dựng (`scripts/import_strokes.py`).
 - Âm Hán Việt, âm Nhật, pinyin từ [Unihan](https://www.unicode.org/charts/unihan.html) (Unicode License); vài chữ
   Unihan thiếu âm Hán Việt được bổ sung tay trong `import_strokes.py`.
+- Tiếng Trung: HSK 3.0 từ [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary) (MIT),
+  pinyin và chữ phồn thể từ [CC-CEDICT](https://cc-cedict.org/) (CC BY-SA 4.0).
+- Tiếng Nhật: danh sách JLPT từ [open-anki-jlpt-decks](https://github.com/jamsinclair/open-anki-jlpt-decks) (MIT), từ loại từ
+  [JMdict](https://www.edrdg.org/jmdict/j_jmdict.html) (EDRDG, CC BY-SA 4.0), trọng âm từ
+  [Kanjium](https://github.com/mifunetoshiro/kanjium).
+- Tiếng Hàn: 한국어 학습용 어휘 목록 của [Viện Quốc ngữ Quốc gia](https://www.korean.go.kr) (cấp A/B/C, hanja).
+- Tiếng Đức: danh sách Goethe-Zertifikat A1–B1 từ [goethe-institute-wordlist](https://github.com/ilkermeliksitki/goethe-institute-wordlist)
+  (chép từ PDF của Goethe-Institut, thiếu một số từ), IPA và từ loại từ Wiktionary.
 - Phát âm IPA từ [Wiktionary](https://en.wiktionary.org/) qua [kaikki.org](https://kaikki.org/) (wiktextract),
   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

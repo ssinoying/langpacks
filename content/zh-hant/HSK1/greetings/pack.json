@@ -1,0 +1,23 @@
+{
+  "id": "zh-hant-HSK1-greetings",
+  "lang": "zh-hant",
+  "framework": "HSK",
+  "level": "HSK1",
+  "topic": "greetings",
+  "title": "Chào hỏi và giới thiệu",
+  "requires": [],
+  "itemIds": [
+    "zh-hant:word:94300d86f5591219",
+    "zh-hant:word:80c30e7cd2479dba",
+    "zh-hant:word:f279546f068b61fd",
+    "zh-hant:word:8d63c2a771df5970",
+    "zh-hant:word:c9dd69f7e5ff94c3",
+    "zh-hant:word:40e57337972aa815",
+    "zh-hant:word:4fafb77a7a161a4a",
+    "zh-hant:word:e35192dee45c5a87",
+    "zh-hant:word:963f4247ca9d3c02",
+    "zh-hant:word:431b55126c7ceaac",
+    "zh-hant:word:e32300a7db2db7f8",
+    "zh-hant:word:b357447ae8ba1754"
+  ]
+}

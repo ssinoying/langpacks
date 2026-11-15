@@ -1,0 +1,90 @@
+[
+  {
+    "id": "de:exercise:97312bf4a49c074f",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Wie ___ du? (heißen)",
+    "answers": [
+      "heißt"
+    ],
+    "explanationVi": "Với du, heißen thành heißt."
+  },
+  {
+    "id": "de:exercise:f346770475e09264",
+    "lang": "de",
+    "type": "fill-blank",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Ich ___ aus Vietnam. (kommen)",
+    "answers": [
+      "komme"
+    ],
+    "explanationVi": "Với ich, động từ thêm -e."
+  },
+  {
+    "id": "de:exercise:162493d89064b31b",
+    "lang": "de",
+    "type": "reorder",
+    "skill": "grammar",
+    "level": "A1",
+    "prompt": "Sie / heißen / wie",
+    "answers": [
+      "Wie heißen Sie?",
+      "Wie heißen Sie"
+    ],
+    "explanationVi": "Từ hỏi đứng đầu, động từ đứng thứ hai."
+  },
+  {
+    "id": "de:exercise:24bf132f3734a570",
+    "lang": "de",
+    "type": "translate",
+    "skill": "writing",
+    "level": "A1",
+    "prompt": "Tôi đến từ Việt Nam.",
+    "answers": [
+      "Ich komme aus Vietnam.",
+      "Ich komme aus Vietnam"
+    ]
+  },
+  {
+    "id": "de:exercise:706f5b48be64e210",
+    "lang": "de",
+    "type": "dictation",
+    "skill": "listening",
+    "level": "A1",
+    "prompt": "Wie geht es Ihnen?",
+    "answers": [
+      "Wie geht es Ihnen?"
+    ]
+  },
+  {
+    "id": "de:exercise:985891d4eacd4527",
+    "lang": "de",
+    "type": "read-aloud",
+    "skill": "speaking",
+    "level": "A1",
+    "prompt": "Hallo! Ich heiße Lan.",
+    "answers": [
+      "Hallo! Ich heiße Lan."
+    ]
+  },
+  {
+    "id": "de:exercise:670cb76a16a58129",
+    "lang": "de",
+    "type": "context-choice",
+    "skill": "reallife",
+    "level": "A1",
+    "prompt": "Gặp sếp mới ở công ty. Câu nào phù hợp?",
+    "choices": [
+      "Na?",
+      "Guten Tag! Wie heißen Sie?",
+      "Servus, wie heißt du?"
+    ],
+    "answers": [
+      "Guten Tag! Wie heißen Sie?"
+    ],
+    "explanationVi": "Với sếp và người lạ dùng Sie."
+  }
+]

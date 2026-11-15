@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ko:dialogue:0b8ac95194219cf4",
+    "lang": "ko",
+    "level": "TOPIK1",
+    "title": "Làm quen ở lớp học",
+    "start": "a",
+    "nodes": {
+      "a": {
+        "speaker": "지수",
+        "text": "안녕하세요! 저는 지수예요. 이름이 뭐예요?",
+        "translationVi": "Xin chào! Mình là Jisu. Bạn tên gì?",
+        "options": [
+          {
+            "answers": [
+              "저는 민이에요.",
+              "민이에요.",
+              "안녕하세요. 저는 민이에요."
+            ],
+            "next": "b"
+          }
+        ]
+      },
+      "b": {
+        "speaker": "지수",
+        "text": "어느 나라 사람이에요?",
+        "translationVi": "Bạn là người nước nào?",
+        "options": [
+          {
+            "answers": [
+              "베트남 사람이에요.",
+              "저는 베트남 사람이에요."
+            ],
+            "next": "c"
+          }
+        ]
+      },
+      "c": {
+        "speaker": "지수",
+        "text": "만나서 반가워요!",
+        "translationVi": "Rất vui được gặp bạn!",
+        "options": [
+          {
+            "answers": [
+              "저도 반가워요.",
+              "만나서 반가워요."
+            ],
+            "next": "end"
+          }
+        ]
+      },
+      "end": {
+        "speaker": "지수",
+        "text": "안녕히 가세요!",
+        "translationVi": "Về bình an nhé!"
+      }
+    }
+  }
+]

@@ -3,6 +3,20 @@
   "generatedAt": "2026-11-15",
   "packs": [
     {
+      "id": "de-A1-greetings",
+      "lang": "de",
+      "framework": "CEFR",
+      "level": "A1",
+      "topic": "greetings",
+      "title": "Chào hỏi và giới thiệu",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 6918,
+      "sha256": "006a3e5b05d2271a8d63355def8290a55ad79d98a42424f64da7591d0f0c7f23",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/de-A1-greetings-v1/de-A1-greetings-v1.zip"
+    },
+    {
       "id": "en-A1-greetings",
       "lang": "en",
       "framework": "CEFR",
@@ -59,6 +73,22 @@
       "url": "https://github.com/ssinoying/langpacks/releases/download/en-placement-v1/en-placement-v1.zip"
     },
     {
+      "id": "ja-N5-greetings",
+      "lang": "ja",
+      "framework": "JLPT",
+      "level": "N5",
+      "topic": "greetings",
+      "title": "Chào hỏi và giới thiệu",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 6534,
+      "sha256": "fa99cce12566999d2004bb0d4e0c214557974611ec570e3f6947face0e8168c6",
+      "requires": [
+        "ja-kana"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ja-N5-greetings-v1/ja-N5-greetings-v1.zip"
+    },
+    {
       "id": "ja-kana",
       "lang": "ja",
       "topic": "kana",
@@ -83,6 +113,22 @@
       "url": "https://github.com/ssinoying/langpacks/releases/download/ja-kanji-strokes-v1/ja-kanji-strokes-v1.zip"
     },
     {
+      "id": "ko-TOPIK1-greetings",
+      "lang": "ko",
+      "framework": "TOPIK",
+      "level": "TOPIK1",
+      "topic": "greetings",
+      "title": "Chào hỏi và giới thiệu",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 6450,
+      "sha256": "2eeaf7ad8b709df9b85084aac4ef44ab87e555b48cbf1abc20582e0a039fab8a",
+      "requires": [
+        "ko-hangul"
+      ],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/ko-TOPIK1-greetings-v1/ko-TOPIK1-greetings-v1.zip"
+    },
+    {
       "id": "ko-hangul",
       "lang": "ko",
       "topic": "hangul",
@@ -95,6 +141,20 @@
       "url": "https://github.com/ssinoying/langpacks/releases/download/ko-hangul-v1/ko-hangul-v1.zip"
     },
     {
+      "id": "zh-hans-HSK1-greetings",
+      "lang": "zh-hans",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "greetings",
+      "title": "Chào hỏi và giới thiệu",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 6965,
+      "sha256": "8195f05660588aeee5ffa1187d7c96b9e554c5c947924ec83610c88dabe28a4c",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-HSK1-greetings-v1/zh-hans-HSK1-greetings-v1.zip"
+    },
+    {
       "id": "zh-hans-strokes",
       "lang": "zh-hans",
       "topic": "strokes",
@@ -105,6 +165,20 @@
       "sha256": "efc0a90c76acb4c2010d21450106ad684d8a1764144d442f4618cd21b94a622b",
       "requires": [],
       "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hans-strokes-v1/zh-hans-strokes-v1.zip"
+    },
+    {
+      "id": "zh-hant-HSK1-greetings",
+      "lang": "zh-hant",
+      "framework": "HSK",
+      "level": "HSK1",
+      "topic": "greetings",
+      "title": "Chào hỏi và giới thiệu",
+      "version": 1,
+      "minAppSchema": 1,
+      "size": 6975,
+      "sha256": "5451311f6198cb04158997e1e3152163f7ff75791e26629a9c853c65865d9f35",
+      "requires": [],
+      "url": "https://github.com/ssinoying/langpacks/releases/download/zh-hant-HSK1-greetings-v1/zh-hant-HSK1-greetings-v1.zip"
     }
   ]
 }

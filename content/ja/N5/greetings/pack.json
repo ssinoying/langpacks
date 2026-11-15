@@ -1,0 +1,21 @@
+{
+  "id": "ja-N5-greetings",
+  "lang": "ja",
+  "framework": "JLPT",
+  "level": "N5",
+  "topic": "greetings",
+  "title": "Chào hỏi và giới thiệu",
+  "requires": [
+    "ja-kana"
+  ],
+  "itemIds": [
+    "ja:word:b154b900127cb9cc",
+    "ja:word:c2af5676a6601a38",
+    "ja:word:df26f9cce21a67be",
+    "ja:word:0c524bc868090af2",
+    "ja:word:d54f5f2c364d8866",
+    "ja:word:6d34851b3c27d86d",
+    "ja:word:b6e22506e910b544",
+    "ja:word:e5ab079e1b9c9ac7"
+  ]
+}
