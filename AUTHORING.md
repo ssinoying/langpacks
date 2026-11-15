@@ -5,8 +5,10 @@ câu ví dụ, giải thích tiếng Việt, slang, hội thoại, bài tập k�
 
 ## Quy trình
 
-1. Từ vựng nằm trong `lexicon/<lang>.json`, do `scripts/import_sources.py` sinh ra. Từ chưa có thì chạy import,
-   hoặc thêm tay với `source` trỏ về mục Wiktionary. Import sau sẽ giữ nguyên trường đã viết tay.
+1. Từ vựng nằm trong `lexicon/<lang>.json`, điểm ngữ pháp trong `lexicon/<lang>-grammar.json`, do
+   `scripts/import_sources.py` sinh ra, đã có cấp độ và chủ đề. Gói dạy mục nào thì liệt kê ID trong `itemIds`
+   của `pack.json`. `meaningVi`, `explanationVi` của mục lexicon viết thẳng vào file lexicon (một mục chỉ định
+   nghĩa một chỗ); import sau giữ nguyên trường đã viết. Từ chưa có thì thêm tay với `source` trỏ về Wiktionary.
 2. Tạo thư mục gói: `content/<lang>/<level>/<topic>/` (gói nền tảng: `content/<lang>/foundation/<topic>/`).
 3. Viết `pack.json` và các file nội dung bên dưới.
 4. Tính ID: `python3 scripts/ids.py show en sentence "Nice to meet you."`. Sửa chữ của mục đã có thì chạy

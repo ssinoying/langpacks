@@ -1,15 +1,15 @@
 {
   "en-A1-greetings": {
-    "version": 1,
-    "hash": "710c30a161a87f64a986bc7670aece631b96407e584c52befb559256afe0665b",
-    "sha256": "079c36bca8b688129e0165a60370357aae0771e795832caba3b8913b5fad7c18",
-    "size": 9675
+    "version": 2,
+    "hash": "5c062dca5a457491b6b42850980d913db87e92aae85a3a8444f730f3e11b8203",
+    "sha256": "1a2b02a3ac089c610fe4d5c6d706f9ecccf9c2d3632f020f1ae1c4d69f8c9505",
+    "size": 9744
   },
   "en-A2-travel": {
-    "version": 1,
-    "hash": "17ba8f0ba66155eea5235d194eebe89b6c7d09f8785b922c183c5ca691c27272",
-    "sha256": "6fad1f30c3a3d02d09822d8187b3f909eed339feb6f7fce9519c1e98dccce61e",
-    "size": 10211
+    "version": 2,
+    "hash": "a24f455cfc5ffef119a161f485861524e2e0f6e1259e66089aadc1b4d10edd81",
+    "sha256": "7bb0b7f4ace4f2174e81dd728834511bef29be6d37df53f848c60e6b074fcecc",
+    "size": 10341
   },
   "en-ipa": {
     "version": 1,

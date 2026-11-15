@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "en:grammar:e80f8db1af1420b2",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBIAL CLAUSE: when",
+    "level": "A1",
+    "source": "cefrj-grammar:155"
+  },
+  {
+    "id": "en:grammar:2996b1535273185f",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBS OF FREQUENCY: always/usually/often/frequently/occasionally/sometimes/rarely",
+    "level": "A1",
+    "source": "cefrj-grammar:32"
+  },
+  {
+    "id": "en:grammar:3b2aff74d2f38089",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBS OF NEGATION: never",
+    "level": "A1",
+    "source": "cefrj-grammar:35"
+  },
+  {
+    "id": "en:grammar:58e72d6cd789799c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBS: INTENSIFIERS: extremely/greatly/really/so/terribly/too/unbelievably/very",
+    "level": "A1",
+    "source": "cefrj-grammar:33"
+  },
+  {
+    "id": "en:grammar:965434ccf255123d",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "COMPARATIVE OF SUPERIORITY: -er",
+    "level": "A1",
+    "source": "cefrj-grammar:38"
+  },
+  {
+    "id": "en:grammar:a3d53600c609eb30",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "COORDINATING CONJUNCTIONS",
+    "level": "A1",
+    "source": "cefrj-grammar:150"
+  },
+  {
+    "id": "en:grammar:f31889619eb91e82",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "DEFINITE ARTICLES",
+    "level": "A1",
+    "source": "cefrj-grammar:14"
+  },
+  {
+    "id": "en:grammar:bd880d5723f4f4e6",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "DETERMINER: no",
+    "level": "A1",
+    "source": "cefrj-grammar:16"
+  },
+  {
+    "id": "en:grammar:b8c4f79b5d6ed265",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "DETERMINERS: some/any",
+    "level": "A1",
+    "source": "cefrj-grammar:15"
+  },
+  {
+    "id": "en:grammar:ae69b747f418db4f",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Do+IMPERATIVE",
+    "level": "A1",
+    "source": "cefrj-grammar:118"
+  },
+  {
+    "id": "en:grammar:75988ee7c0255c22",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ELLIPTICAL ACCUSATIVE RELATIVE PRONOUN",
+    "level": "A1",
+    "source": "cefrj-grammar:179"
+  },
+  {
+    "id": "en:grammar:dc3b7e1e480b5da2",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "he/she is",
+    "level": "A1",
+    "source": "cefrj-grammar:3"
+  },
+  {
+    "id": "en:grammar:acd72ccdb5936256",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "hope/know/think+CLAUSE (without 'that')",
+    "level": "A1",
+    "source": "cefrj-grammar:162"
+  },
+  {
+    "id": "en:grammar:c9c3de1ce5df3389",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "I am",
+    "level": "A1",
+    "source": "cefrj-grammar:1"
+  },
+  {
+    "id": "en:grammar:639b4868bc55cd58",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "IMPERATIVE: AFFIRMATIVE (lexical verbs)",
+    "level": "A1",
+    "source": "cefrj-grammar:117"
+  },
+  {
+    "id": "en:grammar:ef116b9ce15cb6f7",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INDEFINITE ARTICLES",
+    "level": "A1",
+    "source": "cefrj-grammar:13"
+  },
+  {
+    "id": "en:grammar:d3e2eaebff246afc",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INDEFINITE PRONOUNS",
+    "level": "A1",
+    "source": "cefrj-grammar:24"
+  },
+  {
+    "id": "en:grammar:d2608ee76953dc28",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "It is",
+    "level": "A1",
+    "source": "cefrj-grammar:10"
+  },
+  {
+    "id": "en:grammar:aeac80ed129e41fb",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "let's (not followed by 'not')",
+    "level": "A1",
+    "source": "cefrj-grammar:120"
+  },
+  {
+    "id": "en:grammar:911efa59de364833",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "me/us/him/her/them (except for 'you' and 'it')",
+    "level": "A1",
+    "source": "cefrj-grammar:7"
+  },
+  {
+    "id": "en:grammar:53d6e186a0595e4b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: be going to",
+    "level": "A1",
+    "source": "cefrj-grammar:122"
+  },
+  {
+    "id": "en:grammar:54f5723f18c58ca4",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: can",
+    "level": "A1",
+    "source": "cefrj-grammar:123"
+  },
+  {
+    "id": "en:grammar:246759cc24c293f9",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "my/our/your/her/their (except for 'his' and 'its')",
+    "level": "A1",
+    "source": "cefrj-grammar:6"
+  },
+  {
+    "id": "en:grammar:b6098df25a6ac637",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "NOMINATIVE RELATIVE PRONOUN:",
+    "level": "A1",
+    "source": "cefrj-grammar:174"
+  },
+  {
+    "id": "en:grammar:9266912130fc0d57",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "NOMINATIVE RELATIVE PRONOUN: who",
+    "level": "A1",
+    "source": "cefrj-grammar:172"
+  },
+  {
+    "id": "en:grammar:44f6b097d131a97e",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: PRESENT",
+    "level": "A1",
+    "source": "cefrj-grammar:73"
+  },
+  {
+    "id": "en:grammar:628870f6ea9e6d84",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PHRASAL VERBS (V+PARTICLE)",
+    "level": "A1",
+    "source": "cefrj-grammar:55"
+  },
+  {
+    "id": "en:grammar:b7c6ee71a84bfb8d",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PHRASAL VERBS (V+PARTICLE+PREP+NP)",
+    "level": "A1",
+    "source": "cefrj-grammar:57"
+  },
+  {
+    "id": "en:grammar:958fff3f4fe298f4",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "Please+INFINITIVE",
+    "level": "A1",
+    "source": "cefrj-grammar:119"
+  },
+  {
+    "id": "en:grammar:a13c16569aa5e444",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "POSTMODIFYING PAST PARTICIPLE",
+    "level": "A1",
+    "source": "cefrj-grammar:171"
+  },
+  {
+    "id": "en:grammar:68b01845c33891dd",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "POSTMODIFYING PRESENT",
+    "level": "A1",
+    "source": "cefrj-grammar:169"
+  },
+  {
+    "id": "en:grammar:fc6ca337608aae36",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PREMODIFYING PAST PARTICIPLE",
+    "level": "A1",
+    "source": "cefrj-grammar:170"
+  },
+  {
+    "id": "en:grammar:d13ff0f25dad6495",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PREP+V-ING",
+    "level": "A1",
+    "source": "cefrj-grammar:110"
+  },
+  {
+    "id": "en:grammar:fcda83895e2a8204",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PREPOSITION STRANDING",
+    "level": "A1",
+    "source": "cefrj-grammar:189"
+  },
+  {
+    "id": "en:grammar:dc1777497156bbb9",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PREPOSITIONS",
+    "level": "A1",
+    "source": "cefrj-grammar:21"
+  },
+  {
+    "id": "en:grammar:056acdc0ad2456c7",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+INDIRECT OBJECT+DIRECT OBJECT",
+    "level": "A1",
+    "source": "cefrj-grammar:197"
+  },
+  {
+    "id": "en:grammar:5d9b7a9648b97005",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "SENTENCE PATTERN: SUBJECT+V",
+    "level": "A1",
+    "source": "cefrj-grammar:194"
+  },
+  {
+    "id": "en:grammar:841928676a940858",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "SENTENCE PATTERN: SUBJECT+V+OBJECT",
+    "level": "A1",
+    "source": "cefrj-grammar:196"
+  },
+  {
+    "id": "en:grammar:39af651d75881bc2",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "SUBORDINATE CLAUSE: after/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilst tagged as IN",
+    "level": "A1",
+    "source": "cefrj-grammar:161"
+  },
+  {
+    "id": "en:grammar:f4bdb649a47eeec1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "SUPERLATIVE OF SUPERIORITY: -est",
+    "level": "A1",
+    "source": "cefrj-grammar:40"
+  },
+  {
+    "id": "en:grammar:05a0cb8cd8a150a4",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: FUTURE (TA.FUT.AFF)",
+    "level": "A1",
+    "source": "cefrj-grammar:69"
+  },
+  {
+    "id": "en:grammar:203d95dc258b6875",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PAST (BE)",
+    "level": "A1",
+    "source": "cefrj-grammar:64"
+  },
+  {
+    "id": "en:grammar:f69811a2cafdc403",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PRESENT (BE)",
+    "level": "A1",
+    "source": "cefrj-grammar:58"
+  },
+  {
+    "id": "en:grammar:cc8c539958731416",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PRESENT (lexical verbs) (TA.PAST.do.AFF)",
+    "level": "A1",
+    "source": "cefrj-grammar:65"
+  },
+  {
+    "id": "en:grammar:c87d3dca97eb0dd3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PRESENT (lexical verbs) (TA.PRESENT.do.AFF)",
+    "level": "A1",
+    "source": "cefrj-grammar:59"
+  },
+  {
+    "id": "en:grammar:be82f38ecc77e4d5",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PRESENT (lexical verbs; third person & singular)",
+    "level": "A1",
+    "source": "cefrj-grammar:60"
+  },
+  {
+    "id": "en:grammar:9e6daa4a71456063",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PRESENT PROGRESSIVE",
+    "level": "A1",
+    "source": "cefrj-grammar:61"
+  },
+  {
+    "id": "en:grammar:fc4e8d89f685c6a3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "there+be",
+    "level": "A1",
+    "source": "cefrj-grammar:146"
+  },
+  {
+    "id": "en:grammar:8d592fd19f06335c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "These/Those are",
+    "level": "A1",
+    "source": "cefrj-grammar:9"
+  },
+  {
+    "id": "en:grammar:43759e9260c5dcce",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "they are",
+    "level": "A1",
+    "source": "cefrj-grammar:5"
+  },
+  {
+    "id": "en:grammar:7ff11777e413517a",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "This/That is",
+    "level": "A1",
+    "source": "cefrj-grammar:8"
+  },
+  {
+    "id": "en:grammar:12f473a172e054a9",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TO-INFINITIVE: to DO (not preceded by 'not')",
+    "level": "A1",
+    "source": "cefrj-grammar:88"
+  },
+  {
+    "id": "en:grammar:fa38938cbe6fb0e2",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "V-ING (not preceded by 'not')",
+    "level": "A1",
+    "source": "cefrj-grammar:105"
+  },
+  {
+    "id": "en:grammar:61aaa72e65ae4f8b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "VERB OBJECT to DO",
+    "level": "A1",
+    "source": "cefrj-grammar:103"
+  },
+  {
+    "id": "en:grammar:dc5c1a460d6e5a09",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "VERB to DO",
+    "level": "A1",
+    "source": "cefrj-grammar:101"
+  },
+  {
+    "id": "en:grammar:61de8a81d176f6e5",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "VERB V-ING",
+    "level": "A1",
+    "source": "cefrj-grammar:112"
+  },
+  {
+    "id": "en:grammar:243094a7f095e339",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "we are",
+    "level": "A1",
+    "source": "cefrj-grammar:4"
+  },
+  {
+    "id": "en:grammar:83fd6ba2373bab2d",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: How ...?",
+    "level": "A1",
+    "source": "cefrj-grammar:246"
+  },
+  {
+    "id": "en:grammar:25952d06dd4d9533",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: How ADJ/ADV ...?",
+    "level": "A1",
+    "source": "cefrj-grammar:247"
+  },
+  {
+    "id": "en:grammar:3ccc1b132339b611",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: What ...?",
+    "level": "A1",
+    "source": "cefrj-grammar:239"
+  },
+  {
+    "id": "en:grammar:f9ee80cd608af6c1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: What N ...?",
+    "level": "A1",
+    "source": "cefrj-grammar:240"
+  },
+  {
+    "id": "en:grammar:41df76d9514db539",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: When ...?",
+    "level": "A1",
+    "source": "cefrj-grammar:236"
+  },
+  {
+    "id": "en:grammar:42b5fa323a7f2283",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: Where ...?",
+    "level": "A1",
+    "source": "cefrj-grammar:245"
+  },
+  {
+    "id": "en:grammar:556b22c095f15817",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: Why ...?",
+    "level": "A1",
+    "source": "cefrj-grammar:235"
+  },
+  {
+    "id": "en:grammar:f39603b442a77e90",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "You are",
+    "level": "A1",
+    "source": "cefrj-grammar:2"
+  },
+  {
+    "id": "en:grammar:9ec5d47866889449",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBIAL CLAUSE: as",
+    "level": "A2",
+    "source": "cefrj-grammar:157"
+  },
+  {
+    "id": "en:grammar:eaeb2094eaccad52",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBIAL CLAUSE: if",
+    "level": "A2",
+    "source": "cefrj-grammar:156"
+  },
+  {
+    "id": "en:grammar:e6bfc940faeaeb9b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "COMPARATIVE OF SUPERIORITY: more+ADJ/ADV",
+    "level": "A2",
+    "source": "cefrj-grammar:39"
+  },
+  {
+    "id": "en:grammar:77fd2b198f521b6e",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "COMPARISON OF EQUALITY: as ... as",
+    "level": "A2",
+    "source": "cefrj-grammar:37"
+  },
+  {
+    "id": "en:grammar:a8b93ddd729f4a2a",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "COMPOUND RELATIVE PRONOUN:",
+    "level": "A2",
+    "source": "cefrj-grammar:183"
+  },
+  {
+    "id": "en:grammar:83b1c06da013a517",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "DETERMINER: another",
+    "level": "A2",
+    "source": "cefrj-grammar:17"
+  },
+  {
+    "id": "en:grammar:88d617f412845f12",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "EXCLAMATION: What ...!",
+    "level": "A2",
+    "source": "cefrj-grammar:192"
+  },
+  {
+    "id": "en:grammar:1394348eee7e9952",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "few PLURAL NOUN",
+    "level": "A2",
+    "source": "cefrj-grammar:20"
+  },
+  {
+    "id": "en:grammar:939c008ab6d35cd1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Can I ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:253"
+  },
+  {
+    "id": "en:grammar:e71bd578d0cf62e3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Can you ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:249"
+  },
+  {
+    "id": "en:grammar:31468ee4925ce250",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Could I ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:254"
+  },
+  {
+    "id": "en:grammar:ef4b1b5c1a96b094",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Could you ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:250"
+  },
+  {
+    "id": "en:grammar:f7f50cfd5b759ec1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Shall I ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:256"
+  },
+  {
+    "id": "en:grammar:e9140d6d05cf6f2e",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Shall we ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:257"
+  },
+  {
+    "id": "en:grammar:ac0a3ae05580932f",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Should I ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:258"
+  },
+  {
+    "id": "en:grammar:85eb3ec4b0de4e91",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Why don't we ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:260"
+  },
+  {
+    "id": "en:grammar:7c4e0581a85d4c4a",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Why don't you ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:259"
+  },
+  {
+    "id": "en:grammar:53781199c0ecc6f4",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Why not ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:261"
+  },
+  {
+    "id": "en:grammar:175020d11ebdd3de",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Will you ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:251"
+  },
+  {
+    "id": "en:grammar:45ce42c6bb4052d7",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: Would you ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:252"
+  },
+  {
+    "id": "en:grammar:5f32ce58b0f576c5",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "HAVE/LET/MAKE+NP+INFINITIVE",
+    "level": "A2",
+    "source": "cefrj-grammar:206"
+  },
+  {
+    "id": "en:grammar:32833d63bd788a5e",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INDEFINITE PRONOUN/PROP-WORDS: ones (except for 'one')",
+    "level": "A2",
+    "source": "cefrj-grammar:25"
+  },
+  {
+    "id": "en:grammar:0296949d81ad6d82",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INDIRECT QUESTION: DECIDE/EXPLAIN/KNOW/LEARN/SEE/UNDERSTAND/WONDER",
+    "level": "A2",
+    "source": "cefrj-grammar:202"
+  },
+  {
+    "id": "en:grammar:e9fb007e6b8514a1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INDIRECT SPEECH: SAY/EXPLAIN/REPORT",
+    "level": "A2",
+    "source": "cefrj-grammar:200"
+  },
+  {
+    "id": "en:grammar:086fb2ef5a617892",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "little UNCOUNTABLE NOUN",
+    "level": "A2",
+    "source": "cefrj-grammar:19"
+  },
+  {
+    "id": "en:grammar:6fb0d1c9e7d6ba7b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: (have) got to",
+    "level": "A2",
+    "source": "cefrj-grammar:128"
+  },
+  {
+    "id": "en:grammar:b589915ac676dd00",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: could",
+    "level": "A2",
+    "source": "cefrj-grammar:124"
+  },
+  {
+    "id": "en:grammar:c4569d5564970fdb",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: have to",
+    "level": "A2",
+    "source": "cefrj-grammar:127"
+  },
+  {
+    "id": "en:grammar:577d8883dd993a8a",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: may",
+    "level": "A2",
+    "source": "cefrj-grammar:129"
+  },
+  {
+    "id": "en:grammar:ec4df0f7ecda358d",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: might",
+    "level": "A2",
+    "source": "cefrj-grammar:132"
+  },
+  {
+    "id": "en:grammar:c4ea2ef001249bf3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: must",
+    "level": "A2",
+    "source": "cefrj-grammar:135"
+  },
+  {
+    "id": "en:grammar:499a89caa307176b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: need (to)",
+    "level": "A2",
+    "source": "cefrj-grammar:136"
+  },
+  {
+    "id": "en:grammar:7e33869fd8ae58a6",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: shall",
+    "level": "A2",
+    "source": "cefrj-grammar:138"
+  },
+  {
+    "id": "en:grammar:9926cda74a35ed75",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: should",
+    "level": "A2",
+    "source": "cefrj-grammar:139"
+  },
+  {
+    "id": "en:grammar:cf5bdd2e9042650e",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: used to",
+    "level": "A2",
+    "source": "cefrj-grammar:140"
+  },
+  {
+    "id": "en:grammar:94fd5b9b0ec2ba11",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: will",
+    "level": "A2",
+    "source": "cefrj-grammar:141"
+  },
+  {
+    "id": "en:grammar:e475927667177914",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: would",
+    "level": "A2",
+    "source": "cefrj-grammar:142"
+  },
+  {
+    "id": "en:grammar:d9cef1dc28fc1830",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: would rather",
+    "level": "A2",
+    "source": "cefrj-grammar:143"
+  },
+  {
+    "id": "en:grammar:089661ee00f3fb89",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "much UNCOUNTABLE NOUN",
+    "level": "A2",
+    "source": "cefrj-grammar:18"
+  },
+  {
+    "id": "en:grammar:808dae6798168762",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: PAST",
+    "level": "A2",
+    "source": "cefrj-grammar:76"
+  },
+  {
+    "id": "en:grammar:e4ea7a50b0379ed5",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: PRESENT PERFECT",
+    "level": "A2",
+    "source": "cefrj-grammar:75"
+  },
+  {
+    "id": "en:grammar:7d1af01919343f32",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PHRASAL VERBS (V+NP+PARTICLE)",
+    "level": "A2",
+    "source": "cefrj-grammar:56"
+  },
+  {
+    "id": "en:grammar:06a7e552b315db63",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PREMODIFYING PRESENT PARTICIPLE",
+    "level": "A2",
+    "source": "cefrj-grammar:168"
+  },
+  {
+    "id": "en:grammar:ef5fa0070eb52b9c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PRONOUNS: the other/others",
+    "level": "A2",
+    "source": "cefrj-grammar:30"
+  },
+  {
+    "id": "en:grammar:347b9a76811d4893",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "RELATIVE ADVERB: WITH",
+    "level": "A2",
+    "source": "cefrj-grammar:185"
+  },
+  {
+    "id": "en:grammar:ec72b21cd9649147",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "SENTENCE PATTERN: SUBJECT+BECOME/FEEL/GO/LOOK/SEEM/SOUND+COMPLEMENT (ADJ)",
+    "level": "A2",
+    "source": "cefrj-grammar:195"
+  },
+  {
+    "id": "en:grammar:0043be0a71f5eeb9",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+DIRECT OBJECT+to+INDIRECT OBJECT",
+    "level": "A2",
+    "source": "cefrj-grammar:198"
+  },
+  {
+    "id": "en:grammar:971294ce6657d6b4",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "SENTENCE PATTERN: SUBJECT+MAKE+OBJECT+COMPLEME NT (ADJ)",
+    "level": "A2",
+    "source": "cefrj-grammar:199"
+  },
+  {
+    "id": "en:grammar:0c6075684fdb9bd6",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV",
+    "level": "A2",
+    "source": "cefrj-grammar:41"
+  },
+  {
+    "id": "en:grammar:979c2c26952e5c70",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TAG QUESTION: FOLLOWING AFFIRMATIVE SENTENCE",
+    "level": "A2",
+    "source": "cefrj-grammar:193"
+  },
+  {
+    "id": "en:grammar:6a10e30a584e6c06",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PAST PROGRESSIVE",
+    "level": "A2",
+    "source": "cefrj-grammar:66"
+  },
+  {
+    "id": "en:grammar:20d675f8fd10b1b1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PRESENT PERFECT",
+    "level": "A2",
+    "source": "cefrj-grammar:62"
+  },
+  {
+    "id": "en:grammar:97b26384dff58838",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "This/That N",
+    "level": "A2",
+    "source": "cefrj-grammar:11"
+  },
+  {
+    "id": "en:grammar:839da5ae4599abf5",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "too ADJ/ADV to+INFINITIVE",
+    "level": "A2",
+    "source": "cefrj-grammar:44"
+  },
+  {
+    "id": "en:grammar:11f3194a0545e00e",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "V+that+CLAUSE",
+    "level": "A2",
+    "source": "cefrj-grammar:152"
+  },
+  {
+    "id": "en:grammar:95d410e61709ace4",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "VERB OBJECT V-ING",
+    "level": "A2",
+    "source": "cefrj-grammar:114"
+  },
+  {
+    "id": "en:grammar:8585ccc622ed3517",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: Which ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:241"
+  },
+  {
+    "id": "en:grammar:4c78f95f21652925",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: Which N ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:242"
+  },
+  {
+    "id": "en:grammar:916c0d13fa4bff7c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: Whom ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:238"
+  },
+  {
+    "id": "en:grammar:ad957bbd645eaa1a",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: Whose ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:243"
+  },
+  {
+    "id": "en:grammar:042f692695242cd3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: Whose N ...?",
+    "level": "A2",
+    "source": "cefrj-grammar:244"
+  },
+  {
+    "id": "en:grammar:5e1b7251eb20952c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "-thing ADJ",
+    "level": "B1",
+    "source": "cefrj-grammar:31"
+  },
+  {
+    "id": "en:grammar:5098ff3eae3bf738",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBIAL CLAUSE: as soon as",
+    "level": "B1",
+    "source": "cefrj-grammar:158"
+  },
+  {
+    "id": "en:grammar:50a7e6849a5261d7",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBS OF ATTITUDES: apparently/clearly/fortunately/frankly/unfortunately",
+    "level": "B1",
+    "source": "cefrj-grammar:34"
+  },
+  {
+    "id": "en:grammar:fe856009543d16b3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ASK/TELL+NP+to+INFINITIVE",
+    "level": "B1",
+    "source": "cefrj-grammar:209"
+  },
+  {
+    "id": "en:grammar:c90894e80fd6d595",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "AUX+PERFECT",
+    "level": "B1",
+    "source": "cefrj-grammar:145"
+  },
+  {
+    "id": "en:grammar:9db013cfc94bdc17",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "BE to DO",
+    "level": "B1",
+    "source": "cefrj-grammar:99"
+  },
+  {
+    "id": "en:grammar:d672c8a541a2cece",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "COMPARATIVE and COMPARATIVE (the same adjective)",
+    "level": "B1",
+    "source": "cefrj-grammar:49"
+  },
+  {
+    "id": "en:grammar:a77082dbe7807891",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "CONDITIONAL: SECOND",
+    "level": "B1",
+    "source": "cefrj-grammar:215"
+  },
+  {
+    "id": "en:grammar:79d1313d56dad424",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "CONDITIONAL: THIRD",
+    "level": "B1",
+    "source": "cefrj-grammar:216"
+  },
+  {
+    "id": "en:grammar:0133ece64674ea9f",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "did DO",
+    "level": "B1",
+    "source": "cefrj-grammar:54"
+  },
+  {
+    "id": "en:grammar:1c8bebbf20dbc877",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "EXCLAMATION: How ADJ/ADV ...!",
+    "level": "B1",
+    "source": "cefrj-grammar:190"
+  },
+  {
+    "id": "en:grammar:7c866bc814074b14",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: How about ...?",
+    "level": "B1",
+    "source": "cefrj-grammar:262"
+  },
+  {
+    "id": "en:grammar:a1e733d96f8da951",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FUNCTIONAL QUESTION: May I ...?",
+    "level": "B1",
+    "source": "cefrj-grammar:255"
+  },
+  {
+    "id": "en:grammar:ee1fc7c65b910b87",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "GET+PAST PARTICIPLE",
+    "level": "B1",
+    "source": "cefrj-grammar:87"
+  },
+  {
+    "id": "en:grammar:fd9d616b50cf3c9f",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "here is/are",
+    "level": "B1",
+    "source": "cefrj-grammar:149"
+  },
+  {
+    "id": "en:grammar:048c797b27187c5b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INDIRECT QUESTION: ASK/REMIND/SHOW/TEACH/TELL",
+    "level": "B1",
+    "source": "cefrj-grammar:203"
+  },
+  {
+    "id": "en:grammar:37d1d441dd060b21",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INDIRECT SPEECH: TELL",
+    "level": "B1",
+    "source": "cefrj-grammar:201"
+  },
+  {
+    "id": "en:grammar:bd033ffb355e01c8",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INTENSIFIED COMPARATIVES: a lot/by far/even/far/much/still",
+    "level": "B1",
+    "source": "cefrj-grammar:51"
+  },
+  {
+    "id": "en:grammar:f92c1bef263e7e37",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "it+BE(+ADV)+ADJ(+for+NP)+to+INFINITIVE",
+    "level": "B1",
+    "source": "cefrj-grammar:163"
+  },
+  {
+    "id": "en:grammar:51893906a2e60333",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "know/wonder+WH-(CLAUSE) (except for 'whether')",
+    "level": "B1",
+    "source": "cefrj-grammar:153"
+  },
+  {
+    "id": "en:grammar:eab3fbc1b1151a2a",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: be able to",
+    "level": "B1",
+    "source": "cefrj-grammar:121"
+  },
+  {
+    "id": "en:grammar:1a8ad9e09394eb7d",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: ought to",
+    "level": "B1",
+    "source": "cefrj-grammar:137"
+  },
+  {
+    "id": "en:grammar:144c359959e59a05",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PARTICIPIAL CONSTRUCTION: PRESENT PARTICIPLE",
+    "level": "B1",
+    "source": "cefrj-grammar:213"
+  },
+  {
+    "id": "en:grammar:c44600be5cb2af26",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: AUX",
+    "level": "B1",
+    "source": "cefrj-grammar:82"
+  },
+  {
+    "id": "en:grammar:533431215a21cb85",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: INDIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS",
+    "level": "B1",
+    "source": "cefrj-grammar:85"
+  },
+  {
+    "id": "en:grammar:e15fbf61ed3cc0a3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "POSSESSIVE PRONOUNS (except for 'his' and 'its')",
+    "level": "B1",
+    "source": "cefrj-grammar:22"
+  },
+  {
+    "id": "en:grammar:3420025337a1b447",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PRONOUN: others (excluding 'the",
+    "level": "B1",
+    "source": "cefrj-grammar:29"
+  },
+  {
+    "id": "en:grammar:cd234b6008740a61",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "RECIPROCAL PRONOUN: each other",
+    "level": "B1",
+    "source": "cefrj-grammar:27"
+  },
+  {
+    "id": "en:grammar:fdb62c01c3884892",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "RECIPROCAL PRONOUN: one another",
+    "level": "B1",
+    "source": "cefrj-grammar:28"
+  },
+  {
+    "id": "en:grammar:437e66f68520913c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "REFLEXIVE PRONOUNS",
+    "level": "B1",
+    "source": "cefrj-grammar:23"
+  },
+  {
+    "id": "en:grammar:0ccfa9af35ac8aa1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "RELATIVE ADVERB: WITHOUT ANTECEDENT",
+    "level": "B1",
+    "source": "cefrj-grammar:186"
+  },
+  {
+    "id": "en:grammar:a70d3a6422c65b8c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "RELATIVE PRONOUN: NONRESTRICTIVE",
+    "level": "B1",
+    "source": "cefrj-grammar:181"
+  },
+  {
+    "id": "en:grammar:704c8538c3f34576",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "so ADJ/ADV (that) CLAUSE",
+    "level": "B1",
+    "source": "cefrj-grammar:45"
+  },
+  {
+    "id": "en:grammar:e082fd8a251a9ec5",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "so as to DO",
+    "level": "B1",
+    "source": "cefrj-grammar:97"
+  },
+  {
+    "id": "en:grammar:3bf6c13c2c3bf0e4",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: FUTURE (TA.FUTPRG.AFF)",
+    "level": "B1",
+    "source": "cefrj-grammar:70"
+  },
+  {
+    "id": "en:grammar:e6520967acd62b68",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PAST PERFECT",
+    "level": "B1",
+    "source": "cefrj-grammar:67"
+  },
+  {
+    "id": "en:grammar:722175cbcc5f67e8",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "These/Those N",
+    "level": "B1",
+    "source": "cefrj-grammar:12"
+  },
+  {
+    "id": "en:grammar:c38498dabc488e4d",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TO-INFINITIVE: not to DO",
+    "level": "B1",
+    "source": "cefrj-grammar:89"
+  },
+  {
+    "id": "en:grammar:49d1fc037d06a606",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TO-INFINITIVE: WITH NOTIONAL SUBJECT",
+    "level": "B1",
+    "source": "cefrj-grammar:93"
+  },
+  {
+    "id": "en:grammar:a0b3a2ba70eb4e0b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH-+to+INFINITIVE",
+    "level": "B1",
+    "source": "cefrj-grammar:167"
+  },
+  {
+    "id": "en:grammar:70691ecac723539f",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ACCUSATIVE RELATIVE PRONOUN: that",
+    "level": "B2",
+    "source": "cefrj-grammar:178"
+  },
+  {
+    "id": "en:grammar:3524b3369ceeccc0",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ACCUSATIVE RELATIVE PRONOUN: which",
+    "level": "B2",
+    "source": "cefrj-grammar:177"
+  },
+  {
+    "id": "en:grammar:e259b59311ab1b1b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ACCUSATIVE RELATIVE PRONOUN: who",
+    "level": "B2",
+    "source": "cefrj-grammar:175"
+  },
+  {
+    "id": "en:grammar:b62a8221920ada4f",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ACCUSATIVE RELATIVE PRONOUN: whom",
+    "level": "B2",
+    "source": "cefrj-grammar:176"
+  },
+  {
+    "id": "en:grammar:377e9cbaeb0b1b35",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADJ/ADV enough (except for 'not enough')",
+    "level": "B2",
+    "source": "cefrj-grammar:43"
+  },
+  {
+    "id": "en:grammar:1148c9fb7676bfe4",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBIAL CLAUSE: so that",
+    "level": "B2",
+    "source": "cefrj-grammar:160"
+  },
+  {
+    "id": "en:grammar:a98fdbfdd3428615",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBS OF QUASI-NEGATION: hardly/little/scarcely/seldom",
+    "level": "B2",
+    "source": "cefrj-grammar:36"
+  },
+  {
+    "id": "en:grammar:1c307e736e16a445",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "AS IF/THOUGH+SECOND CONDITIONAL",
+    "level": "B2",
+    "source": "cefrj-grammar:220"
+  },
+  {
+    "id": "en:grammar:31d543f78ad7939f",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "AUX+PROGRESSIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:144"
+  },
+  {
+    "id": "en:grammar:254b27e76681d9f1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "BE about to DO",
+    "level": "B2",
+    "source": "cefrj-grammar:100"
+  },
+  {
+    "id": "en:grammar:e397c8ad6858bfb2",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "being+PAST PARTICIPLE",
+    "level": "B2",
+    "source": "cefrj-grammar:108"
+  },
+  {
+    "id": "en:grammar:fb158bc2349aad87",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "CLEFT SENTENCE FOCUSING ON PREPOSITIONAL PHRASE/ADVERB",
+    "level": "B2",
+    "source": "cefrj-grammar:204"
+  },
+  {
+    "id": "en:grammar:17ce849e8ce0cd09",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "COMPARATIVE/SUPERLATIVE OF INFERIORITY",
+    "level": "B2",
+    "source": "cefrj-grammar:42"
+  },
+  {
+    "id": "en:grammar:473152b40cb4a385",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "DEMAND/INSIST/ORDER/PROPOSE/RECOMMEND/REQUIRE/SUGGEST+NP+INFINITIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:217"
+  },
+  {
+    "id": "en:grammar:7651020dacaddf9b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "do/does DO",
+    "level": "B2",
+    "source": "cefrj-grammar:53"
+  },
+  {
+    "id": "en:grammar:9d1d0e15bdabd3e1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FEEL/HEAR/SEE+NP+INFINITIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:210"
+  },
+  {
+    "id": "en:grammar:5faa0e1ff4e630fe",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "FEEL/HEAR/SEE+NP+PRESENT PARTICIPLE",
+    "level": "B2",
+    "source": "cefrj-grammar:211"
+  },
+  {
+    "id": "en:grammar:43c301459762d2db",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "GENITIVE RELATIVE PRONOUN",
+    "level": "B2",
+    "source": "cefrj-grammar:180"
+  },
+  {
+    "id": "en:grammar:63bcc6f0b3efe809",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "HAVE/GET+NP+PAST PARTICIPLE",
+    "level": "B2",
+    "source": "cefrj-grammar:207"
+  },
+  {
+    "id": "en:grammar:7ed826d81ac4b391",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "IF ONLY+SECOND CONDITIONAL",
+    "level": "B2",
+    "source": "cefrj-grammar:222"
+  },
+  {
+    "id": "en:grammar:7f0360d00bdfe64b",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "in order to DO",
+    "level": "B2",
+    "source": "cefrj-grammar:95"
+  },
+  {
+    "id": "en:grammar:ff1160e9a5906a34",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INDEFINITE PRONOUN: none",
+    "level": "B2",
+    "source": "cefrj-grammar:26"
+  },
+  {
+    "id": "en:grammar:f02518ce48fef781",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INTENSIFIED SUPERLATIVES: by far/far/far and away/much",
+    "level": "B2",
+    "source": "cefrj-grammar:52"
+  },
+  {
+    "id": "en:grammar:5f3bc7c41b5a83ef",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INVERSION: neither/nor+BE/HAVE/DO/AUX+PERSONAL PRON",
+    "level": "B2",
+    "source": "cefrj-grammar:233"
+  },
+  {
+    "id": "en:grammar:801408832ae643ad",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INVERSION: so+BE/HAVE/DO/AUX+PERSONAL PRON",
+    "level": "B2",
+    "source": "cefrj-grammar:232"
+  },
+  {
+    "id": "en:grammar:392bac056917d0ff",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "it+BE(+ADV)+ADJ+that+CLAUSE",
+    "level": "B2",
+    "source": "cefrj-grammar:165"
+  },
+  {
+    "id": "en:grammar:db7fb42649c9ee28",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: dare (to)",
+    "level": "B2",
+    "source": "cefrj-grammar:125"
+  },
+  {
+    "id": "en:grammar:7f14f62d8a864577",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: had better",
+    "level": "B2",
+    "source": "cefrj-grammar:126"
+  },
+  {
+    "id": "en:grammar:c26df847d45cd992",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "NOMINATIVE RELATIVE PRONOUN: which",
+    "level": "B2",
+    "source": "cefrj-grammar:173"
+  },
+  {
+    "id": "en:grammar:c9992e49b7542bdf",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "not+V-ING",
+    "level": "B2",
+    "source": "cefrj-grammar:106"
+  },
+  {
+    "id": "en:grammar:cbb9fe1a7300e991",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PARTICIPIAL CONSTRUCTION: PAST PARTICIPLE",
+    "level": "B2",
+    "source": "cefrj-grammar:214"
+  },
+  {
+    "id": "en:grammar:3732d8d66bb6b5bc",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: AUX+PERFECT",
+    "level": "B2",
+    "source": "cefrj-grammar:84"
+  },
+  {
+    "id": "en:grammar:6074d1c1058bcd33",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: DIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS",
+    "level": "B2",
+    "source": "cefrj-grammar:86"
+  },
+  {
+    "id": "en:grammar:297bc3435fb81ba0",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: FUTURE",
+    "level": "B2",
+    "source": "cefrj-grammar:79"
+  },
+  {
+    "id": "en:grammar:419823ebb85f433e",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: PAST PERFECT",
+    "level": "B2",
+    "source": "cefrj-grammar:78"
+  },
+  {
+    "id": "en:grammar:17b56a827010a6fc",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: PAST PROGRESSIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:77"
+  },
+  {
+    "id": "en:grammar:34bdee1f6ba14c06",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PREP+RELATIVE PRONOUN",
+    "level": "B2",
+    "source": "cefrj-grammar:184"
+  },
+  {
+    "id": "en:grammar:fd093624496538c3",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PSEUDO RELATIVE PRONOUN: as",
+    "level": "B2",
+    "source": "cefrj-grammar:182"
+  },
+  {
+    "id": "en:grammar:469d57c677841754",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "RELATIVE ADVERB: NONRESTRICTIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:187"
+  },
+  {
+    "id": "en:grammar:805aa7868d15f6de",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "such (a/an) ADJ NOUN",
+    "level": "B2",
+    "source": "cefrj-grammar:46"
+  },
+  {
+    "id": "en:grammar:9fb1a7f5711cbe15",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: FUTURE PERFECT",
+    "level": "B2",
+    "source": "cefrj-grammar:71"
+  },
+  {
+    "id": "en:grammar:972dcf4dd49716fe",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: FUTURE PERFECT PROGRESSIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:72"
+  },
+  {
+    "id": "en:grammar:2818b509b3d7be65",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PAST PERFECT PROGRESSIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:68"
+  },
+  {
+    "id": "en:grammar:950d5d5b20149409",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TENSE/ASPECT: PRESENT PERFECT PROGRESSIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:63"
+  },
+  {
+    "id": "en:grammar:1206b4c8f77931fe",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "the COMPARATIVE (...), the COMPARATIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:50"
+  },
+  {
+    "id": "en:grammar:a50285807efaeefc",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "the fact(s) that+CLAUSE",
+    "level": "B2",
+    "source": "cefrj-grammar:151"
+  },
+  {
+    "id": "en:grammar:2dbd353af440d394",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "there+AUX+be",
+    "level": "B2",
+    "source": "cefrj-grammar:148"
+  },
+  {
+    "id": "en:grammar:6054efbd5b887156",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "there+have/has+been",
+    "level": "B2",
+    "source": "cefrj-grammar:147"
+  },
+  {
+    "id": "en:grammar:00519784620a9eb8",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TO-INFINITIVE: to be DONE",
+    "level": "B2",
+    "source": "cefrj-grammar:91"
+  },
+  {
+    "id": "en:grammar:38896bc9b5c26b70",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "TO-INFINITIVE: to have DONE",
+    "level": "B2",
+    "source": "cefrj-grammar:90"
+  },
+  {
+    "id": "en:grammar:fc19b7e6be93fbfa",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "V+it+ADJ(+for+NP)+to+INFINITIVE",
+    "level": "B2",
+    "source": "cefrj-grammar:164"
+  },
+  {
+    "id": "en:grammar:c294619af6ef31e7",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "V-ING: WITH NOTIONAL SUBJECT (expressed as possessive pronouns)",
+    "level": "B2",
+    "source": "cefrj-grammar:111"
+  },
+  {
+    "id": "en:grammar:f14bb08d2d04e293",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "VERB not to DO",
+    "level": "B2",
+    "source": "cefrj-grammar:102"
+  },
+  {
+    "id": "en:grammar:0c74ba6963ce90d8",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "VERB not V-ING",
+    "level": "B2",
+    "source": "cefrj-grammar:113"
+  },
+  {
+    "id": "en:grammar:e7b9c215d579fd57",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "VERB OBJECT not V-ING",
+    "level": "B2",
+    "source": "cefrj-grammar:115"
+  },
+  {
+    "id": "en:grammar:f40443abd0376c66",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH- QUESTION: Who ...?",
+    "level": "B2",
+    "source": "cefrj-grammar:237"
+  },
+  {
+    "id": "en:grammar:33c962f1de385ca7",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WH-EVER",
+    "level": "B2",
+    "source": "cefrj-grammar:188"
+  },
+  {
+    "id": "en:grammar:92ece16f89bba042",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "whether",
+    "level": "B2",
+    "source": "cefrj-grammar:154"
+  },
+  {
+    "id": "en:grammar:5d6563a2688d2956",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WISH+SECOND CONDITIONAL",
+    "level": "B2",
+    "source": "cefrj-grammar:218"
+  },
+  {
+    "id": "en:grammar:481f97a5f662d2f0",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "WISH+THIRD CONDITIONAL",
+    "level": "B2",
+    "source": "cefrj-grammar:219"
+  },
+  {
+    "id": "en:grammar:160ac60242d829ea",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "ADVERBIAL CLAUSE: by the time",
+    "level": "C1",
+    "source": "cefrj-grammar:159"
+  },
+  {
+    "id": "en:grammar:8d74ba9ab1d8105c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "AS IF/THOUGH+THIRD CONDITIONAL",
+    "level": "C1",
+    "source": "cefrj-grammar:221"
+  },
+  {
+    "id": "en:grammar:f5b4fb436af00f90",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "GET+NP+PRESENT PARTICIPLE",
+    "level": "C1",
+    "source": "cefrj-grammar:208"
+  },
+  {
+    "id": "en:grammar:5855dded426257be",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "having+PAST PARTICIPLE",
+    "level": "C1",
+    "source": "cefrj-grammar:107"
+  },
+  {
+    "id": "en:grammar:276112f501f60e2e",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "IF ONLY+THIRD CONDITIONAL",
+    "level": "C1",
+    "source": "cefrj-grammar:223"
+  },
+  {
+    "id": "en:grammar:80da9a74d37d4131",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "IF+SHOULD (e.g. if it should rain tomorrow)",
+    "level": "C1",
+    "source": "cefrj-grammar:224"
+  },
+  {
+    "id": "en:grammar:dd66df9628c65e3a",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INVERSION: CONDITIONAL WITH SHOULD (e.g. Should it rain tomorrow.....)",
+    "level": "C1",
+    "source": "cefrj-grammar:227"
+  },
+  {
+    "id": "en:grammar:1fd0b24ff066f09c",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "INVERSION: Hardly/Little/Never/No sooner/Scarcely/Seldom ....",
+    "level": "C1",
+    "source": "cefrj-grammar:234"
+  },
+  {
+    "id": "en:grammar:29408cdd3584499d",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: may well",
+    "level": "C1",
+    "source": "cefrj-grammar:131"
+  },
+  {
+    "id": "en:grammar:f678abce2667a094",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: FUTURE PERFECT",
+    "level": "C1",
+    "source": "cefrj-grammar:81"
+  },
+  {
+    "id": "en:grammar:3537ce8361505357",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: FUTURE PROGRESSIVE",
+    "level": "C1",
+    "source": "cefrj-grammar:80"
+  },
+  {
+    "id": "en:grammar:eee8e34a30c28d34",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "PASSIVE: PRESENT PROGRESSIVE",
+    "level": "C1",
+    "source": "cefrj-grammar:74"
+  },
+  {
+    "id": "en:grammar:4595921958e6eafe",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "had it not been for ...",
+    "level": "C2",
+    "source": "cefrj-grammar:231"
+  },
+  {
+    "id": "en:grammar:79df7025fd3b66d7",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "having been+PAST PARTICIPLE",
+    "level": "C2",
+    "source": "cefrj-grammar:109"
+  },
+  {
+    "id": "en:grammar:6ce6ac01bf1fecea",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "if it hadn't been for ...",
+    "level": "C2",
+    "source": "cefrj-grammar:230"
+  },
+  {
+    "id": "en:grammar:feed6ee76c973d21",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "if it were not for ...",
+    "level": "C2",
+    "source": "cefrj-grammar:228"
+  },
+  {
+    "id": "en:grammar:51aa828818b6ffd1",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: may as well",
+    "level": "C2",
+    "source": "cefrj-grammar:130"
+  },
+  {
+    "id": "en:grammar:873b4c39ca91b29a",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "MODAL/AUX: might as well",
+    "level": "C2",
+    "source": "cefrj-grammar:133"
+  },
+  {
+    "id": "en:grammar:04341170617ca94a",
+    "lang": "en",
+    "kind": "grammar",
+    "text": "were it not for ...",
+    "level": "C2",
+    "source": "cefrj-grammar:229"
+  }
+]

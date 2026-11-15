@@ -3,6 +3,7 @@
 import unittest
 
 from common import check_file, item_id, make_id, normalize
+from import_sources import first_level
 from validate import similarity, validate
 
 
@@ -33,6 +34,12 @@ class PipelineTests(unittest.TestCase):
     def test_similarity(self):
         self.assertGreater(similarity("i like green tea", "i like green tea"), 0.9)
         self.assertLess(similarity("i like green tea", "i like black coffee"), 0.9)
+
+    def test_first_level(self):
+        self.assertEqual(first_level("", "A1.2"), "A1")
+        self.assertEqual(first_level("B1-B2"), "B1")
+        self.assertEqual(first_level("A1-A2, C1"), "A1")
+        self.assertIsNone(first_level("", "N/A"))
 
     def test_repo_content_is_valid(self):
         errors, _, packs, _ = validate()

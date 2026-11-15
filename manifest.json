@@ -9,14 +9,14 @@
       "level": "A1",
       "topic": "greetings",
       "title": "Chào hỏi và giới thiệu",
-      "version": 1,
+      "version": 2,
       "minAppSchema": 1,
-      "size": 9675,
-      "sha256": "079c36bca8b688129e0165a60370357aae0771e795832caba3b8913b5fad7c18",
+      "size": 9744,
+      "sha256": "1a2b02a3ac089c610fe4d5c6d706f9ecccf9c2d3632f020f1ae1c4d69f8c9505",
       "requires": [
         "en-ipa"
       ],
-      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-greetings-v1/en-A1-greetings-v1.zip"
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A1-greetings-v2/en-A1-greetings-v2.zip"
     },
     {
       "id": "en-A2-travel",
@@ -25,14 +25,14 @@
       "level": "A2",
       "topic": "travel",
       "title": "Du lịch: sân bay, khách sạn, hỏi đường",
-      "version": 1,
+      "version": 2,
       "minAppSchema": 1,
-      "size": 10211,
-      "sha256": "6fad1f30c3a3d02d09822d8187b3f909eed339feb6f7fce9519c1e98dccce61e",
+      "size": 10341,
+      "sha256": "7bb0b7f4ace4f2174e81dd728834511bef29be6d37df53f848c60e6b074fcecc",
       "requires": [
         "en-ipa"
       ],
-      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A2-travel-v1/en-A2-travel-v1.zip"
+      "url": "https://github.com/ssinoying/langpacks/releases/download/en-A2-travel-v2/en-A2-travel-v2.zip"
     },
     {
       "id": "en-ipa",
